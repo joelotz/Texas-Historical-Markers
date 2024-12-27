@@ -143,10 +143,14 @@ def find_missing_osm(atlas, geojson):
         print("No matching refs found.")
         return 
     
-def update_db(updated_nodes, atlas):
+def update_isOSM(updated_nodes, atlas):
     before = len(atlas.loc[atlas['isOSM'] == True])
     for ref in updated_nodes:
         atlas.loc[atlas['ref:US-TX:thc'] == ref, 'isOSM'] = True
     after = len(atlas.loc[atlas['isOSM'] == True])
     print(f"{after-before} fields were updated")
     return atlas
+
+    def update_UTM(updated_nodes, atlas):
+
+        return
