@@ -32,9 +32,9 @@ Note the field names are compliant to OSM keys.
 | isPending                                                    | Boolean       | Indicates that THC has marked this as pending. Typical occurs when the org as approved the marker but locals have not erected it. Not easily confirmed. |
 | isOSM                                                        | Boolean       | Indicates if the marker is in osm.org map database.          |
 | [start_date](https://wiki.openstreetmap.org/wiki/Key:start_date) | 32bit Integer | The date THC authorized the creation of this historical marker. |
-| addr:full                                                    | String        | The house number and street address of the marker. Data is from hmdb.org reverse geocoding when available, otherwise, source is THC. |
-| addr:city                                                    | String        | City where the marker is located.                            |
-| addr:county                                                  | String        | County where the marker is located. Useful for filtering.    |
+| [addr:full](https://wiki.openstreetmap.org/wiki/Key:addr:*#Commonly_used_subkeys)                                                    | String        | The house number and street address of the marker. Data is from hmdb.org reverse geocoding when available, otherwise, source is THC. |
+| [addr:city](https://wiki.openstreetmap.org/wiki/Key:addr:city)                                                    | String        | City where the marker is located.                            |
+| [addr:county](https://wiki.openstreetmap.org/wiki/Key:addr:county)                                                  | String        | County where the marker is located. Useful for filtering.    |
 | UTM Zone                                                     | 16bit Integer | Calculated UTM Zone based on THC provided UTM coordinates.   |
 | UTM Easting                                                  | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Latitude are accurate. |
 | UTM Northing                                                 | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Longitude are accurate. |
@@ -46,7 +46,7 @@ Note the field names are compliant to OSM keys.
 | thc:designation                                              | Enumeration   | [Historical Marker, Recorded Texas Historic Landmark], provided by THC. |
 | Private Property                                             | Boolean       | True=Private property that often restricts access to the historical marker |
 | Marker Notes                                                 | String        | Often carried from Atlas provided data.                      |
-| wikimedia_commons                                            | String        | Public Domain mages of the markers located in https://meta.wikimedia.org/. |
+| [wikimedia_commons](https://wiki.openstreetmap.org/wiki/Key:wikimedia_commons)                                            | String        | Public Domain mages of the markers located in https://meta.wikimedia.org/. |
 | Marker Text                                                  | String        | The actual inscription of the marker.                        |
 | inscription_size                                             | Integer       | The character link of the marker text (inscription)          |
 | DATA_NOTE                                                    | String        |                                                              |
