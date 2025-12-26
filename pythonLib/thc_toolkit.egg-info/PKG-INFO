@@ -1,3 +1,19 @@
+Metadata-Version: 2.4
+Name: thc-toolkit
+Version: 0.2.3
+Summary:  Texas Historical Marker mapping toolkit
+Author: Joe Lotz
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: shapely
+Requires-Dist: geopy
+Requires-Dist: pyproj
+Requires-Dist: folium
+Requires-Dist: geopandas
+Requires-Dist: requests
+Requires-Dist: rich
+
 
 # 🗺️ Texas Historical Markers Toolkit
 

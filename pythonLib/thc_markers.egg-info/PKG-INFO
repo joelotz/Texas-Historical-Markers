@@ -1,11 +1,184 @@
 Metadata-Version: 2.4
 Name: thc-markers
-Version: 0.1.0
-Summary: CLI utilities for Texas Historical Marker mapping
+Version: 0.2.2
+Summary:  Texas Historical Marker mapping toolkit
 Author: Joe Lotz
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
 Requires-Dist: pandas
 Requires-Dist: shapely
 Requires-Dist: geopy
 Requires-Dist: pyproj
 Requires-Dist: folium
 Requires-Dist: geopandas
+Requires-Dist: requests
+
+
+# 🗺️ Texas Historical Markers Toolkit
+
+Processing • Mapping • OSM Sync • Route Planning • Data Export  
+A Python + CLI toolkit for working with **Texas Historical Marker (THC) datasets**, including:
+
+* Exporting **unmapped markers per county**
+* Route-based marker visualization with **Folium interactive maps**
+* Conversion to **OSM/JOSM nodes** for mapping work
+* GeoJSON / KML / CSV generation
+* Designed for both **CLI usage** and **importable Python modules**
+
+Ideal for HMDB uploads, OpenStreetMap contributions, field research, and road trip planning.
+
+---
+
+## 📦 Installation
+
+Install locally in editable mode to enable CLI commands:
+
+```sh
+cd pythonLib      # root project folder
+pip install -e .
+```
+
+This installs commands system-wide while allowing live code edits with no reinstall.
+
+---
+
+## 📁 Project Layout
+
+```sh
+pythonLib/
+├─ pyproject.toml
+├─ README.md
+└─ thc/
+   ├─ utils.py            ← shared library: Atlas/OSM helpers (importable!)
+   ├─ counties_cli.py     ← CLI tool: unmapped-per-county export
+   ├─ route_cli.py        ← CLI tool: route marker proximity + map creation
+   ├─ osm_cli.py          ← CLI tool: OSM/JOSM node creation + sync workflow
+   ├─ cli.py              ← optional unified entrypoint
+   └─ __init__.py
+```
+
+⭐ Functions in `utils.py` are reusable from your own Python scripts.
+
+---
+
+## 🚀 CLI Usage
+
+After installation you get **standalone commands**:
+
+```
+osm              # OSM/JOSM node generation & atlas sync tools
+routes        # Route-based filtering, mapping, exports
+counties    # Unmapped-per-county CSV export utilities
+thc                # Optional master entrypoint (if desired)
+```
+
+---
+
+### 1) County Filtering & Export
+
+Export unmapped markers (not private, not missing):
+
+```sh
+counties --input data.csv --output UnmappedMarkersPerCounty
+```
+
+Additional options:
+
+```sh
+counties --county Denton
+counties --stats
+counties --merge combined.csv
+counties --summary-json summary.json
+```
+
+Defaults:
+
+| Parameter | Default |
+|---|---|
+| Input CSV | `data.csv` |
+| Output directory | `UnmappedMarkersPerCounty/` |
+
+---
+
+### 2) Route-Based Marker Mapping
+
+Generate an interactive map of markers near a KML route:
+
+```sh
+routes --track trip.kml --data data.csv
+```
+
+Only unmapped:
+
+```sh
+routes --track trip.kml --data data.csv --unmapped
+```
+
+Export variants:
+
+```sh
+routes --track road.kml --data data.csv --csv
+routes --track road.kml --data data.csv --geojson --kml
+routes --track road.kml --data data.csv --openmap   # auto-launch browser
+```
+
+Output files include:
+
+| Output | Trigger |
+|---|---|
+| near_route_map_*.html | always |
+| near_route_*.csv | `--csv` |
+| combined_route_markers_*.geojson | `--geojson` |
+| THC_markers_route_*.kml | `--kml` |
+
+---
+
+### 3) OSM/JOSM Integration (`utils.py` + `osm_cli.py`)
+
+Convert atlas rows into OSM nodes → push to JOSM → update atlas flags.
+
+#### Generate nodes:
+
+```sh
+osm create-nodes --csv atlas.csv --out nodes.json
+```
+
+Push to JOSM via Remote Control:
+
+```sh
+osm push-josm --nodes nodes.json
+```
+
+Find markers missing in OSM:
+
+```sh
+osm find-missing --csv atlas.csv --geo osm_extract.geojson
+```
+
+Update `isOSM` column and write results:
+
+```sh
+osm update-isOSM --csv atlas.csv --nodes nodes.json --out updated.csv
+```
+
+---
+
+## 🔥 Import as a Python Library
+
+The new shared **utils module** allows direct scripting:
+
+```python
+from thc.utils import read_atlas, create_nodes, push2josm
+
+df = read_atlas("atlas.csv")
+nodes = create_nodes(df)
+refs = push2josm(nodes)
+```
+
+Or still call full CLI flows programmatically:
+
+```python
+from thc.counties_cli import run   # example based on your implementation
+from thc.route_cli import generate_route_map
+from thc.osm_cli import main       # argument-driven CLI entrypoint
+```

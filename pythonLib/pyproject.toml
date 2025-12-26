@@ -1,18 +1,14 @@
 [project]
-name = "thc-markers"
-version = "0.1.0"
+name = "thc-toolkit"
+version = "0.2.3"
 description = " Texas Historical Marker mapping toolkit"
 authors = [{ name="Joe Lotz" }]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pandas", "shapely", "geopy", "pyproj",
-    "folium", "geopandas", "requests"
+    "folium", "geopandas", "requests", "rich"
 ]
 
 [project.scripts]
-# CLI entry points (installed as shell commands)
-osm = "thc.osm_cli:main"
-routes = "thc.route_cli:main"
-counties = "thc.counties_cli:main"
-thc = "thc.cli:main"          # optional umbrella command
+thc = "thc_toolkit.cli:main"
