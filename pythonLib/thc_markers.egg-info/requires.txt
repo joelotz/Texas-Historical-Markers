@@ -1,0 +1,6 @@
+pandas
+shapely
+geopy
+pyproj
+folium
+geopandas

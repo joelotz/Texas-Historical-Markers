@@ -1,0 +1,141 @@
+#!/usr/bin/env python3
+"""
+THC Unmapped Marker Tool
+------------------------
+
+Filters Texas Historical Marker CSV data and exports one CSV per county
+containing markers that:
+  • have no HMDB reference (ref:hmdb empty or NaN)
+  • are NOT missing (isMissing == True excluded)
+  • are NOT private (isPrivate == True excluded)
+
+Default Run (no args):
+    python counties_cli.py
+      input:  data.csv
+      output: ./UnmappedMarkersPerCounty/
+
+Optional Flags:
+  -i, --input FILE        Input CSV (default: data.csv)
+  -o, --output DIR        Output directory (default: UnmappedMarkersPerCounty)
+  --county NAME           Export only one county (ex: "Denton")
+  --merge FILE            Merge ALL results into single CSV file
+  --summary-json FILE     Export summary counts to JSON
+  --stats                 Show marker counts per county as a table
+  --show-docs             Print documentation header & exit
+
+Examples:
+  python counties_cli.py
+  python counties_cli.py --county Denton
+  python counties_cli.py --merge all_markers.csv --stats
+  python counties_cli.py -i data.csv -o results/ --summary-json summary.json
+"""
+
+import os
+import argparse
+import pandas as pd
+import json
+
+
+# ====================== Filtering Function ======================
+
+def load_filtered(input_file):
+    df = pd.read_csv(input_file, low_memory=False)
+    base = df[df["ref:hmdb"].isna() | (df["ref:hmdb"].astype(str).str.strip() == "")]
+    return base[
+        ~((base.get("isMissing") == True) | (base.get("isPrivate") == True))
+    ]
+
+
+# ======================== Export Helpers =========================
+
+def export_counties(df, outdir):
+    os.makedirs(outdir, exist_ok=True)
+    summary = {}
+
+    for county, group in df.groupby("addr:county"):
+        safe = str(county).replace(" ", "_").replace("/", "-")
+        outfile = os.path.join(outdir, f"{safe}.csv")
+        group.to_csv(outfile, index=False)
+        summary[county] = len(group)
+        print(f"✔ Saved {outfile} ({len(group)} rows)")
+
+    return summary
+
+
+def export_single_county(df, county, outdir):
+    os.makedirs(outdir, exist_ok=True)
+    match = df[df["addr:county"].str.lower() == county.lower()]
+
+    if match.empty:
+        print(f"⚠ No markers found for county: {county}")
+        return None
+
+    safe = county.replace(" ", "_").replace("/", "-")
+    outfile = os.path.join(outdir, f"{safe}.csv")
+    match.to_csv(outfile, index=False)
+    print(f"✔ Exported county only → {outfile} ({len(match)} rows)")
+    return {county: len(match)}
+
+
+def merge_all(df, filename):
+    df.to_csv(filename, index=False)
+    print(f"✔ Merged master file → {filename} ({len(df)} total rows)")
+
+
+def write_summary_json(summary, filename):
+    with open(filename, "w") as f:
+        json.dump(summary, f, indent=2)
+    print(f"✔ Summary written → {filename}")
+
+
+def print_stats_table(summary):
+    print("\n===== County Marker Counts =====")
+    for county, count in sorted(summary.items(), key=lambda x: x[1], reverse=True):
+        print(f"{county:<25} {count}")
+    print("================================\n")
+
+
+# ============================ CLI ===============================
+
+def cli():
+    parser = argparse.ArgumentParser(description="Export Texas Historical Marker datasets.")
+
+    parser.add_argument("-i", "--input", default="data.csv")
+    parser.add_argument("-o", "--output", default="UnmappedMarkersPerCounty")
+    parser.add_argument("--county", help="Export only one county (ex: 'Denton')")
+    parser.add_argument("--merge", metavar="FILE", help="Merge all filtered results into one file")
+    parser.add_argument("--summary-json", metavar="FILE", help="Write summary counts as JSON")
+    parser.add_argument("--stats", action="store_true", help="Display a table of counts per county")
+    parser.add_argument("--show-docs", action="store_true", help="Print documentation and exit")
+
+    args = parser.parse_args()
+
+    if args.show_docs:
+        print(__doc__)
+        return
+
+    df = load_filtered(args.input)
+
+    # Single county mode
+    if args.county:
+        summary = export_single_county(df, args.county, args.output)
+        if summary and args.stats: print_stats_table(summary)
+        if summary and args.summary_json: write_summary_json(summary, args.summary_json)
+        return
+
+    # Multi–county export
+    summary = export_counties(df, args.output)
+
+    if args.merge: merge_all(df, args.merge)
+    if args.stats: print_stats_table(summary)
+    if args.summary_json: write_summary_json(summary, args.summary_json)
+
+
+# ============================ ENTRYPOINT ===============================
+
+def main():
+    cli()   # delegates to the existing function
+
+if __name__ == "__main__":
+    main()
+

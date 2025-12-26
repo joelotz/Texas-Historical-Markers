@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: thc-markers
+Version: 0.1.0
+Summary: CLI utilities for Texas Historical Marker mapping
+Author: Joe Lotz
+Requires-Dist: pandas
+Requires-Dist: shapely
+Requires-Dist: geopy
+Requires-Dist: pyproj
+Requires-Dist: folium
+Requires-Dist: geopandas

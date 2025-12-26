@@ -1,0 +1,4 @@
+[console_scripts]
+thc = thc_markers.cli:main
+thc-counties = thc_markers.counties_cli:main
+thc-route = thc_markers.route_cli:main
