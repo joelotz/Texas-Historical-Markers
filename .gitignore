@@ -1,5 +1,12 @@
+# internal files/dirs
 .ipynb_checkpoints/
 .~lock*
-/scripts/*
+/__pycache__/
 
+# messy "works in progress"
+/scripts/
+
+### Notes ###
+# /builds/ == Ignore the 'builds' folder in the root directory
+# logs/ == Ignore any folder named 'logs' anywhere in the repository
 
