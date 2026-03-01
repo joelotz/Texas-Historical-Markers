@@ -1,7 +1,13 @@
-# internal files/dirs
+\# internal files/dirs
 .ipynb_checkpoints/
 .~lock*
-/__pycache__/
+pythonLib/thc_toolkit/__pycache__/
+*.pyc
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
 
 # messy "works in progress"
 /scripts/
