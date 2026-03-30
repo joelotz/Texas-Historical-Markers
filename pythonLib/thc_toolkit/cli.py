@@ -18,6 +18,7 @@ Examples:
 import argparse
 from . import counties_cli
 from . import route_cli
+from . import map_cli
 from .utils import viewcsv_pretty, viewcsv_raw, convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
@@ -64,6 +65,8 @@ def run_docs(args):
         print(counties_cli.__doc__)
     elif args.tool == "route":
         print(route_cli.__doc__)
+    elif args.tool == "map":
+        print(map_cli.__doc__)
     else:
         print("Invalid tool.")
 
@@ -73,6 +76,10 @@ def run_viewcsv(args):
         viewcsv_head, viewcsv_tail,
         viewcsv_search,  viewcsv_interactive    
     )
+
+def run_map(args):
+    map_cli.run_with_args(args)
+
 
     import pandas as pd
     import shutil
@@ -152,7 +159,7 @@ def main():
 
     # -------- docs --------
     d = sub.add_parser("docs", help="Show documentation for a module")
-    d.add_argument("tool", choices=["counties", "route"])
+    d.add_argument("tool", choices=["counties", "route", "map"])
     d.set_defaults(func=run_docs)
 
     # -------- CSV Viewer --------
@@ -170,6 +177,20 @@ def main():
     h.add_argument("--input", '-i', required=True)
     h.add_argument("--output", '-o', required=True)
     h.set_defaults(func=lambda a: convert_hmdb_csv(a.input, a.output))
+
+    # -------- map CLI --------
+    m = sub.add_parser("map", help="Map THC markers by county/city")
+    m.add_argument("--data", required=True)
+    m.add_argument("--county")
+    m.add_argument("--city")
+    m.add_argument("--unmapped", action="store_true")
+    m.add_argument("--csv", action="store_true")
+    m.add_argument("--simple", action="store_true", help="use simplified CSV export")
+    m.add_argument("--geojson", action="store_true")
+    m.add_argument("--kml", action="store_true")
+    m.add_argument("--openmap", action="store_true")
+    m.set_defaults(func=run_map)
+
 
     args = parser.parse_args()
     args.func(args)
