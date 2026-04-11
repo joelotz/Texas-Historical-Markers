@@ -26,7 +26,25 @@ import folium
 from .utils import read_atlas
 
 
+def require_columns(df, required_columns, context="dataframe"):
+    """Raise a clear error when required columns are missing."""
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(
+            f"{context} missing required column(s): {', '.join(missing)}"
+        )
+
+
 def filter_markers(df, county=None, city=None, unmapped=False):
+    required = ["isMissing", "hmdb:Latitude", "hmdb:Longitude", "thc:Latitude", "thc:Longitude"]
+    if county:
+        required.append("addr:county")
+    if city:
+        required.append("addr:city")
+    if unmapped:
+        required.append("isOSM")
+    require_columns(df, required, context="map input")
+
     mask = ~df["isMissing"]
 
     if county:
@@ -122,6 +140,7 @@ def run_with_args(args):
             "map_lon",
             "isOSM",
         ]
+        require_columns(filtered, simple_cols, context="map simple export")
         simple_file = f"markers_{tag}_simple.csv"
         filtered[simple_cols].to_csv(simple_file, index=False)
         print(f"Wrote {simple_file}")

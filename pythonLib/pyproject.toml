@@ -1,14 +1,42 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "thc-toolkit"
 version = "0.2.3"
 description = " Texas Historical Marker mapping toolkit"
 authors = [{ name="Joe Lotz" }]
 readme = "README.md"
+license = { text = "CC0-1.0" }
 requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: GIS",
+]
 dependencies = [
-    "pandas", "shapely", "geopy", "pyproj",
+    "pandas", "shapely", "pyproj",
     "folium", "geopandas", "requests", "rich"
 ]
 
+[project.optional-dependencies]
+dev = ["pytest"]
+
 [project.scripts]
 thc = "thc_toolkit.cli:main"
+counties = "thc_toolkit.counties_cli:main"
+routes = "thc_toolkit.route_cli:main"
+osm = "thc_toolkit.osm_cli:main"
+
+[project.urls]
+Homepage = "https://github.com/joelotz/Texas-Historical-Markers"
+Repository = "https://github.com/joelotz/Texas-Historical-Markers"
+Issues = "https://github.com/joelotz/Texas-Historical-Markers/issues"

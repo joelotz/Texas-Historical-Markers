@@ -1,7 +1,0 @@
-pandas
-shapely
-geopy
-pyproj
-folium
-geopandas
-requests

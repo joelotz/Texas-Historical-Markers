@@ -53,6 +53,17 @@ class TestCountiesCLI:
         assert len(df_filtered) == 1
         assert int(df_filtered.iloc[0]["ref:US-TX:thc"]) == 1004
 
+    def test_load_filtered_missing_ref_hmdb_raises(self, tmp_path):
+        bad_csv = tmp_path / "bad_counties.csv"
+        pd.DataFrame(
+            [
+                {"ref:US-TX:thc": 1001, "name": "No HMDB"},
+            ]
+        ).to_csv(bad_csv, index=False)
+
+        with pytest.raises(ValueError, match="missing required column\\(s\\): ref:hmdb"):
+            load_filtered(str(bad_csv))
+
     def test_enforce_integer_safe(self, sample_atlas_df):
         """Test that enforcement corrects object/float types into Int64 safely."""
         # Arrange

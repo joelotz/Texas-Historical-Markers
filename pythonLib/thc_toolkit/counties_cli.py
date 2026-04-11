@@ -32,12 +32,29 @@ simple_fields = [
 
 # These must always be exported as integers
 int_fields = ["ref:US-TX:thc", "ref:hmdb", "OsmNodeID"]
+default_input_candidates = [
+    "data.csv",
+    "atlas_db.csv",
+    "../atlas_db.csv",
+    "scripts/data.csv",
+    "../scripts/data.csv",
+]
+
+
+def require_columns(df, required_columns, context="dataframe"):
+    """Raise a clear error when required columns are missing."""
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(
+            f"{context} missing required column(s): {', '.join(missing)}"
+        )
 
 
 # ====================== Core Load & Filtering ======================
 
 def load_filtered(input_file):
     df = pd.read_csv(input_file, low_memory=False)
+    require_columns(df, ["ref:hmdb"], context="counties input")
 
     # unmapped detection logic
     hmdb = df["ref:hmdb"].astype(str).str.strip().str.lower()
@@ -47,6 +64,21 @@ def load_filtered(input_file):
     return base[
         ~((base.get("isMissing") == True) | (base.get("isPrivate") == True))
     ].copy()
+
+
+def resolve_input_path(input_file=None):
+    """Resolve atlas CSV when --input is omitted."""
+    if input_file:
+        return input_file
+
+    for candidate in default_input_candidates:
+        if os.path.exists(candidate):
+            return candidate
+
+    raise FileNotFoundError(
+        "No default input CSV found. Provide --input PATH "
+        "(tried: data.csv, atlas_db.csv, ../atlas_db.csv, scripts/data.csv, ../scripts/data.csv)."
+    )
 
 
 # ====================== Transformation Helpers ======================
@@ -73,6 +105,7 @@ def apply_simple(df):
 # ====================== Export Methods ======================
 
 def export_counties(df, outdir, simple=False):
+    require_columns(df, ["addr:county"], context="counties export input")
     os.makedirs(outdir, exist_ok=True)
     summary = {}
 
@@ -89,6 +122,7 @@ def export_counties(df, outdir, simple=False):
 
 
 def export_single_county(df, county, outdir, simple=False):
+    require_columns(df, ["addr:county"], context="single county export input")
     os.makedirs(outdir, exist_ok=True)
     subset = df[df["addr:county"].str.lower() == county.lower()].copy()
 
@@ -131,7 +165,12 @@ def print_stats_table(summary):
 
 def cli():
     p = argparse.ArgumentParser(description="Export THC marker datasets")
-    p.add_argument("-i","--input", default="data.csv")
+    p.add_argument(
+        "-i",
+        "--input",
+        default=None,
+        help="Path to marker CSV (auto-detects common paths when omitted)",
+    )
     p.add_argument("-o","--output", default="UnmappedMarkersPerCounty")
     p.add_argument("--county")
     p.add_argument("--merge", metavar="FILE")
@@ -145,7 +184,7 @@ def cli():
         print(__doc__)
         return
 
-    df = load_filtered(args.input)
+    df = load_filtered(resolve_input_path(args.input))
 
     # single county mode
     if args.county:

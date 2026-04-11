@@ -9,24 +9,25 @@ Commands:
     thc docs       → show docs for subcommands
 
 Examples:
-    thc counties --input data.csv --stats
+    thc counties --input ../atlas_db.csv --stats
     thc counties --simple --merge all.csv
     thc counties --county Denton --simple
-    thc route --track trip.kml --data data.csv --unmapped --open
+    thc route --track ../scripts/test.kml --data ../atlas_db.csv --unmapped --openmap
 """
 
 import argparse
 from . import counties_cli
 from . import route_cli
 from . import map_cli
-from .utils import viewcsv_pretty, viewcsv_raw, convert_hmdb_csv
+from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
 
 def run_counties(args):
-    df = counties_cli.load_filtered(args.input)
+    input_path = counties_cli.resolve_input_path(args.input)
+    df = counties_cli.load_filtered(input_path)
 
-    # --- single county mode ---run_viewcsv()
+    # --- single county mode ---
     if args.county:
         summary = counties_cli.export_single_county(df, args.county, args.output, simple=args.simple)
         if summary and args.stats:
@@ -47,14 +48,15 @@ def run_counties(args):
 
 
 def run_route(args):
+    only_mapped = getattr(args, "only_mapped", False)
     route_cli.run_with_args(
         track=args.track,
         data=args.data,
         radius=args.radius,
         unmapped=args.unmapped,
-        only_mapped=False,        # future expansion if desired
+        only_mapped=only_mapped,
         csv=args.csv,
-        csv_simple=args.simple,
+        csv_simple=(args.simple or getattr(args, "csv_simple", False)),
         geojson=args.geojson,
         kml=args.kml,
         openmap=args.openmap
@@ -71,18 +73,13 @@ def run_docs(args):
         print("Invalid tool.")
 
 def run_viewcsv(args):
-    from .utils import (
-        viewcsv_pretty, viewcsv_raw,
-        viewcsv_head, viewcsv_tail,
-        viewcsv_search,  viewcsv_interactive    
-    )
-
-def run_map(args):
-    map_cli.run_with_args(args)
-
-
     import pandas as pd
     import shutil
+    from .utils import (
+        viewcsv_pretty,
+        viewcsv_head, viewcsv_tail,
+        viewcsv_search, viewcsv_interactive
+    )
 
     df = None
 
@@ -101,26 +98,23 @@ def run_map(args):
     if df is None:
         df = pd.read_csv(args.file)
 
-    # 4. COLUMN FILTERING (Step 3 behavior)
- #   if args.cols:
- #       df = viewcsv_cols(df, args.cols)
-
-    # 5. INTERACTIVE VIEW (Step 4 priority)
+    # 4. INTERACTIVE VIEW
     if args.interactive:
         viewcsv_interactive(df)
         return
 
-    # 6. OUTPUT MODE
+    # 5. OUTPUT MODE
     if args.raw:
-        # RAW = python DataFrame print
         pd.set_option("display.max_columns", None)
         pd.set_option("display.width", shutil.get_terminal_size().columns)
         print(df.to_string(index=False))
     else:
-        # DEFAULT = pretty shell
         tmp = "_thc_view_temp.csv"
         df.to_csv(tmp, index=False)
         viewcsv_pretty(tmp)
+
+def run_map(args):
+    map_cli.run_with_args(args)
 
 
 # ---------------------------- CLI Root ---------------------------- #
@@ -134,7 +128,12 @@ def main():
 
     # -------- counties CLI --------
     c = sub.add_parser("counties", help="Export THC markers by county")
-    c.add_argument("-i", "--input", default="data.csv")
+    c.add_argument(
+        "-i",
+        "--input",
+        default=None,
+        help="Path to marker CSV (auto-detects common paths when omitted)",
+    )
     c.add_argument("-o", "--output", default="UnmappedMarkersPerCounty")
     c.add_argument("--county", help="single county only, case-insensitive")
     c.add_argument("--merge", metavar="FILE", help="export a merged CSV file")
@@ -149,9 +148,12 @@ def main():
     r.add_argument("--track", required=True)
     r.add_argument("--data", required=True)
     r.add_argument("--radius", type=float, default=5)
-    r.add_argument("--unmapped", action="store_true")
+    group = r.add_mutually_exclusive_group()
+    group.add_argument("--unmapped", action="store_true", help="show only unmapped markers")
+    group.add_argument("--only_mapped", action="store_true", help="show only mapped markers")
     r.add_argument("--csv", action="store_true")
-    r.add_argument("--simple", action="store_true", help="use simplified CSV export")
+    r.add_argument("--simple", action="store_true", help="export simplified route CSV")
+    r.add_argument("--csv_simple", action="store_true", help="alias for --simple")
     r.add_argument("--geojson", action="store_true")
     r.add_argument("--kml", action="store_true")
     r.add_argument("--openmap", action="store_true")
@@ -185,7 +187,11 @@ def main():
     m.add_argument("--city")
     m.add_argument("--unmapped", action="store_true")
     m.add_argument("--csv", action="store_true")
-    m.add_argument("--simple", action="store_true", help="use simplified CSV export")
+    m.add_argument(
+        "--simple",
+        action="store_true",
+        help="write markers_<tag>_simple.csv (independent of --csv)",
+    )
     m.add_argument("--geojson", action="store_true")
     m.add_argument("--kml", action="store_true")
     m.add_argument("--openmap", action="store_true")

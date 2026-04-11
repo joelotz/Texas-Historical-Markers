@@ -8,12 +8,36 @@ import subprocess
 from rich.console import Console
 from rich.table import Table
 
+
+def require_columns(df, required_columns, context="dataframe"):
+    """Raise a clear error when required columns are missing."""
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(
+            f"{context} missing required column(s): {', '.join(missing)}"
+        )
+
+
+def _normalize_scalar(value):
+    """Convert pandas/numpy scalar NA values into JSON-safe Python values."""
+    if pd.isna(value):
+        return None
+    return value
+
+
 # -------------- CSV Viewing Utilities -------------- #
 # Default PRETTY VIEW (shell formatting)
 def viewcsv_pretty(path):
     """Default: Display CSV with column | less formatting."""
-    cmd = f"column -s, -t '{path}' | less -S"
-    subprocess.run(cmd, shell=True)
+    column_bin = shutil.which("column")
+    less_bin = shutil.which("less")
+    if not column_bin or not less_bin:
+        print("[WARN] 'column' and/or 'less' not found; falling back to raw output.")
+        viewcsv_raw(path)
+        return
+
+    with subprocess.Popen([column_bin, "-s,", "-t", path], stdout=subprocess.PIPE) as fmt:
+        subprocess.run([less_bin, "-S"], stdin=fmt.stdout, check=False)
 
 # RAW Python print mode
 def viewcsv_raw(path, max_rows=200):
@@ -89,14 +113,19 @@ def convert_hmdb_csv(input_file, output_file):
     # Select & rename
     df = df[list(column_map.keys())].rename(columns=column_map)
 
-    # Convert reference IDs to integers safely (nullable Int32 like read_atlas)
+    # Convert reference IDs with strict validation.
+    # Accept only all-digit values (after stripping); reject mixed/alphanumeric values.
     for col in ["ref:hmdb", "ref:US-TX:thc"]:
-        df[col] = (
-            df[col]
-            .str.extract(r'(\d+)', expand=False)  # remove non-numeric characters if any
-            .fillna("")                      # nullable integer type
-        )
-    df[col] = df[col].astype("str")
+        values = df[col].fillna("").astype(str).str.strip()
+        invalid_mask = values.ne("") & ~values.str.fullmatch(r"\d+")
+        if invalid_mask.any():
+            bad_values = values[invalid_mask].unique().tolist()
+            sample = ", ".join(repr(v) for v in bad_values[:5])
+            raise ValueError(
+                f"Invalid non-numeric values in {col}: {sample}. "
+                "Expected empty or all-digit values."
+            )
+        df[col] = values
 
     # Export
     df.to_csv(output_file, index=False)
@@ -118,11 +147,23 @@ def read_atlas(filename):
 
 
 def create_nodes(df):
+    require_columns(
+        df,
+        [
+            "name",
+            "ref:US-TX:thc",
+            "ref:hmdb",
+            "website",
+            "hmdb:Latitude",
+            "hmdb:Longitude",
+        ],
+        context="create_nodes input",
+    )
     nodes = []
     for index, row in df.iterrows():
         try:
             tags = {
-                "name": row["name"],
+                "name": _normalize_scalar(row["name"]),
                 "historic": "memorial",
                 "memorial": "plaque",
                 "material": "aluminium",
@@ -130,16 +171,18 @@ def create_nodes(df):
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
                 "thc:designation": "Historical Marker",
-                "start_date": row["start_date"],
-                "ref:US-TX:thc": row["ref:US-TX:thc"],
-                "ref:hmdb": row["ref:hmdb"],
-                "source:website": row["website"],
-                "memorial:website": f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+                "ref:US-TX:thc": _normalize_scalar(row["ref:US-TX:thc"]),
+                "ref:hmdb": _normalize_scalar(row["ref:hmdb"]),
+                "source:website": _normalize_scalar(row["website"]),
             }
+            if pd.notna(row["ref:hmdb"]):
+                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+            if "start_date" in df.columns and pd.notna(row.get("start_date")):
+                tags["start_date"] = _normalize_scalar(row["start_date"])
 
             nodes.append({
-                "lat": row["hmdb:Latitude"],
-                "lon": row["hmdb:Longitude"],
+                "lat": _normalize_scalar(row["hmdb:Latitude"]),
+                "lon": _normalize_scalar(row["hmdb:Longitude"]),
                 "tags": tags
             })
 
@@ -153,7 +196,11 @@ def push2josm(nodes):
     url = "http://localhost:8111/add_node"
     added = []
     for n in nodes:
-        tag_str = "|".join(f"{k}={v}" for k,v in n["tags"].items())
+        clean_tags = {
+            k: v for k, v in n["tags"].items()
+            if v is not None and not (isinstance(v, str) and v.strip() == "")
+        }
+        tag_str = "|".join(f"{k}={v}" for k, v in clean_tags.items())
         r = requests.get(url, params={"lat":n["lat"],"lon":n["lon"],"addtags":tag_str})
         if r.status_code == 200:
             added.append(n["tags"]["ref:US-TX:thc"])
@@ -171,6 +218,7 @@ def write2csv(df, filename, date=False):
 
 
 def find_missing_osm(atlas, geojson):
+    require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
     with open(geojson) as f: data = json.load(f)
     osm_refs = {
         int(f["properties"]["ref:US-TX:thc"])
@@ -184,6 +232,7 @@ def find_missing_osm(atlas, geojson):
 
 
 def update_isOSM(refs, atlas):
+    require_columns(atlas, ["ref:US-TX:thc", "isOSM"], context="atlas")
     before = atlas["isOSM"].sum()
     atlas.loc[atlas["ref:US-TX:thc"].isin(refs),"isOSM"]=True
     print(f"[OK] updated {atlas['isOSM'].sum()-before} flags")

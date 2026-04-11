@@ -7,7 +7,9 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-CLAUDE.md
+*.egg-info/
+pythonLib/.pytest_cache/
+*CLAUDE.md
 
 # messy "works in progress"
 /scripts/
@@ -15,4 +17,3 @@ CLAUDE.md
 ### Notes ###
 # /builds/ == Ignore the 'builds' folder in the root directory
 # logs/ == Ignore any folder named 'logs' anywhere in the repository
-

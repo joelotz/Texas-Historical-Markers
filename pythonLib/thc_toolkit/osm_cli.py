@@ -25,6 +25,22 @@ from datetime import datetime
 import json
 
 
+def require_columns(df, required_columns, context="dataframe"):
+    """Raise a clear error when required columns are missing."""
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(
+            f"{context} missing required column(s): {', '.join(missing)}"
+        )
+
+
+def _normalize_scalar(value):
+    """Convert pandas/numpy scalar NA values into JSON-safe Python values."""
+    if pd.isna(value):
+        return None
+    return value
+
+
 # ---------- Core Functions ---------- #
 
 def read_atlas(filename):
@@ -38,12 +54,24 @@ def read_atlas(filename):
 
 
 def create_nodes(df):
+    require_columns(
+        df,
+        [
+            "name",
+            "ref:US-TX:thc",
+            "ref:hmdb",
+            "website",
+            "hmdb:Latitude",
+            "hmdb:Longitude",
+        ],
+        context="create_nodes input",
+    )
     nodes = []
 
     for index, row in df.iterrows():
         try:
             tags = {
-                "name": row["name"],
+                "name": _normalize_scalar(row["name"]),
                 "historic": "memorial",
                 "memorial": "plaque",
                 "material": "aluminium",
@@ -51,15 +79,17 @@ def create_nodes(df):
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
                 "thc:designation": "Historical Marker",
-                "start_date": row["start_date"],
-                "ref:US-TX:thc": row["ref:US-TX:thc"],
-                "ref:hmdb": row["ref:hmdb"],
-                "source:website": row["website"],
-                "memorial:website": f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+                "ref:US-TX:thc": _normalize_scalar(row["ref:US-TX:thc"]),
+                "ref:hmdb": _normalize_scalar(row["ref:hmdb"]),
+                "source:website": _normalize_scalar(row["website"]),
             }
+            if pd.notna(row["ref:hmdb"]):
+                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+            if "start_date" in df.columns and pd.notna(row.get("start_date")):
+                tags["start_date"] = _normalize_scalar(row["start_date"])
 
-            nodes.append({"lat": row["hmdb:Latitude"],
-                          "lon": row["hmdb:Longitude"],
+            nodes.append({"lat": _normalize_scalar(row["hmdb:Latitude"]),
+                          "lon": _normalize_scalar(row["hmdb:Longitude"]),
                           "tags": tags})
 
         except Exception as e:
@@ -74,7 +104,11 @@ def push2josm(nodes):
     count = 0
 
     for node in nodes:
-        tag_str = "|".join(f"{k}={v}" for k,v in node["tags"].items())
+        clean_tags = {
+            k: v for k, v in node["tags"].items()
+            if v is not None and not (isinstance(v, str) and v.strip() == "")
+        }
+        tag_str = "|".join(f"{k}={v}" for k, v in clean_tags.items())
         params = {"lat": node["lat"], "lon": node["lon"], "addtags": tag_str}
 
         r = requests.get(josm_url, params=params)
@@ -97,6 +131,7 @@ def write2csv(df, filename, date=False):
 
 
 def find_missing_osm(atlas, geojson):
+    require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
     with open(geojson,'r') as f:
         data = json.load(f)
 
@@ -112,6 +147,7 @@ def find_missing_osm(atlas, geojson):
 
 
 def update_isOSM(updated_refs, atlas):
+    require_columns(atlas, ["ref:US-TX:thc", "isOSM"], context="atlas")
     before = atlas["isOSM"].sum()
     atlas.loc[atlas["ref:US-TX:thc"].isin(updated_refs), "isOSM"] = True
     after = atlas["isOSM"].sum()

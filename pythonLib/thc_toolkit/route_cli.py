@@ -27,6 +27,15 @@ from shapely.ops import transform
 import xml.etree.ElementTree as ET
 
 
+def require_columns(df, required_columns, context="dataframe"):
+    """Raise a clear error when required columns are missing."""
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(
+            f"{context} missing required column(s): {', '.join(missing)}"
+        )
+
+
 # ----------------------------------------------------------
 # Load route KML → LineString or MultiLineString
 # ----------------------------------------------------------
@@ -66,6 +75,11 @@ def run_with_args(track, data, radius=5, unmapped=False,
 
     print(f"📄 Loading dataset → {data}")
     df = pd.read_csv(data, low_memory=False)
+    require_columns(
+        df,
+        ["ref:hmdb", "thc:Latitude", "thc:Longitude"],
+        context="route input",
+    )
 
     # ---------- Filter Markers ----------
     hmdb = df["ref:hmdb"].astype(str).str.strip().str.lower()
