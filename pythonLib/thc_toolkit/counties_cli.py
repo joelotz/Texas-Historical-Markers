@@ -22,6 +22,24 @@ import os
 import argparse
 import pandas as pd
 import json
+try:
+    from .utils import (
+        require_columns,
+        normalize_match_key,
+        normalize_match_series,
+        parse_bool_series,
+        coerce_nullable_int_series,
+        assert_no_duplicate_ids,
+    )
+except ImportError:  # pragma: no cover - compatibility for direct script execution
+    from utils import (  # type: ignore
+        require_columns,
+        normalize_match_key,
+        normalize_match_series,
+        parse_bool_series,
+        coerce_nullable_int_series,
+        assert_no_duplicate_ids,
+    )
 
 # Columns used when --simple is applied
 simple_fields = [
@@ -41,29 +59,21 @@ default_input_candidates = [
 ]
 
 
-def require_columns(df, required_columns, context="dataframe"):
-    """Raise a clear error when required columns are missing."""
-    missing = [col for col in required_columns if col not in df.columns]
-    if missing:
-        raise ValueError(
-            f"{context} missing required column(s): {', '.join(missing)}"
-        )
-
-
 # ====================== Core Load & Filtering ======================
 
 def load_filtered(input_file):
     df = pd.read_csv(input_file, low_memory=False)
-    require_columns(df, ["ref:hmdb"], context="counties input")
+    require_columns(df, ["ref:hmdb", "isMissing", "isPrivate"], context="counties input")
 
     # unmapped detection logic
-    hmdb = df["ref:hmdb"].astype(str).str.strip().str.lower()
-    base = df[hmdb.isin(["", "nan", "none"]) | df["ref:hmdb"].isna()].copy()
+    hmdb = df["ref:hmdb"].astype(str).str.strip().str.casefold()
+    is_unmapped = hmdb.isin(["", "nan", "none", "null", "na"]) | df["ref:hmdb"].isna()
+    is_missing = parse_bool_series(df["isMissing"], "isMissing", context="counties input", na_value=False)
+    is_private = parse_bool_series(df["isPrivate"], "isPrivate", context="counties input", na_value=False)
+    base = df[is_unmapped & ~is_missing & ~is_private].copy()
 
-    # drop private/missing if present
-    return base[
-        ~((base.get("isMissing") == True) | (base.get("isPrivate") == True))
-    ].copy()
+    assert_no_duplicate_ids(base, ["ref:US-TX:thc", "ref:hmdb"], context="counties filtered input")
+    return base
 
 
 def resolve_input_path(input_file=None):
@@ -87,7 +97,7 @@ def enforce_integer_safe(df):
     """Guarantee int_fields are Int64 type in exported files."""
     for col in int_fields:
         if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors="coerce").astype("Int64")
+            df[col] = coerce_nullable_int_series(df[col], col, context="counties export")
         else:
             df[col] = pd.Series([pd.NA] * len(df), dtype="Int64")
     return df
@@ -106,25 +116,41 @@ def apply_simple(df):
 
 def export_counties(df, outdir, simple=False):
     require_columns(df, ["addr:county"], context="counties export input")
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="counties export input")
     os.makedirs(outdir, exist_ok=True)
     summary = {}
+    normalized = normalize_match_series(df["addr:county"])
+    missing_county = normalized.eq("").sum()
+    if missing_county:
+        print(f"⚠ {missing_county} rows missing addr:county; exporting as Unknown.csv")
 
-    for county, group in df.groupby("addr:county"):
-        safe = str(county).replace(" ", "_").replace("/", "-")
+    working = df.copy()
+    working["__county_key"] = normalized.mask(normalized.ne(""), normalized)
+    working.loc[working["__county_key"] == "", "__county_key"] = "__unknown__"
+
+    for county_key, group in working.groupby("__county_key", dropna=False):
+        if county_key == "__unknown__":
+            county_label = "Unknown"
+        else:
+            labels = group["addr:county"].dropna().astype(str).str.strip()
+            county_label = labels.iloc[0] if not labels.empty else str(county_key)
+        safe = str(county_label).replace(" ", "_").replace("/", "-")
         outfile = os.path.join(outdir, f"{safe}.csv")
-
-        out = apply_simple(group) if simple else enforce_integer_safe(group.copy())
+        export_group = group.drop(columns=["__county_key"])
+        out = apply_simple(export_group) if simple else enforce_integer_safe(export_group.copy())
         out.to_csv(outfile, index=False)
 
-        summary[county] = len(out)
+        summary[county_label] = len(out)
         print(f"✔ Saved {outfile} ({len(out)} rows)")
     return summary
 
 
 def export_single_county(df, county, outdir, simple=False):
     require_columns(df, ["addr:county"], context="single county export input")
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="single county export input")
     os.makedirs(outdir, exist_ok=True)
-    subset = df[df["addr:county"].str.lower() == county.lower()].copy()
+    county_key = normalize_match_key(county)
+    subset = df[normalize_match_series(df["addr:county"]).eq(county_key)].copy()
 
     if subset.empty:
         print(f"⚠ No markers found in {county}")
@@ -141,6 +167,7 @@ def export_single_county(df, county, outdir, simple=False):
 
 
 def merge_all(df, filename, simple=False):
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="counties merge input")
     out = apply_simple(df) if simple else enforce_integer_safe(df.copy())
     out.to_csv(filename, index=False)
     print(f"✔ Merged master → {filename} ({len(out)} rows)")

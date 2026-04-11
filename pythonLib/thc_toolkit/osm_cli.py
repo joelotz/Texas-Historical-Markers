@@ -23,15 +23,10 @@ import requests
 import pandas as pd
 from datetime import datetime
 import json
-
-
-def require_columns(df, required_columns, context="dataframe"):
-    """Raise a clear error when required columns are missing."""
-    missing = [col for col in required_columns if col not in df.columns]
-    if missing:
-        raise ValueError(
-            f"{context} missing required column(s): {', '.join(missing)}"
-        )
+try:
+    from .utils import require_columns, assert_no_duplicate_ids, coerce_nullable_int_series
+except ImportError:  # pragma: no cover - compatibility for direct script execution
+    from utils import require_columns, assert_no_duplicate_ids, coerce_nullable_int_series  # type: ignore
 
 
 def _normalize_scalar(value):
@@ -66,10 +61,26 @@ def create_nodes(df):
         ],
         context="create_nodes input",
     )
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input")
+    thc_ref = coerce_nullable_int_series(
+        df["ref:US-TX:thc"], "ref:US-TX:thc", context="create_nodes input"
+    )
+    hmdb_ref = coerce_nullable_int_series(
+        df["ref:hmdb"], "ref:hmdb", context="create_nodes input"
+    )
     nodes = []
+    row_errors = []
 
     for index, row in df.iterrows():
         try:
+            lat = pd.to_numeric(pd.Series([row["hmdb:Latitude"]]), errors="coerce").iloc[0]
+            lon = pd.to_numeric(pd.Series([row["hmdb:Longitude"]]), errors="coerce").iloc[0]
+            if pd.isna(lat) or pd.isna(lon):
+                row_errors.append(f"row {index}: invalid hmdb:Latitude/hmdb:Longitude")
+                continue
+
+            row_thc = thc_ref.iloc[index]
+            row_hmdb = hmdb_ref.iloc[index]
             tags = {
                 "name": _normalize_scalar(row["name"]),
                 "historic": "memorial",
@@ -79,21 +90,25 @@ def create_nodes(df):
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
                 "thc:designation": "Historical Marker",
-                "ref:US-TX:thc": _normalize_scalar(row["ref:US-TX:thc"]),
-                "ref:hmdb": _normalize_scalar(row["ref:hmdb"]),
+                "ref:US-TX:thc": int(row_thc) if pd.notna(row_thc) else None,
+                "ref:hmdb": int(row_hmdb) if pd.notna(row_hmdb) else None,
                 "source:website": _normalize_scalar(row["website"]),
             }
-            if pd.notna(row["ref:hmdb"]):
-                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+            if pd.notna(row_hmdb):
+                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
 
-            nodes.append({"lat": _normalize_scalar(row["hmdb:Latitude"]),
-                          "lon": _normalize_scalar(row["hmdb:Longitude"]),
+            nodes.append({"lat": float(lat),
+                          "lon": float(lon),
                           "tags": tags})
 
         except Exception as e:
-            print(f"[WARN] Failed on row {index}: {e}")
+            row_errors.append(f"row {index}: {e}")
+
+    if row_errors:
+        sample = "; ".join(row_errors[:5])
+        raise ValueError(f"create_nodes input has invalid rows: {sample}")
 
     return nodes
 
@@ -132,12 +147,21 @@ def write2csv(df, filename, date=False):
 
 def find_missing_osm(atlas, geojson):
     require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
+    assert_no_duplicate_ids(atlas, ["ref:US-TX:thc"], context="atlas")
     with open(geojson,'r') as f:
         data = json.load(f)
+    osm_ref_values = [
+        str(f["properties"]["ref:US-TX:thc"]).strip()
+        for f in data.get("features", [])
+        if "ref:US-TX:thc" in f.get("properties", {})
+    ]
+    counts = pd.Series(osm_ref_values).value_counts()
+    dupes = set(counts[counts > 1].index.tolist())
+    if dupes:
+        sample = ", ".join(repr(v) for v in sorted(dupes)[:5])
+        raise ValueError(f"geojson has duplicate values in ref:US-TX:thc: {sample}")
 
-    osm_refs = {int(f["properties"]["ref:US-TX:thc"])
-                for f in data.get("features", [])
-                if "ref:US-TX:thc" in f.get("properties",{})}
+    osm_refs = {int(v) for v in osm_ref_values if v}
 
     atlas_refs = set(atlas["ref:US-TX:thc"].dropna().astype(int))
     missing = sorted(atlas_refs - osm_refs)

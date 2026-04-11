@@ -23,16 +23,14 @@ import webbrowser
 import pandas as pd
 import folium
 
-from .utils import read_atlas
-
-
-def require_columns(df, required_columns, context="dataframe"):
-    """Raise a clear error when required columns are missing."""
-    missing = [col for col in required_columns if col not in df.columns]
-    if missing:
-        raise ValueError(
-            f"{context} missing required column(s): {', '.join(missing)}"
-        )
+from .utils import (
+    read_atlas,
+    require_columns,
+    parse_bool_series,
+    normalize_match_key,
+    normalize_match_series,
+    assert_no_duplicate_ids,
+)
 
 
 def filter_markers(df, county=None, city=None, unmapped=False):
@@ -44,22 +42,29 @@ def filter_markers(df, county=None, city=None, unmapped=False):
     if unmapped:
         required.append("isOSM")
     require_columns(df, required, context="map input")
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="map input")
 
-    mask = ~df["isMissing"]
+    is_missing = parse_bool_series(df["isMissing"], "isMissing", context="map input", na_value=False)
+    mask = ~is_missing
 
     if county:
-        mask &= df["addr:county"].astype(str).str.strip().str.lower().eq(county.strip().lower())
+        mask &= normalize_match_series(df["addr:county"]).eq(normalize_match_key(county))
 
     if city:
-        mask &= df["addr:city"].astype(str).str.strip().str.lower().eq(city.strip().lower())
+        mask &= normalize_match_series(df["addr:city"]).eq(normalize_match_key(city))
 
     if unmapped:
-        mask &= ~df["isOSM"]
+        is_osm = parse_bool_series(df["isOSM"], "isOSM", context="map input", na_value=False)
+        mask &= ~is_osm
 
     out = df.loc[mask].copy()
 
-    out["map_lat"] = out["hmdb:Latitude"].fillna(out["thc:Latitude"])
-    out["map_lon"] = out["hmdb:Longitude"].fillna(out["thc:Longitude"])
+    hmdb_lat = pd.to_numeric(out["hmdb:Latitude"], errors="coerce")
+    hmdb_lon = pd.to_numeric(out["hmdb:Longitude"], errors="coerce")
+    thc_lat = pd.to_numeric(out["thc:Latitude"], errors="coerce")
+    thc_lon = pd.to_numeric(out["thc:Longitude"], errors="coerce")
+    out["map_lat"] = hmdb_lat.fillna(thc_lat)
+    out["map_lon"] = hmdb_lon.fillna(thc_lon)
 
     out = out[out["map_lat"].notna() & out["map_lon"].notna()].copy()
     return out

@@ -5,6 +5,8 @@ import requests
 from datetime import datetime
 import shutil
 import subprocess
+import re
+import unicodedata
 from rich.console import Console
 from rich.table import Table
 
@@ -23,6 +25,91 @@ def _normalize_scalar(value):
     if pd.isna(value):
         return None
     return value
+
+
+_TRUTHY = {"true", "1", "yes", "y", "t"}
+_FALSEY = {"false", "0", "no", "n", "f"}
+_NULL_TOKENS = {"", "nan", "none", "null", "na", "<na>"}
+_INT_PATTERN = re.compile(r"\d+")
+
+
+def normalize_match_key(value):
+    """Normalize free-text values for robust equality matching."""
+    if pd.isna(value):
+        return ""
+    text = str(value).strip()
+    if not text:
+        return ""
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    return text.casefold()
+
+
+def normalize_match_series(series):
+    """Vectorized form of normalize_match_key for a pandas Series."""
+    return series.map(normalize_match_key)
+
+
+def parse_bool_series(series, column, context="dataframe", na_value=False):
+    """
+    Parse booleans from mixed CSV data.
+    Accepts common true/false tokens and raises on unknown values.
+    """
+    text = series.astype("string").str.strip().str.casefold()
+    is_na = series.isna() | text.isin(_NULL_TOKENS)
+    is_valid = is_na | text.isin(_TRUTHY) | text.isin(_FALSEY)
+    if (~is_valid).any():
+        bad = sorted(text[~is_valid].dropna().unique().tolist())
+        sample = ", ".join(repr(v) for v in bad[:5])
+        raise ValueError(
+            f"{context} has invalid boolean values in {column}: {sample}. "
+            "Use true/false style values."
+        )
+
+    out = pd.Series(pd.NA, index=series.index, dtype="boolean")
+    out.loc[text.isin(_TRUTHY)] = True
+    out.loc[text.isin(_FALSEY)] = False
+    if na_value is not None:
+        out = out.fillna(bool(na_value))
+    return out.astype("boolean")
+
+
+def coerce_nullable_int_series(series, column, context="dataframe"):
+    """Strictly coerce nullable integer series; raise on invalid non-empty values."""
+    values = series.astype("string").str.strip()
+    lowered = values.str.casefold()
+    is_blank = series.isna() | lowered.isin(_NULL_TOKENS)
+    normalized = values.str.replace(r"\.0+$", "", regex=True)
+    invalid = ~is_blank & ~normalized.map(lambda v: bool(_INT_PATTERN.fullmatch(str(v))))
+    if invalid.any():
+        bad = sorted(values[invalid].unique().tolist())
+        sample = ", ".join(repr(v) for v in bad[:5])
+        raise ValueError(
+            f"{context} has invalid integer values in {column}: {sample}. "
+            "Expected empty or all-digit values."
+        )
+    as_num = pd.to_numeric(normalized.where(~is_blank, pd.NA), errors="raise")
+    return as_num.astype("Int64")
+
+
+def assert_no_duplicate_ids(df, columns, context="dataframe"):
+    """Raise when duplicate non-empty IDs are present."""
+    for col in columns:
+        if col not in df.columns:
+            continue
+        values = df[col].astype("string").str.strip()
+        lowered = values.str.casefold()
+        cleaned = values.mask(lowered.isin(_NULL_TOKENS), pd.NA)
+        canonical = cleaned.copy()
+        digit_mask = canonical.notna() & canonical.str.fullmatch(r"\d+")
+        canonical.loc[digit_mask] = (
+            canonical.loc[digit_mask].str.lstrip("0").replace("", "0")
+        )
+        dupes = canonical[canonical.notna() & canonical.duplicated(keep=False)]
+        if dupes.empty:
+            continue
+        sample = ", ".join(repr(v) for v in sorted(dupes.unique().tolist())[:5])
+        raise ValueError(f"{context} has duplicate values in {col}: {sample}")
 
 
 # -------------- CSV Viewing Utilities -------------- #
@@ -159,9 +246,25 @@ def create_nodes(df):
         ],
         context="create_nodes input",
     )
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input")
+    thc_ref = coerce_nullable_int_series(
+        df["ref:US-TX:thc"], "ref:US-TX:thc", context="create_nodes input"
+    )
+    hmdb_ref = coerce_nullable_int_series(
+        df["ref:hmdb"], "ref:hmdb", context="create_nodes input"
+    )
     nodes = []
+    row_errors = []
     for index, row in df.iterrows():
         try:
+            lat = pd.to_numeric(pd.Series([row["hmdb:Latitude"]]), errors="coerce").iloc[0]
+            lon = pd.to_numeric(pd.Series([row["hmdb:Longitude"]]), errors="coerce").iloc[0]
+            if pd.isna(lat) or pd.isna(lon):
+                row_errors.append(f"row {index}: invalid hmdb:Latitude/hmdb:Longitude")
+                continue
+
+            row_thc = thc_ref.iloc[index]
+            row_hmdb = hmdb_ref.iloc[index]
             tags = {
                 "name": _normalize_scalar(row["name"]),
                 "historic": "memorial",
@@ -171,23 +274,27 @@ def create_nodes(df):
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
                 "thc:designation": "Historical Marker",
-                "ref:US-TX:thc": _normalize_scalar(row["ref:US-TX:thc"]),
-                "ref:hmdb": _normalize_scalar(row["ref:hmdb"]),
+                "ref:US-TX:thc": int(row_thc) if pd.notna(row_thc) else None,
+                "ref:hmdb": int(row_hmdb) if pd.notna(row_hmdb) else None,
                 "source:website": _normalize_scalar(row["website"]),
             }
-            if pd.notna(row["ref:hmdb"]):
-                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={row['ref:hmdb']}"
+            if pd.notna(row_hmdb):
+                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
 
             nodes.append({
-                "lat": _normalize_scalar(row["hmdb:Latitude"]),
-                "lon": _normalize_scalar(row["hmdb:Longitude"]),
+                "lat": float(lat),
+                "lon": float(lon),
                 "tags": tags
             })
 
         except Exception as e:
-            print(f"[WARN] Failed row {index}: {e}")
+            row_errors.append(f"row {index}: {e}")
+
+    if row_errors:
+        sample = "; ".join(row_errors[:5])
+        raise ValueError(f"create_nodes input has invalid rows: {sample}")
 
     return nodes
 
@@ -219,12 +326,20 @@ def write2csv(df, filename, date=False):
 
 def find_missing_osm(atlas, geojson):
     require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
+    assert_no_duplicate_ids(atlas, ["ref:US-TX:thc"], context="atlas")
     with open(geojson) as f: data = json.load(f)
-    osm_refs = {
-        int(f["properties"]["ref:US-TX:thc"])
-        for f in data.get("features",[])
-        if "ref:US-TX:thc" in f.get("properties",{})
-    }
+    osm_ref_values = [
+        str(f["properties"]["ref:US-TX:thc"]).strip()
+        for f in data.get("features", [])
+        if "ref:US-TX:thc" in f.get("properties", {})
+    ]
+    counts = pd.Series(osm_ref_values).value_counts()
+    dupes = set(counts[counts > 1].index.tolist())
+    if dupes:
+        sample = ", ".join(repr(v) for v in sorted(dupes)[:5])
+        raise ValueError(f"geojson has duplicate values in ref:US-TX:thc: {sample}")
+
+    osm_refs = {int(v) for v in osm_ref_values if v}
     atlas_refs = set(atlas["ref:US-TX:thc"].dropna().astype(int))
     missing = sorted(atlas_refs - osm_refs)
     print(f"[INFO] missing: {len(missing)}")

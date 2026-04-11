@@ -25,15 +25,18 @@ from folium import LayerControl
 from shapely.geometry import Point, LineString, MultiLineString
 from shapely.ops import transform
 import xml.etree.ElementTree as ET
-
-
-def require_columns(df, required_columns, context="dataframe"):
-    """Raise a clear error when required columns are missing."""
-    missing = [col for col in required_columns if col not in df.columns]
-    if missing:
-        raise ValueError(
-            f"{context} missing required column(s): {', '.join(missing)}"
-        )
+try:
+    from .utils import (
+        require_columns,
+        coerce_nullable_int_series,
+        assert_no_duplicate_ids,
+    )
+except ImportError:  # pragma: no cover - compatibility for direct script execution
+    from utils import (  # type: ignore
+        require_columns,
+        coerce_nullable_int_series,
+        assert_no_duplicate_ids,
+    )
 
 
 # ----------------------------------------------------------
@@ -64,6 +67,17 @@ def load_kml_route(path):
 # ----------------------------------------------------------
 # Main Processing
 # ----------------------------------------------------------
+def _is_unmapped_ref_series(series):
+    text = series.astype(str).str.strip().str.casefold()
+    return series.isna() | text.isin(["", "nan", "none", "null", "na"])
+
+
+def _is_unmapped_ref_value(value):
+    if pd.isna(value):
+        return True
+    return str(value).strip().casefold() in ["", "nan", "none", "null", "na", "<na>"]
+
+
 def run_with_args(track, data, radius=5, unmapped=False,
                   only_mapped=False, csv=False, csv_simple=False, 
                   geojson=False, kml=False, openmap=False):
@@ -80,10 +94,10 @@ def run_with_args(track, data, radius=5, unmapped=False,
         ["ref:hmdb", "thc:Latitude", "thc:Longitude"],
         context="route input",
     )
+    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="route input")
 
     # ---------- Filter Markers ----------
-    hmdb = df["ref:hmdb"].astype(str).str.strip().str.lower()
-    is_unmapped = hmdb.isin(["", "nan", "none"])
+    is_unmapped = _is_unmapped_ref_series(df["ref:hmdb"])
     is_mapped   = ~is_unmapped
 
     if unmapped and only_mapped:
@@ -104,6 +118,9 @@ def run_with_args(track, data, radius=5, unmapped=False,
     LAT, LON = "thc:Latitude", "thc:Longitude"
     markers[LAT] = pd.to_numeric(markers[LAT], errors="coerce")
     markers[LON] = pd.to_numeric(markers[LON], errors="coerce")
+    dropped = int(markers[[LAT, LON]].isna().any(axis=1).sum())
+    if dropped:
+        print(f"⚠ Dropping {dropped} rows with invalid or missing coordinates")
     markers = markers.dropna(subset=[LAT, LON]).copy()
     markers["geometry"] = markers.apply(lambda r: Point(r[LON], r[LAT]), axis=1)
 
@@ -138,8 +155,7 @@ def run_with_args(track, data, radius=5, unmapped=False,
     mapped_layer   = MarkerCluster(name="Mapped")
 
     for _, r in near.iterrows():
-        hmdb = str(r.get("ref:hmdb", "")).strip().lower()
-        unm = hmdb in ["", "nan", "none"]
+        unm = _is_unmapped_ref_value(r.get("ref:hmdb", pd.NA))
         color = "#E74C3C" if unm else "#2ECC71"       # red unmapped, green mapped
         size  = 6 if unm else 4
 
@@ -164,10 +180,7 @@ def run_with_args(track, data, radius=5, unmapped=False,
 
     for col in int_fields:
         if col in near.columns:
-            near[col] = (
-                pd.to_numeric(near[col], errors="coerce")   # numbers or <NA>
-                .astype("Int64")                          # final type — NO WARNINGS 🎉
-            )
+            near[col] = coerce_nullable_int_series(near[col], col, context="route export")
 
 
     # Save/Export

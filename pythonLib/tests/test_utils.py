@@ -10,9 +10,36 @@ from thc_toolkit.utils import (
     update_isOSM,
     viewcsv_pretty,
     require_columns,
+    normalize_match_key,
+    parse_bool_series,
+    coerce_nullable_int_series,
+    assert_no_duplicate_ids,
 )
 
 class TestUtils:
+    def test_normalize_match_key_strips_and_folds_diacritics(self):
+        assert normalize_match_key(" Bexár ") == "bexar"
+
+    def test_parse_bool_series_rejects_unknown_tokens(self):
+        series = pd.Series(["true", "maybe", "false"])
+        with pytest.raises(ValueError, match="invalid boolean values"):
+            parse_bool_series(series, "isMissing", context="test")
+
+    def test_coerce_nullable_int_series_rejects_invalid_text(self):
+        series = pd.Series(["1001", "abc", pd.NA])
+        with pytest.raises(ValueError, match="invalid integer values"):
+            coerce_nullable_int_series(series, "ref:hmdb", context="test")
+
+    def test_assert_no_duplicate_ids_rejects_zero_padded_numeric_equivalents(self):
+        df = pd.DataFrame(
+            [
+                {"ref:US-TX:thc": "00123"},
+                {"ref:US-TX:thc": "123"},
+            ]
+        )
+        with pytest.raises(ValueError, match="duplicate values in ref:US-TX:thc"):
+            assert_no_duplicate_ids(df, ["ref:US-TX:thc"], context="test")
+
     def test_require_columns_raises_for_missing(self):
         df = pd.DataFrame([{"a": 1}])
         with pytest.raises(ValueError, match="missing required column\\(s\\): b"):
@@ -101,6 +128,12 @@ class TestUtils:
         with pytest.raises(ValueError, match="missing required column\\(s\\): website"):
             create_nodes(bad_df)
 
+    def test_create_nodes_duplicate_ids_raise(self, sample_atlas_df):
+        dupe = sample_atlas_df.copy()
+        dupe.loc[1, "ref:US-TX:thc"] = dupe.loc[0, "ref:US-TX:thc"]
+        with pytest.raises(ValueError, match="duplicate values in ref:US-TX:thc"):
+            create_nodes(dupe)
+
     def test_create_nodes_allows_missing_start_date(self, sample_atlas_df):
         no_start = sample_atlas_df.drop(columns=["start_date"])
         nodes = create_nodes(no_start)
@@ -111,6 +144,13 @@ class TestUtils:
         nodes = create_nodes(sample_atlas_df)
         # Should not raise even when refs/coords/tags contain missing values.
         json.dumps(nodes)
+
+    def test_create_nodes_invalid_coords_raise(self, sample_atlas_df):
+        bad = sample_atlas_df.copy()
+        bad["hmdb:Latitude"] = bad["hmdb:Latitude"].astype("object")
+        bad.loc[0, "hmdb:Latitude"] = "oops"
+        with pytest.raises(ValueError, match="create_nodes input has invalid rows"):
+            create_nodes(bad)
 
     @patch("thc_toolkit.utils.requests.get")
     def test_push2josm_success(self, mock_get):
@@ -192,6 +232,22 @@ class TestUtils:
         
         # Assert
         assert missing == [1002, 1003]
+
+    def test_find_missing_osm_duplicate_geojson_refs_raise(self, sample_atlas_df, tmp_path):
+        geo = tmp_path / "dupe.geojson"
+        geo.write_text(
+            json.dumps(
+                {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {"type": "Feature", "properties": {"ref:US-TX:thc": "1001"}},
+                        {"type": "Feature", "properties": {"ref:US-TX:thc": "1001"}},
+                    ],
+                }
+            )
+        )
+        with pytest.raises(ValueError, match="geojson has duplicate values in ref:US-TX:thc"):
+            find_missing_osm(sample_atlas_df, str(geo))
 
     def test_update_isOSM(self, sample_atlas_df):
         """Test updating the isOSM flag natively."""

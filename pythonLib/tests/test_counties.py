@@ -64,6 +64,30 @@ class TestCountiesCLI:
         with pytest.raises(ValueError, match="missing required column\\(s\\): ref:hmdb"):
             load_filtered(str(bad_csv))
 
+    def test_load_filtered_parses_boolean_text_values(self, tmp_path):
+        csv_path = tmp_path / "bool_text.csv"
+        pd.DataFrame(
+            [
+                {"ref:US-TX:thc": 1001, "ref:hmdb": pd.NA, "isMissing": "false", "isPrivate": "no"},
+                {"ref:US-TX:thc": 1002, "ref:hmdb": pd.NA, "isMissing": "TRUE", "isPrivate": "no"},
+                {"ref:US-TX:thc": 1003, "ref:hmdb": pd.NA, "isMissing": "false", "isPrivate": "yes"},
+            ]
+        ).to_csv(csv_path, index=False)
+
+        out = load_filtered(str(csv_path))
+        assert out["ref:US-TX:thc"].tolist() == [1001]
+
+    def test_load_filtered_rejects_invalid_boolean_tokens(self, tmp_path):
+        csv_path = tmp_path / "bad_bool.csv"
+        pd.DataFrame(
+            [
+                {"ref:US-TX:thc": 1001, "ref:hmdb": pd.NA, "isMissing": "maybe", "isPrivate": "false"},
+            ]
+        ).to_csv(csv_path, index=False)
+
+        with pytest.raises(ValueError, match="invalid boolean values in isMissing"):
+            load_filtered(str(csv_path))
+
     def test_enforce_integer_safe(self, sample_atlas_df):
         """Test that enforcement corrects object/float types into Int64 safely."""
         # Arrange
@@ -76,6 +100,11 @@ class TestCountiesCLI:
         assert df_safe["ref:US-TX:thc"].dtype.name == "Int64"
         assert df_safe["ref:hmdb"].dtype.name == "Int64"
         assert df_safe["OsmNodeID"].dtype.name == "Int64"
+
+    def test_enforce_integer_safe_rejects_non_numeric_ids(self, sample_atlas_df):
+        sample_atlas_df["ref:hmdb"] = ["5001", "bad-id", pd.NA]
+        with pytest.raises(ValueError, match="invalid integer values in ref:hmdb"):
+            enforce_integer_safe(sample_atlas_df)
 
     def test_apply_simple(self, sample_atlas_df):
         """Test that apply_simple trims the dataframe to required columns and enforces integers."""
@@ -132,6 +161,16 @@ class TestCountiesCLI:
         assert (tmp_path / "out_all" / "Travis.csv").exists()
         assert (tmp_path / "out_all" / "Williamson.csv").exists()
 
+    def test_export_counties_routes_missing_county_to_unknown(self, sample_atlas_df, tmp_path):
+        df = sample_atlas_df.copy()
+        df.loc[0, "addr:county"] = pd.NA
+        outdir = str(tmp_path / "out_unknown")
+
+        summary = export_counties(df, outdir)
+
+        assert summary["Unknown"] == 1
+        assert (tmp_path / "out_unknown" / "Unknown.csv").exists()
+
     def test_merge_all(self, dummy_counties_file, tmp_path):
         """Test running a merge operation stores to single file."""
         # Arrange
@@ -146,3 +185,11 @@ class TestCountiesCLI:
         merged_df = pd.read_csv(merge_path)
         assert len(merged_df) == 4
         assert "isMissing" not in merged_df.columns # Because simple mode drops it
+
+    def test_merge_all_rejects_duplicate_ids(self, sample_atlas_df, tmp_path):
+        df = sample_atlas_df.copy()
+        df.loc[1, "ref:US-TX:thc"] = df.loc[0, "ref:US-TX:thc"]
+        merge_path = str(tmp_path / "merged_dupe.csv")
+
+        with pytest.raises(ValueError, match="duplicate values in ref:US-TX:thc"):
+            merge_all(df, merge_path, simple=True)
