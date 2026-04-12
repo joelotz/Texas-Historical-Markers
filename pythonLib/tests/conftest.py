@@ -8,6 +8,7 @@ def sample_atlas_df():
     data = {
         "ref:US-TX:thc": pd.Series([1001, 1002, 1003], dtype="Int32"),
         "ref:hmdb": pd.Series([5001, 5002, pd.NA], dtype="Int32"),
+        "OsmNodeID": pd.Series([pd.NA, pd.NA, pd.NA], dtype="Int64"),
         "name": ["Marker A", "Marker B", "Marker C"],
         "hmdb:Latitude": [30.1, 30.2, 30.3],
         "hmdb:Longitude": [-97.1, -97.2, -97.3],

@@ -6,6 +6,7 @@ THC Markers Toolkit - Unified CLI
 Commands:
     thc counties   → export county-based CSVs (supports --simple)
     thc route      → KML route + proximity mapping tools
+    thc sqlite     → CSV / SQLite sync tools
     thc docs       → show docs for subcommands
 
 Examples:
@@ -13,12 +14,16 @@ Examples:
     thc counties --simple --merge all.csv
     thc counties --county Denton --simple
     thc route --track ../scripts/test.kml --data ../atlas_db.csv --unmapped --openmap
+    thc sqlite build --csv ../atlas_db.csv --sqlite atlas_db.sqlite
+    thc sqlite browse --sqlite atlas_db.sqlite
 """
 
 import argparse
 from . import counties_cli
 from . import route_cli
 from . import map_cli
+from . import sqlite_sync
+from . import sqlite_viewer
 from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
@@ -69,6 +74,8 @@ def run_docs(args):
         print(route_cli.__doc__)
     elif args.tool == "map":
         print(map_cli.__doc__)
+    elif args.tool == "sqlite":
+        print(sqlite_sync.__doc__)
     else:
         print("Invalid tool.")
 
@@ -117,6 +124,39 @@ def run_map(args):
     map_cli.run_with_args(args)
 
 
+def run_sqlite_build(args):
+    sqlite_sync.build_sqlite_from_csv(
+        args.csv,
+        args.sqlite,
+        table_name=args.table,
+        strict_ids=args.strict_ids,
+    )
+
+
+def run_sqlite_export(args):
+    sqlite_sync.export_csv_from_sqlite(args.sqlite, args.csv, table_name=args.table)
+
+
+def run_sqlite_verify(args):
+    sqlite_sync.verify_sqlite_sync(args.csv, args.sqlite, table_name=args.table)
+
+
+def run_sqlite_browse(args):
+    server = sqlite_viewer.serve_sqlite_browser(
+        args.sqlite,
+        table_name=args.table,
+        host=args.host,
+        port=args.port,
+        open_browser=not args.no_open,
+    )
+    try:
+        server.serve_forever()
+    except KeyboardInterrupt:
+        print("\nShutting down browser server...")
+    finally:
+        server.server_close()
+
+
 # ---------------------------- CLI Root ---------------------------- #
 
 def main():
@@ -161,7 +201,7 @@ def main():
 
     # -------- docs --------
     d = sub.add_parser("docs", help="Show documentation for a module")
-    d.add_argument("tool", choices=["counties", "route", "map"])
+    d.add_argument("tool", choices=["counties", "route", "map", "sqlite"])
     d.set_defaults(func=run_docs)
 
     # -------- CSV Viewer --------
@@ -196,6 +236,37 @@ def main():
     m.add_argument("--kml", action="store_true")
     m.add_argument("--openmap", action="store_true")
     m.set_defaults(func=run_map)
+
+    # -------- SQLite sync CLI --------
+    s = sub.add_parser("sqlite", help="Build/export/verify THC SQLite databases")
+    ss = s.add_subparsers(dest="sqlite_command", required=True)
+
+    sb = ss.add_parser("build", help="Rebuild SQLite from CSV")
+    sb.add_argument("--csv", required=True, help="Source CSV file")
+    sb.add_argument("--sqlite", required=True, help="Destination SQLite file")
+    sb.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    sb.add_argument("--strict-ids", action="store_true", help="Reject duplicate canonical ID values")
+    sb.set_defaults(func=run_sqlite_build)
+
+    se = ss.add_parser("export", help="Export CSV from SQLite")
+    se.add_argument("--sqlite", required=True, help="Source SQLite file")
+    se.add_argument("--csv", required=True, help="Destination CSV file")
+    se.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    se.set_defaults(func=run_sqlite_export)
+
+    sv = ss.add_parser("verify", help="Verify CSV and SQLite are aligned")
+    sv.add_argument("--csv", required=True, help="Source CSV file")
+    sv.add_argument("--sqlite", required=True, help="SQLite file to check")
+    sv.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    sv.set_defaults(func=run_sqlite_verify)
+
+    sbrowse = ss.add_parser("browse", help="Open a local browser viewer for SQLite data")
+    sbrowse.add_argument("--sqlite", default=None, help="SQLite file to browse (defaults to atlas_db.sqlite if found)")
+    sbrowse.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    sbrowse.add_argument("--host", default=sqlite_viewer.DEFAULT_HOST)
+    sbrowse.add_argument("--port", type=int, default=sqlite_viewer.DEFAULT_PORT)
+    sbrowse.add_argument("--no-open", action="store_true", help="Do not auto-open the browser")
+    sbrowse.set_defaults(func=run_sqlite_browse)
 
 
     args = parser.parse_args()

@@ -8,6 +8,7 @@ A Python + CLI toolkit for working with **Texas Historical Marker (THC) datasets
 * Exporting **unmapped markers per county**
 * Route-based marker visualization with **Folium interactive maps**
 * Conversion to **OSM/JOSM nodes** for mapping work
+* CSV ↔ SQLite sync for faster filtering, sorting, and browser-backed views
 * GeoJSON / KML / CSV generation
 * Designed for both **CLI usage** and **importable Python modules**
 
@@ -70,6 +71,7 @@ pythonLib/
    ├─ counties_cli.py     ← CLI tool: unmapped-per-county export
    ├─ route_cli.py        ← CLI tool: route marker proximity + map creation
    ├─ osm_cli.py          ← CLI tool: OSM/JOSM node creation + sync workflow
+   ├─ sqlite_sync.py      ← CLI tool: CSV / SQLite build-export-verify workflow
    ├─ cli.py              ← unified entrypoint
    └─ __init__.py
 ```
@@ -88,6 +90,8 @@ thc route         # Route-based filtering, mapping, exports
 thc map           # County/city marker mapping
 thc viewcsv       # CSV inspection in terminal
 thc convertHMDB   # HMDB CSV -> THC format conversion
+thc sqlite        # CSV / SQLite sync tools
+thc-browser      # One-command SQLite browser launcher
 ```
 
 Script aliases are also installed for compatibility:
@@ -193,6 +197,44 @@ Notes:
 
 - `osm_extract.geojson` should be a GeoJSON export of current OSM markers (for example, via Overpass).
 - `updated.csv` is created by `update-isOSM`.
+
+---
+
+### 4) CSV / SQLite Sync
+
+Keep `atlas_db.csv` as the source of truth and use SQLite as the generated working copy.
+
+Rebuild SQLite from CSV:
+
+```sh
+thc sqlite build --csv ../atlas_db.csv --sqlite ../atlas_db.sqlite
+```
+
+Use `--strict-ids` if you want the build to fail on duplicate canonical IDs.
+
+Export CSV back from SQLite:
+
+```sh
+thc sqlite export --sqlite ../atlas_db.sqlite --csv atlas_db_roundtrip.csv
+```
+
+Verify row counts and key columns stay aligned:
+
+```sh
+thc sqlite verify --csv ../atlas_db.csv --sqlite ../atlas_db.sqlite
+```
+
+Open the browser viewer:
+
+```sh
+thc sqlite browse
+```
+
+Or use the direct launcher:
+
+```sh
+thc-browser
+```
 
 ---
 

@@ -13,7 +13,7 @@ pythonLib/.pytest_cache/
 
 # messy "works in progress"
 /scripts/
-
+/generated/
 ### Notes ###
 # /builds/ == Ignore the 'builds' folder in the root directory
 # logs/ == Ignore any folder named 'logs' anywhere in the repository

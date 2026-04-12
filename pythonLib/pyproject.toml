@@ -35,6 +35,7 @@ thc = "thc_toolkit.cli:main"
 counties = "thc_toolkit.counties_cli:main"
 routes = "thc_toolkit.route_cli:main"
 osm = "thc_toolkit.osm_cli:main"
+thc-browser = "thc_toolkit.sqlite_viewer:main"
 
 [project.urls]
 Homepage = "https://github.com/joelotz/Texas-Historical-Markers"
