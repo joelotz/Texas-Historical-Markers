@@ -14,7 +14,9 @@ def test_main_dispatches_viewcsv_subcommand(monkeypatch):
         called["raw"] = args.raw
 
     monkeypatch.setattr(cli, "run_viewcsv", fake_run_viewcsv)
-    monkeypatch.setattr(sys, "argv", ["thc", "viewcsv", "sample.csv", "--head", "1", "--raw"])
+    monkeypatch.setattr(
+        sys, "argv", ["thc", "viewcsv", "sample.csv", "--head", "1", "--raw"]
+    )
 
     cli.main()
 

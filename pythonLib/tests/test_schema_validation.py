@@ -13,8 +13,12 @@ def test_map_filter_markers_missing_required_column_raises():
 
 def test_route_require_columns_reports_missing():
     df = pd.DataFrame([{"ref:hmdb": 1, "thc:Latitude": 30.0}])
-    with pytest.raises(ValueError, match="missing required column\\(s\\): thc:Longitude"):
-        route_cli.require_columns(df, ["ref:hmdb", "thc:Latitude", "thc:Longitude"], context="route input")
+    with pytest.raises(
+        ValueError, match="missing required column\\(s\\): thc:Longitude"
+    ):
+        route_cli.require_columns(
+            df, ["ref:hmdb", "thc:Latitude", "thc:Longitude"], context="route input"
+        )
 
 
 def test_osm_find_missing_requires_ref_column(tmp_path):
@@ -22,7 +26,9 @@ def test_osm_find_missing_requires_ref_column(tmp_path):
     geo = tmp_path / "osm.geojson"
     geo.write_text(json.dumps({"type": "FeatureCollection", "features": []}))
 
-    with pytest.raises(ValueError, match="missing required column\\(s\\): ref:US-TX:thc"):
+    with pytest.raises(
+        ValueError, match="missing required column\\(s\\): ref:US-TX:thc"
+    ):
         osm_cli.find_missing_osm(atlas, str(geo))
 
 
@@ -41,7 +47,9 @@ def test_osm_find_missing_rejects_duplicate_geojson_refs(tmp_path):
         )
     )
 
-    with pytest.raises(ValueError, match="geojson has duplicate values in ref:US-TX:thc"):
+    with pytest.raises(
+        ValueError, match="geojson has duplicate values in ref:US-TX:thc"
+    ):
         osm_cli.find_missing_osm(atlas, str(geo))
 
 

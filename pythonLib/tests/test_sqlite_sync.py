@@ -28,7 +28,10 @@ def test_sqlite_sync_round_trip(sample_atlas_df, tmp_path):
     assert list(source.columns) == list(exported.columns)
 
     for column in sqlite_sync.DEFAULT_KEY_COLUMNS:
-        assert source[column].astype("string").tolist() == exported[column].astype("string").tolist()
+        assert (
+            source[column].astype("string").tolist()
+            == exported[column].astype("string").tolist()
+        )
 
 
 def test_sqlite_sync_build_allows_duplicate_key_values(sample_atlas_df, tmp_path):

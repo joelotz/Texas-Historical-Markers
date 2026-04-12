@@ -58,8 +58,8 @@ def test_sqlite_viewer_page_includes_column_filters_and_sorting():
 
     assert 'id="filterRow"' in page
     assert "th.className = 'sortable'" in page
-    assert 'Filter ' in page
-    assert 'Blank only' in page
+    assert "Filter " in page
+    assert "Blank only" in page
     assert 'value="2000"' in page
 
 

@@ -16,6 +16,7 @@ from thc_toolkit.utils import (
     assert_no_duplicate_ids,
 )
 
+
 class TestUtils:
     def test_normalize_match_key_strips_and_folds_diacritics(self):
         assert normalize_match_key(" Bexár ") == "bexar"
@@ -69,10 +70,10 @@ class TestUtils:
         """Test converting HMDB format to internal OSM compliant format."""
         # Arrange
         output_file = str(tmp_path / "converted.csv")
-        
+
         # Act
         df_result = convert_hmdb_csv(dummy_hmdb_csv, output_file)
-        
+
         # Assert
         assert (tmp_path / "converted.csv").exists()
         assert "ref:hmdb" in df_result.columns
@@ -87,7 +88,7 @@ class TestUtils:
         bad_csv = tmp_path / "bad.csv"
         bad_csv.write_text("MarkerID,Title\n123,Test\n")
         output_file = str(tmp_path / "out.csv")
-        
+
         # Act & Assert
         with pytest.raises(ValueError, match="Missing expected column"):
             convert_hmdb_csv(str(bad_csv), output_file)
@@ -107,10 +108,10 @@ class TestUtils:
     def test_create_nodes_from_dataframe(self, sample_atlas_df):
         """Test converting a dataframe into OSM node dictionaries."""
         # Arrange is handled by the fixture
-        
+
         # Act
         nodes = create_nodes(sample_atlas_df)
-        
+
         # Assert
         # 3 rows in df, 3 nodes created
         assert len(nodes) == 3
@@ -140,7 +141,9 @@ class TestUtils:
         assert len(nodes) == len(no_start)
         assert "start_date" not in nodes[0]["tags"]
 
-    def test_create_nodes_output_is_json_serializable_with_missing_values(self, sample_atlas_df):
+    def test_create_nodes_output_is_json_serializable_with_missing_values(
+        self, sample_atlas_df
+    ):
         nodes = create_nodes(sample_atlas_df)
         # Should not raise even when refs/coords/tags contain missing values.
         json.dumps(nodes)
@@ -162,10 +165,10 @@ class TestUtils:
         mock_response = MagicMock()
         mock_response.status_code = 200
         mock_get.return_value = mock_response
-        
+
         # Act
         added_refs = push2josm(nodes)
-        
+
         # Assert
         mock_get.assert_called_once()
         # Verify the lat/lon/tags are passed correctly as params to the mock
@@ -214,10 +217,10 @@ class TestUtils:
         mock_response = MagicMock()
         mock_response.status_code = 500
         mock_get.return_value = mock_response
-        
+
         # Act
         added_refs = push2josm(nodes)
-        
+
         # Assert
         assert len(added_refs) == 0
 
@@ -226,14 +229,16 @@ class TestUtils:
         # Arrange
         # sample_atlas_df has THC refs: 1001, 1002, 1003
         # dummy_geojson_file has ref: 1001
-        
+
         # Act
         missing = find_missing_osm(sample_atlas_df, dummy_geojson_file)
-        
+
         # Assert
         assert missing == [1002, 1003]
 
-    def test_find_missing_osm_duplicate_geojson_refs_raise(self, sample_atlas_df, tmp_path):
+    def test_find_missing_osm_duplicate_geojson_refs_raise(
+        self, sample_atlas_df, tmp_path
+    ):
         geo = tmp_path / "dupe.geojson"
         geo.write_text(
             json.dumps(
@@ -246,7 +251,9 @@ class TestUtils:
                 }
             )
         )
-        with pytest.raises(ValueError, match="geojson has duplicate values in ref:US-TX:thc"):
+        with pytest.raises(
+            ValueError, match="geojson has duplicate values in ref:US-TX:thc"
+        ):
             find_missing_osm(sample_atlas_df, str(geo))
 
     def test_update_isOSM(self, sample_atlas_df):
@@ -255,15 +262,15 @@ class TestUtils:
         # sample_atlas_df starts with:
         # 1001 -> True, 1002 -> False, 1003 -> False
         refs_to_update = [1002]
-        
+
         # Act
         updated_df = update_isOSM(refs_to_update, sample_atlas_df)
-        
+
         # Assert
         # 1001 should still be True, 1002 should become True, 1003 should be False
-        assert updated_df.loc[updated_df["ref:US-TX:thc"] == 1001, "isOSM"].iloc[0] == True
-        assert updated_df.loc[updated_df["ref:US-TX:thc"] == 1002, "isOSM"].iloc[0] == True
-        assert updated_df.loc[updated_df["ref:US-TX:thc"] == 1003, "isOSM"].iloc[0] == False
+        assert updated_df.loc[updated_df["ref:US-TX:thc"] == 1001, "isOSM"].iloc[0]
+        assert updated_df.loc[updated_df["ref:US-TX:thc"] == 1002, "isOSM"].iloc[0]
+        assert not updated_df.loc[updated_df["ref:US-TX:thc"] == 1003, "isOSM"].iloc[0]
 
     def test_update_isOSM_missing_isOSM_column_raises(self, sample_atlas_df):
         bad_df = sample_atlas_df.drop(columns=["isOSM"])

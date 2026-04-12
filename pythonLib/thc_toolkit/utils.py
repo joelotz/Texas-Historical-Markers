@@ -15,9 +15,7 @@ def require_columns(df, required_columns, context="dataframe"):
     """Raise a clear error when required columns are missing."""
     missing = [col for col in required_columns if col not in df.columns]
     if missing:
-        raise ValueError(
-            f"{context} missing required column(s): {', '.join(missing)}"
-        )
+        raise ValueError(f"{context} missing required column(s): {', '.join(missing)}")
 
 
 def _normalize_scalar(value):
@@ -80,7 +78,9 @@ def coerce_nullable_int_series(series, column, context="dataframe"):
     lowered = values.str.casefold()
     is_blank = series.isna() | lowered.isin(_NULL_TOKENS)
     normalized = values.str.replace(r"\.0+$", "", regex=True)
-    invalid = ~is_blank & ~normalized.map(lambda v: bool(_INT_PATTERN.fullmatch(str(v))))
+    invalid = ~is_blank & ~normalized.map(
+        lambda v: bool(_INT_PATTERN.fullmatch(str(v)))
+    )
     if invalid.any():
         bad = sorted(values[invalid].unique().tolist())
         sample = ", ".join(repr(v) for v in bad[:5])
@@ -123,8 +123,11 @@ def viewcsv_pretty(path):
         viewcsv_raw(path)
         return
 
-    with subprocess.Popen([column_bin, "-s,", "-t", path], stdout=subprocess.PIPE) as fmt:
+    with subprocess.Popen(
+        [column_bin, "-s,", "-t", path], stdout=subprocess.PIPE
+    ) as fmt:
         subprocess.run([less_bin, "-S"], stdin=fmt.stdout, check=False)
+
 
 # RAW Python print mode
 def viewcsv_raw(path, max_rows=200):
@@ -139,8 +142,10 @@ def viewcsv_raw(path, max_rows=200):
 def viewcsv_head(path, n):
     return pd.read_csv(path).head(n)
 
+
 def viewcsv_tail(path, n):
     return pd.read_csv(path).tail(n)
+
 
 # SEARCH returns filtered dataframe
 def viewcsv_search(path, text):
@@ -150,6 +155,7 @@ def viewcsv_search(path, text):
         return pd.DataFrame()
     mask = df["name"].astype(str).str.contains(text, case=False, na=False)
     return df[mask]
+
 
 def viewcsv_interactive(df):
     """Scrollable CSV viewer using rich."""
@@ -189,7 +195,7 @@ def convert_hmdb_csv(input_file, output_file):
         "County or Parish": "addr:county",
         "Missing": "isMissing",
     }
-    
+
     df = pd.read_csv(input_file, dtype=str)
 
     # Verify required columns exist
@@ -217,18 +223,27 @@ def convert_hmdb_csv(input_file, output_file):
     # Export
     df.to_csv(output_file, index=False)
     print(f"[OK] Converted HMDB → {output_file}")
- #   print(f"[INFO] Numeric integer fields applied to: ref:hmdb, ref:US-TX:thc")
+    #   print(f"[INFO] Numeric integer fields applied to: ref:hmdb, ref:US-TX:thc")
     return df
 
 
 # -------------- Additional Utility Functions -------------- #
 def read_atlas(filename):
     types = {
-        'ref:US-TX:thc':'Int32','ref:hmdb':'Int32','start_date':'Int32',
-        'UTM Easting':'Int32','UTM Northing':'Int32','UTM Zone':'Int16',
-        'isTHC':'boolean','isHMDB':'boolean','isOSM':'boolean',
-        'isMissing':'boolean','isPending':'boolean', 'isPrivate':'boolean',
-        'Recorded Texas Historic Landmark':'boolean',  'inGoogle':'boolean'
+        "ref:US-TX:thc": "Int32",
+        "ref:hmdb": "Int32",
+        "start_date": "Int32",
+        "UTM Easting": "Int32",
+        "UTM Northing": "Int32",
+        "UTM Zone": "Int16",
+        "isTHC": "boolean",
+        "isHMDB": "boolean",
+        "isOSM": "boolean",
+        "isMissing": "boolean",
+        "isPending": "boolean",
+        "isPrivate": "boolean",
+        "Recorded Texas Historic Landmark": "boolean",
+        "inGoogle": "boolean",
     }
     return pd.read_csv(filename, dtype=types, low_memory=False)
 
@@ -246,7 +261,9 @@ def create_nodes(df):
         ],
         context="create_nodes input",
     )
-    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input")
+    assert_no_duplicate_ids(
+        df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input"
+    )
     thc_ref = coerce_nullable_int_series(
         df["ref:US-TX:thc"], "ref:US-TX:thc", context="create_nodes input"
     )
@@ -257,8 +274,12 @@ def create_nodes(df):
     row_errors = []
     for index, row in df.iterrows():
         try:
-            lat = pd.to_numeric(pd.Series([row["hmdb:Latitude"]]), errors="coerce").iloc[0]
-            lon = pd.to_numeric(pd.Series([row["hmdb:Longitude"]]), errors="coerce").iloc[0]
+            lat = pd.to_numeric(
+                pd.Series([row["hmdb:Latitude"]]), errors="coerce"
+            ).iloc[0]
+            lon = pd.to_numeric(
+                pd.Series([row["hmdb:Longitude"]]), errors="coerce"
+            ).iloc[0]
             if pd.isna(lat) or pd.isna(lon):
                 row_errors.append(f"row {index}: invalid hmdb:Latitude/hmdb:Longitude")
                 continue
@@ -279,15 +300,13 @@ def create_nodes(df):
                 "source:website": _normalize_scalar(row["website"]),
             }
             if pd.notna(row_hmdb):
-                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
+                tags["memorial:website"] = (
+                    f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
+                )
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
 
-            nodes.append({
-                "lat": float(lat),
-                "lon": float(lon),
-                "tags": tags
-            })
+            nodes.append({"lat": float(lat), "lon": float(lon), "tags": tags})
 
         except Exception as e:
             row_errors.append(f"row {index}: {e}")
@@ -304,11 +323,14 @@ def push2josm(nodes):
     added = []
     for n in nodes:
         clean_tags = {
-            k: v for k, v in n["tags"].items()
+            k: v
+            for k, v in n["tags"].items()
             if v is not None and not (isinstance(v, str) and v.strip() == "")
         }
         tag_str = "|".join(f"{k}={v}" for k, v in clean_tags.items())
-        r = requests.get(url, params={"lat":n["lat"],"lon":n["lon"],"addtags":tag_str})
+        r = requests.get(
+            url, params={"lat": n["lat"], "lon": n["lon"], "addtags": tag_str}
+        )
         if r.status_code == 200:
             added.append(n["tags"]["ref:US-TX:thc"])
         else:
@@ -319,15 +341,16 @@ def push2josm(nodes):
 
 def write2csv(df, filename, date=False):
     if date:
-        filename=f"./file_backup/{datetime.now():%Y%m%d}_{filename}"
-    df.to_csv(filename,index=False)
+        filename = f"./file_backup/{datetime.now():%Y%m%d}_{filename}"
+    df.to_csv(filename, index=False)
     print(f"[OK] wrote {filename}")
 
 
 def find_missing_osm(atlas, geojson):
     require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
     assert_no_duplicate_ids(atlas, ["ref:US-TX:thc"], context="atlas")
-    with open(geojson) as f: data = json.load(f)
+    with open(geojson) as f:
+        data = json.load(f)
     osm_ref_values = [
         str(f["properties"]["ref:US-TX:thc"]).strip()
         for f in data.get("features", [])
@@ -349,6 +372,6 @@ def find_missing_osm(atlas, geojson):
 def update_isOSM(refs, atlas):
     require_columns(atlas, ["ref:US-TX:thc", "isOSM"], context="atlas")
     before = atlas["isOSM"].sum()
-    atlas.loc[atlas["ref:US-TX:thc"].isin(refs),"isOSM"]=True
-    print(f"[OK] updated {atlas['isOSM'].sum()-before} flags")
+    atlas.loc[atlas["ref:US-TX:thc"].isin(refs), "isOSM"] = True
+    print(f"[OK] updated {atlas['isOSM'].sum() - before} flags")
     return atlas

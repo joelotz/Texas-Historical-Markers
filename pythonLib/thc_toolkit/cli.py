@@ -28,13 +28,16 @@ from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
 
+
 def run_counties(args):
     input_path = counties_cli.resolve_input_path(args.input)
     df = counties_cli.load_filtered(input_path)
 
     # --- single county mode ---
     if args.county:
-        summary = counties_cli.export_single_county(df, args.county, args.output, simple=args.simple)
+        summary = counties_cli.export_single_county(
+            df, args.county, args.output, simple=args.simple
+        )
         if summary and args.stats:
             counties_cli.print_stats_table(summary)
         if summary and args.summary_json:
@@ -64,8 +67,9 @@ def run_route(args):
         csv_simple=(args.simple or getattr(args, "csv_simple", False)),
         geojson=args.geojson,
         kml=args.kml,
-        openmap=args.openmap
+        openmap=args.openmap,
     )
+
 
 def run_docs(args):
     if args.tool == "counties":
@@ -79,13 +83,16 @@ def run_docs(args):
     else:
         print("Invalid tool.")
 
+
 def run_viewcsv(args):
     import pandas as pd
     import shutil
     from .utils import (
         viewcsv_pretty,
-        viewcsv_head, viewcsv_tail,
-        viewcsv_search, viewcsv_interactive
+        viewcsv_head,
+        viewcsv_tail,
+        viewcsv_search,
+        viewcsv_interactive,
     )
 
     df = None
@@ -119,6 +126,7 @@ def run_viewcsv(args):
         tmp = "_thc_view_temp.csv"
         df.to_csv(tmp, index=False)
         viewcsv_pretty(tmp)
+
 
 def run_map(args):
     map_cli.run_with_args(args)
@@ -159,10 +167,10 @@ def run_sqlite_browse(args):
 
 # ---------------------------- CLI Root ---------------------------- #
 
+
 def main():
     parser = argparse.ArgumentParser(
-        prog="thc",
-        description="Texas Historical Markers Toolkit (Unified CLI)"
+        prog="thc", description="Texas Historical Markers Toolkit (Unified CLI)"
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -179,8 +187,11 @@ def main():
     c.add_argument("--merge", metavar="FILE", help="export a merged CSV file")
     c.add_argument("--summary-json", metavar="FILE")
     c.add_argument("--stats", action="store_true")
-    c.add_argument("--simple", action="store_true",
-                   help="export only core columns (simple CSV mode)")
+    c.add_argument(
+        "--simple",
+        action="store_true",
+        help="export only core columns (simple CSV mode)",
+    )
     c.set_defaults(func=run_counties)
 
     # -------- route CLI wrapper (optional sync with route_cli next)--------
@@ -189,8 +200,12 @@ def main():
     r.add_argument("--data", required=True)
     r.add_argument("--radius", type=float, default=5)
     group = r.add_mutually_exclusive_group()
-    group.add_argument("--unmapped", action="store_true", help="show only unmapped markers")
-    group.add_argument("--only_mapped", action="store_true", help="show only mapped markers")
+    group.add_argument(
+        "--unmapped", action="store_true", help="show only unmapped markers"
+    )
+    group.add_argument(
+        "--only_mapped", action="store_true", help="show only mapped markers"
+    )
     r.add_argument("--csv", action="store_true")
     r.add_argument("--simple", action="store_true", help="export simplified route CSV")
     r.add_argument("--csv_simple", action="store_true", help="alias for --simple")
@@ -207,17 +222,29 @@ def main():
     # -------- CSV Viewer --------
     v = sub.add_parser("viewcsv", help="Display a CSV in the terminal")
     v.add_argument("file", help="CSV file to display")
-    v.add_argument("--raw", action="store_true", help="Default is pretty view, use raw viewer instead")
+    v.add_argument(
+        "--raw",
+        action="store_true",
+        help="Default is pretty view, use raw viewer instead",
+    )
     v.add_argument("--head", type=int, metavar="N", help="Show first N rows only")
     v.add_argument("--tail", type=int, metavar="N", help="Show last N rows only")
-    v.add_argument("--search", metavar="TEXT", help="Filter to rows where name contains TEXT (case-insensitive)")
-    v.add_argument("--interactive", action="store_true", help="Interactive scrollable view (rich table)")
+    v.add_argument(
+        "--search",
+        metavar="TEXT",
+        help="Filter to rows where name contains TEXT (case-insensitive)",
+    )
+    v.add_argument(
+        "--interactive",
+        action="store_true",
+        help="Interactive scrollable view (rich table)",
+    )
     v.set_defaults(func=run_viewcsv)
 
     # -------- HMDB Converter --------
     h = sub.add_parser("convertHMDB", help="Convert HMDB CSV → THC format")
-    h.add_argument("--input", '-i', required=True)
-    h.add_argument("--output", '-o', required=True)
+    h.add_argument("--input", "-i", required=True)
+    h.add_argument("--output", "-o", required=True)
     h.set_defaults(func=lambda a: convert_hmdb_csv(a.input, a.output))
 
     # -------- map CLI --------
@@ -244,33 +271,51 @@ def main():
     sb = ss.add_parser("build", help="Rebuild SQLite from CSV")
     sb.add_argument("--csv", required=True, help="Source CSV file")
     sb.add_argument("--sqlite", required=True, help="Destination SQLite file")
-    sb.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
-    sb.add_argument("--strict-ids", action="store_true", help="Reject duplicate canonical ID values")
+    sb.add_argument(
+        "--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name"
+    )
+    sb.add_argument(
+        "--strict-ids", action="store_true", help="Reject duplicate canonical ID values"
+    )
     sb.set_defaults(func=run_sqlite_build)
 
     se = ss.add_parser("export", help="Export CSV from SQLite")
     se.add_argument("--sqlite", required=True, help="Source SQLite file")
     se.add_argument("--csv", required=True, help="Destination CSV file")
-    se.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    se.add_argument(
+        "--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name"
+    )
     se.set_defaults(func=run_sqlite_export)
 
     sv = ss.add_parser("verify", help="Verify CSV and SQLite are aligned")
     sv.add_argument("--csv", required=True, help="Source CSV file")
     sv.add_argument("--sqlite", required=True, help="SQLite file to check")
-    sv.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    sv.add_argument(
+        "--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name"
+    )
     sv.set_defaults(func=run_sqlite_verify)
 
-    sbrowse = ss.add_parser("browse", help="Open a local browser viewer for SQLite data")
-    sbrowse.add_argument("--sqlite", default=None, help="SQLite file to browse (defaults to atlas_db.sqlite if found)")
-    sbrowse.add_argument("--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name")
+    sbrowse = ss.add_parser(
+        "browse", help="Open a local browser viewer for SQLite data"
+    )
+    sbrowse.add_argument(
+        "--sqlite",
+        default=None,
+        help="SQLite file to browse (defaults to atlas_db.sqlite if found)",
+    )
+    sbrowse.add_argument(
+        "--table", default=sqlite_sync.DEFAULT_TABLE_NAME, help="SQLite table name"
+    )
     sbrowse.add_argument("--host", default=sqlite_viewer.DEFAULT_HOST)
     sbrowse.add_argument("--port", type=int, default=sqlite_viewer.DEFAULT_PORT)
-    sbrowse.add_argument("--no-open", action="store_true", help="Do not auto-open the browser")
+    sbrowse.add_argument(
+        "--no-open", action="store_true", help="Do not auto-open the browser"
+    )
     sbrowse.set_defaults(func=run_sqlite_browse)
-
 
     args = parser.parse_args()
     args.func(args)
+
 
 if __name__ == "__main__":
     main()

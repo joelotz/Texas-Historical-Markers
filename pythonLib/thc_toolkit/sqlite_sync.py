@@ -24,7 +24,6 @@ import pandas as pd
 from .utils import (
     assert_no_duplicate_ids,
     coerce_nullable_int_series,
-    normalize_match_series,
     parse_bool_series,
     require_columns,
 )
@@ -62,11 +61,15 @@ def _load_csv_frame(csv_path: str | Path) -> pd.DataFrame:
     require_columns(df, list(DEFAULT_KEY_COLUMNS), context="sqlite sync source CSV")
 
     for col in DEFAULT_KEY_COLUMNS:
-        df[col] = coerce_nullable_int_series(df[col], col, context="sqlite sync source CSV")
+        df[col] = coerce_nullable_int_series(
+            df[col], col, context="sqlite sync source CSV"
+        )
 
     for col in DEFAULT_BOOL_COLUMNS:
         if col in df.columns:
-            df[col] = parse_bool_series(df[col], col, context="sqlite sync source CSV", na_value=None)
+            df[col] = parse_bool_series(
+                df[col], col, context="sqlite sync source CSV", na_value=None
+            )
 
     return df
 
@@ -77,22 +80,30 @@ def _load_sqlite_frame(sqlite_path: str | Path, table_name: str) -> pd.DataFrame
         return pd.read_sql_query(query, conn)
 
 
-def _normalize_key_frame(df: pd.DataFrame, key_columns: Iterable[str], context: str) -> pd.DataFrame:
+def _normalize_key_frame(
+    df: pd.DataFrame, key_columns: Iterable[str], context: str
+) -> pd.DataFrame:
     require_columns(df, list(key_columns), context=context)
     out = pd.DataFrame(index=df.index)
     for col in key_columns:
-        out[col] = coerce_nullable_int_series(df[col], col, context=context).astype("string")
+        out[col] = coerce_nullable_int_series(df[col], col, context=context).astype(
+            "string"
+        )
     return out
 
 
 def _prepare_sqlite_frame(df: pd.DataFrame) -> pd.DataFrame:
     out = df.copy()
     for col in DEFAULT_KEY_COLUMNS:
-        out[col] = coerce_nullable_int_series(out[col], col, context="sqlite sync build").astype("string")
+        out[col] = coerce_nullable_int_series(
+            out[col], col, context="sqlite sync build"
+        ).astype("string")
     for col in DEFAULT_BOOL_COLUMNS:
         if col in out.columns:
             out[col] = (
-                parse_bool_series(out[col], col, context="sqlite sync build", na_value=None)
+                parse_bool_series(
+                    out[col], col, context="sqlite sync build", na_value=None
+                )
                 .astype("string")
                 .fillna("")
             )
@@ -108,13 +119,17 @@ def _normalize_frame_for_compare(df: pd.DataFrame) -> pd.DataFrame:
     for col in normalized.columns:
         if col in DEFAULT_KEY_COLUMNS:
             normalized[col] = (
-                coerce_nullable_int_series(normalized[col], col, context="sqlite sync compare")
+                coerce_nullable_int_series(
+                    normalized[col], col, context="sqlite sync compare"
+                )
                 .astype("string")
                 .fillna("")
             )
         elif col in DEFAULT_BOOL_COLUMNS:
             normalized[col] = (
-                parse_bool_series(normalized[col], col, context="sqlite sync compare", na_value=None)
+                parse_bool_series(
+                    normalized[col], col, context="sqlite sync compare", na_value=None
+                )
                 .astype("string")
                 .fillna("")
             )
@@ -143,7 +158,9 @@ def build_sqlite_from_csv(
     """
     df = _load_csv_frame(csv_path)
     if strict_ids:
-        assert_no_duplicate_ids(df, list(DEFAULT_KEY_COLUMNS), context="sqlite sync source CSV")
+        assert_no_duplicate_ids(
+            df, list(DEFAULT_KEY_COLUMNS), context="sqlite sync source CSV"
+        )
     df = _prepare_sqlite_frame(df)
 
     _ensure_parent_dir(sqlite_path)
@@ -257,7 +274,9 @@ def verify_sqlite_sync(
 
 
 def main(argv: list[str] | None = None) -> None:
-    parser = argparse.ArgumentParser(prog="thc sqlite", description="CSV / SQLite sync tools")
+    parser = argparse.ArgumentParser(
+        prog="thc sqlite", description="CSV / SQLite sync tools"
+    )
     sub = parser.add_subparsers(dest="command", required=True)
 
     build = sub.add_parser("build", help="Rebuild SQLite from CSV")

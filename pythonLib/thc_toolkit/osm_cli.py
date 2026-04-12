@@ -23,10 +23,19 @@ import requests
 import pandas as pd
 from datetime import datetime
 import json
+
 try:
-    from .utils import require_columns, assert_no_duplicate_ids, coerce_nullable_int_series
+    from .utils import (
+        require_columns,
+        assert_no_duplicate_ids,
+        coerce_nullable_int_series,
+    )
 except ImportError:  # pragma: no cover - compatibility for direct script execution
-    from utils import require_columns, assert_no_duplicate_ids, coerce_nullable_int_series  # type: ignore
+    from utils import (
+        require_columns,
+        assert_no_duplicate_ids,
+        coerce_nullable_int_series,
+    )  # type: ignore
 
 
 def _normalize_scalar(value):
@@ -38,12 +47,24 @@ def _normalize_scalar(value):
 
 # ---------- Core Functions ---------- #
 
+
 def read_atlas(filename):
-    types = {'ref:US-TX:thc':'Int32','ref:hmdb':'Int32','start_date':'Int32',
-             'UTM Easting':'Int32','UTM Northing':'Int32','UTM Zone':'Int16',
-             'isTHC':'boolean','isHMDB':'boolean','isOSM':'boolean','isMissing':'boolean',
-             'isPending':'boolean','Recorded Texas Historic Landmark':'boolean',
-             'Private Property':'boolean','inGoogle':'boolean'}
+    types = {
+        "ref:US-TX:thc": "Int32",
+        "ref:hmdb": "Int32",
+        "start_date": "Int32",
+        "UTM Easting": "Int32",
+        "UTM Northing": "Int32",
+        "UTM Zone": "Int16",
+        "isTHC": "boolean",
+        "isHMDB": "boolean",
+        "isOSM": "boolean",
+        "isMissing": "boolean",
+        "isPending": "boolean",
+        "Recorded Texas Historic Landmark": "boolean",
+        "Private Property": "boolean",
+        "inGoogle": "boolean",
+    }
 
     return pd.read_csv(filename, dtype=types, low_memory=False)
 
@@ -61,7 +82,9 @@ def create_nodes(df):
         ],
         context="create_nodes input",
     )
-    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input")
+    assert_no_duplicate_ids(
+        df, ["ref:US-TX:thc", "ref:hmdb"], context="create_nodes input"
+    )
     thc_ref = coerce_nullable_int_series(
         df["ref:US-TX:thc"], "ref:US-TX:thc", context="create_nodes input"
     )
@@ -73,8 +96,12 @@ def create_nodes(df):
 
     for index, row in df.iterrows():
         try:
-            lat = pd.to_numeric(pd.Series([row["hmdb:Latitude"]]), errors="coerce").iloc[0]
-            lon = pd.to_numeric(pd.Series([row["hmdb:Longitude"]]), errors="coerce").iloc[0]
+            lat = pd.to_numeric(
+                pd.Series([row["hmdb:Latitude"]]), errors="coerce"
+            ).iloc[0]
+            lon = pd.to_numeric(
+                pd.Series([row["hmdb:Longitude"]]), errors="coerce"
+            ).iloc[0]
             if pd.isna(lat) or pd.isna(lon):
                 row_errors.append(f"row {index}: invalid hmdb:Latitude/hmdb:Longitude")
                 continue
@@ -95,13 +122,13 @@ def create_nodes(df):
                 "source:website": _normalize_scalar(row["website"]),
             }
             if pd.notna(row_hmdb):
-                tags["memorial:website"] = f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
+                tags["memorial:website"] = (
+                    f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
+                )
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
 
-            nodes.append({"lat": float(lat),
-                          "lon": float(lon),
-                          "tags": tags})
+            nodes.append({"lat": float(lat), "lon": float(lon), "tags": tags})
 
         except Exception as e:
             row_errors.append(f"row {index}: {e}")
@@ -120,7 +147,8 @@ def push2josm(nodes):
 
     for node in nodes:
         clean_tags = {
-            k: v for k, v in node["tags"].items()
+            k: v
+            for k, v in node["tags"].items()
             if v is not None and not (isinstance(v, str) and v.strip() == "")
         }
         tag_str = "|".join(f"{k}={v}" for k, v in clean_tags.items())
@@ -148,7 +176,7 @@ def write2csv(df, filename, date=False):
 def find_missing_osm(atlas, geojson):
     require_columns(atlas, ["ref:US-TX:thc"], context="atlas")
     assert_no_duplicate_ids(atlas, ["ref:US-TX:thc"], context="atlas")
-    with open(geojson,'r') as f:
+    with open(geojson, "r") as f:
         data = json.load(f)
     osm_ref_values = [
         str(f["properties"]["ref:US-TX:thc"]).strip()
@@ -176,11 +204,12 @@ def update_isOSM(updated_refs, atlas):
     atlas.loc[atlas["ref:US-TX:thc"].isin(updated_refs), "isOSM"] = True
     after = atlas["isOSM"].sum()
 
-    print(f"[OK] Updated {after-before} markers as OSM-present")
+    print(f"[OK] Updated {after - before} markers as OSM-present")
     return atlas
 
 
 # ---------- CLI Entry ---------- #
+
 
 def main():
     parser = argparse.ArgumentParser(description="THC OSM Integration CLI")
@@ -212,7 +241,6 @@ def main():
 
     args = parser.parse_args()
 
-
     # Commands
     if args.cmd == "load":
         atlas = read_atlas(args.file)
@@ -222,7 +250,8 @@ def main():
     elif args.cmd == "create-nodes":
         df = read_atlas(args.csv)
         nodes = create_nodes(df)
-        with open(args.out,"w") as f: json.dump(nodes,f,indent=2)
+        with open(args.out, "w") as f:
+            json.dump(nodes, f, indent=2)
         print(f"[OK] Generated {len(nodes)} nodes → {args.out}")
 
     elif args.cmd == "push-josm":
@@ -232,7 +261,7 @@ def main():
 
     elif args.cmd == "find-missing":
         atlas = read_atlas(args.csv)
-        missing = find_missing_osm(atlas,args.geo)
+        missing = find_missing_osm(atlas, args.geo)
         print(missing)
 
     elif args.cmd == "update-isOSM":
@@ -240,6 +269,7 @@ def main():
         refs = [n["tags"]["ref:US-TX:thc"] for n in json.load(open(args.nodes))]
         updated = update_isOSM(refs, atlas)
         write2csv(updated, args.out)
+
 
 if __name__ == "__main__":
     main()

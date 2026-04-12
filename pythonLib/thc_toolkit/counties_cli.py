@@ -3,7 +3,7 @@
 THC Unmapped Marker Export Tool — Enhanced w/ SIMPLE mode + Safe Integer Output
 -----------------------------------------------------------------------------
 
-Exports Texas Historical Marker datasets per county OR merged.  
+Exports Texas Historical Marker datasets per county OR merged.
 Supports simplified CSVs via `--simple`.
 
 All output CSVs — simple or full — guarantee:
@@ -22,6 +22,7 @@ import os
 import argparse
 import pandas as pd
 import json
+
 try:
     from .utils import (
         require_columns,
@@ -43,9 +44,16 @@ except ImportError:  # pragma: no cover - compatibility for direct script execut
 
 # Columns used when --simple is applied
 simple_fields = [
-    "ref:US-TX:thc", "ref:hmdb", "OsmNodeID", "name",
-    "website", "memorial:website", "addr:city", "addr:county",
-    "thc:Latitude", "thc:Longitude"
+    "ref:US-TX:thc",
+    "ref:hmdb",
+    "OsmNodeID",
+    "name",
+    "website",
+    "memorial:website",
+    "addr:city",
+    "addr:county",
+    "thc:Latitude",
+    "thc:Longitude",
 ]
 
 # These must always be exported as integers
@@ -61,18 +69,27 @@ default_input_candidates = [
 
 # ====================== Core Load & Filtering ======================
 
+
 def load_filtered(input_file):
     df = pd.read_csv(input_file, low_memory=False)
-    require_columns(df, ["ref:hmdb", "isMissing", "isPrivate"], context="counties input")
+    require_columns(
+        df, ["ref:hmdb", "isMissing", "isPrivate"], context="counties input"
+    )
 
     # unmapped detection logic
     hmdb = df["ref:hmdb"].astype(str).str.strip().str.casefold()
     is_unmapped = hmdb.isin(["", "nan", "none", "null", "na"]) | df["ref:hmdb"].isna()
-    is_missing = parse_bool_series(df["isMissing"], "isMissing", context="counties input", na_value=False)
-    is_private = parse_bool_series(df["isPrivate"], "isPrivate", context="counties input", na_value=False)
+    is_missing = parse_bool_series(
+        df["isMissing"], "isMissing", context="counties input", na_value=False
+    )
+    is_private = parse_bool_series(
+        df["isPrivate"], "isPrivate", context="counties input", na_value=False
+    )
     base = df[is_unmapped & ~is_missing & ~is_private].copy()
 
-    assert_no_duplicate_ids(base, ["ref:US-TX:thc", "ref:hmdb"], context="counties filtered input")
+    assert_no_duplicate_ids(
+        base, ["ref:US-TX:thc", "ref:hmdb"], context="counties filtered input"
+    )
     return base
 
 
@@ -93,11 +110,14 @@ def resolve_input_path(input_file=None):
 
 # ====================== Transformation Helpers ======================
 
+
 def enforce_integer_safe(df):
     """Guarantee int_fields are Int64 type in exported files."""
     for col in int_fields:
         if col in df.columns:
-            df[col] = coerce_nullable_int_series(df[col], col, context="counties export")
+            df[col] = coerce_nullable_int_series(
+                df[col], col, context="counties export"
+            )
         else:
             df[col] = pd.Series([pd.NA] * len(df), dtype="Int64")
     return df
@@ -109,14 +129,17 @@ def apply_simple(df):
         if col not in df.columns:
             df[col] = ""
     df = df[simple_fields].copy()
-    return enforce_integer_safe(df)   # ← still integer correct
+    return enforce_integer_safe(df)  # ← still integer correct
 
 
 # ====================== Export Methods ======================
 
+
 def export_counties(df, outdir, simple=False):
     require_columns(df, ["addr:county"], context="counties export input")
-    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="counties export input")
+    assert_no_duplicate_ids(
+        df, ["ref:US-TX:thc", "ref:hmdb"], context="counties export input"
+    )
     os.makedirs(outdir, exist_ok=True)
     summary = {}
     normalized = normalize_match_series(df["addr:county"])
@@ -137,7 +160,11 @@ def export_counties(df, outdir, simple=False):
         safe = str(county_label).replace(" ", "_").replace("/", "-")
         outfile = os.path.join(outdir, f"{safe}.csv")
         export_group = group.drop(columns=["__county_key"])
-        out = apply_simple(export_group) if simple else enforce_integer_safe(export_group.copy())
+        out = (
+            apply_simple(export_group)
+            if simple
+            else enforce_integer_safe(export_group.copy())
+        )
         out.to_csv(outfile, index=False)
 
         summary[county_label] = len(out)
@@ -147,7 +174,9 @@ def export_counties(df, outdir, simple=False):
 
 def export_single_county(df, county, outdir, simple=False):
     require_columns(df, ["addr:county"], context="single county export input")
-    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="single county export input")
+    assert_no_duplicate_ids(
+        df, ["ref:US-TX:thc", "ref:hmdb"], context="single county export input"
+    )
     os.makedirs(outdir, exist_ok=True)
     county_key = normalize_match_key(county)
     subset = df[normalize_match_series(df["addr:county"]).eq(county_key)].copy()
@@ -167,13 +196,16 @@ def export_single_county(df, county, outdir, simple=False):
 
 
 def merge_all(df, filename, simple=False):
-    assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="counties merge input")
+    assert_no_duplicate_ids(
+        df, ["ref:US-TX:thc", "ref:hmdb"], context="counties merge input"
+    )
     out = apply_simple(df) if simple else enforce_integer_safe(df.copy())
     out.to_csv(filename, index=False)
     print(f"✔ Merged master → {filename} ({len(out)} rows)")
 
 
 # ====================== Summary ======================
+
 
 def write_summary_json(summary, filename):
     with open(filename, "w") as f:
@@ -190,6 +222,7 @@ def print_stats_table(summary):
 
 # ====================== CLI ======================
 
+
 def cli():
     p = argparse.ArgumentParser(description="Export THC marker datasets")
     p.add_argument(
@@ -198,7 +231,7 @@ def cli():
         default=None,
         help="Path to marker CSV (auto-detects common paths when omitted)",
     )
-    p.add_argument("-o","--output", default="UnmappedMarkersPerCounty")
+    p.add_argument("-o", "--output", default="UnmappedMarkersPerCounty")
     p.add_argument("--county")
     p.add_argument("--merge", metavar="FILE")
     p.add_argument("--summary-json", metavar="FILE")
@@ -216,20 +249,26 @@ def cli():
     # single county mode
     if args.county:
         summary = export_single_county(df, args.county, args.output, args.simple)
-        if summary and args.stats: print_stats_table(summary)
-        if summary and args.summary_json: write_summary_json(summary, args.summary_json)
+        if summary and args.stats:
+            print_stats_table(summary)
+        if summary and args.summary_json:
+            write_summary_json(summary, args.summary_json)
         return
 
     # all counties
     summary = export_counties(df, args.output, args.simple)
 
-    if args.merge: merge_all(df, args.merge, args.simple)
-    if args.stats: print_stats_table(summary)
-    if args.summary_json: write_summary_json(summary, args.summary_json)
+    if args.merge:
+        merge_all(df, args.merge, args.simple)
+    if args.stats:
+        print_stats_table(summary)
+    if args.summary_json:
+        write_summary_json(summary, args.summary_json)
 
 
 def main():
     cli()
+
 
 if __name__ == "__main__":
     main()

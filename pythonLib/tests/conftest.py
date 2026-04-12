@@ -2,6 +2,7 @@ import pytest
 import pandas as pd
 import json
 
+
 @pytest.fixture
 def sample_atlas_df():
     """Provides a sample DataFrame representing atlas_db.csv for testing."""
@@ -18,9 +19,10 @@ def sample_atlas_df():
         "isMissing": pd.Series([False, False, True], dtype="boolean"),
         "isPrivate": pd.Series([False, True, False], dtype="boolean"),
         "addr:county": ["Travis", "Travis", "Williamson"],
-        "addr:city": ["Austin", "Austin", "Round Rock"]
+        "addr:city": ["Austin", "Austin", "Round Rock"],
     }
     return pd.DataFrame(data)
+
 
 @pytest.fixture
 def dummy_hmdb_csv(tmp_path):
@@ -35,22 +37,16 @@ def dummy_hmdb_csv(tmp_path):
     file_path.write_text(content)
     return str(file_path)
 
+
 @pytest.fixture
 def dummy_geojson_file(tmp_path):
     """Creates a temporary GeoJSON file representing markers already in OSM."""
     file_path = tmp_path / "osm_extract.geojson"
     data = {
         "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "ref:US-TX:thc": "1001"
-                }
-            }
-        ]
+        "features": [{"type": "Feature", "properties": {"ref:US-TX:thc": "1001"}}],
     }
     with open(file_path, "w") as f:
         json.dump(data, f)
-    
+
     return str(file_path)

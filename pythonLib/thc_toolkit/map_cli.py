@@ -32,9 +32,17 @@ from .utils import (
     assert_no_duplicate_ids,
 )
 
+DEFAULT_TILES = "CartoDB positron"
+
 
 def filter_markers(df, county=None, city=None, unmapped=False):
-    required = ["isMissing", "hmdb:Latitude", "hmdb:Longitude", "thc:Latitude", "thc:Longitude"]
+    required = [
+        "isMissing",
+        "hmdb:Latitude",
+        "hmdb:Longitude",
+        "thc:Latitude",
+        "thc:Longitude",
+    ]
     if county:
         required.append("addr:county")
     if city:
@@ -44,17 +52,23 @@ def filter_markers(df, county=None, city=None, unmapped=False):
     require_columns(df, required, context="map input")
     assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="map input")
 
-    is_missing = parse_bool_series(df["isMissing"], "isMissing", context="map input", na_value=False)
+    is_missing = parse_bool_series(
+        df["isMissing"], "isMissing", context="map input", na_value=False
+    )
     mask = ~is_missing
 
     if county:
-        mask &= normalize_match_series(df["addr:county"]).eq(normalize_match_key(county))
+        mask &= normalize_match_series(df["addr:county"]).eq(
+            normalize_match_key(county)
+        )
 
     if city:
         mask &= normalize_match_series(df["addr:city"]).eq(normalize_match_key(city))
 
     if unmapped:
-        is_osm = parse_bool_series(df["isOSM"], "isOSM", context="map input", na_value=False)
+        is_osm = parse_bool_series(
+            df["isOSM"], "isOSM", context="map input", na_value=False
+        )
         mask &= ~is_osm
 
     out = df.loc[mask].copy()
@@ -89,17 +103,20 @@ def write_html_map(df, outfile, title=None):
     center_lat = df["map_lat"].mean()
     center_lon = df["map_lon"].mean()
 
-    m = folium.Map(location=[center_lat, center_lon], zoom_start=10)
+    # Use a tile source that works reliably from local file:// HTML output.
+    m = folium.Map(
+        location=[center_lat, center_lon], zoom_start=10, tiles=DEFAULT_TILES
+    )
 
     for _, row in df.iterrows():
         popup = folium.Popup(
             f"""
-            <b>{row.get('name', '')}</b><br>
-            THC: {row.get('ref:US-TX:thc', '')}<br>
-            HMDB: {row.get('ref:hmdb', '')}<br>
-            City: {row.get('addr:city', '')}<br>
-            County: {row.get('addr:county', '')}<br>
-            isOSM: {row.get('isOSM', '')}
+            <b>{row.get("name", "")}</b><br>
+            THC: {row.get("ref:US-TX:thc", "")}<br>
+            HMDB: {row.get("ref:hmdb", "")}<br>
+            City: {row.get("addr:city", "")}<br>
+            County: {row.get("addr:county", "")}<br>
+            isOSM: {row.get("isOSM", "")}
             """,
             max_width=300,
         )
@@ -155,17 +172,20 @@ def run_with_args(args):
         features = []
         for _, row in filtered.iterrows():
             props = row.drop(labels=["map_lat", "map_lon"]).to_dict()
-            features.append({
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [row["map_lon"], row["map_lat"]],
-                },
-                "properties": props,
-            })
+            features.append(
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [row["map_lon"], row["map_lat"]],
+                    },
+                    "properties": props,
+                }
+            )
 
         geojson = {"type": "FeatureCollection", "features": features}
         import json
+
         with open(geojson_file, "w", encoding="utf-8") as f:
             json.dump(geojson, f, indent=2, default=str)
         print(f"Wrote {geojson_file}")
@@ -180,7 +200,9 @@ def run_with_args(args):
                 f.write("  <Placemark>\n")
                 f.write(f"    <name>{name}</name>\n")
                 f.write("    <Point>\n")
-                f.write(f"      <coordinates>{row['map_lon']},{row['map_lat']},0</coordinates>\n")
+                f.write(
+                    f"      <coordinates>{row['map_lon']},{row['map_lat']},0</coordinates>\n"
+                )
                 f.write("    </Point>\n")
                 f.write("  </Placemark>\n")
             f.write("</Document>\n</kml>\n")
@@ -191,9 +213,7 @@ def run_with_args(args):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Map THC markers by county/city."
-    )
+    parser = argparse.ArgumentParser(description="Map THC markers by county/city.")
     parser.add_argument("--data", required=True)
     parser.add_argument("--county")
     parser.add_argument("--city")

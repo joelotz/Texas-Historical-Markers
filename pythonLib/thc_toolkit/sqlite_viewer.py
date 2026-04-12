@@ -62,7 +62,9 @@ def resolve_default_sqlite_path(sqlite_path: str | Path | None = None) -> str:
 
 def _sqlite_columns(sqlite_path: str | Path, table_name: str) -> list[str]:
     with sqlite3.connect(sqlite_path) as conn:
-        rows = conn.execute(f"PRAGMA table_info({_quote_identifier(table_name)})").fetchall()
+        rows = conn.execute(
+            f"PRAGMA table_info({_quote_identifier(table_name)})"
+        ).fetchall()
     return [row[1] for row in rows]
 
 
@@ -117,12 +119,16 @@ def _build_where_clause(
 
     if county_list:
         clauses.append(
-            "(" + " OR ".join(['LOWER(COALESCE("addr:county", "")) = ?'] * len(county_list)) + ")"
+            "("
+            + " OR ".join(['LOWER(COALESCE("addr:county", "")) = ?'] * len(county_list))
+            + ")"
         )
         params.extend([value.strip().lower() for value in county_list])
     if city_list:
         clauses.append(
-            "(" + " OR ".join(['LOWER(COALESCE("addr:city", "")) = ?'] * len(city_list)) + ")"
+            "("
+            + " OR ".join(['LOWER(COALESCE("addr:city", "")) = ?'] * len(city_list))
+            + ")"
         )
         params.extend([value.strip().lower() for value in city_list])
 
@@ -146,7 +152,11 @@ def query_rows(
     starts empty until the user requests data.
     """
     if not county and not city:
-        return {"rows": [], "total": 0, "columns": _available_display_columns(sqlite_path, table_name)}
+        return {
+            "rows": [],
+            "total": 0,
+            "columns": _available_display_columns(sqlite_path, table_name),
+        }
 
     table_sql = _quote_identifier(table_name)
     where_sql, params = _build_where_clause(county, city)
@@ -174,10 +184,7 @@ def query_rows(
         )
         rows = conn.execute(query_sql, [*params, limit, offset]).fetchall()
 
-    payload_rows = [
-        {col: row[col] for col in columns}
-        for row in rows
-    ]
+    payload_rows = [{col: row[col] for col in columns} for row in rows]
     return {"rows": payload_rows, "total": total, "columns": columns}
 
 
@@ -758,12 +765,21 @@ def serve_sqlite_browser(
 
 
 def main(argv: list[str] | None = None) -> None:
-    parser = argparse.ArgumentParser(prog="thc sqlite browse", description="Browse THC SQLite data in a local web app")
-    parser.add_argument("--sqlite", default=None, help="SQLite file to browse (defaults to atlas_db.sqlite if found)")
+    parser = argparse.ArgumentParser(
+        prog="thc sqlite browse",
+        description="Browse THC SQLite data in a local web app",
+    )
+    parser.add_argument(
+        "--sqlite",
+        default=None,
+        help="SQLite file to browse (defaults to atlas_db.sqlite if found)",
+    )
     parser.add_argument("--table", default=DEFAULT_TABLE_NAME, help="SQLite table name")
     parser.add_argument("--host", default=DEFAULT_HOST)
     parser.add_argument("--port", type=int, default=DEFAULT_PORT)
-    parser.add_argument("--no-open", action="store_true", help="Do not auto-open the browser")
+    parser.add_argument(
+        "--no-open", action="store_true", help="Do not auto-open the browser"
+    )
     args = parser.parse_args(argv)
 
     server = serve_sqlite_browser(
