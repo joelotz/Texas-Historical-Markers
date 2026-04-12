@@ -110,3 +110,11 @@ System tool note:
 - Confirm with tests before claiming success.
 - If no automated test covers a change, add/update tests or clearly state the gap and provide manual verification steps.
 - Keep docs and code in sync: examples in docs should run as written.
+
+## Command: `/review`
+
+When the user issues the `/review` command, execute the following workflow autonomously:
+1. **Tests**: Run all tests (e.g., `make verify` or `pytest`). If they fail, proactively fix the tests or code and try again.
+2. **Lint**: Once tests pass, run the linter and formatter (e.g., `ruff format .` and `ruff check .`). Fix any linter errors iteratively until clean.
+3. **Build**: Verify the build succeeds (e.g., `make verify`). Fix any issues and try again.
+4. **Commit & Push**: After a passing review where tests, lint, and build all completely succeed, automatically group the changes into a git commit with a message summarizing what was modified, and `git push` to the remote repository.
