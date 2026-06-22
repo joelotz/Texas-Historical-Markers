@@ -32,29 +32,28 @@ Note the field names are compliant to OSM keys.
 | 9      | isMissing                                                    | Boolean       | Indicates if THC or someone has identified this marker as missing and not currently being displayed. |
 | 10     | isPending                                                    | Boolean       | Indicates that THC has marked this as pending. Typical occurs when the org as approved the marker but locals have not erected it. Not easily confirmed. |
 | 11     | isOSM                                                        | Boolean       | Indicates if the marker is in osm.org map database.          |
-| 12     | [start_date](https://wiki.openstreetmap.org/wiki/Key:start_date) | 32bit Integer | The date THC authorized the creation of this historical marker. |
-| 13     | [addr:full](https://wiki.openstreetmap.org/wiki/Key:addr:*#Commonly_used_subkeys) | String        | The house number and street address of the marker. Data is from THC but updated from site visits or hmdb.org reverse geocoding when available. |
-| 14     | [addr:city](https://wiki.openstreetmap.org/wiki/Key:addr:city) | String        | City where the marker is located.                            |
-| 15     | [addr:county](https://wiki.openstreetmap.org/wiki/Key:addr:county) | String        | County where the marker is located. Useful for filtering.    |
-| 16     | UTM Zone                                                     | 16bit Integer | Calculated UTM Zone based on THC provided UTM coordinates.   |
-| 17     | UTM Easting                                                  | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Latitude are much more accurate. |
-| 18     | UTM Northing                                                 | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Longitude are much more accurate. |
-| 19     | thc:Latitude                                                 | Float         | Degree decimal coordinate calculated from the THC UTM coordinates. |
-| 20     | thc:Longitude                                                | Float         | Degree decimal coordinate calculated from the THC UTM coordinates. |
-| 21     | hmdb:Latitude                                                | Float         | Degree decimal coordinates provide by users from the hmdb.org page. Much more accurate then the THC provided location. |
-| 22     | hmdb:Longitude                                               | Float         | Degree decimal coordinates provide by users from the hmdb.org page. Much more accurate then the THC provided location. |
-| 23     | Recorded Texas Historic Landmark                             | Boolean       | Carried from Atlas provided data.                            |
-| 24     | thc:designation                                              | Enumeration   | [Historical Marker, Recorded Texas Historic Landmark], provided by THC. |
-| 25     | Private Property                                             | Boolean       | True=Private property that often restricts access to the historical marker |
+| 12     | isPrivate                                                        | Boolean       | Indicates if the marker is on private property. This seems unintuitive but there exists markers on private property and in Texas it is a bad idea to enter where you are not welcome.          |
+| 13     | [start_date](https://wiki.openstreetmap.org/wiki/Key:start_date) | 32bit Integer | The date THC authorized the creation of this historical marker. |
+| 14     | [addr:full](https://wiki.openstreetmap.org/wiki/Key:addr:*#Commonly_used_subkeys) | String        | The house number and street address of the marker. Data is from THC but updated from site visits or hmdb.org reverse geocoding when available. |
+| 15     | [addr:city](https://wiki.openstreetmap.org/wiki/Key:addr:city) | String        | City where the marker is located.                            |
+| 16     | [addr:county](https://wiki.openstreetmap.org/wiki/Key:addr:county) | String        | County where the marker is located. Useful for filtering.    |
+| 17     | UTM Zone                                                     | 16bit Integer | Calculated UTM Zone based on THC provided UTM coordinates.   |
+| 18     | UTM Easting                                                  | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Latitude are much more accurate. |
+| 19     | UTM Northing                                                 | 32bit Integer | THC provide UTM coordinate. Often inaccurate. The hmdb:Longitude are much more accurate. |
+| 20     | thc:Latitude                                                 | Float         | Degree decimal coordinate calculated from the THC UTM coordinates. |
+| 21     | thc:Longitude                                                | Float         | Degree decimal coordinate calculated from the THC UTM coordinates. |
+| 22     | hmdb:Latitude                                                | Float         | Degree decimal coordinates provide by users from the hmdb.org page. Much more accurate then the THC provided location. |
+| 23     | hmdb:Longitude                                               | Float         | Degree decimal coordinates provide by users from the hmdb.org page. Much more accurate then the THC provided location. |
+| 24     | Recorded Texas Historic Landmark                             | Boolean       | Carried from Atlas provided data.                            |
+| 25     | thc:designation                                              | Enumeration   | [Historical Marker, Recorded Texas Historic Landmark], provided by THC. |
 | 26     | Marker Notes                                                 | String        | Often carried from Atlas provided data.                      |
 | 27     | [wikimedia_commons](https://wiki.openstreetmap.org/wiki/Key:wikimedia_commons) | String        | Public Domain images of the markers located in https://meta.wikimedia.org/. |
 | 28     | subject:wikimedia_commons                                    | String        | Public Domain images of the subject the marker is about, located in https://meta.wikimedia.org/. |
 | 29     | subject:wikipedia                                            | String        | Wikipedia link to the subject of the marker.                 |
-| 30     | wikidata                                                     | String        | Wikidata ID for the marker. Will start with a “Q”.           |
-| 31     | subject:wikidata                                             | String        | Wikidata ID for the subject of the marker. Will start with a “Q”. |
-| 32     | Marker Text                                                  | String        | The actual inscription of the marker.                        |
-| 33     | inscription_size                                             | Integer       | The character link of the marker text (inscription)          |
-| 34     | DATA_NOTE                                                    | String        | {DELETE ME}                                                  |
+| 30     | subject:wikidata                                             | String        | Wikidata ID for the subject of the marker. Will start with a “Q”. |
+| 31     | Marker Text                                                  | String        | The actual inscription of the marker.                        |
+| 32     | inscription_size                                             | Integer       | The character link of the marker text (inscription)          |
+| 33     | DATA_NOTE                                                    | String        | {DELETE ME}                                                  |
 
 ## For AI-assisted contributors
 
