@@ -7,6 +7,7 @@ Commands:
     thc counties   → export county-based CSVs (supports --simple)
     thc route      → KML route + proximity mapping tools
     thc sqlite     → CSV / SQLite sync tools
+    thc hmdb       → reconcile / apply hmdb.org enrichments into atlas_db.csv
     thc docs       → show docs for subcommands
 
 Examples:
@@ -24,6 +25,7 @@ from . import route_cli
 from . import map_cli
 from . import sqlite_sync
 from . import sqlite_viewer
+from . import hmdb_sync
 from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
@@ -312,6 +314,46 @@ def main():
         "--no-open", action="store_true", help="Do not auto-open the browser"
     )
     sbrowse.set_defaults(func=run_sqlite_browse)
+
+    # -------- HMDB sync CLI --------
+    hs = sub.add_parser(
+        "hmdb",
+        help="Reconcile and apply hmdb.org enrichments into atlas_db.csv",
+    )
+    hss = hs.add_subparsers(dest="hmdb_command", required=True)
+
+    hsr = hss.add_parser(
+        "reconcile",
+        help="Identify hmdb rows that should enrich atlas; writes review CSVs",
+    )
+    hsr.add_argument("hmdb", help="Raw hmdb.org export CSV (any scope)")
+    hsr.add_argument(
+        "--atlas", default="atlas_db.csv", help="Path to atlas_db.csv"
+    )
+    hsr.add_argument(
+        "--out-dir", default=".", help="Directory to write review CSVs into"
+    )
+    hsr.set_defaults(func=hmdb_sync.run_reconcile)
+
+    hsa = hss.add_parser(
+        "apply",
+        help="Apply approved enrichments from dispositioned review CSVs",
+    )
+    hsa.add_argument("--hmdb", required=True, help="Raw hmdb.org export CSV")
+    hsa.add_argument(
+        "--review-dir",
+        required=True,
+        help="Directory containing dispositioned review CSVs",
+    )
+    hsa.add_argument(
+        "--atlas", default="atlas_db.csv", help="Path to atlas_db.csv"
+    )
+    hsa.add_argument(
+        "--no-backup",
+        action="store_true",
+        help="Skip writing atlas_db.csv.bak.<ts>",
+    )
+    hsa.set_defaults(func=hmdb_sync.run_apply)
 
     args = parser.parse_args()
     args.func(args)
