@@ -17,7 +17,7 @@ Ideal for HMDB uploads, OpenStreetMap contributions, field research, and road tr
 ---
 
 ## ❗Important Note❗
-First and foremost, I wanted to be completely transparent and say that there is a lot of vibe coding in here. If you go through the commit history you will see that I was working on this for a year and a half. I wrote the core logic in a Jupyter notebook and then slowly started to refactor it into a CLI tool. After that, I started learning Codex and let it refactor the code into what it is today. 
+First and foremost, I wanted to be completely transparent and say that there is a lot of vibe coding in here. If you go through the commit history you will see that I was working on this for a year and a half. I wrote the core logic in a Jupyter notebook and then slowly started to refactor it into a CLI tool. After that, I started learning AI agents and began refactoring and building the code into what it is today. 
 
 In Redit and the forums people give a lot of crap for vibe-coding so I wanted to be upfront about it. I did a lot of work, and continue to do a lot of work on this project - with the goal of creating an accurate and comprehensive database of Texas Historical Markers.
 
