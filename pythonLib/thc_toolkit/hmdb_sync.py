@@ -1,7 +1,7 @@
 """HMDB → atlas_db enrichment: identification and apply.
 
 Two-phase workflow for syncing hmdb.org marker exports into the canonical
-atlas_db.csv. See ``.codex/skills/hmdb-sync`` for the user-facing skill and
+atlas_db.csv. See ``.agents/skills/hmdb-sync`` for the user-facing skill and
 ``hmdb.md`` at the project root for the strategy.
 
 Phase 1 — ``thc hmdb reconcile`` (identification, read-only on atlas):

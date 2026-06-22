@@ -40,6 +40,43 @@ Module CLIs for direct development/debugging are also valid:
 - Avoid duplicating business logic between subcommands; share common filtering/export helpers.
 - Preserve backward compatibility of command flags and output schemas unless a deliberate versioned change is planned.
 
+## Skills
+
+Project-specific skills live under `.agents/skills/`. Each skill is a self-contained
+folder with a `SKILL.md` (purpose + workflow), optional `references/` (deep context),
+and optional `scripts/` (helpers). They are written in agent-neutral language so any
+AI coding assistant can use them.
+
+| Skill | When to use |
+|-------|-------------|
+| [`hmdb-sync`](.agents/skills/hmdb-sync/SKILL.md) | Reconcile an hmdb.org marker export into `atlas_db.csv`. Two-phase: identify → human review → apply. |
+| [`thc-cli`](.agents/skills/thc-cli/SKILL.md) | Install, run, and verify the `thc` CLI; canonical subcommands and fallback invocations. |
+| [`thc-data-quality`](.agents/skills/thc-data-quality/SKILL.md) | Audit CSV handling for NaNs, type coercion, duplicate IDs, silent corruption. |
+| [`thc-osm-sync`](.agents/skills/thc-osm-sync/SKILL.md) | Atlas → OSM workflow: create nodes, push to JOSM, compare against extracts, update `isOSM`. |
+
+**Before acting** in any of these areas, read the relevant `SKILL.md` first — they
+encode invariants (e.g. the hmdb-sync human-review gate, the data contract for
+`atlas_db.csv`) that aren't obvious from the code alone.
+
+### Layout
+
+- **`.agents/skills/<name>/`** — the canonical, version-controlled location.
+- **`.claude/skills/<name>/`** — relative symlinks into `.agents/skills/`, local-only
+  (gitignored). They exist so Claude Code's discovery mechanism finds the skills.
+  Other harnesses can be supported the same way by symlinking from their expected path.
+
+This keeps a single source of truth in the repo while letting each contributor's
+harness discover skills via the path it expects.
+
+### Adding a skill
+
+1. Create `.agents/skills/<name>/SKILL.md` with frontmatter (`name`, `description`).
+2. Write the body in agent-neutral language — no harness-specific tool names,
+   no `~/.claude/...` paths, no slash-command invocation instructions.
+3. Add a row to the table above.
+4. If the skill should be discoverable by your local agent, symlink it from the
+   harness's expected directory (e.g. `ln -sfn ../../.agents/skills/<name> .claude/skills/<name>`).
+
 ## Python Version Target
 
 - Target: Python `>=3.10`

@@ -56,5 +56,13 @@ Note the field names are compliant to OSM keys.
 | 33     | inscription_size                                             | Integer       | The character link of the marker text (inscription)          |
 | 34     | DATA_NOTE                                                    | String        | {DELETE ME}                                                  |
 
+## For AI-assisted contributors
+
+This repo ships project-specific skills under [`.agents/skills/`](./.agents/skills/) that
+codify the established workflows (HMDB reconciliation, OSM sync, data-quality audits,
+CLI usage). They're written to be agent-agnostic — Claude Code, Codex, Cursor, Aider,
+and similar tools can all consume them. See [AGENTS.md](./AGENTS.md#skills) for the
+layout and how to use them.
+
 
 
