@@ -53,6 +53,7 @@ AI coding assistant can use them.
 | [`thc-cli`](.agents/skills/thc-cli/SKILL.md) | Install, run, and verify the `thc` CLI; canonical subcommands and fallback invocations. |
 | [`thc-data-quality`](.agents/skills/thc-data-quality/SKILL.md) | Audit CSV handling for NaNs, type coercion, duplicate IDs, silent corruption. |
 | [`thc-osm-sync`](.agents/skills/thc-osm-sync/SKILL.md) | Atlas → OSM workflow: create nodes, push to JOSM, compare against extracts, update `isOSM`. |
+| [`unmapped-markers-kml`](.agents/skills/unmapped-markers-kml/SKILL.md) | Build a Google My Maps-ready KML of a county's unmapped markers (no `ref:hmdb`, not missing). Geocodes street addresses via Nominatim and flags `isPending` markers. |
 
 **Before acting** in any of these areas, read the relevant `SKILL.md` first — they
 encode invariants (e.g. the hmdb-sync human-review gate, the data contract for
