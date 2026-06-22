@@ -4,19 +4,22 @@ Two-phase workflow for syncing hmdb.org marker exports into the canonical
 atlas_db.csv. See ``.agents/skills/hmdb-sync`` for the user-facing skill and
 ``hmdb.md`` at the project root for the strategy.
 
-Phase 1 — ``thc hmdb reconcile`` (identification, read-only on atlas):
+Phase 1 — ``thc hmdb reconcile`` (identification + auto-apply for exact matches):
     Filter the source CSV to official THC markers (fuzzy on ``Erected By``),
     restrict to rows whose ``Marker No.`` already exists in atlas as
     ``ref:US-TX:thc``, classify by hmdb-id state, and gate by title fuzzy
-    match. Writes three review CSVs:
+    match. Rows whose name normalizes identically (``name_similarity == 1.0``,
+    which includes "The X" vs "X") are written straight into atlas with a
+    backup; everything else goes to review CSVs:
 
-        review_candidates.csv       — rows ready to enrich after approval
+        auto_applied.csv            — exact-name matches written to atlas
+        review_candidates.csv       — fuzzy match passed (<1.0) — needs approval
         review_name_mismatches.csv  — title/name fuzzy match failed
         review_hmdb_conflicts.csv   — atlas already has a different ref:hmdb
 
 Phase 2 — ``thc hmdb apply`` (writes to atlas):
     Read the dispositioned review CSVs, look up each approved row in the
-    original hmdb export, and strict-overwrite nine enrichment fields on
+    original hmdb export, and strict-overwrite ten enrichment fields on
     the matched atlas row. Writes a timestamped ``atlas_db.csv.bak.<ts>``
     backup first unless ``--no-backup`` is set.
 
@@ -167,7 +170,22 @@ def _write_review(path: Path, rows: list[dict], extra_columns: tuple[str, ...] =
             writer.writerow({k: row.get(k, "") for k in fieldnames})
 
 
-def reconcile(hmdb_path: Path, atlas_path: Path, out_dir: Path) -> dict[str, int]:
+NAME_AUTO_APPLY_THRESHOLD = 1.0
+
+
+def reconcile(
+    hmdb_path: Path,
+    atlas_path: Path,
+    out_dir: Path,
+    make_backup: bool = True,
+) -> dict:
+    """Identify hmdb rows for atlas enrichment.
+
+    Rows that match an atlas THC# with an identical normalized name
+    (``name_similarity == 1.0``, which includes "The X" vs "X") are
+    written straight to atlas with a backup. Lower-confidence matches
+    and conflicts go to review CSVs for human disposition.
+    """
     hmdb_rows = _load_hmdb_rows(hmdb_path)
     atlas_by_thc = _load_atlas_by_thc(atlas_path)
 
@@ -176,14 +194,18 @@ def reconcile(hmdb_path: Path, atlas_path: Path, out_dir: Path) -> dict[str, int
         "thc_filter_pass": 0,
         "thc_in_atlas": 0,
         "already_documented": 0,
+        "auto_applied": 0,
         "candidates": 0,
         "name_mismatches": 0,
         "conflicts": 0,
+        "backup_path": None,
     }
 
+    auto_applied_rows: list[dict] = []
     candidates: list[dict] = []
     name_mismatches: list[dict] = []
     conflicts: list[dict] = []
+    auto_hmdb_by_thc: dict[str, dict] = {}
 
     for hmdb_row in hmdb_rows:
         if not is_thc_erected_by(hmdb_row.get("Erected By") or ""):
@@ -212,7 +234,12 @@ def reconcile(hmdb_path: Path, atlas_path: Path, out_dir: Path) -> dict[str, int
             continue
 
         review = _review_row(hmdb_row, atlas_row, score)
-        if score >= NAME_FUZZ_THRESHOLD:
+        if score >= NAME_AUTO_APPLY_THRESHOLD:
+            review["approve"] = "YES (auto)"
+            auto_applied_rows.append(review)
+            auto_hmdb_by_thc[thc] = hmdb_row
+            stats["auto_applied"] += 1
+        elif score >= NAME_FUZZ_THRESHOLD:
             candidates.append(review)
             stats["candidates"] += 1
         else:
@@ -220,9 +247,21 @@ def reconcile(hmdb_path: Path, atlas_path: Path, out_dir: Path) -> dict[str, int
             stats["name_mismatches"] += 1
 
     out_dir.mkdir(parents=True, exist_ok=True)
+    _write_review(out_dir / "auto_applied.csv", auto_applied_rows)
     _write_review(out_dir / "review_candidates.csv", candidates)
     _write_review(out_dir / "review_name_mismatches.csv", name_mismatches)
     _write_review(out_dir / "review_hmdb_conflicts.csv", conflicts, (CONFLICT_EXTRA_COLUMN,))
+
+    if auto_hmdb_by_thc:
+        write_result = _write_atlas_enrichment(
+            atlas_path,
+            auto_hmdb_by_thc,
+            set(auto_hmdb_by_thc),
+            make_backup=make_backup,
+        )
+        stats["backup_path"] = (
+            str(write_result["backup_path"]) if write_result["backup_path"] else None
+        )
 
     return stats
 
@@ -237,6 +276,7 @@ ENRICHMENT_FIELDS = (
     "memorial:website",
     "isHMDB",
     "isMissing",
+    "isPending",
     "addr:full",
     "addr:city",
     "hmdb:Latitude",
@@ -271,27 +311,31 @@ def _hmdb_to_enrichment(hmdb_row: dict) -> dict[str, str]:
         "memorial:website": (hmdb_row.get("Link") or "").strip(),
         "isHMDB": "True",
         "isMissing": "True" if missing_flag in MISSING_FLAGS else "False",
+        "isPending": "False",
         "addr:full": (hmdb_row.get("Street Address") or "").strip(),
         "addr:city": (hmdb_row.get("City or Town") or "").strip(),
         "hmdb:Latitude": (hmdb_row.get("Latitude (minus=S)") or "").strip(),
         "hmdb:Longitude": (hmdb_row.get("Longitude (minus=W)") or "").strip(),
-        "Marker Notes": (hmdb_row.get("Location") or "").strip(),
+        "Marker Notes": "",
     }
 
 
-def apply_updates(
+def _write_atlas_enrichment(
     atlas_path: Path,
-    hmdb_path: Path,
-    review_dir: Path,
-    make_backup: bool = True,
+    hmdb_by_thc: dict[str, dict],
+    thc_ids: set[str],
+    make_backup: bool,
 ) -> dict:
-    approved = _collect_approved_thc_ids(review_dir)
-    hmdb_by_thc = _load_hmdb_by_thc(hmdb_path)
+    """Strict-overwrite ENRICHMENT_FIELDS on atlas rows whose ref:US-TX:thc is in thc_ids.
 
-    missing_in_hmdb = [t for t in approved if t not in hmdb_by_thc]
+    Requires every id in ``thc_ids`` to be present in ``hmdb_by_thc``.
+    Backs up atlas before writing unless ``make_backup`` is False, then
+    skips the rewrite entirely if no rows were touched.
+    """
+    missing_in_hmdb = [t for t in thc_ids if t not in hmdb_by_thc]
     if missing_in_hmdb:
         raise SystemExit(
-            f"ERROR: approved THC IDs not found in {hmdb_path}: {missing_in_hmdb}"
+            f"ERROR: requested THC IDs missing from hmdb data: {missing_in_hmdb}"
         )
 
     with atlas_path.open(newline="", encoding="utf-8") as f:
@@ -305,41 +349,61 @@ def apply_updates(
             f"ERROR: atlas is missing expected columns: {missing_fields}"
         )
 
-    updated_thc: list[str] = []
+    updated_ids: list[str] = []
     seen: set[str] = set()
     for row in rows:
         thc = (row.get("ref:US-TX:thc") or "").strip()
-        if thc not in approved:
+        if thc not in thc_ids:
             continue
         seen.add(thc)
         for k, v in _hmdb_to_enrichment(hmdb_by_thc[thc]).items():
             row[k] = v
-        updated_thc.append(thc)
-    not_in_atlas = sorted(approved - seen)
-
-    if not_in_atlas:
-        print(
-            f"WARNING: approved THC IDs not found in atlas: {not_in_atlas}",
-            file=sys.stderr,
-        )
+        updated_ids.append(thc)
 
     backup_path: Path | None = None
-    if make_backup:
+    if updated_ids and make_backup:
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")
         backup_path = atlas_path.with_suffix(atlas_path.suffix + f".bak.{ts}")
         shutil.copy2(atlas_path, backup_path)
 
-    with atlas_path.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
-        writer.writeheader()
-        writer.writerows(rows)
+    if updated_ids:
+        with atlas_path.open("w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
+            writer.writeheader()
+            writer.writerows(rows)
+
+    return {
+        "backup_path": backup_path,
+        "updated_ids": updated_ids,
+        "not_in_atlas": sorted(set(thc_ids) - seen),
+    }
+
+
+def apply_updates(
+    atlas_path: Path,
+    hmdb_path: Path,
+    review_dir: Path,
+    make_backup: bool = True,
+) -> dict:
+    approved = _collect_approved_thc_ids(review_dir)
+    hmdb_by_thc = _load_hmdb_by_thc(hmdb_path)
+
+    result = _write_atlas_enrichment(
+        atlas_path, hmdb_by_thc, approved, make_backup=make_backup
+    )
+
+    if result["not_in_atlas"]:
+        print(
+            f"WARNING: approved THC IDs not found in atlas: {result['not_in_atlas']}",
+            file=sys.stderr,
+        )
 
     return {
         "approved": len(approved),
-        "updated": len(updated_thc),
-        "not_in_atlas": len(not_in_atlas),
-        "updated_ids": updated_thc,
-        "backup_path": str(backup_path) if backup_path else None,
+        "updated": len(result["updated_ids"]),
+        "not_in_atlas": len(result["not_in_atlas"]),
+        "updated_ids": result["updated_ids"],
+        "backup_path": str(result["backup_path"]) if result["backup_path"] else None,
     }
 
 
@@ -347,14 +411,22 @@ def apply_updates(
 
 
 def run_reconcile(args) -> None:
-    stats = reconcile(Path(args.hmdb), Path(args.atlas), Path(args.out_dir))
+    stats = reconcile(
+        Path(args.hmdb),
+        Path(args.atlas),
+        Path(args.out_dir),
+        make_backup=not getattr(args, "no_backup", False),
+    )
     print(f"hmdb rows read         : {stats['hmdb_total']}")
     print(f"  passed THC filter    : {stats['thc_filter_pass']}")
     print(f"  with THC# in atlas   : {stats['thc_in_atlas']}")
     print(f"    already documented : {stats['already_documented']}")
+    print(f"    auto-applied       : {stats['auto_applied']}    → {args.out_dir}/auto_applied.csv")
     print(f"    candidates         : {stats['candidates']}    → {args.out_dir}/review_candidates.csv")
     print(f"    name mismatches    : {stats['name_mismatches']}    → {args.out_dir}/review_name_mismatches.csv")
     print(f"    hmdb conflicts     : {stats['conflicts']}    → {args.out_dir}/review_hmdb_conflicts.csv")
+    if stats["backup_path"]:
+        print(f"Backup written         : {stats['backup_path']}")
 
 
 def run_apply(args) -> None:

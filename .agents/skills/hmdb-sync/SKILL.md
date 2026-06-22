@@ -5,8 +5,9 @@ description: Reconcile an hmdb.org marker export into atlas_db.csv. Use whenever
 
 # HMDB → atlas_db sync
 
-Two-phase enrichment of `atlas_db.csv` from any hmdb.org export. Phase 1 is
-read-only on atlas and writes review CSVs. Phase 2 writes to atlas only the
+Two-phase enrichment of `atlas_db.csv` from any hmdb.org export. Phase 1
+auto-applies exact-name matches straight to atlas (no review needed) and
+writes review CSVs for everything else. Phase 2 writes to atlas only the
 rows the human dispositions as `YES`.
 
 The Python lives in `pythonLib/thc_toolkit/hmdb_sync.py` and is wired into the
@@ -17,12 +18,12 @@ unified CLI as `thc hmdb reconcile` and `thc hmdb apply`. See
 
 Read [references/strategy.md](references/strategy.md) before running. It
 explains the filter rules, classification table, fuzzy thresholds, and the
-nine enrichment-field mapping.
+ten enrichment-field mapping.
 
-## Phase 1 — reconcile (read-only on atlas)
+## Phase 1 — reconcile (auto-apply exact matches + write review CSVs)
 
 ```bash
-thc hmdb reconcile <hmdb.csv> [--atlas atlas_db.csv] [--out-dir .]
+thc hmdb reconcile <hmdb.csv> [--atlas atlas_db.csv] [--out-dir .] [--no-backup]
 ```
 
 What it does:
@@ -37,20 +38,26 @@ What it does:
 3. Classify each surviving row by the atlas row's current `ref:hmdb`:
    already-equal → skip silently; populated-but-different → conflict file;
    empty → candidate.
-4. For candidates, fuzzy-match `Title` vs atlas `name` (normalized,
-   drops leading `The`). Pass → `review_candidates.csv`. Fail →
-   `review_name_mismatches.csv`.
+4. For candidates, fuzzy-match `Title` vs atlas `name` (normalized: lower,
+   punctuation stripped, leading `The ` dropped). Bucket by score:
+   `score == 1.0` → **auto-apply** straight to atlas (covers "The X" vs
+   "X" because of the normalization); `0.85 ≤ score < 1.0` →
+   `review_candidates.csv`; `score < 0.85` → `review_name_mismatches.csv`.
 
-Three CSVs land in `--out-dir`:
+Four CSVs land in `--out-dir`:
 
 | file                           | meaning                                          |
 |--------------------------------|--------------------------------------------------|
-| `review_candidates.csv`        | name match passed; expected default = approve    |
+| `auto_applied.csv`             | exact-name matches already written to atlas      |
+| `review_candidates.csv`        | name match passed but < 1.0; expected = approve  |
 | `review_name_mismatches.csv`   | name match failed; needs human eyes              |
 | `review_hmdb_conflicts.csv`    | atlas already carries a different `ref:hmdb`     |
 
-Each row has an `approve` column the human fills in `YES` / `NO` (any
-text starting with `YES`, case-insensitive, counts as approved).
+When `auto_applied.csv` is non-empty, atlas_db is rewritten and a
+`atlas_db.csv.bak.<ts>` backup is written first (suppressed by
+`--no-backup`). Review rows have an `approve` column the human fills in
+`YES` / `NO` (any text starting with `YES`, case-insensitive, counts as
+approved).
 
 ## Phase 2 — apply (writes to atlas)
 
@@ -67,7 +74,7 @@ What it does:
 2. Look up each approved THC ID in the original hmdb CSV.
 3. Write a timestamped backup `atlas_db.csv.bak.YYYYMMDD_HHMMSS` unless
    `--no-backup`.
-4. Strict-overwrite the nine enrichment fields on every matched atlas row:
+4. Strict-overwrite the ten enrichment fields on every matched atlas row:
 
    | atlas field          | source                                            |
    |----------------------|---------------------------------------------------|
@@ -75,13 +82,14 @@ What it does:
    | `memorial:website`   | hmdb `Link`                                       |
    | `isHMDB`             | `True`                                            |
    | `isMissing`          | `True` iff hmdb `Missing` is Reported/Confirmed   |
+   | `isPending`          | `False` (an hmdb ID means the marker is installed)|
    | `addr:full`          | hmdb `Street Address`                             |
    | `addr:city`          | hmdb `City or Town`                               |
    | `hmdb:Latitude`      | hmdb `Latitude (minus=S)`                         |
    | `hmdb:Longitude`     | hmdb `Longitude (minus=W)`                        |
-   | `Marker Notes`       | hmdb `Location`                                   |
+   | `Marker Notes`       | `""` (erased — hmdb Location is not preserved)    |
 
-   Strict overwrite means existing curated atlas values in these nine
+   Strict overwrite means existing curated atlas values in these ten
    fields are replaced (user's standing decision: hmdb is more trustworthy
    than the THC-sourced free-text fields).
 
@@ -103,7 +111,10 @@ thc hmdb apply --hmdb scripts/tarrant.csv \
 
 ## Guardrails
 
-- Phase 1 never touches `atlas_db.csv`.
+- Phase 1 only touches `atlas_db.csv` for rows whose name normalizes
+  identically (`name_similarity == 1.0`). A backup is written first
+  unless `--no-backup` is set, and only when there is at least one
+  auto-apply row.
 - Phase 2 always backs up first unless `--no-backup` is set.
 - Conflicts (`review_hmdb_conflicts.csv`) require human resolution in
   `atlas_db.csv` directly — they are not auto-applied even if approved.

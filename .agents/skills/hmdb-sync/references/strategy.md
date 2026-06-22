@@ -65,44 +65,52 @@ For each considered row, inspect the matched atlas row's `ref:hmdb`:
 ## Step 4 — title/name fuzzy match gate
 
 For each candidate from Step 3, compare hmdb `Title` against atlas
-`name` on the matched row using a normalized token-set ratio
-(case-insensitive, drop leading `The`, strip trailing punctuation).
+`name` on the matched row using a normalized SequenceMatcher ratio
+(case-insensitive, drop leading `The`, strip punctuation).
 
-- Ratio ≥ ~85 → **confirmed candidate** — surface for review and
-  (after approval) enrich.
-- Below threshold → **name mismatch** — surface for human review with
+- Ratio == 1.0 → **auto-apply** — the normalized titles are identical
+  (covers "The Henderson Depot" vs "Henderson Depot", "Mt. Zion" vs
+  "Mt Zion", and similar). Write straight to atlas with no human
+  review; the THC# match + identical normalized name is enough.
+- 0.85 ≤ ratio < 1.0 → **confirmed candidate** — surface for review
+  and (after approval) enrich.
+- Below 0.85 → **name mismatch** — surface for human review with
   both strings shown; do nothing automatically.
 
-This is the final gate per your note that the name match alone is
-enough to decide whether the hmdb row really corresponds to the atlas
-marker that shares its THC number.
+## Step 5 — write review CSVs and auto-apply
 
-## Step 5 — write review CSVs
-
-Identification produces three CSV files in the chosen output directory.
+Identification produces four CSV files in the chosen output directory.
 Each row carries enough atlas-vs-hmdb context for the human to decide,
-plus an `approve` column (blank by default) the human fills in `Y` /
-`N` before any write step runs.
+plus an `approve` column the human fills in `Y` / `N` before any
+write step runs (already filled `YES (auto)` on the auto-apply file
+for audit purposes).
 
 | file                          | contents                                                          |
 |-------------------------------|-------------------------------------------------------------------|
-| `review_candidates.csv`       | Step 4 passes — the bulk; default expected action is approve.     |
+| `auto_applied.csv`            | Step 4 ratio == 1.0 — already written to atlas, kept as audit.    |
+| `review_candidates.csv`       | Step 4 ratio in [0.85, 1.0) — needs eyes but expected to approve. |
 | `review_name_mismatches.csv`  | Step 4 fails — title vs name diverged enough to need eyes.        |
 | `review_hmdb_conflicts.csv`   | Step 3 conflicts — atlas already carries a different `ref:hmdb`.  |
 
-Common columns across all three: `ref:US-TX:thc` (= hmdb `Marker No.`),
-hmdb `MarkerID`, hmdb `Title`, atlas `name`, hmdb `Erected By`, hmdb
+Common columns: `ref:US-TX:thc` (= hmdb `Marker No.`), hmdb
+`MarkerID`, hmdb `Title`, atlas `name`, hmdb `Erected By`, hmdb
 `City or Town`, atlas `addr:city`, hmdb `County or Parish`, atlas
 `addr:county`, hmdb `Missing`, hmdb `Link`, name-similarity score,
 `approve`. The conflicts file additionally shows the atlas's existing
 `ref:hmdb` so the human can pick a side.
 
-These files are read-only inputs to the write step. They are
-overwritten on every script run.
+`auto_applied.csv` is purely a log of what reconcile already wrote.
+The other three are inputs to Phase 2 (`thc hmdb apply`). All four are
+overwritten on every reconcile run.
 
-## Step 6 — write (gated, currently disabled)
+When `auto_applied.csv` is non-empty, atlas_db is rewritten and a
+timestamped `atlas_db.csv.bak.<ts>` is taken first (suppressed by
+`--no-backup`).
 
-For each approved candidate, update the matched atlas row in place:
+## Step 6 — write (auto for exact matches in Step 5; otherwise apply phase)
+
+For each auto-applied or human-approved candidate, update the matched
+atlas row in place:
 
 | atlas field          | source                                     |
 |----------------------|--------------------------------------------|
@@ -110,18 +118,18 @@ For each approved candidate, update the matched atlas row in place:
 | `memorial:website`   | tarrant `Link`                             |
 | `isHMDB`             | `True`                                     |
 | `isMissing`          | `True` iff tarrant `Missing` ∈ {Reported Missing, Confirmed Missing} |
+| `isPending`          | `False` — an hmdb ID means the marker is installed on the ground |
 | `addr:full`          | tarrant `Street Address`                   |
 | `addr:city`          | tarrant `City or Town`                     |
 | `hmdb:Latitude`      | tarrant `Latitude (minus=S)`               |
 | `hmdb:Longitude`     | tarrant `Longitude (minus=W)`              |
-| `Marker Notes`       | tarrant `Location`                         |
+| `Marker Notes`       | `""` — erased on update; hmdb `Location` is reachable through `memorial:website` |
 
-Never overwrite a non-empty existing atlas value without flagging it
-first.
+Strict overwrite is intentional: hmdb is treated as more trustworthy than
+the THC-sourced free-text fields for the columns listed above.
 
-**Writes are disabled until the identification logic is validated and
-the user approves.** Until then the script writes only the three
-review CSVs and stops.
+Writes are live. Reconcile auto-applies the Step 4 ratio == 1.0 set
+during Phase 1; everything else waits on human approval in Phase 2.
 
 ## Tarrant baseline (pre-implementation snapshot)
 

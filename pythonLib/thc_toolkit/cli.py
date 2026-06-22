@@ -333,6 +333,11 @@ def main():
     hsr.add_argument(
         "--out-dir", default=".", help="Directory to write review CSVs into"
     )
+    hsr.add_argument(
+        "--no-backup",
+        action="store_true",
+        help="Skip atlas backup before auto-applying exact-name matches",
+    )
     hsr.set_defaults(func=hmdb_sync.run_reconcile)
 
     hsa = hss.add_parser(
