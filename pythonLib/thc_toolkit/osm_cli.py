@@ -32,7 +32,7 @@ try:
         coerce_nullable_int_series,
         filter_hmdb_missing_osm,
     )
-    from . import osm_dedup, osm_sync, osm_refix
+    from . import osm_dedup, osm_sync, osm_refix, osm_refix_direct
 except ImportError:  # pragma: no cover - compatibility for direct script execution
     from utils import (
         require_columns,
@@ -43,6 +43,7 @@ except ImportError:  # pragma: no cover - compatibility for direct script execut
     import osm_dedup  # type: ignore
     import osm_sync  # type: ignore
     import osm_refix  # type: ignore
+    import osm_refix_direct  # type: ignore
 
 
 def _normalize_scalar(value):
@@ -449,6 +450,45 @@ def main():
     refix.add_argument("--dry-run", action="store_true",
                        help="Print what would be pushed without contacting JOSM")
 
+    refix_direct = sub.add_parser(
+        "refix-osm-direct",
+        help=(
+            "Push ref:US-TX:thc corrections directly to OSM in batches "
+            "(one changeset per batch; bypasses JOSM review)"
+        ),
+    )
+    refix_direct.add_argument("--plan", required=True,
+                              help="CSV with columns: id, correct_ref")
+    refix_direct.add_argument("--state", required=True,
+                              help="JSON state file (shared with refix-osm-ids)")
+    refix_direct.add_argument("--batch-size", type=int, default=10,
+                              help="Nodes per changeset (default: 10)")
+    refix_direct.add_argument("--rate-limit-sec", type=float, default=1.0,
+                              help="Sleep after each batch (default: 1.0)")
+    refix_direct.add_argument(
+        "--api-endpoint",
+        default=osm_refix_direct.DEFAULT_API_ENDPOINT,
+        help="OSM API 0.6 base URL",
+    )
+    refix_direct.add_argument(
+        "--josm-prefs",
+        default=None,
+        help="Path to JOSM preferences.xml (default: ~/.config/JOSM/preferences.xml)",
+    )
+    refix_direct.add_argument(
+        "--changeset-comment",
+        default=None,
+        help="Override the default changeset comment",
+    )
+    refix_direct.add_argument(
+        "--repeat",
+        type=int,
+        default=1,
+        help="Run N batches back-to-back in this invocation (default: 1)",
+    )
+    refix_direct.add_argument("--dry-run", action="store_true",
+                              help="Print what would be pushed without calling OSM")
+
     args = parser.parse_args()
 
     # Commands
@@ -550,6 +590,32 @@ def main():
             endpoint=args.josm_endpoint,
             dry_run=args.dry_run,
         )
+
+    elif args.cmd == "refix-osm-direct":
+        plan = osm_refix.load_plan(args.plan)
+        cs_tags = dict(osm_refix_direct.CHANGESET_TAGS)
+        if args.changeset_comment:
+            cs_tags["comment"] = args.changeset_comment
+        total_ok = total_fail = 0
+        for i in range(1, max(1, args.repeat) + 1):
+            print(f"\n=== batch {i}/{args.repeat} ===")
+            out = osm_refix_direct.run_batch_direct(
+                plan,
+                state_path=args.state,
+                batch_size=args.batch_size,
+                rate_limit_sec=args.rate_limit_sec,
+                endpoint=args.api_endpoint,
+                prefs_path=args.josm_prefs,
+                changeset_tags=cs_tags,
+                dry_run=args.dry_run,
+            )
+            total_ok += out["ok"]
+            total_fail += out["fail"]
+            if out["pending_remaining"] == 0:
+                print("[OK] no more pending — stopping early")
+                break
+        print(f"\n[SUMMARY] {total_ok} ok, {total_fail} skipped across "
+              f"{i} batch(es)")
 
 
 if __name__ == "__main__":

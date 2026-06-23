@@ -228,6 +228,57 @@ Notes:
 - `push-josm` only stages nodes locally in JOSM. You must Upload from JOSM
   before `sync-from-osm` can see the new OSM IDs.
 
+#### Correcting wrong `ref:US-TX:thc` values in OSM
+
+When existing OSM nodes carry the wrong `ref:US-TX:thc` (the atlas is the
+source of truth), two subcommands push corrections in batches. Both share
+the same plan CSV (`id,correct_ref,...`) and the same JSON state file —
+state survives across runs so reruns skip already-handled IDs.
+
+JOSM-staged mode (review each tag change in JOSM, then click Upload):
+
+```sh
+thc osm refix-osm-ids \
+    --plan ../scripts/tmp/osm_refix_plan.csv \
+    --state ../scripts/tmp/osm_refix_state.json \
+    --batch-size 25
+```
+
+Each row issues a `/load_object?objects=nID&addtags=ref:US-TX:thc=N` call to
+JOSM Remote Control on `localhost:8111` (JOSM must be running with a data
+layer open). Only `ref:US-TX:thc` is added/overwritten; no other tags are
+touched.
+
+Direct-to-OSM mode (no JOSM review; one changeset per batch):
+
+```sh
+thc osm refix-osm-direct \
+    --plan ../scripts/tmp/osm_refix_plan.csv \
+    --state ../scripts/tmp/osm_refix_state.json \
+    --batch-size 50 --repeat 80 --rate-limit-sec 2.0
+```
+
+Reads the OAuth2 token JOSM stored under
+`~/.config/JOSM/preferences.xml` (scope `write_api` required). The token is
+not stored in the repo. Each batch opens a bot-flagged changeset with
+`source=atlas.thc.texas.gov; hmdb.org`, fetches the current node state in
+bulk, mutates only `ref:US-TX:thc`, uploads the diff, and closes the
+changeset.
+
+Flags worth knowing:
+
+| Flag | Purpose |
+|---|---|
+| `--dry-run` | Print what would be pushed without contacting JOSM/OSM |
+| `--repeat N` | Run N batches back-to-back in one invocation (direct mode) |
+| `--rate-limit-sec` | Sleep between batches; default 1.0s (direct), 0.4s (JOSM) |
+| `--changeset-comment` | Override the default mass-edit comment (direct mode) |
+
+Recommended cadence: start with `refix-osm-ids --batch-size 5` to validate
+the plan against a handful of cases in JOSM, then graduate to
+`refix-osm-direct --batch-size 50` for the bulk. For mass edits over ~1000
+nodes, post a courtesy notice on the talk-us-texas mailing list first.
+
 ---
 
 ### 4) CSV / SQLite Sync
