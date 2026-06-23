@@ -5,6 +5,7 @@ from unittest.mock import patch, MagicMock
 from thc_toolkit.utils import (
     convert_hmdb_csv,
     create_nodes,
+    filter_hmdb_missing_osm,
     push2josm,
     find_missing_osm,
     update_isOSM,
@@ -141,6 +142,47 @@ class TestUtils:
         assert len(nodes) == len(no_start)
         assert "start_date" not in nodes[0]["tags"]
 
+    def test_create_nodes_emits_canonical_tag_schema(self, sample_atlas_df):
+        df = sample_atlas_df.copy()
+        df["thc:designation"] = [
+            "Historical Marker",
+            "Recorded Texas Historic Landmark",
+            "Historical Marker",
+        ]
+        df["addr:full"] = ["100 Main St", pd.NA, "300 Oak"]
+        df["wikimedia_commons"] = ["Category:Foo", pd.NA, pd.NA]
+        df["subject:wikipedia"] = [pd.NA, "en:Bar", pd.NA]
+        df["subject:wikidata"] = [pd.NA, pd.NA, "Q12345"]
+        df["subject:wikimedia_commons"] = [pd.NA, "File:Baz.jpg", pd.NA]
+
+        nodes = create_nodes(df)
+
+        t0 = nodes[0]["tags"]
+        assert t0["historic"] == "memorial"
+        assert t0["memorial"] == "plaque"
+        assert t0["material"] == "aluminium"
+        assert t0["operator"] == "Texas Historical Commission"
+        assert t0["operator:wikidata"] == "Q2397965"
+        assert t0["website"] == "http://thc.texas.gov/1"
+        assert t0["thc:designation"] == "Historical Marker"
+        assert t0["addr:full"] == "100 Main St"
+        assert t0["addr:city"] == "Austin"
+        assert t0["addr:county"] == "Travis"
+        assert t0["wikimedia_commons"] == "Category:Foo"
+        # Optional wiki* fields only appear when present
+        assert "subject:wikipedia" not in t0
+        assert "subject:wikidata" not in t0
+        # Dropped: support=pole, source:website
+        assert "support" not in t0
+        assert "source:website" not in t0
+
+        t1 = nodes[1]["tags"]
+        assert t1["thc:designation"] == "Recorded Texas Historic Landmark"
+        assert t1["subject:wikipedia"] == "en:Bar"
+        assert t1["subject:wikimedia_commons"] == "File:Baz.jpg"
+        assert "addr:full" not in t1  # NA was skipped
+        assert "wikimedia_commons" not in t1
+
     def test_create_nodes_output_is_json_serializable_with_missing_values(
         self, sample_atlas_df
     ):
@@ -276,3 +318,19 @@ class TestUtils:
         bad_df = sample_atlas_df.drop(columns=["isOSM"])
         with pytest.raises(ValueError, match="missing required column\\(s\\): isOSM"):
             update_isOSM([1002], bad_df)
+
+    def test_filter_hmdb_missing_osm_keeps_only_hmdb_and_not_osm(self):
+        df = pd.DataFrame(
+            {
+                "ref:US-TX:thc": pd.Series([1, 2, 3, 4, 5], dtype="Int32"),
+                "isHMDB": pd.Series([True, True, False, True, pd.NA], dtype="boolean"),
+                "isOSM": pd.Series([False, True, False, pd.NA, False], dtype="boolean"),
+            }
+        )
+        out = filter_hmdb_missing_osm(df)
+        assert out["ref:US-TX:thc"].tolist() == [1]
+
+    def test_filter_hmdb_missing_osm_missing_columns_raise(self):
+        df = pd.DataFrame({"isHMDB": pd.Series([True], dtype="boolean")})
+        with pytest.raises(ValueError, match="missing required column\\(s\\): isOSM"):
+            filter_hmdb_missing_osm(df)

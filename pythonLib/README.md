@@ -173,6 +173,26 @@ Convert atlas rows into OSM nodes → push to JOSM → update atlas flags.
 osm create-nodes --csv ../atlas_db.csv --out nodes.json
 ```
 
+Restrict to HMDB-sourced markers that are not yet in OSM
+(rows where `isHMDB=True` and `isOSM=False`):
+
+```sh
+osm create-nodes --csv ../atlas_db.csv --out nodes.json --only-missing-osm
+```
+
+Run a duplicate pre-check against live OSM (queries Overpass for nearby
+`memorial=plaque` nodes and fuzzy-matches the name). Matches are removed
+from `nodes.json` and written to a review report:
+
+```sh
+osm create-nodes --csv ../atlas_db.csv --out nodes.json \
+    --only-missing-osm \
+    --dedup-check \
+    --dedup-distance-ft 100 \
+    --dedup-name-similarity 0.80 \
+    --dedup-report nodes_skipped_for_review.json
+```
+
 Push to JOSM via Remote Control:
 
 ```sh
@@ -187,16 +207,26 @@ Find markers missing in OSM:
 osm find-missing --csv ../atlas_db.csv --geo /path/to/osm_extract.geojson
 ```
 
-Update `isOSM` column and write results:
+Update `isOSM` column and write results (legacy, no `OsmNodeID`):
 
 ```sh
 osm update-isOSM --csv ../atlas_db.csv --nodes nodes.json --out updated.csv
 ```
 
+Reconcile against live OSM after a JOSM Upload — sets both `isOSM=True`
+and `OsmNodeID` on matched rows (preferred):
+
+```sh
+osm sync-from-osm --csv ../atlas_db.csv --nodes nodes.json --out updated.csv \
+    --batch-size 50 --rate-limit-sec 1.5 --report sync_report.json
+```
+
 Notes:
 
 - `osm_extract.geojson` should be a GeoJSON export of current OSM markers (for example, via Overpass).
-- `updated.csv` is created by `update-isOSM`.
+- `updated.csv` is created by `update-isOSM` / `sync-from-osm`.
+- `push-josm` only stages nodes locally in JOSM. You must Upload from JOSM
+  before `sync-from-osm` can see the new OSM IDs.
 
 ---
 

@@ -23,19 +23,25 @@ import requests
 import pandas as pd
 from datetime import datetime
 import json
+import time
 
 try:
     from .utils import (
         require_columns,
         assert_no_duplicate_ids,
         coerce_nullable_int_series,
+        filter_hmdb_missing_osm,
     )
+    from . import osm_dedup, osm_sync
 except ImportError:  # pragma: no cover - compatibility for direct script execution
     from utils import (
         require_columns,
         assert_no_duplicate_ids,
         coerce_nullable_int_series,
+        filter_hmdb_missing_osm,
     )  # type: ignore
+    import osm_dedup  # type: ignore
+    import osm_sync  # type: ignore
 
 
 def _normalize_scalar(value):
@@ -52,6 +58,7 @@ def read_atlas(filename):
     types = {
         "ref:US-TX:thc": "Int32",
         "ref:hmdb": "Int32",
+        "OsmNodeID": "Int64",
         "start_date": "Int32",
         "UTM Easting": "Int32",
         "UTM Northing": "Int32",
@@ -113,20 +120,31 @@ def create_nodes(df):
                 "historic": "memorial",
                 "memorial": "plaque",
                 "material": "aluminium",
-                "support": "pole",
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
-                "thc:designation": "Historical Marker",
                 "ref:US-TX:thc": int(row_thc) if pd.notna(row_thc) else None,
                 "ref:hmdb": int(row_hmdb) if pd.notna(row_hmdb) else None,
-                "source:website": _normalize_scalar(row["website"]),
+                "website": _normalize_scalar(row["website"]),
             }
             if pd.notna(row_hmdb):
                 tags["memorial:website"] = (
                     f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
                 )
+            if "thc:designation" in df.columns and pd.notna(row.get("thc:designation")):
+                tags["thc:designation"] = _normalize_scalar(row["thc:designation"])
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
+            for col in ("addr:full", "addr:city", "addr:county"):
+                if col in df.columns and pd.notna(row.get(col)):
+                    tags[col] = _normalize_scalar(row[col])
+            for col in (
+                "wikimedia_commons",
+                "subject:wikimedia_commons",
+                "subject:wikipedia",
+                "subject:wikidata",
+            ):
+                if col in df.columns and pd.notna(row.get(col)):
+                    tags[col] = _normalize_scalar(row[col])
 
             nodes.append({"lat": float(lat), "lon": float(lon), "tags": tags})
 
@@ -138,6 +156,64 @@ def create_nodes(df):
         raise ValueError(f"create_nodes input has invalid rows: {sample}")
 
     return nodes
+
+
+def _apply_dedup_check(
+    nodes,
+    radius_ft,
+    name_threshold,
+    rate_limit_sec,
+    endpoint,
+):
+    """Filter out nodes that match an existing OSM memorial=plaque nearby.
+
+    Returns ``(kept_nodes, skipped_records)``. ``skipped_records`` is a list
+    of dicts pairing each skipped candidate with the matched OSM node for
+    manual review.
+    """
+    kept = []
+    skipped = []
+    total = len(nodes)
+    for i, node in enumerate(nodes, start=1):
+        candidate_name = node["tags"].get("name")
+        try:
+            match = osm_dedup.find_duplicate(
+                candidate_lat=node["lat"],
+                candidate_lon=node["lon"],
+                candidate_name=candidate_name,
+                radius_ft=radius_ft,
+                name_threshold=name_threshold,
+                endpoint=endpoint,
+            )
+        except Exception as e:
+            print(
+                f"[WARN] dedup query failed for ref:US-TX:thc="
+                f"{node['tags'].get('ref:US-TX:thc')} ({e}); keeping candidate"
+            )
+            kept.append(node)
+        else:
+            if match is None:
+                kept.append(node)
+            else:
+                skipped.append(
+                    {
+                        "candidate": {
+                            "name": candidate_name,
+                            "lat": node["lat"],
+                            "lon": node["lon"],
+                            "ref:US-TX:thc": node["tags"].get("ref:US-TX:thc"),
+                            "ref:hmdb": node["tags"].get("ref:hmdb"),
+                        },
+                        "match": match,
+                    }
+                )
+                print(
+                    f"[SKIP] {candidate_name!r} ~ OSM node {match['osm_id']} "
+                    f"({match['distance_ft']} ft, similarity {match['name_similarity']})"
+                )
+        if rate_limit_sec and i < total:
+            time.sleep(rate_limit_sec)
+    return kept, skipped
 
 
 def push2josm(nodes):
@@ -208,6 +284,41 @@ def update_isOSM(updated_refs, atlas):
     return atlas
 
 
+def apply_sync_results(atlas, ref_to_osm_id):
+    """Stamp ``isOSM=True`` and ``OsmNodeID`` on atlas rows for matched refs.
+
+    ``ref_to_osm_id`` is a ``{str_ref: int_osm_id}`` mapping. Rows whose
+    ``ref:US-TX:thc`` is absent from the mapping are left untouched.
+    Returns ``(atlas, n_updated, missing_refs)`` where ``missing_refs`` is
+    the list of refs from the mapping that did not match any atlas row.
+    """
+    require_columns(
+        atlas, ["ref:US-TX:thc", "isOSM", "OsmNodeID"], context="atlas"
+    )
+    if not ref_to_osm_id:
+        return atlas, 0, []
+
+    # Compare as nullable Int64 so types align with the atlas dtype.
+    ref_series = pd.to_numeric(
+        atlas["ref:US-TX:thc"], errors="coerce"
+    ).astype("Int64")
+    mapping_int = {int(k): int(v) for k, v in ref_to_osm_id.items()}
+
+    if not pd.api.types.is_integer_dtype(atlas["OsmNodeID"]):
+        atlas["OsmNodeID"] = pd.to_numeric(
+            atlas["OsmNodeID"], errors="coerce"
+        ).astype("Int64")
+
+    mask = ref_series.isin(mapping_int.keys())
+    n_updated = int(mask.sum())
+    atlas.loc[mask, "isOSM"] = True
+    atlas.loc[mask, "OsmNodeID"] = ref_series[mask].map(mapping_int).astype("Int64")
+
+    found_refs = set(ref_series[mask].dropna().astype(int).tolist())
+    missing_refs = sorted(set(mapping_int.keys()) - found_refs)
+    return atlas, n_updated, missing_refs
+
+
 # ---------- CLI Entry ---------- #
 
 
@@ -223,6 +334,47 @@ def main():
     create = sub.add_parser("create-nodes", help="Convert atlas CSV → nodes.json")
     create.add_argument("--csv", required=True)
     create.add_argument("--out", default="nodes.json")
+    create.add_argument(
+        "--only-missing-osm",
+        action="store_true",
+        help="Only include rows where isHMDB=True and isOSM=False",
+    )
+    create.add_argument(
+        "--dedup-check",
+        action="store_true",
+        help=(
+            "Before emitting each node, query Overpass for nearby memorial=plaque "
+            "nodes and skip candidates that fuzzy-match an existing one"
+        ),
+    )
+    create.add_argument(
+        "--dedup-distance-ft",
+        type=float,
+        default=100.0,
+        help="Search radius in feet for duplicate detection (default: 100)",
+    )
+    create.add_argument(
+        "--dedup-name-similarity",
+        type=float,
+        default=0.80,
+        help="Minimum normalized name similarity 0..1 to treat as duplicate (default: 0.80)",
+    )
+    create.add_argument(
+        "--dedup-report",
+        default="nodes_skipped_for_review.json",
+        help="Path for JSON report listing skipped candidates and their matches",
+    )
+    create.add_argument(
+        "--dedup-rate-limit-sec",
+        type=float,
+        default=1.0,
+        help="Seconds to sleep between Overpass queries (default: 1.0)",
+    )
+    create.add_argument(
+        "--overpass-endpoint",
+        default=osm_dedup.DEFAULT_OVERPASS_ENDPOINT,
+        help="Overpass API endpoint URL",
+    )
 
     # push to JOSM
     push = sub.add_parser("push-josm", help="Push nodes into JOSM remote control")
@@ -239,6 +391,43 @@ def main():
     update.add_argument("--nodes", required=True)
     update.add_argument("--out", required=True)
 
+    # sync isOSM + OsmNodeID from live OSM via Overpass
+    sync = sub.add_parser(
+        "sync-from-osm",
+        help=(
+            "After a JOSM upload, query Overpass for each ref:US-TX:thc in "
+            "nodes.json and stamp isOSM=True + OsmNodeID on matched atlas rows"
+        ),
+    )
+    sync.add_argument("--csv", required=True)
+    sync.add_argument("--nodes", required=True)
+    sync.add_argument("--out", required=True)
+    sync.add_argument(
+        "--batch-size",
+        type=int,
+        default=50,
+        help="Refs per Overpass query (default: 50)",
+    )
+    sync.add_argument(
+        "--rate-limit-sec",
+        type=float,
+        default=1.5,
+        help="Sleep between batched Overpass queries (default: 1.5)",
+    )
+    sync.add_argument(
+        "--overpass-endpoint",
+        default=osm_dedup.DEFAULT_OVERPASS_ENDPOINT,
+        help="Overpass API endpoint URL",
+    )
+    sync.add_argument(
+        "--report",
+        default=None,
+        help=(
+            "Optional JSON report path listing matched refs, missing refs, "
+            "and any ambiguous duplicates"
+        ),
+    )
+
     args = parser.parse_args()
 
     # Commands
@@ -249,7 +438,30 @@ def main():
 
     elif args.cmd == "create-nodes":
         df = read_atlas(args.csv)
+        if args.only_missing_osm:
+            before = len(df)
+            df = filter_hmdb_missing_osm(df)
+            print(
+                f"[INFO] --only-missing-osm: {len(df)} of {before} rows "
+                "(isHMDB=True & isOSM=False)"
+            )
         nodes = create_nodes(df)
+
+        if args.dedup_check:
+            nodes, skipped = _apply_dedup_check(
+                nodes,
+                radius_ft=args.dedup_distance_ft,
+                name_threshold=args.dedup_name_similarity,
+                rate_limit_sec=args.dedup_rate_limit_sec,
+                endpoint=args.overpass_endpoint,
+            )
+            with open(args.dedup_report, "w") as f:
+                json.dump(skipped, f, indent=2)
+            print(
+                f"[INFO] Dedup check: kept {len(nodes)}, skipped {len(skipped)} "
+                f"→ review {args.dedup_report}"
+            )
+
         with open(args.out, "w") as f:
             json.dump(nodes, f, indent=2)
         print(f"[OK] Generated {len(nodes)} nodes → {args.out}")
@@ -269,6 +481,43 @@ def main():
         refs = [n["tags"]["ref:US-TX:thc"] for n in json.load(open(args.nodes))]
         updated = update_isOSM(refs, atlas)
         write2csv(updated, args.out)
+
+    elif args.cmd == "sync-from-osm":
+        atlas = read_atlas(args.csv)
+        with open(args.nodes) as f:
+            nodes_payload = json.load(f)
+        refs = [n["tags"].get("ref:US-TX:thc") for n in nodes_payload]
+        refs = [r for r in refs if r is not None]
+        print(f"[INFO] Resolving {len(refs)} refs against OSM via Overpass…")
+        ref_to_osm_id = osm_sync.query_osm_nodes_by_thc_refs(
+            refs,
+            batch_size=args.batch_size,
+            endpoint=args.overpass_endpoint,
+            rate_limit_sec=args.rate_limit_sec,
+        )
+        updated, n_updated, missing_refs = apply_sync_results(atlas, ref_to_osm_id)
+        resolved_int = {int(k) for k in ref_to_osm_id.keys()}
+        unresolved = sorted({int(r) for r in refs} - resolved_int)
+        print(
+            f"[OK] Matched {len(ref_to_osm_id)} of {len(refs)} refs in OSM; "
+            f"stamped {n_updated} atlas rows (isOSM + OsmNodeID)"
+        )
+        if unresolved:
+            print(
+                f"[INFO] {len(unresolved)} refs not yet visible in OSM (not uploaded "
+                f"or not propagated); leaving atlas rows unchanged"
+            )
+        write2csv(updated, args.out)
+        if args.report:
+            report = {
+                "matched": ref_to_osm_id,
+                "stamped_atlas_rows": n_updated,
+                "unresolved_refs": unresolved,
+                "refs_not_found_in_atlas": missing_refs,
+            }
+            with open(args.report, "w") as f:
+                json.dump(report, f, indent=2)
+            print(f"[OK] Wrote sync report → {args.report}")
 
 
 if __name__ == "__main__":

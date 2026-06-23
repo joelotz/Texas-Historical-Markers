@@ -248,6 +248,17 @@ def read_atlas(filename):
     return pd.read_csv(filename, dtype=types, low_memory=False)
 
 
+def filter_hmdb_missing_osm(df):
+    """Return rows where isHMDB is True and isOSM is False.
+
+    Used to scope OSM node creation to HMDB-sourced markers that have not yet
+    been entered into OpenStreetMap. Rows with NA in either flag are excluded.
+    """
+    require_columns(df, ["isHMDB", "isOSM"], context="filter_hmdb_missing_osm input")
+    mask = (df["isHMDB"].eq(True)) & (df["isOSM"].eq(False))
+    return df.loc[mask].reset_index(drop=True)
+
+
 def create_nodes(df):
     require_columns(
         df,
@@ -291,20 +302,31 @@ def create_nodes(df):
                 "historic": "memorial",
                 "memorial": "plaque",
                 "material": "aluminium",
-                "support": "pole",
                 "operator": "Texas Historical Commission",
                 "operator:wikidata": "Q2397965",
-                "thc:designation": "Historical Marker",
                 "ref:US-TX:thc": int(row_thc) if pd.notna(row_thc) else None,
                 "ref:hmdb": int(row_hmdb) if pd.notna(row_hmdb) else None,
-                "source:website": _normalize_scalar(row["website"]),
+                "website": _normalize_scalar(row["website"]),
             }
             if pd.notna(row_hmdb):
                 tags["memorial:website"] = (
                     f"https://www.hmdb.org/m.asp?m={int(row_hmdb)}"
                 )
+            if "thc:designation" in df.columns and pd.notna(row.get("thc:designation")):
+                tags["thc:designation"] = _normalize_scalar(row["thc:designation"])
             if "start_date" in df.columns and pd.notna(row.get("start_date")):
                 tags["start_date"] = _normalize_scalar(row["start_date"])
+            for col in ("addr:full", "addr:city", "addr:county"):
+                if col in df.columns and pd.notna(row.get(col)):
+                    tags[col] = _normalize_scalar(row[col])
+            for col in (
+                "wikimedia_commons",
+                "subject:wikimedia_commons",
+                "subject:wikipedia",
+                "subject:wikidata",
+            ):
+                if col in df.columns and pd.notna(row.get(col)):
+                    tags[col] = _normalize_scalar(row[col])
 
             nodes.append({"lat": float(lat), "lon": float(lon), "tags": tags})
 
