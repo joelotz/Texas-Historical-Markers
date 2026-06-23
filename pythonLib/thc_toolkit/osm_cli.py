@@ -32,7 +32,7 @@ try:
         coerce_nullable_int_series,
         filter_hmdb_missing_osm,
     )
-    from . import osm_dedup, osm_sync
+    from . import osm_dedup, osm_sync, osm_refix
 except ImportError:  # pragma: no cover - compatibility for direct script execution
     from utils import (
         require_columns,
@@ -42,6 +42,7 @@ except ImportError:  # pragma: no cover - compatibility for direct script execut
     )  # type: ignore
     import osm_dedup  # type: ignore
     import osm_sync  # type: ignore
+    import osm_refix  # type: ignore
 
 
 def _normalize_scalar(value):
@@ -428,6 +429,26 @@ def main():
         ),
     )
 
+    refix = sub.add_parser(
+        "refix-osm-ids",
+        help=(
+            "Batch-push ref:US-TX:thc corrections into JOSM for review "
+            "(one load_object call per node, stages a tag change in JOSM)"
+        ),
+    )
+    refix.add_argument("--plan", required=True,
+                       help="CSV with columns: id, correct_ref (other cols ignored)")
+    refix.add_argument("--state", required=True,
+                       help="JSON state file tracking pushed IDs for resumability")
+    refix.add_argument("--batch-size", type=int, default=25,
+                       help="How many nodes to push in this invocation (default: 25)")
+    refix.add_argument("--rate-limit-sec", type=float, default=0.4,
+                       help="Sleep between JOSM calls (default: 0.4)")
+    refix.add_argument("--josm-endpoint", default=osm_refix.DEFAULT_JOSM_ENDPOINT,
+                       help="JOSM Remote Control base URL")
+    refix.add_argument("--dry-run", action="store_true",
+                       help="Print what would be pushed without contacting JOSM")
+
     args = parser.parse_args()
 
     # Commands
@@ -518,6 +539,17 @@ def main():
             with open(args.report, "w") as f:
                 json.dump(report, f, indent=2)
             print(f"[OK] Wrote sync report → {args.report}")
+
+    elif args.cmd == "refix-osm-ids":
+        plan = osm_refix.load_plan(args.plan)
+        osm_refix.run_batch(
+            plan,
+            state_path=args.state,
+            batch_size=args.batch_size,
+            rate_limit_sec=args.rate_limit_sec,
+            endpoint=args.josm_endpoint,
+            dry_run=args.dry_run,
+        )
 
 
 if __name__ == "__main__":
