@@ -29,8 +29,10 @@ Audit-mode trigger phrases:
 - "find <county> unmapped markers where the address and coord disagree"
 
 The build mode excludes `isMissing=True` markers (no point hunting for
-ones already confirmed missing). The audit mode does **not** filter on
-`isMissing` — comparing stored coord to address is useful regardless.
+ones already confirmed missing) and `isPrivate=True` markers (no point
+hunting for ones on private property). The audit mode does **not** filter
+on `isMissing` or `isPrivate` — comparing stored coord to address is
+useful regardless.
 
 ## How to run
 
@@ -63,7 +65,7 @@ Options:
 ## What build_kml.py does
 
 1. **Filter** atlas_db.csv to `addr:county == <county>` AND
-   `ref:hmdb` empty AND `isMissing != True`.
+   `ref:hmdb` empty AND `isMissing != True` AND `isPrivate != True`.
 2. **Direct map**: rows with `thc:Latitude` + `thc:Longitude` go straight
    into the KML.
 3. **Geocode**: rows with no coords but a street-level address
@@ -152,6 +154,8 @@ Files land in `unmapped markers/` (gitignored):
 ## Tuning history (decisions captured for future runs)
 
 - `isMissing=True` excluded — user does not want to chase missing markers.
+- `isPrivate=True` excluded — user does not want to chase markers on private
+  property.
 - `thc:designation` and the THC Atlas link removed from the popup body —
   noise.
 - Geocoded coords persist back to `atlas_db.csv` by default so the lookup
