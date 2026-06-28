@@ -453,14 +453,19 @@ def main():
     refix_direct = sub.add_parser(
         "refix-osm-direct",
         help=(
-            "Push ref:US-TX:thc corrections directly to OSM in batches "
+            "Push single-tag corrections directly to OSM in batches "
             "(one changeset per batch; bypasses JOSM review)"
         ),
     )
     refix_direct.add_argument("--plan", required=True,
-                              help="CSV with columns: id, correct_ref")
+                              help="CSV with columns: id, correct_ref (value to write)")
     refix_direct.add_argument("--state", required=True,
-                              help="JSON state file (shared with refix-osm-ids)")
+                              help="JSON state file (per-tag-campaign, resumable)")
+    refix_direct.add_argument(
+        "--tag",
+        default="ref:US-TX:thc",
+        help="OSM tag key to overwrite on each node (default: ref:US-TX:thc)",
+    )
     refix_direct.add_argument("--batch-size", type=int, default=10,
                               help="Nodes per changeset (default: 10)")
     refix_direct.add_argument("--rate-limit-sec", type=float, default=1.0,
@@ -607,6 +612,7 @@ def main():
                 endpoint=args.api_endpoint,
                 prefs_path=args.josm_prefs,
                 changeset_tags=cs_tags,
+                tag_name=args.tag,
                 dry_run=args.dry_run,
             )
             total_ok += out["ok"]

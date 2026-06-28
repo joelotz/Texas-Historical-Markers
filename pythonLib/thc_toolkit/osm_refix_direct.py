@@ -1,11 +1,10 @@
-"""Push ref:US-TX:thc corrections directly to OSM (no JOSM review step).
+"""Push single-tag corrections directly to OSM (no JOSM review step).
 
 Uses the OAuth2 access token JOSM already stored after the user signed in.
 Each batch opens its own changeset, bulk-fetches current node state,
-modifies only the ``ref:US-TX:thc`` tag, uploads as an osmChange diff,
-and closes the changeset. State is tracked in the same JSON file as the
-JOSM-staging workflow so the two modes share a single source of truth on
-"which refs have been handled."
+modifies only one named tag (default ``ref:US-TX:thc``), uploads as an
+osmChange diff, and closes the changeset. State is tracked in a JSON
+file so reruns skip nodes already handled.
 """
 
 from __future__ import annotations
@@ -165,6 +164,7 @@ def run_batch_direct(
     endpoint: str = DEFAULT_API_ENDPOINT,
     prefs_path: str | os.PathLike | None = None,
     changeset_tags: dict | None = None,
+    tag_name: str = "ref:US-TX:thc",
     dry_run: bool = False,
     log=print,
 ) -> dict:
@@ -183,7 +183,7 @@ def run_batch_direct(
 
     if dry_run:
         for _, row in batch.iterrows():
-            log(f"  [DRY] would set n{int(row['id'])} ref:US-TX:thc="
+            log(f"  [DRY] would set n{int(row['id'])} {tag_name}="
                 f"{int(row['correct_ref'])}")
         return {
             "ok": len(batch),
@@ -208,15 +208,16 @@ def run_batch_direct(
         if nid not in fetched:
             continue
         node = fetched[nid]
+        new_value = str(int(row["correct_ref"]))
         new_tags = dict(node["tags"])
-        new_tags["ref:US-TX:thc"] = str(int(row["correct_ref"]))
+        new_tags[tag_name] = new_value
         updates.append({
             "node_id": nid,
             "version": node["version"],
             "lat": node["lat"],
             "lon": node["lon"],
             "tags": new_tags,
-            "correct_ref": int(row["correct_ref"]),
+            "new_value": new_value,
         })
 
     if not updates:
@@ -249,7 +250,8 @@ def run_batch_direct(
     ts = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for u in updates:
         state["pushed"][str(u["node_id"])] = {
-            "correct_ref": u["correct_ref"],
+            "tag": tag_name,
+            "value": u["new_value"],
             "changeset": cs_id,
             "mode": "direct",
             "ts": ts,
