@@ -21,6 +21,7 @@ pythonLib/.pytest_cache/
 *AGENTS.md
 *CLAUDE.md
 *.claude
+HANDOFF.md
 /docs/
 
 ### Notes ###
