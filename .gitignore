@@ -15,6 +15,7 @@ pythonLib/.pytest_cache/
 /scripts/
 /generated/
 /unmapped markers/
+/data_files/
 
 # AI junk
 *AGENTS.md
