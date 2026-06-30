@@ -45,9 +45,19 @@ THC_CANONICAL_PHRASES = (
     "state historical survey committee",
     "state of texas",
 )
+# All exclusion phrases MUST be pre-normalized (lowercase, punctuation
+# stripped, single-space) because they are matched against the output of
+# normalize_phrase(). A literal comma in an exclusion never matches.
 THC_EXCLUSIONS = (
     "state of texas highway department",
-    "state of texas, board of control",
+    "state of texas board of control",
+    # DAR co-sponsored markers (any "Daughters of the American Revolution"
+    # variant, including "(DAR)" abbreviation and trailing "A.D. <year>")
+    "daughters of the american revolution",
+    # Civic groups that paid for a State of Texas-cast marker
+    "la plata study club",
+    # County-level historical survey committees aren't the state THC
+    "mcculloch county historical survey committee",
 )
 
 THC_FUZZ_THRESHOLD = 0.85
