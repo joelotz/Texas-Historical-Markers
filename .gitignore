@@ -23,6 +23,7 @@ pythonLib/.pytest_cache/
 *.claude
 HANDOFF.md
 /docs/
+/.playwright-mcp/
 
 ### Notes ###
 # /builds/ == Ignore the 'builds' folder in the root directory

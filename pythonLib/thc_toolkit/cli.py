@@ -26,6 +26,7 @@ from . import map_cli
 from . import sqlite_sync
 from . import sqlite_viewer
 from . import hmdb_sync
+from . import hmdb_fetch
 from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
@@ -359,6 +360,31 @@ def main():
         help="Skip writing atlas_db.csv.bak.<ts>",
     )
     hsa.set_defaults(func=hmdb_sync.run_apply)
+
+    hsf = hss.add_parser(
+        "fetch",
+        help="Download a state-listing CSV from hmdb.org (no browser; "
+        "uses a cached session cookie)",
+    )
+    hsf.add_argument(
+        "--state", default="Texas", help="State name (default: Texas)"
+    )
+    hsf.add_argument(
+        "--out-dir",
+        default="data_files",
+        help="Directory to write the downloaded CSV into",
+    )
+    hsf.add_argument(
+        "--out-file",
+        default=None,
+        help="Override output filename (default: server-supplied name)",
+    )
+    hsf.add_argument(
+        "--cookie",
+        default=None,
+        help=f"Session cookie file (default: {hmdb_fetch.DEFAULT_COOKIE_PATH})",
+    )
+    hsf.set_defaults(func=hmdb_fetch.run_fetch)
 
     args = parser.parse_args()
     args.func(args)
