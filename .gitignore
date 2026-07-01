@@ -12,7 +12,8 @@ pythonLib/.pytest_cache/
 *CLAUDE.md
 
 # messy "works in progress"
-/scripts/
+/scripts/*
+!/scripts/hooks/
 /generated/
 /unmapped markers/
 /data_files/

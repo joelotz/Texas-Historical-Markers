@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+# Pre-commit hook: guard atlas_db.csv against encoding/EOL corruption
+# (LibreOffice CSV round-trip). Only runs when atlas_db.csv is staged.
+#
+# Install with `scripts/hooks/install.sh` or:
+#   ln -sf ../../scripts/hooks/pre-commit .git/hooks/pre-commit
+
+set -eu
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+
+# Only check if atlas_db.csv is in the staged changes
+if ! git diff --cached --name-only | grep -qxE 'atlas_db\.csv'; then
+    exit 0
+fi
+
+# Prefer the venv's thc CLI; fall back to system thc.
+if [[ -x "$REPO_ROOT/.venv/bin/thc" ]]; then
+    THC="$REPO_ROOT/.venv/bin/thc"
+else
+    THC="$(command -v thc || true)"
+fi
+if [[ -z "$THC" ]]; then
+    echo "pre-commit: thc CLI not found; install pythonLib/ in an editable venv." >&2
+    exit 1
+fi
+
+# Validate the ON-DISK atlas (what will actually be committed for a
+# whole-file replacement; partial-file staging isn't a real workflow here).
+if ! "$THC" atlas validate --path "$REPO_ROOT/atlas_db.csv"; then
+    cat >&2 <<EOF
+
+pre-commit: atlas_db.csv is not UTF-8 clean or has CRLFs. Fix with:
+
+    $THC atlas repair --path "$REPO_ROOT/atlas_db.csv"
+
+Then re-stage and re-commit. (This is the LibreOffice-CSV round-trip
+trap; see scripts/hooks/README.md for the postmortem.)
+EOF
+    exit 1
+fi

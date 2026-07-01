@@ -27,6 +27,7 @@ from . import sqlite_sync
 from . import sqlite_viewer
 from . import hmdb_sync
 from . import hmdb_fetch
+from . import atlas_cli
 from .utils import convert_hmdb_csv
 
 # ------------------- Subcommand Implementations ------------------- #
@@ -385,6 +386,43 @@ def main():
         help=f"Session cookie file (default: {hmdb_fetch.DEFAULT_COOKIE_PATH})",
     )
     hsf.set_defaults(func=hmdb_fetch.run_fetch)
+
+    # -------- Atlas encoding integrity --------
+    a = sub.add_parser(
+        "atlas",
+        help="Atlas file integrity checks (encoding, line endings)",
+    )
+    ass_ = a.add_subparsers(dest="atlas_command", required=True)
+
+    av = ass_.add_parser(
+        "validate",
+        help="Fail if atlas_db.csv isn't valid UTF-8 with LF endings "
+        "(used by the pre-commit hook)",
+    )
+    av.add_argument(
+        "--path", default=atlas_cli.DEFAULT_ATLAS,
+        help="Path to atlas_db.csv (default: atlas_db.csv)",
+    )
+    av.set_defaults(func=atlas_cli.run_validate)
+
+    ar = ass_.add_parser(
+        "repair",
+        help="Re-encode atlas_db.csv to UTF-8 / LF, decoding stray "
+        "cp1252/latin-1 bytes losslessly",
+    )
+    ar.add_argument(
+        "--path", default=atlas_cli.DEFAULT_ATLAS,
+        help="Path to atlas_db.csv (default: atlas_db.csv)",
+    )
+    ar.add_argument(
+        "--no-backup", action="store_true",
+        help="Skip writing a .preencoding.bak.<ts> backup",
+    )
+    ar.add_argument(
+        "--report", default="scripts/tmp/encoding_repair_report.txt",
+        help="Where to write the fallback-lines report",
+    )
+    ar.set_defaults(func=atlas_cli.run_repair)
 
     args = parser.parse_args()
     args.func(args)
