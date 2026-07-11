@@ -1,19 +1,17 @@
 # Texas Historical Markers
 
-The [Texas Historical Commission (THC)](https://thc.texas.gov/) is a prolific state agency started in 1953 and dedicated to the preservation of it’s state’s history. “We save the real places that tell the real stories of Texas.”  One interesting responsibility of the THC is to authorize historical markers or plagues. I enjoy visiting and mapping these markers. It forces me to get out of the house and travel, and learn history along the way. 
+The [Texas Historical Commission (THC)](https://thc.texas.gov/) is a prolific state agency started in 1953 and dedicated to the preservation of it’s state’s history. “We save the real places that tell the real stories of Texas.”  One interesting responsibility of the THC is to authorize historical markers or plagues. I enjoy visiting and mapping these markers. It forces me to get out of the house and travel, and learn history along the way.
 
 
 THC provides a [https://thc.texas.gov/preserve/preservation-programs/historical-markers](https://thc.texas.gov/preserve/preservation-programs/historical-markers) that shows a map with the location and metadata of all the historical markers. The website is slow and often non-functional. It also does not provide any type of download mechanism. I have created a flat file “database” that provides the entire atlas database along with additional data fields.
 
-There is a community of people that use a website named The [Historical Marker Database](https://www.hmdb.org/) (hmdb.org) that crowd sources images, text, location, and other data for historical markers around the world. I am a contributor to this site and have added the Texas reference data to provided atlas database.  I have also mapped the markers in the opensource [OpenStreetMap](https://www.openstreetmap.org/) (osm.org) so the geolocation data and meta fields can be used by anyone or any application. 
+There is a community of people that use a website named The [Historical Marker Database](https://www.hmdb.org/) (hmdb.org) that crowd sources images, text, location, and other data for historical markers around the world. I am a contributor to this site and have added the Texas reference data to provided atlas database.  I have also mapped the markers in the opensource [OpenStreetMap](https://www.openstreetmap.org/) (osm.org) so the geolocation data and meta fields can be used by anyone or any application.
 
 ### Overpass-Turbo
 
-- [Query URL](https://overpass-turbo.eu/s/1Wdd)
+This link will take you to Overpass-Turbo and run the query that shows all the TX markers currently mapped in OpenStreetMap(OSM).
+- [Query URL](https://overpass-turbo.eu/s/2t7n)
 
-- [Interactive map from overpass-query](https://overpass-turbo.eu/map.html?Q=%2F%2F+%40name+Texas+Historical+Markers%0A%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F+Define+the+area+of+Texas%0Aarea%5B%22name%22%3D%22Texas%22%5D-%3E.searchArea%3B%0A%0A%2F%2F+Search+for+nodes+with+the+specified+criteria%0Anode%0A++%5B%22memorial%22%3D%22plaque%22%5D%0A++%5B%22operator%22%3D%22Texas+Historical+Commission%22%5D%0A++%28area.searchArea%29%3B%0A%0A%2F%2F+Output+the+results%0Aout+body%3B%0A%3E%3B%0Aout+skel+qt%3B%0A%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D)
-
-  
 
 ## Data Dictionary of Atlas data file
 
@@ -62,6 +60,3 @@ codify the established workflows (HMDB reconciliation, OSM sync, data-quality au
 CLI usage). They're written to be agent-agnostic — Claude Code, Codex, Cursor, Aider,
 and similar tools can all consume them. See [AGENTS.md](./AGENTS.md#skills) for the
 layout and how to use them.
-
-
-
