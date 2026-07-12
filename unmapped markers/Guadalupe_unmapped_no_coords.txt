@@ -1,0 +1,14 @@
+Guadalupe unmapped markers with NO usable address (3):
+
+  THC 163: Andrew Neill Church House
+    addr: Seguin
+    https://atlas.thc.texas.gov/Details/5187000163
+
+  THC 22785: Lone Oak Cemetery
+    addr: Barbarossa Road, Seguin
+    https://atlas.thc.texas.gov/Details/5000022785
+
+  THC 23307: Schertz-Cibolo Cemetery
+    addr: Schertz
+    https://atlas.thc.texas.gov/Details/5000023307
+

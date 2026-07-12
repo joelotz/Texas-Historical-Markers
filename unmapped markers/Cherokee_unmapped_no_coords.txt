@@ -1,0 +1,108 @@
+Cherokee unmapped markers with NO usable address (27):
+
+  THC 6621: Birthplace of Thomas Mitchell Campbell
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073006621
+
+  THC 6620: Burning Bush Colony, The
+    addr: Bullard
+    https://atlas.thc.texas.gov/Details/5073006620
+
+  THC 15287: Cherokee, Home of Grand Xinesi
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5507015287
+
+  THC 11797: Cook Cemetery
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5073011797
+
+  THC 11800: First Baptist Church of Mixon
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5073011800
+
+  THC 6768: Forest Hill Plantation House
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5073006768
+
+  THC 18228: Gallatin School
+    https://atlas.thc.texas.gov/Details/5507018228
+
+  THC 11801: Hatchett's Ferry Inn
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073011801
+
+  THC 6613: Helena Dill Berryman
+    https://atlas.thc.texas.gov/Details/5073006613
+
+  THC 15972: Hendrick Cemetery
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5507015972
+
+  THC 15038: Hogg, Gov. J. S., Birthplace of
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5507015038
+
+  THC 24199: Linwood Community
+    addr: 161 CR 2523, Alto
+    https://atlas.thc.texas.gov/Details/5000024199
+
+  THC 16976: Mixon Cemetery
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5507016976
+
+  THC 6774: New Birmingham
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073006774
+
+  THC 23937: New Hope Baptist Church
+    addr: 12580 FM 747 S., Jacksonville
+    https://atlas.thc.texas.gov/Details/5000023937
+
+  THC 6953: Odom-Crawford House
+    addr: FM 2138, Maydelle
+    https://atlas.thc.texas.gov/Details/5073006953
+
+  THC 12439: Pine Grove School
+    addr: Jacksonville vicinity
+    https://atlas.thc.texas.gov/Details/5073012439
+
+  THC 24153: Ragsdale Cemetery
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5000024153
+
+  THC 14557: Roark, William, Home
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5507014557
+
+  THC 11805: Sardis-Edgefield Cemetery
+    addr: CR 2218, Rusk
+    https://atlas.thc.texas.gov/Details/5073011805
+
+  THC 11799: Site of Ferguson-Ford Mill
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073011799
+
+  THC 6799: Site of Griffin
+    addr: New Summerfield
+    https://atlas.thc.texas.gov/Details/5073006799
+
+  THC 11804: Site of Kilraven
+    addr: Salto
+    https://atlas.thc.texas.gov/Details/5073011804
+
+  THC 6839: Site of Old Larissa College
+    addr: Mount Selman
+    https://atlas.thc.texas.gov/Details/5073006839
+
+  THC 6615: Site of the Last Home of Bowles
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5073006615
+
+  THC 12361: Site of Wildhurst
+    addr: Forest
+    https://atlas.thc.texas.gov/Details/5073012361
+
+  THC 15251: Turney
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5507015251
+

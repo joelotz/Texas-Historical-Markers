@@ -1,0 +1,99 @@
+San Augustine unmapped markers with NO usable address (25):
+
+  THC 7588: Bland-Fisher Home
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007588
+
+  THC 12423: Bobbitt Family Cemetery
+    addr: San Augustine vicinity
+    https://atlas.thc.texas.gov/Details/5405012423
+
+  THC 7595: China Grove - Dr. B. F. Sharp House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007595
+
+  THC 12177: Chinquapin Cemetery (Loggins Family Burial Ground)
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405012177
+
+  THC 23370: Circa 1900 Cotton Gin
+    addr: Columbia St., San Augustine
+    https://atlas.thc.texas.gov/Details/5000023370
+
+  THC 7644: Col. Philip A. Sublett
+    https://atlas.thc.texas.gov/Details/5405007644
+
+  THC 7597: Crocket House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007597
+
+  THC 7635: Elisha Roberts
+    https://atlas.thc.texas.gov/Details/5405007635
+
+  THC 14706: Fonville Cemetery
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5507014706
+
+  THC 7612: Horatio Hanks House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007612
+
+  THC 7622: Inlow Lee Mathews House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007622
+
+  THC 7620: Ketchum Place
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007620
+
+  THC 23460: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023460
+
+  THC 23461: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023461
+
+  THC 23462: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023462
+
+  THC 23463: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023463
+
+  THC 12472: Little Flock Cemetery
+    addr: San Augustine vicinity
+    https://atlas.thc.texas.gov/Details/5405012472
+
+  THC 14786: Mathews, Inlow and Jeanette, House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5507014786
+
+  THC 7609: Old Greer House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007609
+
+  THC 7628: Old Mott House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007628
+
+  THC 18667: Old Sardis Cemetery
+    addr: 14.3 miles from the Courthouse. West HWY 21 to North HWY 96 to FM 711 to CR 246 travel west 5.6 miles to 246S crossroad, turn left 0.3 miles cemetery on left., San Augustine
+    https://atlas.thc.texas.gov/Details/5507018667
+
+  THC 15560: Old Union School
+    addr: 1462 County Road 278, San Augustine
+    https://atlas.thc.texas.gov/Details/5507015560
+
+  THC 12535: Price-Sossaman-Slaughter Cemetery
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405012535
+
+  THC 18761: Shiloh-New Hope Community Cemetery
+    https://atlas.thc.texas.gov/Details/5507018761
+
+  THC 14365: Teel Family Burying Ground
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5507014365
+

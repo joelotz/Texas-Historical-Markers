@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Zavala County — Unmapped Historical Markers</name>
+  <description>THC markers in Zavala County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Kincaid Ranch and Hotel</name>
+    <description><![CDATA[<b>Address:</b> Batesville<br/><br/><b>Marker Text:</b> William Davis Kincaid, founder of the Kincaid Ranch, learned the cattle business as a young man in West Texas. In 1905 Kincaid brought his family to land he purchased southeast of Uvalde, in Uvalde and Zavala Counties. Before his death in 1914, Kincaid served as President of the Unvalde National Bank and the Uvalde School Board. In 1927, his wife and children built the Kincaid Hotel at the intersection of North and Getty Streets in Uvalde in his honor. During the area's ranching heyday, the hotel served as the business hub and social center of the Uvalde area, and ranchers from Texas and surrounding states often made "The Kincaid" their area headquarters. (2009)]]></description>
+    <Point><coordinates>-99.617835,28.951081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of First Zavala County Courthouse</name>
+    <description><![CDATA[one block south of Highway 57 on Main Street Batesville Plaza<br/><br/><b>Address:</b> Batesville<br/><br/><b>Marker Text:</b> Zavala County was created in 1858 from Maverick and Uvalde counties. Named for Lorenzo de Zavala, a veteran of the Battle of San Jacinto, the county was not organized for judicial purposes until 1884. In that year citizens elected county officials and selected Batesville as the county seat. Batesville originally was known as the Bates Ditch community or Bates City. Elijah A. and Ellen J. Bates are credited with its founding. They came to the area in the late 1860s and became a prominent ranching family. Bates, who is credited with the first irrigation project in the area, began selling two-acre plots of the irrigated farmland, and a settlement grew up near his home. After the selection of Batesville as the Zavala County Seat, Bates conveyed a portion of his land for use as a courthouse square. The first county courthouse and jail were constructed at this site in 1885. Built of burnt bricks made from Leona River soil, the two story courthouse featured offices downstairs and a courtroom upstairs. The structure was used as the county courthouse until 1928, when the seat of government was moved to Crystal City. The old courthouse then was used for a variety of purposes until it was torn down in 1947. (1984)]]></description>
+    <Point><coordinates>-99.618057,28.960828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zavala County</name>
+    <description><![CDATA[from Crystal City, take Highway 83, about 1.9 miles north<br/><br/><b>Address:</b> Highway 83 North, Crystal City<br/><br/><b>Marker Text:</b> In 1832 land grant of Mexico to John Charles Beales. Lake Espantosa was campsite on road from Mexico to San Antonio. County created from Uvalde and Maverick, 1858. During the Civil War, especially in 1863-1864, was crossed by Cotton Road to Eagle Pass, entry point of Confederate goods. Including guns, powder, medicines. Organized 1884. Named in honor of Lorenzo de Zavala (1788-1836), signer of the Texas Declaration of Independence; first vice president to serve Republic of Texas. Original county seat was Batesville. Since 1927 it has been Crystal City. (1965)]]></description>
+    <Point><coordinates>-99.83528,28.717496,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

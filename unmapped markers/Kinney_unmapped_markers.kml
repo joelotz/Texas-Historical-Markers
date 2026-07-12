@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Kinney County — Unmapped Historical Markers</name>
+  <description>THC markers in Kinney County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>1886 Kitchen/Mess Hall</name>
+    <description><![CDATA[<b>Address:</b> 2-3 Mackenzie Rd, Brackettville<br/><br/><b>Marker Text:</b> The earliest mess arrangements for soldiers at Fort Clark were around open fires along Las Moras Creek near the spring. This building is one of Fort Clark’s eight remaining kitchens and mess halls out of nine built in 1886 to serve each company of enlisted men. It is built with locally quarried limestone and features a pier and beam foundation, double hung windows, masonry openings spanned with timber lintels, and two chimneys for cooking and heating. The building was later used for varied administrative purposes, including day rooms, unit offices, and supply and arms storage.]]></description>
+    <Point><coordinates>-100.41969,29.306661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>8 Medallions on Officers' Row Quarters</name>
+    <description><![CDATA[<b>Address:</b> 815 Main Street, Brackettville]]></description>
+    <Point><coordinates>-100.417859,29.310515,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Catholic Church</name>
+    <description><![CDATA[fronts Sweeney Street, just past (south of) where it crosses El Paso Street, Brackettville<br/><br/><b>Address:</b> Brackettville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-100.419454,29.314162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ross Home</name>
+    <description><![CDATA[located on Ann Street (Highway 334) directly across from Chamber of Commerce and Masonic Lodge,  Brackettville<br/><br/><b>Address:</b> Brackettville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-100.416947,29.310832,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

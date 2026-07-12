@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Blanco County — Unmapped Historical Markers</name>
+  <description>THC markers in Blanco County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Girl Scout Camp Blanco</name>
+    <description><![CDATA[541 Red Bluff Lane | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 541 Red Bluff Lane, Blanco<br/><br/><b>Marker Text:</b> By the 1930s, the Austin Girl Scout Association boasted an impressive fifty troops, but the city’s urban setting posed a challenge in providing opportunities for scouts to experience nature and practice self-reliance. In 1937, W.D. Glasscock of Blanco, who was a former Vaudeville performer, associate of Will Rogers, oilman, rancher and businessman, gave the association a 99-year lease on 30 acres of his land. Other records indicate it was a gift. Glasscock built a stone administration building in 1938 and created a dam and lake for water sports. The girl scouts funded a mess hall, hospital unit, sanitary facilities and cabins. In subsequent years, the girl scouts added to the camp’s development and infrastructure, including trails and lighting. 
+  The site drew hundreds of campers, ages 7-18, and scout leaders to Blanco. During 1942, 207 campers and 33 counselors enrolled. In 1944, more than 260 scouts spent time at Camp Blanco. Weekly rates averaged ten to fifteen dollars. Scouts could enjoy hikes, horseback riding, canoeing and swimming, as well as drama, dancing, singing, nature sketching and writing. Less experienced scouts slept in the cabins, and more experienced scouts slept outside in tents. Scouts from central Texas utilized the property. In 1943, Thurlow Weed donated three adjoining acres, expanding the camp. At the time, girl scout troops were segregated by race. Camp Blanco was open to troops of all ethnicities by sometimes utilizing different areas or scheduled times; however, a 1944 newspaper article referred to a joint camp of Anglo and Hispanic scouts.
+  For logistical and financial reasons, the girl scouts relocated to Camp Texlake on Lake Travis in 1948. Camp Blanco became the site of the Austin Young Women’s Christian Association’s Camp Y-Teen in 1949. (2022)]]></description>
+    <Point><coordinates>-98.383494,30.088221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Joseph and Eliza Bird Residence</name>
+    <description><![CDATA[265 Bird Lane, off FM 962<br/><br/><b>Address:</b> 265 Bird Ln, Round Mountain<br/><br/><b>Marker Text:</b> Once home to area pioneer Joseph Bird, his wife Eliza, and their extended family, portions of this house date to the mid-1850s. Two single-pen log cabins, built at different times and exhibiting different construction techniques, eventually were joined together to form a dogtrot cabin under one roof, with limestone chimneys at the east and west ends. By the 1880s, the family built a half-story addition and full-length porch on the front, and shed rooms at the rear. Vertical cypress siding covered the exterior until a 1980s renovation revealed much of the original log construction. Recorded Texas Historic Landmark - 2005]]></description>
+    <Point><coordinates>-98.342382,30.430743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pittsburg</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 218 Pittsburg Street, Blanco<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.415913,30.095991,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

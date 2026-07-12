@@ -1,0 +1,18 @@
+Archer unmapped markers with NO usable address (4):
+
+  THC 475: Bowman Cemetery
+    addr: Lakeside City
+    https://atlas.thc.texas.gov/Details/5009000475
+
+  THC 3207: Marcy Trail
+    addr: Windthorst
+    https://atlas.thc.texas.gov/Details/5009003207
+
+  THC 3695: Old Buffalo Road
+    addr: Archer City
+    https://atlas.thc.texas.gov/Details/5009003695
+
+  THC 4775: Site of Early Bowman Church
+    addr: Holliday
+    https://atlas.thc.texas.gov/Details/5009004775
+

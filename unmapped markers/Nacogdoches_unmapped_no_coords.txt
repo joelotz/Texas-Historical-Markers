@@ -1,0 +1,66 @@
+Nacogdoches unmapped markers with NO usable address (16):
+
+  THC 14791: Barret, Lyne, Texas Oil Man
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507014791
+
+  THC 14472: Bivouac & Banq. for New Orleans' Greys
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507014472
+
+  THC 23349: El Salto
+    addr: CR 723, Nacogdoches
+    https://atlas.thc.texas.gov/Details/5000023349
+
+  THC 12098: Hotel Wiley
+    addr: 116 South D Avenue, Garrison
+    https://atlas.thc.texas.gov/Details/5347012098
+
+  THC 18594: Jacobs Chapel Cemetery
+    addr: CR 551, Woden
+    https://atlas.thc.texas.gov/Details/5507018594
+
+  THC 23981: King's Highway - Camino Real - Old San Antonio Road
+    addr: SH 21, Melrose
+    https://atlas.thc.texas.gov/Details/5000023981
+
+  THC 12100: Libby Community Cemetery
+    addr: Garrison
+    https://atlas.thc.texas.gov/Details/5347012100
+
+  THC 15572: Mission Concepcion, 1716 Site of
+    addr: Douglass
+    https://atlas.thc.texas.gov/Details/5507015572
+
+  THC 15580: Oil Springs, Texas First Oil Well
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507015580
+
+  THC 14793: Old Spanish Cemetery
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507014793
+
+  THC 15877: Rock Springs Cemetery
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507015877
+
+  THC 9265: Site of the Home of William Clark, Jr.
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5347009265
+
+  THC 16619: Site of the Mission San Jose de Los Nazonis
+    addr: Cushing
+    https://atlas.thc.texas.gov/Details/5507016619
+
+  THC 17219: The Homesite of Raphael D'Ortolan
+    addr: The Bluffs at Mill Branch subdivision on County Road 775, Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507017219
+
+  THC 9353: The Sparks House
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5347009353
+
+  THC 9249: Tol Barret House
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5347009249
+

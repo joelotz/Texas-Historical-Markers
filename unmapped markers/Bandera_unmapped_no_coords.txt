@@ -1,0 +1,14 @@
+Bandera unmapped markers with NO usable address (3):
+
+  THC 3725: Old English-Crist House
+    addr: Pipe Creek vicinity
+    https://atlas.thc.texas.gov/Details/5019003725
+
+  THC 3820: Old Stanard Home
+    addr: Medina
+    https://atlas.thc.texas.gov/Details/5019003820
+
+  THC 23417: Pipe Creek Cemetery
+    addr: 1057 FM 1283, Pipe Creek
+    https://atlas.thc.texas.gov/Details/5000023417
+

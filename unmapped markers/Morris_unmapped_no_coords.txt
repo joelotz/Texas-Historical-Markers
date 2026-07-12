@@ -1,0 +1,14 @@
+Morris unmapped markers with NO usable address (3):
+
+  THC 12234: County Line Baptist Church and Cemetery
+    addr: Daingerfield
+    https://atlas.thc.texas.gov/Details/5343012234
+
+  THC 12684: Morris County
+    addr: US 67 E in roadside park, Naples
+    https://atlas.thc.texas.gov/Details/5343012684
+
+  THC 7845: The W. T. and T. C. Connor Buildings
+    addr: 205 Linda Dr., Daingerfield
+    https://atlas.thc.texas.gov/Details/5343007845
+

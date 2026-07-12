@@ -1,0 +1,9 @@
+Tom Green unmapped markers with NO usable address (2):
+
+  THC 1340: Early City School
+    addr: N. Magdalen St., San Angelo
+    https://atlas.thc.texas.gov/Details/5451001340
+
+  THC 4733: Site of Bismarck Farm
+    https://atlas.thc.texas.gov/Details/5451004733
+

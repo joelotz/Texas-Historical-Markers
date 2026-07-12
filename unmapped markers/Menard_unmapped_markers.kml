@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Menard County — Unmapped Historical Markers</name>
+  <description>THC markers in Menard County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Menard County</name>
+    <description><![CDATA[Menard County History Museum (Santa Fe Depot), US 83<br/><br/><b>Address:</b> Menard<br/><br/><b>Marker Text:</b> Formed from Bexar county Created: January 22, 1858 Organized: June 25, 1866 Named in honor of Michel Branamour Menard 1805-1856. Signer of the Texas Declaration of Independence, member of the Texas Congress, founder of Galveston. Menard, the county seat.]]></description>
+    <Point><coordinates>-99.78411,30.924345,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mission Santa Cruz de San Saba</name>
+    <description><![CDATA[on grounds of Menard Country Club about .5 mile off US 190, about 1.5 miles W of Menard<br/><br/><b>Address:</b> Off US 190 at Menard Country Club, Menard<br/><br/><b>Marker Text:</b> This building was originally built as a presidio or fort and the Mission was apart from it. After the Mission was attacked and burned by Indians, all personnel moved into the presidio.]]></description>
+    <Point><coordinates>-99.80266,30.922292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Puerto de Baluartes (Haven of the Strong Points)</name>
+    <description><![CDATA[on US 83, 1 mile S of Menard in Roadside Park<br/><br/><b>Address:</b> US 83, 1 mi. S of Menard, Menard<br/><br/><b>Marker Text:</b> In this pass between the hills--location of present day Menard--a site for an important Spanish mission to the Apaches was chosen in 1754 by Don Pedro de Rabago y Teran, second explorer sent on the assignment by the viceroy of New Spain. Suitable to be fortified and farmed, this pass had its mission built in 1757.]]></description>
+    <Point><coordinates>-99.78498,30.901503,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

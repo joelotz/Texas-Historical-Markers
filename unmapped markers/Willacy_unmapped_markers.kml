@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Willacy County — Unmapped Historical Markers</name>
+  <description>THC markers in Willacy County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Baptist Church of Lyford</name>
+    <description><![CDATA[Corner of S. Gulf Ave. and E. 2nd St. Marker reported missing Nov. 2017.<br/><br/><b>Address:</b> 7873 Gulf Ave., Lyford<br/><br/><b>Marker Text:</b> Lyford's Baptists began meeting for worship services about 1909, when the Rev. S. F. Marsh started traveling from Harlingen once a month to preach. Lyford Baptists founded the First Baptist Church in 1911, and Marsh became the First Pastor. The congregation met in community buildings until 1923, when the first church was built upon land donated by members of the Piper family. Baptisms were performed in a stock tank on a local farm until 1937. The congregation has been active in local mission efforts by establishing Spanish-speaking Baptist churches in the area. (1991)]]></description>
+    <Point><coordinates>-97.786907,26.406598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Lyford High School Building</name>
+    <description><![CDATA[Lyford, Simon Gomez Ave.<br/><br/><b>Address:</b> Simon Gomez Ave., Lyford<br/><br/><b>Marker Text:</b> Designed by the architectural firm of Smith and Kelly of Galveston, this building was constructed in1923 for the high school students of Lyford and surrounding communities. The structure is a reminder of the importance of education of the early residents of Willacy County. Representative of the neo-classical style of school architecture, the building features an entrance marked by a pediemented cornice set above the doorway. (1985)]]></description>
+    <Point><coordinates>-97.796706,26.410112,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Port Mansfield</name>
+    <description><![CDATA[At south end of Water Street at waterfront, Port Mansfield.<br/><br/><b>Address:</b> Water Street, Port Mansfield<br/><br/><b>Marker Text:</b> INSCRIPTION: Port Mansfield]]></description>
+    <Point><coordinates>-97.426376,26.557343,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Juan De Carricitos Land Grant</name>
+    <description><![CDATA[From Raymondville, take SH 186 E. about 12 mi.<br/><br/><b>Address:</b> SH 186, E of Raymondville, Raymondville<br/><br/><b>Marker Text:</b> The largest land grant in South Texas, the San Juan de Carrictios lands were awarded to Don Jose Narciso Cavazos in 1792 by the King of Spain. Comprising over one-half million acres, the grant included virtually all of present Williacy County, including the sites of the towns of Sebastian, Lyford, Raymondville, Lasara, San Perlita, and Port Mansfield. In 1793 Cavazos took formal possession of the land grant seven miles north of this site. Most of the grant was later sold by Cavazos' heirs, although some descendants still live within its boundaries. (1988)]]></description>
+    <Point><coordinates>-97.638349,26.498735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Perlita Pearl of the Valley</name>
+    <description><![CDATA[Hollywood Park, NE corner FM 2209 and Sunset Blvd.<br/><br/><b>Address:</b> FM 2209, San Perlita<br/><br/><b>Marker Text:</b> Part of the Carricitos land grant issued in 1790 by the King of Spain to Jose Narcisso Cavozos, this agricultural community and the surrounding farmland were developed soon after the Missouri Pacific Railroad extended a branch line to this area in 1926. The San Perlita Development Company cleared more than twenty thousand acres of land for growing staple, vegetable, and citrus crops and laid out the townsite of San Perilta. Since its development, the area has made significant contributions to the quality of life in this part of the Rio Grande Valley. (1984)]]></description>
+    <Point><coordinates>-97.639503,26.498782,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

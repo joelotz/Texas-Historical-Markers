@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Denton County — Unmapped Historical Markers</name>
+  <description>THC markers in Denton County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Champion - Macedonia Cemetery</name>
+    <description><![CDATA[1450 S. Stemmons Frwy. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1450 S. Stemmons Frwy., Lewisville<br/><br/><b>Marker Text:</b> In 1881, African American farmer James “Jim” Champion (d. 1924) and his wife, Antonette (Cassady), purchased 80 acres on the Elm Fork of the Trinity River. By the time the couple sold the land in 1902, a family cemetery existed on the property. The cemetery was later opened to those outside the Champion family and many founding members of the black community in Lewisville were buried at Champion. The earliest gravestone is that of Laura Wright (d. 1875).
+  Macedonia Cemetery, formerly known as Mt. Olive Cemetery, was deeded in 1899 as a cemetery for the African American people of Lewisville. In 1900, deacons for Mt. Olive Colored Baptist Church (established 1885) bought the property for a church site and maintained the cemetery until at least the mid-20th century. The earliest gravestone is that of George McKenzie (d. 1880). 
+  In 1953, the U.S. Army Corps of Engineers seized the site of Champion Cemetery and surrounding properties by eminent domain as part of a flood control project that would eventually form Lewisville Lake. Official documents cite 51 graves from Champion Cemetery were reinterred to the Mt. Olive Cemetery site between June and December of 1953. Mt. Olive’s property was selected as a prime relocation site for the Champion burials due to the strong ties between community members buried in Champion and Mt. Olive. 
+  Sometime later, Macedonia Baptist Church, a Lewisville church organized in 1885, assumed care of Mt. Olive Cemetery, and the cemetery was renamed. Macedonia had close relationships to the community and families buried in both cemeteries. Three of the eight founders of Macedonia, John Gordon, Gilbert Brotherton and L.D. Berry, were interred at Mt. Olive. Today, these two still-active cemeteries on one site share a special unified history of the Lewisville community.
+
+HISTORIC TEXAS CEMETERY – 2022]]></description>
+    <Point><coordinates>-96.987600,33.024809,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] St. John's Community</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> FM 455, Pilot Point]]></description>
+    <Point><coordinates>-96.95038,33.39027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Thomas Aquinas Catholic Church</name>
+    <description><![CDATA[<b>Address:</b> 925 North Charcut Street, Pilot Point<br/><br/><b>Marker Text:</b> St. Thomas Aquinas Catholic Church has provided for the spiritual needs of residents in this region since the late nineteenth century. Before that time, Catholics in the town of Pilot Point, organized in 1854, had no nearby place of worship. Early area Catholics, many of whom were of German origin, had to travel two days to attend services in Gainesville or Sherman. By the 1890s, the firm of Flusche Brothers and Sullivan recruited a number of German settlers to the town, increasing the need for a Catholic Church. Sixty-three residents and visitors gathered in 1891 for the first Mass given in the town. By 1892, parishioners raised funds to build a structure, and the Diocese of Dallas consecrated St. Thomas Aquinas Church on March 7, the feast day of St. Thomas. The following year, the church opened a school and secured land for a cemetery. In 1904, members built a larger sanctuary. The parish prospered until the economic depression of the 1930s. In 1936, however, the church once again began to grow under the leadership of Father Paul Charcut (1908-1968), who was actively involved in both church and civic affairs in Pilot Point. In the following years, St. Thomas Aquinas Church established significant programs to assist the less fortunate in the area through charitable contributions. Congregation members have also served as civic leaders, while others have entered into religious vocations or participated in the U.S. military during wartime. Today, the church continues in its historic role as a spiritual and community leader for the surrounding area. (2007)]]></description>
+    <Point><coordinates>-96.954556,33.404442,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

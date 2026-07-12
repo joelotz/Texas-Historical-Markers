@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Frio County — Unmapped Historical Markers</name>
+  <description>THC markers in Frio County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>James Washington Winters</name>
+    <description><![CDATA[Brummett Cemetery, CR 2871 2 mi. E of SH 173, then 0.4 mi. N to cemetery. Map dot approximate. See also 1936 marker for James Washington Winters.<br/><br/><b>Address:</b> CR 2871, Bigfoot<br/><br/><b>Marker Text:</b> San Jacinto veteran, went on Somervell Expedition. Loyal to former general Sam Houston, did not sign Oath of Allegiance to the Confederate States at Oakville, July 4, 1861. Capt. 29th Brig. T.S.M., Provost Marshall, scout between Nueces and Rio Grande rivers. 8 yrs. in Tuxpan Mexico. Wife, Piercy Tullos. Children; James, Josephus, Adeline, Susan, John, Marion, William B. and Sallie. His 2nd wife was Elizabeth Wier. (1968)]]></description>
+    <Point><coordinates>-98.81254,29.0718,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

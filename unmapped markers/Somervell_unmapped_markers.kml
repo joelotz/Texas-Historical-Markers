@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Somervell County — Unmapped Historical Markers</name>
+  <description>THC markers in Somervell County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Booker Home</name>
+    <description><![CDATA[US 67, 2 mi. W of Glen Rose<br/><br/><b>Address:</b> 1396 W US 67, Glen Rose<br/><br/><b>Marker Text:</b> This home was built in the early 1870s by William G. McCamant, who came to Texas about 1856. McCamant, who had worked for the creation of Somervell County, was appointed one of the county's first commissioners. The house was sold to Civil War veteran George L. Booker in 1896, during his 36-year tenure as county surveyor. The house features 18-inch thick walls made of limestone that was quarried nearby. The chimneys on other end are typical of 1870s frontier homes. Recorded Texas Historic Landmark - 1963]]></description>
+    <Point><coordinates>-97.751761,32.241028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Somervell County Jail</name>
+    <description><![CDATA[Corner of Cedar and Vernon, Glen Rose<br/><br/><b>Address:</b> Cedar &amp; Vernon, Glen Rose]]></description>
+    <Point><coordinates>-97.755748,32.233077,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Post Oak Community</name>
+    <description><![CDATA[4 miles north on FM 56<br/><br/><b>Address:</b> 4 mi N on FM 56, Glen Rose<br/><br/><b>Marker Text:</b> Settled in the years following the Civil War, post Oak was an agricultural community for most of its history. Its name, derived from trees which are common in Somervell County, was solidified by 1896, when School District No. 2 took the name Post Oak. The lives of Post Oak residents revolved around a number of community institutions. Three churches have served as spiritual and social establishments: Pleasant Point Missionary Baptist Church, founded in 1893; a Christian church, established in 1895; and a Primitive Baptist church, organized in 1907. Of the three, the Missionary Baptist church played the largest role in Post Oak's development. The Rev. Seaborn J. Foust, who pastured a number of churches in Hood and Somervell counties, donated adjoining parcels of land that formed the center of Post Oak community with land for Post Oak School (1892), a community church building (1905), and a cemetery (1913), although residents had used the burial ground several years earlier. In 1931, the church and school buildings burned. The church disbanded, but the community rebuilt the schoolhouse the following year. Later, the Mitchell family restored the former school building as a community chapel in memory of Post Oak pioneers. Most early residents grew cotton, though many diversified by also planting fruit trees. Later, peanuts became a vital crop, and some landowners also raised cattle. By the 1940s, many residents left this rural area and moved to cities. In 1972, however, Texas Utilities began construction of the Comanche Peak Nuclear Power Plant on the settlement's eastern edge, reviving Post Oak's population and ensuring the continued growth of this historic community. (2007)]]></description>
+    <Point><coordinates>-97.805915,32.279314,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Somervell County Veterans</name>
+    <description><![CDATA[<b>Address:</b> 101 Northeast Barnard Street, Glen Rose]]></description>
+    <Point><coordinates>-97.755468,32.234597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veterans of the Confederacy, Spanish American War, World War I and II</name>
+    <description><![CDATA[Courthouse Square, Glen Rose<br/><br/><b>Address:</b> Courthouse Square, Glen Rose]]></description>
+    <Point><coordinates>-97.759029,32.224386,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

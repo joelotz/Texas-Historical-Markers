@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Brazoria County — Unmapped Historical Markers</name>
+  <description>THC markers in Brazoria County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Abraham B. Marshall High School</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 300 Parrish St., Angleton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.437205,29.165455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Columbia (First Capital of Texas)</name>
+    <description><![CDATA[<b>Address:</b> 100 E. Brazos Avenue, West Columbia<br/><br/><b>Marker Text:</b> In 1836 and 1837, the town of Columbia (now West Columbia) served as the capital of the Republic of Texas. Josiah Hughes Bell, a colonist with Stephen F. Austin’s Old Three Hundred, surveyed and platted Columbia in 1824 to serve as a center for shipping activities. In the mid-1830s, Columbia played an important part in the Texas War for Independence, as residents adopted resolutions for sovereignty. In July 1836, ad interim President of the Republic of Texas, David G. Burnet, named Columbia as the location for the country’s first capital. He selected the town because it had adequate housing for legislators and possessed a newspaper, the Telegraph and Texas Register. The first Congress of the Republic convened in Columbia, and Sam Houston, the first elected President, was inaugurated here on October 22, 1836. The new government addressed a number of important issues while in Columbia, including the reorganization of the Republic’s army and navy; the organization of a post office department and general land office; the establishment of a court system; and the approval of a national seal and national flags. The first Congress adjourned in December 1836, with plans to meet for a second session in the newly built city of Houston. Although Congress began to meet in Houston, the executive branch remained here, conducting official duties until April 1837, when President Houston moved his executive office to his namesake city. Although Columbia no longer served as capital, the legislation passed here in 1836 continued to play a vital role throughout the years of the Republic. Today, Columbia is revered as a historic community and first capital of the Republic of Texas.(2008)]]></description>
+    <Point><coordinates>-95.647835,29.144632,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. James Aeneas Phelps</name>
+    <description><![CDATA[SH 35 E, then north on concrete road on west side of Brazos River for 11 miles<br/><br/><b>Address:</b> West Columbia vicinity<br/><br/><b>Marker Text:</b> Hospital surgeon at San Jacinto. Born in Mississippi; came to Texas in 1822; died in 1847.]]></description>
+    <Point><coordinates>-95.578676,29.253133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Durazno Plantation</name>
+    <description><![CDATA[end of Durazno Rd., 1 mi. S of SH 36, in Jones Creek<br/><br/><b>Address:</b> Jones Creek<br/><br/><b>Marker Text:</b> Originally a part of Stephen F. Austin's 1828 Mexican land grant, Durazno (Spanish for "peach") plantation was willed by Austin to his sister, Emily Austin Bryan Perry, upon his death in December 1836. The property was deeded in 1847 to Emily's son, William Joel Bryan, who developed it into a cotton and sugar plantation. The land remained in the family until 1928, when it was purchased by Robert E. L. Stringfellow. Among the structures on the plantation were a main house, plantation office, log carriage house, barns and other outbuildings, and a number of slave cabins. (1991)]]></description>
+    <Point><coordinates>-95.449906,28.95627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Methodist Church of Sweeny</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 207 E. First Street, Sweeny<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.697251,29.038986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church of Angleton</name>
+    <description><![CDATA[<b>Address:</b> 130 S. Arcola St., Angleton<br/><br/><b>Marker Text:</b> The First Presbyterian Church of Angleton was organized by the Rev. R. H. Byers and fifteen charter members in 1896. Recovery efforts following the 1900 storm led to the construction of a Presbyterian church. The Ladies' Auxiliary, formed in 1901, was instrumental in fundraising for this and later projects. The first services were held in the new building in 1902. In 1906, when the building debt was paid, there were 27 members of the congregation. By 1954 a larger, brick edifice was dedicated. The congregation continued to grow, acquiring additional land and structures as needed. In 1997 the membership reached 243. (1998)]]></description>
+    <Point><coordinates>-95.429163,29.164169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gulf Prairie Cemetery</name>
+    <description><![CDATA[off SH 36 on Gulf Prairie Rd., Jones Creek<br/><br/><b>Address:</b> 231 Gulf Prairie Rd., Jones Creek<br/><br/><b>Marker Text:</b> ESTABLISHED CA. 1833 HISTORIC TEXAS CEMETERY - 2009]]></description>
+    <Point><coordinates>-95.472085,28.979124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandy Point Cemetery</name>
+    <description><![CDATA[FM 521 about 3 mi. north of Rosharon<br/><br/><b>Address:</b> Rosharon<br/><br/><b>Marker Text:</b> Early county cemetery. Started before 1845. Land once part of great sugar and cotton plantations. Buried in this tract are veterans of 1836 Texas Revolution and Civil War (1861-65); also members of ill-fated Mier Expedition. Col. B. F. Terry, organizer of Terry's Texas Rangers, was formerly buried here. (1970)]]></description>
+    <Point><coordinates>-95.4804,29.383048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sandy Point Cemetery</name>
+    <description><![CDATA[approx. 1/2 mile down dirt road SW of intersection of CR 42 and SH 521<br/><br/><b>Address:</b> Sandy Point<br/><br/><b>Marker Text:</b> Sandy Point Cemetery Established circa 1850 Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-95.484982,29.377063,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Orozimbo</name>
+    <description><![CDATA[CR 255 off CR 25 via SH 35 north of West Columbia<br/><br/><b>Address:</b> West Columbia<br/><br/><b>Marker Text:</b> Home of Dr. James Aeneas Phelps, a member of "Old Three Hundred" of Austin's colony, hospital surgeon of the Texas Army at San Jacinto. Here Santa Anna was detained as a prisoner from July to November, 1836.]]></description>
+    <Point><coordinates>-95.578707,29.253151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Paul Missionary Baptist Church</name>
+    <description><![CDATA[From Sweeny, turn on CR 316 for 4.2 miles, turn right on CR 318 for 1.5 miles<br/><br/><b>Address:</b> 9302 CR 318, Brazoria]]></description>
+    <Point><coordinates>-95.632214,28.93043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Hon. Nathan H. Haller</name>
+    <description><![CDATA[<b>Address:</b> 515 N. Velasco, Angleton]]></description>
+    <Point><coordinates>-95.432079,29.168716,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Lively</name>
+    <description><![CDATA[Surfside City Hall. Bronze plaque on pink granite boulder.<br/><br/><b>Address:</b> 1304 Monument Drive, Surfside Beach<br/><br/><b>Marker Text:</b> The Lively, first vessel with emigrants to Austin's colony landed here December 23, 1821. The Battle of Velasco was fought here June 26, 1832. Public and secret treaties of peace between the Republic of Texas and General Santa Anna were signed here May 14, 1836. Dedicated May 14, 1936.]]></description>
+    <Point><coordinates>-95.299723,28.942867,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

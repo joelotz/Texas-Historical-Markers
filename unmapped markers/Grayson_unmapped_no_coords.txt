@@ -1,0 +1,26 @@
+Grayson unmapped markers with NO usable address (6):
+
+  THC 24179: Dixie Cemetery
+    addr: Whitesboro
+    https://atlas.thc.texas.gov/Details/5000024179
+
+  THC 24143: Iron Ore Creek Cemetery
+    addr: Reba Dr., Denison
+    https://atlas.thc.texas.gov/Details/5000024143
+
+  THC 23672: Kendall Chapel Cemetery
+    addr: Old Southmayd Rd., Southmayd
+    https://atlas.thc.texas.gov/Details/5000023672
+
+  THC 15272: Milam, Eliza McKinney, Homestead
+    addr: Van Alstyne
+    https://atlas.thc.texas.gov/Details/5507015272
+
+  THC 22465: Mt. Tabor Cemetery
+    addr: Sandusky Rd., Whitesboro
+    https://atlas.thc.texas.gov/Details/5000022465
+
+  THC 14714: Tioga Cemetery
+    addr: Tioga
+    https://atlas.thc.texas.gov/Details/5507014714
+

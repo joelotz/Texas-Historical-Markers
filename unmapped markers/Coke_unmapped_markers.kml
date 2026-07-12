@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Coke County — Unmapped Historical Markers</name>
+  <description>THC markers in Coke County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Panther Gap</name>
+    <description><![CDATA[SH 208, 13 miles northwest of Robert Lee. Marker reported missing 1998.<br/><br/><b>Address:</b> SH 208, Silver<br/><br/><b>Marker Text:</b> Landmark on ancient Indian trail, and early route of travelers and military west of Fort Chadbourne (20 miles east) before the Civil War. After 1880, was used extensively to connect this area with the railroad at Colorado City. Named for panthers (cougars), which still roam the region. (1973)]]></description>
+    <Point><coordinates>-100.602307,32.053036,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,6 @@
+Frio unmapped markers with NO usable address (1):
+
+  THC 8979: A Texas Ranger Camp
+    addr: Frio Town
+    https://atlas.thc.texas.gov/Details/5163008979
+

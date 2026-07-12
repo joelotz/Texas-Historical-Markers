@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wilbarger County — Unmapped Historical Markers</name>
+  <description>THC markers in Wilbarger County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Jonathan Doan</name>
+    <description><![CDATA[Eastview Memorial Park, N section of the cemetery, about 400 feet from the entrance, on the left<br/><br/><b>Address:</b> FM 1763, Vernon<br/><br/><b>Marker Text:</b> (May 20, 1837- November 6, 1902) Frontier trader and merchant; a Quaker, peaceable on troubled frontiers. With nephew C. F. Doan, came from Ohio and entered hides trade in Indian Territory, 1874-75. In April 1878 opened trading post at Western Cattle Trail crossing on Red River (12 mi. NE). C. F. Doan moved down that fall to run post. Jonathan Doan continued to trade on frontier. Doan's store and the family were famous and respected among the Indian, the cattlemen, and the frontiersmen. Recorded - 1972]]></description>
+    <Point><coordinates>-99.233187,34.147498,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,66 @@
+Travis unmapped markers with NO usable address (16):
+
+  THC 22710: Banks-Wood Cemetery
+    addr: Blake Manor Road, Webberville
+    https://atlas.thc.texas.gov/Details/5000022710
+
+  THC 16691: Dr. Lewis and Carolyn Mitchell
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016691
+
+  THC 23966: Father Joe Znotas
+    addr: Father Joe Znotas St., Austin
+    https://atlas.thc.texas.gov/Details/5000023966
+
+  THC 16093: General Land Office
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016093
+
+  THC 24180: Gray Family Cemetery
+    addr: Nameless Road, Leander
+    https://atlas.thc.texas.gov/Details/5000024180
+
+  THC 23785: Integration of Barton Springs
+    addr: 2131 William Barton Dr., Austin
+    https://atlas.thc.texas.gov/Details/5000023785
+
+  THC 20052: Mueller Airport
+    addr: Berkman Dr., Austin
+    https://atlas.thc.texas.gov/Details/5507020052
+
+  THC 16142: Old Courtroom of the Supreme Court of Texas
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016142
+
+  THC 16144: Organization of First Protestant Worship in Austin
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016144
+
+  THC 14906: Palm School
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507014906
+
+  THC 18633: Rector Cemetery
+    addr: 12801 Lexington, Manor
+    https://atlas.thc.texas.gov/Details/5507018633
+
+  THC 15597: Robert Eanes
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507015597
+
+  THC 14627: Site of Republic of Texas President's House
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507014627
+
+  THC 24314: St. John Community
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5000024314
+
+  THC 23421: Tarleton-Young Cemetery
+    addr: West Lake Hills
+    https://atlas.thc.texas.gov/Details/5000023421
+
+  THC 15432: Travis County Courthouse, First
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507015432
+

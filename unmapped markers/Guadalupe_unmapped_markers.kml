@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Guadalupe County — Unmapped Historical Markers</name>
+  <description>THC markers in Guadalupe County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Claiborne West Home</name>
+    <description><![CDATA[From Seguin, east on US 90A East about 8 miles. House is on south side, between CR 212 (Dowdy Rd) and FM 1150. As of Sep. 2019, house is shown by appointment (call 830.372.4900).<br/><br/><b>Address:</b> 11115 Alternate 90, Seguin<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.795668,29.557777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Colonel James Clinton Neill</name>
+    <description><![CDATA[Riverside Cemetery, Garcia and Crockett Streets,  Seguin<br/><br/><b>Address:</b> Seguin<br/><br/><b>Marker Text:</b> Born in North Carolina in 1790; came to Texas in 1831; participated in the storming and capture of Bexar; December 5 to 10, 1835; wounded April 20, 1836 in the skirmish preceding the Battle of San Jacinto; died about 1845]]></description>
+    <Point><coordinates>-97.961809,29.560713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hard Scrabble</name>
+    <description><![CDATA[513 East Nolte (was Market) Street, Seguin<br/><br/><b>Address:</b> Seguin]]></description>
+    <Point><coordinates>-97.960928,29.621585,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Humphreys House</name>
+    <description><![CDATA[NW corner W. Humphreys St. and N. Austin St. (Business 123), aka Hollamon-Erskine House, Hollamon House, Erskine No. 1 House<br/><br/><b>Address:</b> 902 North Austin Street, Seguin<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.964825,29.576727,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Juan Seguin</name>
+    <description><![CDATA[205 North River Street, Seguin at City Hall<br/><br/><b>Address:</b> 205 North River Street, Seguin<br/><br/><b>Marker Text:</b> In 1974, the citizens of Seguin brought the remains of Juan Seguin to this city. On July 4, 1976, the Bicentennial Committee and the City of Seguin reinterred the remains of Juan Seguin in a hillside plot overlooking the Guadalupe River Valley. The site (about one mile southwest of here) is above the old road and ford to the south and was well known to Juan Seguin. His grave is covered with a marble slab and the site is a part of the city park system.]]></description>
+    <Point><coordinates>-97.963701,29.569821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pendleton Rector</name>
+    <description><![CDATA[from Prairie Lea, take county road across San Marcos River to Hopple Cemetery.  Marker and grave located near center of cemetery.<br/><br/><b>Address:</b> Prairie Lea<br/><br/><b>Marker Text:</b> He fought for Texas Independence at Velasco, the Siege of Bexar and San Jacinto. Erected by the State of Texas 1962]]></description>
+    <Point><coordinates>-97.773518,29.731575,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Ridley Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 717 Wilcox Rd., Seguin]]></description>
+    <Point><coordinates>-97.968883,29.431228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Marcos Primitive Baptist Church</name>
+    <description><![CDATA[from Luling, take US 90 west three miles to church<br/><br/><b>Address:</b> Luling<br/><br/><b>Marker Text:</b> The San Marcos Primitive Baptist Church, so named because of its proximity to the San Marcos River, was organized in 1853 at the home of George Daniels, who also served as the congregation's first pastor. The five charter members of the church were William Baker, Vashti Baker, Hannah Daniels, I. D. Owen, and Sylvanna Daniels. George Daniels served as pastor until 1862, when James Milton Baker (1831-1910) began his 48-year service as minister of the San Marcos church. A native of Alabama, Baker was the son of charter members William and Vashti Baker. The family had come from Alabama to Texas in 1852 and had settled in this area during the following year. The first church building and early records of the church were destroyed in a flash flood that probably occurred in 1869 or 1870, but the congregation continued to meet. In 1886, J. M. Baker deeded land at this site for the church and cemetery. In 1930 the San Marcos Primitive Baptist Church moved to Luling (3 mi. E) but continued to meet here occasionally until 1970. This historic site serves as reminder of the heritage of the Luling congregation. (1985)]]></description>
+    <Point><coordinates>-97.71244,29.741625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schumannsville Cemetery</name>
+    <description><![CDATA[from New Braunfels, take FM 725 south 3 miles to Lakeside Pass (Road 358) - turn left and continue to cemetery at end of road<br/><br/><b>Address:</b> New Braunfels<br/><br/><b>Marker Text:</b> German immigrant August Wilhelm Schumann (1791-1858) arrived in Texas with his family in 1846 and bought a large parcel of land in Guadalupe County. Meeting a wagon train of immigrants from his homeland a few months later, he agreed to sell them land near the Guadalupe River. The settlers, with their houses in close proximity, built a communal fence around their land to protect their crops, and the settlement became known as Schumannsville. Finding it difficult to travel to the county seat in Seguin, they petitioned the Legislature to change county lines to place their community in Comal County, but the request was denied and they remained in Guadalupe County. The Schumannsville Cemetery is located in the northern part of the land owned by August Schumann. The first burial occurred when Carl Blumberg died of yellow fever in 1853. The second was that of August Schumann in 1858. Now enclosed by a fence, the cemetery contains 2.75 acres of land. All but a few of the graves are marked with tombstones bearing German inscriptions. The names and epitaphs serve as reminders of the proud German heritage of Schumannsville citizens. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-98.073891,29.66,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schumannsville Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 477 Lakeside Pass, New Braunfels<br/><br/><b>Marker Text:</b> Established 1853 Historic Texas Cemetery – 2016]]></description>
+    <Point><coordinates>-98.073507,29.65956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tewes House</name>
+    <description><![CDATA[280 Linne Road, Seguin (correct address:  8280 Linne Road, 9.5 miles south of Marion)<br/><br/><b>Address:</b> 280 Linne Road, Marion<br/><br/><b>Marker Text:</b> Built in the 1870s, this limestone, masonry and stucco house was the home of Carl August Edward Tewes, his wife Texanna Wooten Newton, and their children. Tewes immigrated from Germany in 1854, was a Civil War veteran, became a merchant in Guadalupe County, and served as postmaster in New Berlin for 26 years. The house remained in the Tewes family until 1976. It features a central hall plan and is an example of an early pioneer house. Recorded Texas Historic Landmark - 1996]]></description>
+    <Point><coordinates>-98.102299,29.468133,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

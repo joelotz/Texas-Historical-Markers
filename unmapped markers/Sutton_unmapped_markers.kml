@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Sutton County — Unmapped Historical Markers</name>
+  <description>THC markers in Sutton County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>The Ike Miers House</name>
+    <description><![CDATA[309 Oak Street, Sonora, in process of getting a replacement March 2020<br/><br/><b>Address:</b> 309 Oak St., Sonora<br/><br/><b>Marker Text:</b> Sonora's fifth structure; built as home of Isaac Miers (1835-1891), Civil War veteran who married, in Bell County (1867), Victoria Morton (1841-1913), granddaughter of John Morton, a signer of the U.S. Declaration of Independence. About 1880, Miers moved west by covered wagon. He owned land and ranched in Edwards, Kimble, and Sutton counties. Hauling the lumber from San Angelo, he built this board-and-batten cottage in 1888. It now is a museum. Recorded Texas Historic Landmark--1970]]></description>
+    <Point><coordinates>-100.644299,30.572601,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

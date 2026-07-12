@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Titus County — Unmapped Historical Markers</name>
+  <description>THC markers in Titus County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Center Grove Cemetery</name>
+    <description><![CDATA[Center Grove community, south of Cookville on CR 4340, north side of the road between FM 1000 and CR 4330<br/><br/><b>Address:</b> CR 4340, Cookville<br/><br/><b>Marker Text:</b> This cemetery was originally called the Yancey Cemetery because the first parcel of land was donated by David Yancey, Sr., in the mid-1860s. An orphaned infant, who was a member of the group that traveled with Yancey from Tennessee to Texas, was the first to be buried here. Many of the graves, including the first, are marked with only a rough stone. Veterans of the Civil War and both World Wars have been buried here. The name of the cemetery was changed in 1900 because the graveyard was located in the same area as the Center Grove Church of Christ. (1984)]]></description>
+    <Point><coordinates>-94.845365,33.129537,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cooper's Chapel Church and Cemetery</name>
+    <description><![CDATA[About 12 mi NE of Mt. Pleasant via US 30 to FM 1993, N about 1.5 mi<br/><br/><b>Address:</b> Mt. Pleasant<br/><br/><b>Marker Text:</b> The pioneer families of William Cooper and William Ellis moved from Tennessee and settled here sometime during the 1850s. The burials of W. A. Cooper, Lizzie Dixon, and a Mrs. Harvey in 1886 are the earliest burials recorded here. By 1895 William Cooper had donated two acres, including the early grave sites, for church and graveyard purposes. Although local tradition indicates that this sanctuary was built by members of the Cooper's Chapel Church of Christ in 1892 the earliest record of its existence is contained in a deed recorded in 1913. It is a modest example of a rural frame church sanctuary featuring a hipped roof and double-door primary entrance. The site of numerous social activities, particularly during the 1930s depression period, the building served as a place of worship until 1980; it was transferred to Cooper's Chapel Cemetery trustees in 1981. A springtime event known as "Decoration Day" began early in the community's history and continues today as an annual event often attended by over 200 people. Among those buried here are Mrs. Harvey's son, William, a prominent local citizen, many of this area's pioneer settlers and their descendants, and veterans of wars ranging from the Civil War to the Vietnam conflict. Recorded Texas Historic Landmark - 1993 Recorded Texas Historic Landmark - 1993]]></description>
+    <Point><coordinates>-94.858429,33.271099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Damascus Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Titus County Road 1135, Mt. Pleasant]]></description>
+    <Point><coordinates>-95.018039,33.192978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Green Hill Presbyterian Church</name>
+    <description><![CDATA[Green Hill community, from Mount Pleasant north on FM 2152 then east on CR 1660<br/><br/><b>Address:</b> 350 CR 1660, Mount Pleasant<br/><br/><b>Marker Text:</b> Presbyterian Church Established in 1860]]></description>
+    <Point><coordinates>-94.990525,33.249693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Springhill-North Cemetery</name>
+    <description><![CDATA[from Mount Pleasant, north on FM 1402 (Harts Bluff Road) 7.8 mi. to Springhill Cemetery Road, 0.3 mi. west to cemetery.<br/><br/><b>Address:</b> off FM 1402, Mount Pleasant<br/><br/><b>Marker Text:</b> Historic Texas Cemetery - 2001]]></description>
+    <Point><coordinates>-94.963737,33.281384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Talco Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 403 N. Fourth Street, Talco]]></description>
+    <Point><coordinates>-95.10582,33.36552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Rev. Edward Hollister Green</name>
+    <description><![CDATA[Green Hill Cemetery, in Green Hill Community, CR 1660<br/><br/><b>Address:</b> CR 1660, Mount Pleasant<br/><br/><b>Marker Text:</b> (Born Madison County , Ala., May 14, 1827; Died Titus County, Texas, Nov. 12, 1863) Son of James W. and Elizabeth (Bass) Green. Educated at Centre College, Danville, Ky., and New Albany Theological Seminary, Ind. Licensed and ordained in Memphis Presbytery, preached 1853-59 in Tennessee. Came to Texas; founded church here Sept. 23, 1860. Held pastorate until his death. He married Catherine Hall of Tipton County, Tenn., 1850. They had a son and two daughters. Recorded - 1972]]></description>
+    <Point><coordinates>-94.989189,33.248984,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

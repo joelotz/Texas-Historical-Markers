@@ -1,0 +1,38 @@
+Lamar unmapped markers with NO usable address (9):
+
+  THC 17581: Campbell Cemetery
+    addr: Paris
+    https://atlas.thc.texas.gov/Details/5507017581
+
+  THC 23262: Culbertson Fountain
+    addr: Downtown Plaza, Paris
+    https://atlas.thc.texas.gov/Details/5000023262
+
+  THC 15570: Dr. Patrick W. Birmingham
+    addr: Biardstown
+    https://atlas.thc.texas.gov/Details/5507015570
+
+  THC 16733: Hickory Grove  Black Cemetery
+    addr: HWY 137 - 3.6 miles east of Petty, Petty
+    https://atlas.thc.texas.gov/Details/5507016733
+
+  THC 8183: J. M. Biard House
+    addr: Biardstown
+    https://atlas.thc.texas.gov/Details/5277008183
+
+  THC 8187: James Henry Campbell Home
+    addr: Blossom
+    https://atlas.thc.texas.gov/Details/5277008187
+
+  THC 8193: Site of First Anglo-American Settlement in Lamar County
+    addr: Powderly
+    https://atlas.thc.texas.gov/Details/5277008193
+
+  THC 14599: Williams, Sheb, Home
+    addr: Howland
+    https://atlas.thc.texas.gov/Details/5507014599
+
+  THC 14804: Williams, Wm. M. (Buckskin)
+    addr: Paris
+    https://atlas.thc.texas.gov/Details/5507014804
+

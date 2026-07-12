@@ -1,0 +1,57 @@
+Grimes unmapped markers with NO usable address (14):
+
+  THC 14266: Allen Home
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014266
+
+  THC 14198: Apolonia Cemetery
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014198
+
+  THC 14195: Bennett, Rueben, House
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014195
+
+  THC 23918: Camp Family Cemetery
+    addr: 8176 TX 90 South, Navasota
+    https://atlas.thc.texas.gov/Details/5000023918
+
+  THC 22833: Freedman Town
+    addr: Spur 515, Navasota
+    https://atlas.thc.texas.gov/Details/5000022833
+
+  THC 8627: Grimes County
+    https://atlas.thc.texas.gov/Details/5185008627
+
+  THC 14870: Martins Prairie Cemetery
+    addr: Iola
+    https://atlas.thc.texas.gov/Details/5507014870
+
+  THC 14076: Martyrs of the Alamo
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014076
+
+  THC 14720: Red Top Cemetery
+    addr: Shiro
+    https://atlas.thc.texas.gov/Details/5507014720
+
+  THC 8583: Rosanna Ward Britton Grimes and Jesse Grimes
+    addr: Navasota
+    https://atlas.thc.texas.gov/Details/5185008583
+
+  THC 24184: Smith-Floyd Cemetery
+    addr: 6497 CR 207B, Plantersville
+    https://atlas.thc.texas.gov/Details/5000024184
+
+  THC 23670: St. Louis Cemetery
+    addr: CR 103, Iola
+    https://atlas.thc.texas.gov/Details/5000023670
+
+  THC 24254: Stephenson Harris Family Cemetery
+    addr: 5347 CR 325, Navasota
+    https://atlas.thc.texas.gov/Details/5000024254
+
+  THC 11922: Waller Cemetery
+    addr: Richards
+    https://atlas.thc.texas.gov/Details/5185011922
+

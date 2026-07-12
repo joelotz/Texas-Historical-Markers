@@ -1,0 +1,10 @@
+Howard unmapped markers with NO usable address (2):
+
+  THC 15187: Finch Building
+    addr: Big Spring
+    https://atlas.thc.texas.gov/Details/5507015187
+
+  THC 14279: Moss Springs
+    addr: Big Spring
+    https://atlas.thc.texas.gov/Details/5507014279
+

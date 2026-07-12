@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Callahan County — Unmapped Historical Markers</name>
+  <description>THC markers in Callahan County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cross Plains Review</name>
+    <description><![CDATA[<b>Address:</b> 116 SE 1st Street, Cross Plains<br/><br/><b>Marker Text:</b> Belmont L. Shields founded the Cross Plains Review in April 1909, when the town was sited on Turkey Creek. He wanted the newspaper established before the railroad came to town, which occurred when the Texas central arrived in 1912 and most businesses and homes moved one mile to the new townsite. After publishing for five years, shields sold the paper to L. P. Henslee, who in 1921 sold the business to three local merchants. The Review has been an important resource for citizens and a unique chronicle, recording community development and such events as the death of writer Robert E. Howard, the 2005 wildfires, and the town’s 100th anniversary. As the oldest business in cross plains, the Review is intertwined with the history of the community.]]></description>
+    <Point><coordinates>-99.164757,32.125234,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hittson Ranch Headquarters on Battle Creek</name>
+    <description><![CDATA[from Putnam, take FM 2945 east about 4 miles (on right-of-way)<br/><br/><b>Address:</b> Putnam vicinity<br/><br/><b>Marker Text:</b> Nearby Battle Creek was given its name in 1840 by a small band of men who had traveled to this area in search of hostile Indians. A fight took place near the creek when a raiding party attacked the group. Approximately, twenty years later, cattleman John Hittson (1831-1880) established his ranch headquarters at the site of the battleground. The headquarters, used only when cattle were rounded up from surrounding lands, consisted of corrals, branding pens, and a small shelter. It is believed to be the first ranching headquarters established in Callahan County. (1984)]]></description>
+    <Point><coordinates>-99.136985,32.382243,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ross Cemetery</name>
+    <description><![CDATA[0.5 mi. W on US 283<br/><br/><b>Address:</b> Baird<br/><br/><b>Marker Text:</b> Ross Cemetery Established 1881 Historic Texas Cemetery - 2006]]></description>
+    <Point><coordinates>-99.385951,32.407843,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

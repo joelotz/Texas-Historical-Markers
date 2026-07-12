@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Montague County — Unmapped Historical Markers</name>
+  <description>THC markers in Montague County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
+  <Placemark>
+    <name>Briar Creek Cemetery</name>
+    <description><![CDATA[From Bowie take SH 59 southwest to FM 2583.  Head south on FM 2583 about .6 mile to cemetery.<br/><br/><b>Address:</b> FM 2583, off SH 59 SW of Bowie, Bowie<br/><br/><b>Marker Text:</b> Settlers began arriving in this area in increased numbers after the Civil War with the opening of rail lines and the cessation of indian conflicts. Many of the pioneers are interred here. The first burials, in the late 1870s, were for Kentucky native G.W. Simmons and for an infant of W.B. and Sarah Jane (Herndon) Dooley. Land for the cemetery was later deeded by Simmons' sister Margaret and her husband, G.W. Burnett. The early Briar Creek School was located on adjacent land by the 1880s, but only the cemetery remains as a reminder of the area's earliest settlers. Texas Sesquicentennial 1836-1986.]]></description>
+    <Point><coordinates>-97.893637,33.525795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brushy Cemetery</name>
+    <description><![CDATA[From Bowie take FM 3043 about 3 miles southeast to cemetery.<br/><br/><b>Address:</b> FM 3043, 3mi. SE of Bowie, Bowie<br/><br/><b>Marker Text:</b> Settlement of this area began in the 1870s. By 1880 a school, church, and cemetery were established. Located on land deeded by W.W. and Mary A. Wilcox, this cemetery and the nearby church serve as reminders of the once thriving community of Brushy. The earliest documented grave in the cemetery is that of W.C. Hatfield (1846-1877). Also interred here, in marked and unmarked graves, are veterans of the Civil War, children, and pioneer settlers. Descendants of early citizens still reside in the area, and a cemetery association formed in 1973 maintains the graveyard. (1990)]]></description>
+    <Point><coordinates>-97.802322,33.529645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Center Point Cemetery</name>
+    <description><![CDATA[From Saint Jo take US 82 3.5 miles west; turn north onto gravel road and follow 1.5 miles to cemetery.<br/><br/><b>Address:</b> Off US 82, on local road 5 mi. from Saint Jo, Saint Jo<br/><br/><b>Marker Text:</b> First known as Fairview Graveyard, this cemetery began in the late 1800s. This hilltop was also the site of the Baptist church and school, and was a community gathering place. The church building was torn down in 1954. Land for the cemetery was deeded in 1893 by the Armstrong and Dean families. The earliest marked grave is that of three-year-old Xanthippa Rountree in 1875, but many unmarked graves and illegible tombstones may represent older burials. Pioneer settlers, young children, and Civil War veterans are among those buried at this cemetery. (1996)]]></description>
+    <Point><coordinates>-97.564042,33.742325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cumberland Presbyterian Church</name>
+    <description><![CDATA[<b>Address:</b> 406 West Pecan St., Bowie]]></description>
+    <Point><coordinates>-97.850175,33.562919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dye Mound Cemetery</name>
+    <description><![CDATA[From Saint Jo take FM 3206 about 7 miles south to cemetery.<br/><br/><b>Address:</b> FM 3206, about 7 mi. S of Saint Jo, Saint Jo<br/><br/><b>Marker Text:</b> The Dye Mound Community was founded in the late 1850s and named for a trapper who owned a trading post at the foot of the hills. In 1889, Dye Mound Cemetery trustees bought more than three acres of land from S.T. Boswell and his wife. The town continued to grow and its first church building was completed in 1890. By the late 1920s, this once thriving community began to decline, and by 1956, only remnants of a ghost town remained. The Dye Mound Cemetery, however, still serves the area as a reminder of the early cotton town. (1984)]]></description>
+    <Point><coordinates>-97.600392,33.621662,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmers and Merchants National Bank</name>
+    <description><![CDATA[Southeast corner of Clay and Elm Streets, Nocona.<br/><br/><b>Address:</b> Clay and Elm St., Nocona<br/><br/><b>Marker Text:</b> The oldest financial institution in continuous operation in Nocona, the Farmers and Merchants National Bank was founded in 1905 with capital stock of $30,000. Seven directors were named at the bank's organizational meeting, and W.A. McCall (1845-1915) was named President. Upon his death, he was succeeded by his son, Cadmus McCall (1876-1953), who served for thirty-eight years. First housed in the J.A. Foshee Store at Oak and Clay Streets, the bank moved to this location in 1926. Throughout its history, the bank has been active in the civic life of Nocona. (1987)]]></description>
+    <Point><coordinates>-97.72421,33.790962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First National Bank of Saint Jo</name>
+    <description><![CDATA[Corner of Main and Howell Streets, Saint Jo.<br/><br/><b>Address:</b> Main and Howell St., Saint Jo<br/><br/><b>Marker Text:</b> Saint Jo Bank opened April 7, 1892, with capital of $20,000. First located on Boggess Street on the town square, the bank obtained a federal charter in 1900 and became known as First National Bank of Saint Jo. H.D. Field succeeded C.C. Hemming as President in 1907 and served in that capacity until 1946. This building was erected in 1912 and was occupied by the bank in 1913. Over the years, the bank has attracted and supported local businesses. After nearly a century, it continues to serve the community. (1988)]]></description>
+    <Point><coordinates>-97.522214,33.69564,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Illinois Bend Memorial Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 527 Illinois Bend Road, Saint Jo<br/><br/><b>Marker Text:</b> A community sprang up here about the beginning of the Civil War. It was one of two settlements, along with Burlington (Spanish Fort) sited along the Red River in Montague County. After the Civil War, nearby Red River Station became the favored crossing for Longhorn Cattle going up the Chisholm Trail. The community here was known as Maxwell, Maxville or Wardville in its early days. The name Illinois Bend is thought to derive from the former home state of some of the first settlers. The name was fixed by 1877, when the Illinois Bend Post Office opened. The community had a school, several stores, a cotton gin, churches, and lodges in the 1930s. Multiple ferries operated across the Red River, and a bridge was in use until 1935. The origin of the community burial ground is unknown. The earliest marked grave is for Nancy Smith (1873), and unmarked graves from that period are likely. In 1880, John and Sarah Elliot officially deeded the cemetery with 1.953 acres of land designated for use as a burial ground and school. Records show that the first school, a log cabin called valley branch school, opened in 1877 adjacent to the cemetery. Historic gravestone materials include marble, limestone, granite, sandstone, fieldstone, concrete, and ceramic photographs. An open-air tabernacle predates 1917. The traditional “graveyard working” day was the first saturday in august (later moved to april), also functioning as a homecoming for those who had moved away. Later, caretakers for the cemetery were hired, maintaining graves and addressing erosion along valley branch with sandbagging and construction of a levee. The illinois bend memorial cemetery association cares for this significant chronicle of the community.]]></description>
+    <Point><coordinates>-97.498031,33.877179,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lindale Cemetery</name>
+    <description><![CDATA[3 mi. N of Bowie on SH 59, 0.5 mi. E on FM 1758<br/><br/><b>Address:</b> FM 1758, Bowie<br/><br/><b>Marker Text:</b> Named for the Lindale School District No. 15, the Lindale Cemetery was established in 1880 when J. W. and A. W. Gibbins sold one acre of land for four dollars to school trustees for a burial ground. The first recorded burial on this site was that of E. T. Foster (1849-1883). Others buried here include families such as that of G. A. and Effie Griffin, who came to the Lindale Community in 1923. Other families represented here include Cooper, Ferrell, Griffin, Hill, Huskey, Kilcrease, Lamkin, Lindsey, Morris, Prater and Thomas. In 1893 J. K. and N. E. Thomas sold an additional two acres of land to the cemetery for twenty-five dollars, increasing its size to three acres. Military veterans buried here include participants in World War l and World War ll. In 1999 the cemetery had 241 marked and 15 unmarked graves. (2000)]]></description>
+    <Point><coordinates>-97.801801,33.578341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McGrady Cemetery</name>
+    <description><![CDATA[From Saint Jo take FM 3206 about 4 miles; head south on County Road 401 to cemetery.<br/><br/><b>Address:</b> CR 401 off FM 3206, 4 mi. from Saint Jo, Saint Jo<br/><br/><b>Marker Text:</b> Allen R. McGrady and his wife Elizabeth (Cox) moved to this area in 1859. They settled on 160 acres of land along Clear Creek. This cemetery began in the 1860s after a McGrady employee was killed by indians and buried on the family farm. One acre of land was set aside for the graveyard, which became the final resting place for many McGrady family members and neighbors. Allen and Elizabeth McGrady, both of whom died in September 1899, are interred here. The cemetery stands as a reminder of Montague County's pioneer heritage. (1991)]]></description>
+    <Point><coordinates>-97.561854,33.647625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Montague Catholic Cemetery</name>
+    <description><![CDATA[Catholic Cemetery Road, east of FM 455<br/><br/><b>Address:</b> Montague<br/><br/><b>Marker Text:</b> Settlers from mountain provinces of northern Italy began arriving in Montague in the early 1880s. The families of Barretto Raimondi, Jack Fenoglio, Antonio Perona and Charlie Corado were among the earliest here. By the early 1900s, there were as many as fifty Italian families. Most of these Italian immigrants were Catholic, and in 1901 they established St. John Catholic Church in Montague. The Most Rev. E. J. Dunne, bishop of Dallas, bought three acres for a cemetery on April 28, 1900. The land was laid out in four sections surveyed into blocks, and Giroloma Vitali was the first burial in 1901. Gravestones exhibit Italian heritage as well as families of German, Polish and Hispanic descent. More than 250 marked and unmarked graves are now recorded here. Historic Texas Cemetery - 2016]]></description>
+    <Point><coordinates>-97.705079,33.658155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Montague County Trails</name>
+    <description><![CDATA[On US 82, east side of Nocona.<br/><br/><b>Address:</b> 1528 East Hwy. 82, Nocona]]></description>
+    <Point><coordinates>-97.706365,33.785302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Nocona Cemetery (HTC)</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1605 W. Pine St., Nocona]]></description>
+    <Point><coordinates>-97.738452,33.789817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Salona Cemetery</name>
+    <description><![CDATA[From Bowie, FM 3043 for 3.2 mi., then turn right onto Orchard Road and then left onto Lama Road 1.3 mi. to the cemetery.<br/><br/><b>Address:</b> Lama Road, Montague<br/><br/><b>Marker Text:</b> Settlement of Bethel community began in the 1870s, with the Ayers, Cherry, Cook, Couch, Hill, Lamb, Oliver, Overstreet, Park and Richardson families among the first settlers. The Salona School was open here by 1881. When a post office operated from 1889 to 1905, it also took the name Salona, since there was already a Bethel post office in Texas. The community included two churches, a blacksmith, and a medical office. The school consolidated with Bowie in 1952, and the school building was used as a community center until it was razed in 2007. John H. and Liadora Overstreet sold land to Bethel School District No. 53 for a burial ground in 1889. School trustees John Brigance, John Young, and Richard Hunt paid twenty dollars for the parcel. When the nearby Thompson School was demolished, burials from the cemetery at Thompson's Chapel were brought by wagons and reinterred here. In 1890, Harrell Lilly Cherry, Civil War veteran, became the first of many veterans to be buried here. Each May, starting in 1897, citizens of Salona met to maintain the graveyard and enjoy a time of fellowship with a potluck dinner. Reverend W. M. McKee would preach and lead the singing. Today, the tradition is still observed on the first Sunday of May in Montague County, as rural communities commemorate Decoration Day. The Salona Cemetery Association formed in 1897 with Rev. McKee as chairman and H. C. Knightstep as caretaker. In 1928, when additional acreage was needed, the W. C. Richardson family sold their land to increase the size of the cemetery. Salona Cemetery remains the final resting place of earlier generations and a chronicle of this rural settlement. Historic Texas Cemetery - 2010]]></description>
+    <Point><coordinates>-97.74361,33.541635,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

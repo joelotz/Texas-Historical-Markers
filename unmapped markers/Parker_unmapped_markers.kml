@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Parker County — Unmapped Historical Markers</name>
+  <description>THC markers in Parker County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>Battern Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 1500 Tidwell Road/401 Russell Ln, Weatherford<br/><br/><b>Marker Text:</b> Henry Hill Battern, a native of Virginia, migrated to Parker county with his family around 1860. He purchased 160 acres of property including this one-acre cemetery and established a family farm. Shortly after the move, Battern’s second wife, Sarah Jane Hendron, died in 1860 and is said to be the first person buried in Battern Cemetery. A Civil War veteran, H. H. Battern was highly esteemed by the local community. He served as the family doctor and although he lacked formal education, neighbors sought his medical advice. In 1867, he was appointed Justice of the Peace for Precinct 7. His third wife’s son, Francis Hill Battern, is the last known burial at the cemetery in 1934.]]></description>
+    <Point><coordinates>-97.947889,32.639195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chandor Gardens</name>
+    <description><![CDATA[711 West Lee St., Weatherford<br/><br/><b>Address:</b> 711 West Lee St., Weatherford<br/><br/><b>Marker Text:</b> Portrait painter Douglas Chandor began designs for his home and garden in 1934. Originally called White Shadows, the garden was renamed Chandor Gardens by his wife, Ina, after her husband's death in 1953. Carved from a caliche hillside that had been his in-laws' cow pasture, it consists of seven interlocking gardens with Oriental and English features. Most gardens include a fountain or pond, and space for flora, statuary or other objects. The garden opened to the public and began attracting attention by 1938 from newspaper features. Chandor's wish was that his garden would be an incentive for Texas men to take up gardening. The garden reflects Chandor's ability to transform thought and landscape into a place of beauty. Recorded Texas Historic Landmark - 2011]]></description>
+    <Point><coordinates>-97.808367,32.753738,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harmony Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 442 Shanes Ln, Weatherford<br/><br/><b>Marker Text:</b> Originally conceived as a gathering place for the Harmony community, the Harmony Cemetery was established when Mary Green (1802-1869), mother to Rufus S. Green, a Civil War veteran, was buried here. Rufus and his wife, Mary A. Green, purchased the acreage. Later, Green sold a section including the burial ground to the DeBusk family, who then deeded the land to the Methodist Episcopal Church, South. Although the church never built on the site, the cemetery continued to be used as the community burial ground and includes relatives and descendants of the Green family. Many founding members of the local Baptist Church are buried here, along with other pioneer families, which chronicles the heritage of the Harmony community. HISTORIC TEXAS CEMETERY – 2016]]></description>
+    <Point><coordinates>-97.800019,32.679834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. J. Hamilton Log Cabin</name>
+    <description><![CDATA[located in the Doss Heritage Center Log Cabin Village<br/><br/><b>Address:</b> 1400 Texas Drive, Weatherford<br/><br/><b>Marker Text:</b> By Affidavit in 1855, J.J. Hamilton (1805-1890) settled land in this area and was one of the petitioners in the creation of Parker County. In 1856, he purchased two town lots on the southwest corner of East Church and South Walnut Streets. Also in 1856, Hamilton and his wife Susanna (Little) Hamilton became founding members of the Christian Church where Hamilton eventually became minister. A city census indicated that he built this log cabin on the property by 1858 with two rooms, each with a fireplace, and a dog trot between them. Hamilton continued to officiate at the Christian Church until 1863 when his two sons were killed by Native Americans at Patrick’s Creek. In their grief, the family left Parker County.]]></description>
+    <Point><coordinates>-97.783959,32.741451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Poolville</name>
+    <description><![CDATA[FM 920, Town Square, Poolville<br/><br/><b>Address:</b> FM 920, town square, Poolville<br/><br/><b>Marker Text:</b> The town of Poolville built up around a natural spring-fed pool in the Clear Fork of the Trinity River in Parker County. The pool, located one-half mile northeast of the present Poolville Town Square, was a well-known watering place for cattle herds on the way to market. Gradually a settlement grew around the pool area. About 1870 a saloon and a store owned by Jim Taylor provided residents a place to shop, trade, and visit. M.L. Scott operated a sawmill on the east end of the pool. About 1879 A.H. "Major" Dunn donated land for a townsite which led to business and residential growth. A log farmhouse near the pool had served as the community's first school, but after 1879 a building was erected in the new townsite for school and church purposes. Early 20th century business development included the first bank, organized in 1905; two hotels; two blacksmith shops; a post office; saddle and harness shop; wagon yard; telephone office; and a cotton gin. A newspaper, "The Poolville Searchlight" was published about 1910. Homes, churches, and schools completed the community. (1992)]]></description>
+    <Point><coordinates>-97.857918,32.97542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Springs Cemetery</name>
+    <description><![CDATA[From Peaster, take FM 920 .25 mile north, take McClendon Road west about 0.5 mile, take a right. Marker is at cemetery.<br/><br/><b>Address:</b> 1390 McClendon Rd., Peaster<br/><br/><b>Marker Text:</b> This cemetery contains the graves of many of the pioneers of Rock Springs, a village that served as a social center for area farmers. Thirty-one graves are marked with native stones, while a few are identified with engraved headstones. The earliest marked identifiable grave, dated 1867, is that of Mary L. Sullivan. The last marked grave in the cemetery, that of Mary J. Robertson, bears the date 1882, the same year the town of Peaster (1 mile west) was established and Rock Springs began to decline. The cemetery is one of the few remnants of this early Parker County Community. (1985)]]></description>
+    <Point><coordinates>-97.855845,32.879335,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Fe Depot</name>
+    <description><![CDATA[2 blocks east of courthouse on Fort Worth Street, Weatherford<br/><br/><b>Address:</b> Fort Worth St., Weatherford<br/><br/><b>Marker Text:</b> Application The Texas Historical Building Medallion enclosed.]]></description>
+    <Point><coordinates>-97.795602,32.756755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sunshine Special's Ellsmere</name>
+    <description><![CDATA[Pate Museum of Transportation, from Cresson take US 377 north about 3.5 miles to museum.<br/><br/><b>Address:</b> US 377 N of Cresson, Cresson<br/><br/><b>Marker Text:</b> One of most elegant private cars in the world when it was built in 1914 for the personal use of Dr. W.S. Webb, president of Wagner Palace Car Company. When New York Central's "20th Century Limited" express broke New York-Chicago rail passenger speed record in 1932, this was that train's rear car. Owned 1920-1961 by T. &amp; P. Railway. Presented in 1962 to Fort Worth Children's Museum. Recorded Texas Historic Landmark, 1966.]]></description>
+    <Point><coordinates>-97.602545,32.57239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] White's Funeral Home</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 130 Houston Ave., Weatherford]]></description>
+    <Point><coordinates>-97.798156,32.75814,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Crockett County — Unmapped Historical Markers</name>
+  <description>THC markers in Crockett County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>One Fourth-Mile North to Ruins of Fort Lancaster</name>
+    <description><![CDATA[TxDOT Ozona Maintenance Office in storage. Marker reported damaged (missing bronze plaque and bronze seal).<br/><br/><b>Address:</b> 230 TX 163 N, Ozona<br/><br/><b>Marker Text:</b> [1936 inscription] One-Fourth Mile North to Ruins of Fort Lancaster. Established in 1855 by the United States government as a protection to travelers and mail on the overland route from San Antonio to San Diego. Abandoned in 1861. Reoccupied in 1868 for a short time. Erected by the State of Texas 1936. [1966 inscription] Ruins of Fort Lancaster. Established August 20, 1855 by United States government, one half-mile above the junction of Live Oak Creek with the Pecos River in present Crockett County. Garrisoned by U.S. Second Cavalry, who protected travelers and mail on the San Antonio-El Paso military road. Fort was abandoned March 19,1861, after Texas seceded from the Union. Reoccupied by federal troops, 1868, for a short time. At Pecos River, just south of Hwy. 290 river bridge, is one of most used Texas pioneer fords. Ruts made by wagon wheels sliding down hill are plainly visible. (1966)]]></description>
+    <Point><coordinates>-101.197206,30.726359,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

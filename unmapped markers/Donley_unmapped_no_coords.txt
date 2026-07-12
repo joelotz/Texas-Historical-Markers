@@ -1,0 +1,6 @@
+Donley unmapped markers with NO usable address (1):
+
+  THC 24245: Jericho Gap on Route 66
+    addr: SH 70, Clarendon
+    https://atlas.thc.texas.gov/Details/5000024245
+

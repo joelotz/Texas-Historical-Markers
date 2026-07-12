@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Kaufman County — Unmapped Historical Markers</name>
+  <description>THC markers in Kaufman County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Birthplace of City of Kaufman; Site of King's Fort</name>
+    <description><![CDATA[607 N. Clay at Pyle St., Kaufman<br/><br/><b>Address:</b> Kaufman<br/><br/><b>Marker Text:</b> (Founded 1840) Established by Wm. P. King and 40 pioneers he led from Holly Springs, Miss.; this was then in Nacogdoches County, Republic of Texas. Caddo, Cherokee, Delaware and Kickapoo Indians roamed the area. Settlers built log cabins inside the fort. When the Indian menace lessened, Kingsboro (or early Kaufman) began to grow. Supplies came from San Antonio, in arduous yearly trips there. Hearing the Texas Republic was joining the United States, King in 1846 got patent to lands at the fort. Although he soon died, his widow carried on his plans for the colony. (1970) Incise on back: Kaufman County Historical Survey Committee]]></description>
+    <Point><coordinates>-96.311937,32.593489,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedar Grove Cemetery</name>
+    <description><![CDATA[NE on FM 2728, right on CR 346; E on int. with CR 343A<br/><br/><b>Address:</b> CR 346, Elmo<br/><br/><b>Marker Text:</b> Historic Texas Cemetery]]></description>
+    <Point><coordinates>-96.087261,32.75814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Founding of Terrell</name>
+    <description><![CDATA[NW corner of S. Alley and S. Adelaide streets. Marker pending. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 S. Adelaide St., Terrell<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.276314,32.736225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Griffith House</name>
+    <description><![CDATA[At the corner of First and Johnson Streets, North, 30 Degrees West of the center of the intersection of those streets in Terrell.<br/><br/><b>Address:</b> 801 First Street, Terrell<br/><br/><b>Marker Text:</b> This 1909 house was designed by noted Dallas architect, James E. Flanders, for Lycurgus Edward (L.E.) Griffith, Jr. (1865-1928), and his second wife, Netta Washington (Morrill) Griffith. The site originally housed the c.1876 home of early Terrell residents Jasper W. Johnson and his wife, Susan. The original basement and two outbuildings remain on the property. L.E. Griffith established the L.E. Griffith Drug Company, was president of First State Bank, active in the Terrell Chamber of Commerce, director of the local newspaper and a strong supporter of agricultural development. Recorded Texas Historic Landmark – 2017]]></description>
+    <Point><coordinates>-96.28367,32.742309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Kyser Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> CR 109, Kaufman]]></description>
+    <Point><coordinates>-96.303401,32.576494,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

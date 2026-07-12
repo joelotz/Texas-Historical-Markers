@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Dickens County — Unmapped Historical Markers</name>
+  <description>THC markers in Dickens County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Dickens County Courthouse</name>
+    <description><![CDATA[Courthouse Square, Hwy. 82, Dickens (marker is inside of courthouse)<br/><br/><b>Address:</b> 512 Montgomery St., Dickens<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-100.836338,33.621313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Mud Cemetery</name>
+    <description><![CDATA[from Spur, SW on FM 261 to CR 496<br/><br/><b>Address:</b> CR 496, Spur]]></description>
+    <Point><coordinates>-100.999246,33.426696,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

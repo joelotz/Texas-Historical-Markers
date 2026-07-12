@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Mitchell County — Unmapped Historical Markers</name>
+  <description>THC markers in Mitchell County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>F. M. Burns Home</name>
+    <description><![CDATA[304 East Fourth Street, Colorado City.<br/><br/><b>Address:</b> 304 E Fourth St., Colorado City<br/><br/><b>Marker Text:</b> Application, The Texas Historical Building Medallion included.]]></description>
+    <Point><coordinates>-100.864654,32.390634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church</name>
+    <description><![CDATA[Lightfoot and Market Streets, Loraine.<br/><br/><b>Address:</b> Lightfoot and Market St., Loraine<br/><br/><b>Marker Text:</b> Organized in 1892 before town lots sold. Services held in schoolhouse for 14 years. First church built 1907; present building 1947. Materials from original site preserved, used for rafters and ceiling beams. Inner brick walls built from old Colorado City Salt Works boiler building. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-99.862054,28.523078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Methodist Church</name>
+    <description><![CDATA[333 Chesnut, Colorado City.<br/><br/><b>Address:</b> 333 Chestnut, Colorado City<br/><br/><b>Marker Text:</b> Application, The Texas Historical Building Medallion included.]]></description>
+    <Point><coordinates>-100.864362,32.390404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First State Bank</name>
+    <description><![CDATA[Main and Pacific St., Loraine.<br/><br/><b>Address:</b> Main and Pacific St., Loraine<br/><br/><b>Marker Text:</b> A leader in area growth. Organized with a capital of $18,000 (1908). Farmers and cattlemen were in majority as stockholders. Presidents have included S.E. Brown, J.C. Hall, K.L. Taylor, and H.J. Mearse. In 1922 a new building was erected and in 1962 the interior was remodeled. (1969)]]></description>
+    <Point><coordinates>-100.7124,32.411528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lone Wolf Mountain</name>
+    <description><![CDATA[FM 644 at cemetery, southwest corner of Loraine.<br/><br/><b>Address:</b> FM 644, Loraine<br/><br/><b>Marker Text:</b> Named for Chief of Kiowa Indians, held hostage by General Custer after the Washita campaign. Later released. Swore revenge on white man after son was killed. A clash took place on El Paso Road north of Ft. Concho, the location of Lone Wolf Mountain. Chief died 1879. (1967)]]></description>
+    <Point><coordinates>-100.719509,32.400644,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Plainview Baptist Church</name>
+    <description><![CDATA[From Colorado City, take SH 163 South about 4 miles to church.<br/><br/><b>Address:</b> SH 163, S of Colorado City 4 mi., Colorado City<br/><br/><b>Marker Text:</b> Begun as a mission of the Spade Community's Liberty Baptist Church, this fellowship met as early as 1906 in the Plainview Community Schoolhouse. On May 16, 1908, an organizational meeting was held to establish an independent congregation that became known as Plainview Baptist Church. Several members of the Liberty Baptist Church joined the new church at Plainview to provide leadership during its early years. Throughout its history, Plainview Baptist Church has maintained an active fellowship and has played an important role in the community's development. (1983)]]></description>
+    <Point><coordinates>-100.90017,32.352124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Valley View School</name>
+    <description><![CDATA[From Colorado City take SH 208 about 3.6 miles north.  Turn east onto FM 1982.  Continue east 4 miles to county road 412.  Take 412 north one mile to marker just across bridge.<br/><br/><b>Address:</b> CR 412 off SH 208 via FM 1982, 8 mi. from Colorado City, Colorado City<br/><br/><b>Marker Text:</b> In 1905 nine men from the Lone Wolf Valley adopted plans for a community school. Named Valley View by S.H. Hart, it began under the direction of eighteen-year-old Aury Williams, the first teacher. Edmond Seymour donated land at this site for a one-room schoolhouse, constructed by W.D. McCarley, T.J. Coffee, A.J. Compton, J.B. Cranfill, J.H.T. Johnson, Billie Seymour and Willie Seymour. The building was also used as a community center. The Valley View School continued to serve the surrounding rural area until 1942, when it was consolidated with the Loraine District. (1982)]]></description>
+    <Point><coordinates>-100.779368,32.493966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spade Community Cemetery</name>
+    <description><![CDATA[From Colorado City take SH 163 about 11.2 miles south to county road 337.  Go east about 1.2 miles to cemetery.<br/><br/><b>Address:</b> SH 163 and CR 337, on 337, S of Colorado City, Colorado City<br/><br/><b>Marker Text:</b> This cemetery began as a family graveyard on the farm of R.F. (1868-1927) and Addie (1872-1956) Hargrove, when their infant son died in April 1898. The Hargroves gave 2.5 acres of land surrounding their son's grave to the Spade Community for cemetery and school purposes. The community schoolhouse, originally called Liberty School, was used for numerous purposes, including funerals, grange meetings, church services, and community events. According to available oral history, the school building was located in the northeast corner of the cemetery property. The Ellwood-Renderbrook Spade Ranch, from which the community takes its name, adjoins the rural settlement on its southern boundary. From 1902 until 1912 a U.S. Post Office served the community; other businesses in the area included a cotton gin, a store, and a blacksmith shop. Since 1898 this graveyard has served as the sole burial ground for the farming and ranching community of Spade. Among the interments here are Hargrove family members; victims of the 1918 influenza epidemic; and veterans of the Civil War and World War II, including a member of the Women's Army Corps. (1992)]]></description>
+    <Point><coordinates>-100.948671,32.254238,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The 96 Ranch</name>
+    <description><![CDATA[From Colorado City take SH 208 south about 4 miles to County Road 123.  Take 123 West to County Road 121.  Follow road south about 1.7 miles to marker.<br/><br/><b>Address:</b> CR 121, off SH 208 via CR 123, 5 mi. from Colorado City, Colorado City<br/><br/><b>Marker Text:</b> Cattlemen began settling Mitchell County in the late 1870s, before the arrival of businessmen and farmers. This marker stands on one of the area's important early ranches, the 96 Ranch, founded by James Durham Wulfjen (1845-1933). Wulfjen was a merchant in Round Rock before he visited Mitchell County in 1884. Inspired by the booming ranch economy, he filed on three sections of land, brought in a herd of cattle. And built a cabin near the Colorado River at the site of an old buffalo hunter's camp. He then persuaded his wife Mary Jane (Cocreham) (1854-1950) to give up the comforts of town life and settle on an isolated ranch. On March 11, 1885, at the Mitchell County Courthouse, Wulfjen registered the "96" brand, still used by his descendants. He and his sons increased the size of the ranch to 19 sections (12,160 acres), on which they raised fine Durham cattle and saddle horses. The land is still owned by various members of the family. The Wulfjens helped build a school and church at nearby Seven Wells and contributed to the stability of the ranching frontier. To provide education for their six children and others in the area, they donated funds for schools in Mitchell and Scurry Counties. (1976)]]></description>
+    <Point><coordinates>-100.821635,32.255431,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Marion Green</name>
+    <description><![CDATA[City Cemetery, Colorado City east section of cemetery.<br/><br/><b>Address:</b> City Cemtery, Chestnut Street, Colorado City<br/><br/><b>Marker Text:</b> An orphan at age 7, Green learned self-reliance early. At 19, he joined the Texas Rangers. And at 20, he enlisted in Co. A of the Frontier Battalion. In 1874, his company helped capture members of John Wesley Hardin's gang who were raiding Comanche County; Green helped escort 7 of the outlaws to jail. He promoted the founding of the Texas Ex-Rangers Association in 1920, serving as Major of the group until his death. Recorded, 1968.]]></description>
+    <Point><coordinates>-100.839596,32.392066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Y.D. McMurry</name>
+    <description><![CDATA[East section of city cemetery, Colorado City cemetery.<br/><br/><b>Address:</b> Colorado City Cemetery, Colorado City<br/><br/><b>Marker Text:</b> Born in Tennessee. Brought up in Fort Worth. In 1882 joined Co. B, Frontier Battalion, Texas Rangers, under a Brother, Capt. Sam McMurry--then enforcing law in Colorado City area. Y.D. McMurry, Mitchell County Sheriff 1892-1898, was one of captors of notorious murderer and train robber Bill Cooke. McMurry was a merchant and cotton broker, and for many years he was a deacon in the Presbyterian Church. Recorded, 1970.]]></description>
+    <Point><coordinates>-100.839547,32.393817,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

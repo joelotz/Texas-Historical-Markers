@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Refugio County — Unmapped Historical Markers</name>
+  <description>THC markers in Refugio County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Woodworth House</name>
+    <description><![CDATA[209 E. Purisima St., Refugio<br/><br/><b>Address:</b> 209 E Purisima St., Refugio<br/><br/><b>Marker Text:</b> This Victorian home was erected for newspaperman L.H. Woodworth (1864-1921) and his wife Mary Frances Power (Swift) (1871-1957), granddaughter of Empresario James Power, who founded Refugio. The first floor was built in 1900 and the second story added in 1907. The central octagonal bay room dominates the galleried structure, designed by Julis Leffland. Later occupied by the Woodworth's daughter Mrs. Thelma Heard, the house was restored in 1974 by W.W. Harkins, Jr.]]></description>
+    <Point><coordinates>-97.27516,28.297165,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

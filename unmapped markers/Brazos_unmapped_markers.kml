@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Brazos County — Unmapped Historical Markers</name>
+  <description>THC markers in Brazos County without an HMDB id (isMissing excluded). 26 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alexander Methodist Chapel</name>
+    <description><![CDATA[From the intersection of SH 6 and FM 974 (North Bryan) take FM 974 north approximately 5.3 miles to Alexander Rd., then NW on Alexander Rd. approximately .9 mile to Alexander Cemetery Rd., then on cemetery road approximately .1 mile.<br/><br/><b>Address:</b> Bryan<br/><br/><b>Marker Text:</b> Organized in 1854 by Robert Alexander, Circuit Rider. First church built of hand-hewn logs in 1856 by early settlers, George Fullerton, Hugh Henry, Jim Walker, John Walker, E.W. Thompson and others. Ten acres of church land donated by Eliz Boatwright and John Singleton was deeded to the following trustees: James Walker, William Lawrence, John B. Wallace, William Glass and Harvey Mitchell. Second church was built in 1908 - W.D. Gardner, Pastor. Third church was built in 1939 - Willard Smith, Pastor.]]></description>
+    <Point><coordinates>-96.384222,30.78162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Allen Academy (Duplicate)</name>
+    <description><![CDATA[<b>Address:</b> 3201 FM 158, Bryan]]></description>
+    <Point><coordinates>-96.317154,30.670565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Allen Chapel A. M. E. Church</name>
+    <description><![CDATA[<b>Address:</b> 506 E 22nd Street, Bryan<br/><br/><b>Marker Text:</b> Methodism among African American Texans predates the Civil War with the First Church being established in 1848. The earliest known African American minister in Brazos County was reverend Emmanuel Hammitt who served under Reverend W.S. South. After emancipation African Americans were free to establish their own churches. Allen Chapel African Methodist Episcopal Church (A.M.E.) is named after Reverend Richard Allen, who founded roots of the A.M.E.. in 1787. the first meeting of the Allen chapel congregation was before 1870. Church services were held in brush arbors and reverend Hammitt became the first minister in 1866. Reverend Charles B. Foster replaced Hammitt as pastor of the Allen Chapel congregation in 1868. The congregation purchased land in July of 1870 to build the first chapel located on North Houston and East 22nd Street. Allen Chapel also served as a school for African American children in 1914 when their school was destroyed by fire. The second church was built in 1920 and the current church in 1961. The congregation has supported many organizations including the N.A.A.C.P., Bryan Charity Fund, Sickle Cell Anemia Foundation, Bethune Women’s Club and the Gideons. The church continues to fellowship with local churches with proceeds going to those in need. Allen Chapel A.M.E. church is among the oldest continuing churches in Brazos County. If the formation of a church is measured by the presence of a minister and congregation then Allen Chapel would be one of the earliest organized African Methodist Episcopal Congregations in Texas.]]></description>
+    <Point><coordinates>-96.368184,30.677125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Astin-Porter Home</name>
+    <description><![CDATA[<b>Address:</b> 600 E. 29th St., Bryan<br/><br/><b>Marker Text:</b> Built for Onah (Ward) Astin (d. 1944), the wife of cotton planter James H. Astin (d. 1897), this house was designed by the Waco firm of Howard Messer and S. Wemyss Smith. Construction began in 1901 and was completed two years later. The exterior of the Classical Revival residence features a two-story gallery with Corinthian columns. Holland Porter, a planter, purchased the home in 1946, and additions were made to the structure during his ownership. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-96.368367,30.670482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bryan &amp; College Interurban Railway</name>
+    <description><![CDATA[NE corner E. 27th St. and Regent Ave. Marker reported in storage pending installation Dec. 2021.<br/><br/><b>Address:</b> 200 E. 27th St., Bryan<br/><br/><b>Marker Text:</b> Bryan mayor J.T. Maloney and the city's Retail Merchants Association incorporated the Bryan &amp; College Interurban Railway Company in 1909. The company was created to establish an interurban railway service between Bryan, a town of about 4,000 people, and the Texas Agricultural &amp; Mechanical College (Texas A&amp;M), with a student and faculty population of about 750. Daily service consisting of ten 30-minute trips began in 1910 with passenger trolleys and gasoline-powered rail cars. Along the route, landowners built residential subdivisions and small farms, and the trolley line founded an attraction called Dellwood Park. Freight service began in 1918 to help bolster an operation beset with labor problems and the loss of passengers to automobile ridership. In 1922 the Bryan &amp; College Interurban Railway went into receivership, beginning a series of financial and legal problems. The last recorded trip of the Interurban took place in 1929. During its 20 years of operation the interurban railway greatly influenced the course of urban development in both Bryan and College Station. Today the two cities merge indistinguishably at a point on the former Bryan &amp; College Interurban Railway route. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
+    <Point><coordinates>-96.371912,30.672681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Carl T. "Doc" Sprague</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3400 S. College Ave., Bryan<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.356455,30.637175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cavitt House</name>
+    <description><![CDATA[<b>Address:</b> 713 E. 30th St., Bryan<br/><br/><b>Marker Text:</b> Attorney William R. Cavitt (1849-1924) purchased a city block here in 1875, the year he married Mary Mitchell. Cavitt became Brazos County Attorney in 1878 and about 1880 he and Mary built a brick Italianate residence here. Cavitt later served as a State Legislator and on the Board of Texas A&amp;M University. The Cavitts modified the house in the 1920s to reflect contemporary Colonial Revival influences. The house remained in the Cavitt family until 1978. Recorded Texas Historic Landmark - 1995]]></description>
+    <Point><coordinates>-96.367515,30.667224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. William A. Hammond Sr. (undertold)</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3499 Old Kurten Rd., Bryan<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.356437,30.696956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>E. J. Jenkins House</name>
+    <description><![CDATA[<b>Address:</b> 607 E. 27th St., Bryan<br/><br/><b>Marker Text:</b> This house was constructed in 1893 by prominent Bryan builder Charlie Jenkins for his brother Edwin James Jenkins (1867-1959). A native of England, E.J. Jenkins came to Bryan in 1878. He operated a drugstore in downtown Bryan for over 50 years and served as Mayor and a City Councilman. The classic Queen Anne style home, which features a domed tower and wraparound veranda, remained in the Jenkins family until the property was sold in 1971. Recorded Texas Historic Landmark - 1982]]></description>
+    <Point><coordinates>-96.367913,30.672102,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Edge Community</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 7250 Edge Cut Off Road, Hearne]]></description>
+    <Point><coordinates>-96.295817,30.890783,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edge House</name>
+    <description><![CDATA[<b>Address:</b> 609 S. Ennis, Bryan<br/><br/><b>Marker Text:</b> Completed in 1925 for the family of prominent Bryan merchant Eugene Edge (1879-1954) and his wife Cora Zulch (d. 1939), this two-and-one-half story brick house reflects the Georgian Revival style. Defining features include its symmetrical composition, entry portico with Doric columns, stone quoins, gabled dormers, and fanlight transom. After the deaths of Mr. and Mrs. Edge, the house remained in the Edge family until 1978. Recorded Texas Historic Landmark - 1991]]></description>
+    <Point><coordinates>-96.36645,30.664723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Immaculate Conception Catholic Church</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 200 E. Martin Luther King, Jr., Bryan]]></description>
+    <Point><coordinates>-96.371324,30.680027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Wilson</name>
+    <description><![CDATA[From the intersection of SH 6 and SH 21 (NE Bryan) go NE on SH 21 approx. 14.5 miles to FM 974; then NW on FM 974 approx. 6 miles to Macey Rd.; then N on Macey Rd. approx. .8 miles to new church cemetery road, then NW on church approx. .4 miles to cemetery.<br/><br/><b>Address:</b> Bryan<br/><br/><b>Marker Text:</b> (1821-1904) Ireland native James Wilson immigrated to the United States in 1842. He graduated in 1847 from Lafayette College in Boston, and from Princeton Theological Seminary in 1850, the year he was ordained as a Presbyterian minister. Wilson was sent to Texas in 1856 as a missionary in Brazos County. During his 53 year ministry, he served as a circuit preacher and organizer of many Brazos Valley Presbyterian congregations, including those at Wheelock, Bryan and Centerville. He married Laura Barnes, a published poet, in 1866. They are buried near the site of a church he founded. (1997)]]></description>
+    <Point><coordinates>-96.283096,30.908406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John M. Moore School</name>
+    <description><![CDATA[7550 Dilly Shaw Tap Rd. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 7550 Dilly Shaw Tap Rd., Wixon Valley<br/><br/><b>Marker Text:</b> In 1940-1941, Brazos County Superintendent of Schools Amy (Barron) Neeley (1887-1979) and a group of teachers, including Pauline Watkins (1902-1980), discussed plans to enhance educational opportunities for African American children in the area by consolidating five existing schools. In 1941, the teachers, Tabor School District Trustee William P. Presnal, and educator and County Commissioner John M. Moore purchased four acres adjoining one of the five existing schools, located on Dilly Shaw Tap Road, to accommodate the consolidated school. 
+  The new site’s main building consisted of five rooms for academic subjects, including math, English, social studies and homemaking instruction. An equipped farm shop and vegetable garden served agricultural classes. A large athletic field completed the site. 134 students transferred for the first year, rising to 166 in 1944. The site also became a gathering place for the community. The school’s main building burned in 1950, and the students were temporarily transferred to an elementary school in Bryan along with several teachers and the principal, Fred B. Batts. A new brick building was completed in 1952. That same year, Kurten District #10 assumed management of the school. The school educated students through eighth grade and resumed community events.
+  In the 1950s, officials consolidated Brazos County’s schools further. In 1960, the John Moore School opened as a junior high serving grades seven to nine. Two years later, the school closed, and the teachers and students transferred to Neal Junior High School in Bryan. The community continued to use the site for events, but in 1965, it was permanently closed. The buildings were later demolished. (2023)]]></description>
+    <Point><coordinates>-96.325478,30.775962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] John N. Johnson</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Brazos County Courthouse grounds. Marker pending.<br/><br/><b>Address:</b> 300 E. 26th St., Bryan]]></description>
+    <Point><coordinates>-96.371102,30.673563,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McMichael-Wilson House</name>
+    <description><![CDATA[<b>Address:</b> 712 E. 30th St., Bryan<br/><br/><b>Marker Text:</b> Constructed in 1904 for lumberman and Brazos County clerk George Washington McMichael (1854-1904), this Queen Anne style home was purchased in 1912 by prominent planter Alfred Flournoy Wilson. It remained in the Wilson family for nearly 60 years. Outstanding features of the Bryan landmark are its corner turret, wraparound porch, pedimented entrance, and corner pavilion with conical roof. Recorded Texas Historic Landmark - 1985]]></description>
+    <Point><coordinates>-96.367381,30.667341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Peach Creek Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1515 Peach Creek Rd., College Station]]></description>
+    <Point><coordinates>-96.197354,30.524763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Primera Iglesia Bautista Mexicana de Bryan</name>
+    <description><![CDATA[1009 N Sims Ave | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1009 N Sims Ave, Bryan<br/><br/><b>Marker Text:</b> The Reverend Guillermo Ibarra (1876-1929) organized Primera Iglesia Bautista Mexicana de Bryan. Born in Matamoros, Mexico, Ibarra moved to Martindale around 1890. He converted to Protestantism there. Between 1890 and 1903, he spent years in trade school, learning the skills of a printer, barber and plumber. Throughout his life, Ibarra would take on work in these trades to supplement finances. He married Heriberta Gallardo. Around 1911, the family moved to Bryan and Ibarra saw there was a need for Spanish-speaking religious teaching. He began church services on the porch of the town undertaker, Isaac Hernandez. The family began a relationship with First Baptist Church Bryan. Annie l. Batte offered her rent home at 707 N. Parker St. as a permanent meeting place; a church building was later constructed on the same lot. 
+  Primera Iglesia Bautista Mexicana de Bryan was organized in 1922. As the only focused Spanish-speaking church, the congregation became known as a refuge for Hispanics. After a 1920s Brazos River flood, the Rev. Ibarra allowed more than 40 displaced workers to camp out on his yard. He created a bridge between civic officials and the Mexican community. Ibarra tragically died on April 10, 1929. In 1935, a new Mexican school was named Ibarra Primary School in his honor. Several faithful pastors such as Joel Garcia, Victor Gonzalez, Gilberto Rodriguez served the church after Ibarra’s death. In 1954, under the leadership of the Reverend Pablo Flores the church held services in its new building at 1009 N. Sims Ave. In 1976, the church dedicated the Guillermo Ibarra Fellowship Hall.
+  Since 1922, the church has enriched the Hispanic community of Bryan. Members fondly remember Christmas programs, youth classes and outreaches to Mexican migrant workers. (2022)]]></description>
+    <Point><coordinates>-96.374996,30.682297,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reliance Church Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 6925 Reliance Church Rd, Bryan<br/><br/><b>Marker Text:</b> Two Bryan attorneys, M.J. Beale and B.K. Davis, donated four acres of land at this site in April 1874 for the purpose of establishing the Reliance Baptist Church, School and Cemetery. The community was originally called Little Georgia, taking its name from the state of origin of an early 1850s wagon train of settlers. More families from the southeastern United States arrived in the 1870s, escaping economic hardships following the Civil War by emigrating to Texas. David Lloyd of Mississippi changed the community’s name to Reliance in 1873 with the organization of the Reliance Baptist Church. W.H. (Uncle Billy) Morgan established a cotton gin and general store in 1873, and also served as postmaster. In the late 19th century, Reliance included a country store, post office, gristmill, cotton gin, school, church and community center. As intensive cotton farming eroded the soil, area farms transformed into extensive cattle ranches. By the 21st century, the church and cemetery remained historic fixtures in an area transitioning to rural residential development. The cemetery is sited among century-old post oak, elm and hackberry trees. The earliest marked grave dates to 1881, although several older undated graves are believed to exist here. Community members made additional donations of land in 1951 and 1995, nearly doubling the original size of the church and cemetery property. The cemetery property is held jointly by the Reliance Baptist Church and the Reliance Cemetery Association, which governs the operation and maintenance of the historic burial ground. Historic Texas Cemetery - 2007]]></description>
+    <Point><coordinates>-96.241722,30.742455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert Henry</name>
+    <description><![CDATA[Henry Cemetery, FM 1687 (Sandy Point Rd.), S side 0.3 mi. E of FM 2818 (Harvey Mitchell Pkwy.). Map dot approximate.<br/><br/><b>Address:</b> FM 1687, Bryan<br/><br/><b>Marker Text:</b> (March 7, 1801 - October 29, 1865) One of victors in Battle of San Jacinto. Born in Ireland; came to America, 1820, and here to Robertson's Colony, 1832. A staunch Presbyterian, kept true to faith at risk of life. In 1836 War for Texas Independence, he served in 2nd Regt., Infantry, Texas Volunteers. Prominent in public life, he held justice of peace court beneath shade trees. He married Elizabeth Downing, Londonderry, Ire.; had 13 children. Their heirs include noted Texans. Recorded - 1970]]></description>
+    <Point><coordinates>-96.417909,30.685024,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 502 W. MLK, Bryan<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.376474,30.680565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>South Methodist Episcopal Church</name>
+    <description><![CDATA[<b>Address:</b> 506 E. 28th St., Bryan]]></description>
+    <Point><coordinates>-96.369157,30.671409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Union Hill Community</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3610 S. College Ave, Bryan<br/><br/><b>Marker Text:</b> inscription pending]]></description>
+    <Point><coordinates>-96.354474,30.634827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Waldrop House</name>
+    <description><![CDATA[<b>Address:</b> 615 E. 29th St., Bryan<br/><br/><b>Marker Text:</b> Designed by Houston architects Jones &amp; Tabor, this home was built for Allister (1877-1936) and Nanne Waldrop in the early 1900s. Waldrop, a prominent area retail merchant, also served as President of the Bryan School Board. The Waldrop house, built in the American Four-Square style, reflects the architectural trend of the times toward simplicity of design. Interesting features include the Palladian dormer windows and the use of wood shingles on the second story. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-96.368268,30.669679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wilkerson House</name>
+    <description><![CDATA[<b>Address:</b> 614 E. 29th St., Bryan<br/><br/><b>Marker Text:</b> Built in 1912 by noted Bryan architect and contractor Charlie Jenkins, this home is located in a neighborhood where many of the town's business leaders lived during the 1910s and 1920s. Owned by banker A.W. Wilkerson until 1919, it then was acquired by prominent businessman John Parker. The home, a variation on the American Four-Square style, features a hipped roof, eave brackets, and a wraparound porch. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-96.368134,30.669796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wipprecht Home</name>
+    <description><![CDATA[<b>Address:</b> 500 E. 29th Street, Bryan<br/><br/><b>Marker Text:</b> WIPPRECHT HOUSE DESIGNED IN 1898 BY BRYAN ARCHITECT GEORGE WASHINGTON JENKINS, THIS HOME WAS CONSTRUCTED FOR JULIA KAPP WIPPRECHT, WHO WAS A WELL-KNOWN LOCAL PHILANTHROPIST. MRS. WIPPRECHT LIVED IN THE HOME UNTIL HER 1919 DEATH, AFTER WHICH HER SON, BUSINESSMAN WALTER WIPPRECHT, MOVED WITH HIS FAMILY INTO THE HOME. THE HOUSE REMAINED IN THE WIPPRECHT FAMILY UNTIL 1990, WHEN IT WAS SOLD BY WALTER’S GRANDDAUGHTER. THE TWO-STORY QUEEN ANNE-STYLE HOUSE FEATURES A CROSS-GABLED PLAN, PARTIAL-WIDTH FRONT PORCH, TEXTURED SHINGLES, AND DECORATIVE GABLE AND EAVE DETAILING. RECORDED TEXAS HISTORIC LANDMARK – 2010]]></description>
+    <Point><coordinates>-96.369273,30.670468,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

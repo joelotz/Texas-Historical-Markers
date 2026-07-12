@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Rains County — Unmapped Historical Markers</name>
+  <description>THC markers in Rains County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Dougherty Community Cemetery</name>
+    <description><![CDATA[4 mi. north of Emory on FM 275, then east on CR 4320 to cemetery<br/><br/><b>Address:</b> Emory<br/><br/><b>Marker Text:</b> James W. Dougherty and his wife Isabella brought their family to Texas from Kentucky in the late 1840s. Joining the colony of Charles Fenton Mercer, they settled in this area. In 1851 they bought 640 acres here, where Dougherty was a farmer and a tanner. In 1877 their son Robert N. Dougherty donated one acre at this site for public use as a community burial ground. Two additional tracts of land, deeded to the cemetery association in 1935 and 1964, were acquired from A. V. and Della Terry. (1980)]]></description>
+    <Point><coordinates>-95.769148,32.938873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smyrna Union Church</name>
+    <description><![CDATA[take SH 19 about 3 mi. to FM 2324, go west about 2.5 mil to cemetery rd., go north to church<br/><br/><b>Address:</b> Emory<br/><br/><b>Marker Text:</b> This house of worship is the site of the old school house in which, on Sept. 2, 1902, Farmers Educational and Cooperative Union of America (National Farmers Union) established its first local union. The stated purpose was "To secure equity, establish justice and apply the Golden Rule." The ten men who founded "Farmers Union" were residents of this area. The organization which they here established has become known and respected throughout the agricultural world. This tablet is erected to honor their names and memory. Jesse Adams, W. T. Cochran, Tom Donaldson, Newt Gresham, J. B. Morris, T. J. Pound, O. H. Rhodes, Dr. Lee Seamster, W. S. Sisk, and J. S. Turner; presented by James G. Patton, President, National Farmers Union, Denver, Colorado.]]></description>
+    <Point><coordinates>-95.82173,32.848212,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

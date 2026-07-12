@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Swisher County — Unmapped Historical Markers</name>
+  <description>THC markers in Swisher County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Elm Tree Inn</name>
+    <description><![CDATA[200 West Broadway-Tulia, not located<br/><br/><b>Address:</b> 200 West Broadway, Tulia]]></description>
+    <Point><coordinates>-101.765973,34.537259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Swisher County Courthouse</name>
+    <description><![CDATA[Courthouse Square, Broadway &amp; Briscoe, Tulia<br/><br/><b>Address:</b> Broadway &amp; Briscoe, Tulia]]></description>
+    <Point><coordinates>-101.764011,34.536499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Swisher County Hospital</name>
+    <description><![CDATA[Near intersection of Fannin and Broadway streets. Marker reported in storage Jun. 2020.<br/><br/><b>Address:</b> 105 Hospital St., Tulia<br/><br/><b>Marker Text:</b> The earliest medical care for Swisher County residents was provided by local doctors or in Amarillo hospitals (49 miles north). As the area population increased during the 1920s, it became necessary to build a general health care facility here. Approved by the voters in a 1926 bond election, this hospital was completed two years later. The original section was comprised of two floors and a basement area, providing beds for 12 patients. Enlarged by a major addition in 1946, the structure served as the county hospital until 1969 when a new facility was built. (1981)]]></description>
+    <Point><coordinates>-101.756843,34.53713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tulia First National Bank</name>
+    <description><![CDATA[at intersection of West Broadway &amp; Briscoe, Tulia<br/><br/><b>Address:</b> W. Broadway &amp; Briscoe St., Tulia<br/><br/><b>Marker Text:</b> Application: The Texas Historical Building Medallion enclosed]]></description>
+    <Point><coordinates>-101.764701,34.536601,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

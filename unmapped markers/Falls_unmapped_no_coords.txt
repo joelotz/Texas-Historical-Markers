@@ -1,0 +1,21 @@
+Falls unmapped markers with NO usable address (5):
+
+  THC 23676: African American Education in Marlin
+    addr: 1005 BTW Pkwy., Marlin
+    https://atlas.thc.texas.gov/Details/5000023676
+
+  THC 1240: Dodson Place
+    addr: Lott
+    https://atlas.thc.texas.gov/Details/5145001240
+
+  THC 8834: Falls Health Spa
+    addr: Marlin
+    https://atlas.thc.texas.gov/Details/5145008834
+
+  THC 2000: Fort Milam
+    addr: Marlin
+    https://atlas.thc.texas.gov/Details/5145002000
+
+  THC 6525: Site of the Home of John Marlin
+    https://atlas.thc.texas.gov/Details/5145006525
+

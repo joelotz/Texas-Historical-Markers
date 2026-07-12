@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Scurry County — Unmapped Historical Markers</name>
+  <description>THC markers in Scurry County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] African American Education in Snyder</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 34th St. and Ave. K, Snyder]]></description>
+    <Point><coordinates>-100.909049,32.708064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Camp Springs</name>
+    <description><![CDATA[From Snyder take US 180 east to FM 1614, turn north to near Camp Springs Road.<br/><br/><b>Address:</b> FM 1614, Snyder<br/><br/><b>Marker Text:</b> Named for W. H. Camp, an early settler who built a dugout in 1878 at springs, one-half mile northwest of here. Petrified trees--one 300 feet tall--and bones of prehistoric animals have been found in area. Tools, pictographs in nearby cave indicate Indians camped here. Emigrant trail to California, blazed in 1849 by Army Captain R. B. Marcy, came through region. General Robert E. Lee followed part of same trail searching for hostile Comanches in 1856. Both men made camp at Green Springs, six miles southwest. Post office was established, 1891. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-100.691885,32.759978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dunn</name>
+    <description><![CDATA[in front of community center<br/><br/><b>Address:</b> SH 208, Dunn<br/><br/><b>Marker Text:</b> Started as change station for teams hauling goods north after T. &amp; P. Railway reached Colorado City in 1881. Freighters camped here beside creek. A blacksmith shop and store were started to supply them. In time a town developed. Mail was dropped at home of Mr. and Mrs. A. T. Dunn. Post office, granted 1890, was given their name; Mr. Dunn was first postmaster. In 1890, the first school was built. A well, windmill and trough were added for travelers and town. Because it was in middle of the road, well was covered when highway was paved in 1938. (1966)]]></description>
+    <Point><coordinates>-100.886195,32.564264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Home County of Famous Frontiersman J. Wright Mooar</name>
+    <description><![CDATA[Western Texas College, Scurry County Museum, inside in J. Wright Mooar exhibit<br/><br/><b>Address:</b> 6200 College Avenue, Snyder<br/><br/><b>Marker Text:</b> J. Wright Mooar and his brother John W. Mooar established the first buffalo hunting camp in the Texas Panhandle in 1873. Wright killed a rare albino buffalo (one of two known killed in Texas) in Scurry county on October 7, 1876. Mooar shot about 22,000 buffalo, a record probably unsurpassed. His ability to hit a vital spot from a distance of 1,000 feet or farther won the respect of Comanche Indian Chief Quanah Parker, a friend in later life. The Mooar brothers began ranching in Scurry county in 1877 and Wright became known as Scurry county's No. 1 citizen. (1997)]]></description>
+    <Point><coordinates>-100.914922,32.680088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ritz Theatre</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1810 26th Street, Snyder<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-100.917339,32.716049,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Town of Knapp</name>
+    <description><![CDATA[From Snyder take FM 1607 about 9 miles west to FM 1606. Follow 1606 south about 5 miles to FM 1610. Follow 1610 to marker on east side of highway (about 1/2 mile from the intersection of FM 1610 and Springer Road).<br/><br/><b>Address:</b> FM 1610, Snyder<br/><br/><b>Marker Text:</b> Pioneers settling Bull Creek, 1888, where herds of bull buffalo grazed, called their community Bison. They founded the Baptist Church on the creek bank, the school in a nearby pasture. Bison was located on fringe of the ranch belonging to A. P. Bush and Benjamin Tillar, both prominent early Texas cattlemen. In 1890, name of town and post office (then housed in a dugout) became "Knapp" after the U.S. Post Office Department refused Bison because it was a duplicate name. In 1959, after a rousing decade of serving the oil boom workers, the post office closed. (1967)]]></description>
+    <Point><coordinates>-101.118418,32.649764,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

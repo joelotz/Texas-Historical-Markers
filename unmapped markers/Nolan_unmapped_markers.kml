@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Nolan County — Unmapped Historical Markers</name>
+  <description>THC markers in Nolan County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>J.E. and Esther Davis House</name>
+    <description><![CDATA[401 N. State Hwy 70 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 401 N. State Hwy 70, Blackwell<br/><br/><b>Marker Text:</b> In 1916, John Barton “J.B.” Wimberley purchased land from the Orient Land Company and soon after built a frame house. Rancher and mercantile store owner Joseph Edgar “J.E.” Davis and his wife, Esther, purchased the property in 1926. Around ten years later, J.E. and Esther hired local contractors to remodel the home into a front-gabled craftsman style with a “giraffe rock” exterior. Native rock and raised concrete is embellished with petrified wood, quartz and fossil rocks. Classic elements of craftsman architecture, such as overhanging eaves, a wide front porch, and interior wood accents, are present throughout. The home was sold in 1992 after Esther’s death.
+				
+RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
+    <Point><coordinates>-100.320516,32.089511,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sweetwater Reporter</name>
+    <description><![CDATA[112 West 3rd Street, Sweetwater<br/><br/><b>Address:</b> 112 W 3rd St., Sweetwater<br/><br/><b>Marker Text:</b> C.E. Gilbert, who founded the "Abilene Reporter", established the "Sweetwater Advance" in 1881, the year Nolan County was organized. Later published as the "Nolan County Review", it was purchased in 1906 by John W. Millsapps, who modernized the operation. In 1911 Millsapps, and his partner W.A. Perry, with the assistance of managing editor C.A. Wade, began publishing daily editions under the "Sweetwater Reporter" banner. A later owner of the newspaper was Houston Harte, who became a partner in the national publishing firm of Harte-Hanks. (1981)]]></description>
+    <Point><coordinates>-100.409285,32.470947,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

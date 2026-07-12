@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hockley County — Unmapped Historical Markers</name>
+  <description>THC markers in Hockley County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+
+</Document>
+</kml>

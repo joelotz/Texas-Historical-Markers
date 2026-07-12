@@ -1,0 +1,30 @@
+Webb unmapped markers with NO usable address (7):
+
+  THC 1194: Deaf Smith
+    addr: Casa Blanca Municipal Golf Course, Casa Blanca
+    https://atlas.thc.texas.gov/Details/5479001194
+
+  THC 1393: Education in Mirando City
+    addr: Panther Drive, Mirando City
+    https://atlas.thc.texas.gov/Details/5479001393
+
+  THC 17129: Lala's Café
+    addr: Mirando City
+    https://atlas.thc.texas.gov/Details/5507017129
+
+  THC 17323: Laredo's First International Bridge
+    addr: Water Street & Convent Avenue, Laredo
+    https://atlas.thc.texas.gov/Details/5507017323
+
+  THC 3854: Oliver Winfield Killam
+    addr: FM 649, Mirando City
+    https://atlas.thc.texas.gov/Details/5479003854
+
+  THC 15175: Poblacion De Dolores
+    addr: Laredo
+    https://atlas.thc.texas.gov/Details/5507015175
+
+  THC 4271: Rio Grande and Eagle Pass Railroad (Pecos and Rio Grande Railroad)
+    addr: FM 1472, NW of Laredo, Laredo
+    https://atlas.thc.texas.gov/Details/5479004271
+

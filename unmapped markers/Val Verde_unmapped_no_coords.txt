@@ -1,0 +1,13 @@
+Val Verde unmapped markers with NO usable address (3):
+
+  THC 20197: Comstock Cemetery (HTC)
+    https://atlas.thc.texas.gov/Details/5507020197
+
+  THC 18123: Langtry Cemetery
+    addr: Langtry
+    https://atlas.thc.texas.gov/Details/5507018123
+
+  THC 16102: San Felipe Springs
+    addr: Del Rio
+    https://atlas.thc.texas.gov/Details/5507016102
+

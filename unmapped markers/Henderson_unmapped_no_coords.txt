@@ -1,0 +1,93 @@
+Henderson unmapped markers with NO usable address (23):
+
+  THC 15326: Allen Cemetery
+    addr: Murchison
+    https://atlas.thc.texas.gov/Details/5507015326
+
+  THC 12009: Barker Cemetery
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5213012009
+
+  THC 18654: Beck's Chapel Cemetery
+    addr: 3960 CR 1114, Athens
+    https://atlas.thc.texas.gov/Details/5507018654
+
+  THC 15047: Coleman, Nat P., Home
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507015047
+
+  THC 12383: Cottonwood Cemetery
+    addr: Eustace vicinity
+    https://atlas.thc.texas.gov/Details/5213012383
+
+  THC 22779: Eustace
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5000022779
+
+  THC 15176: Evans Chapel Cemetery
+    addr: Chandler
+    https://atlas.thc.texas.gov/Details/5507015176
+
+  THC 24124: Fisher Robinson Cemetery
+    addr: Robbins Road, Athens
+    https://atlas.thc.texas.gov/Details/5000024124
+
+  THC 16042: Lee Powell Simpson
+    https://atlas.thc.texas.gov/Details/5507016042
+
+  THC 12663: Malakoff
+    addr: N. Terry St. (FM 90 right-of-way), Malakoff
+    https://atlas.thc.texas.gov/Details/5213012663
+
+  THC 22768: Mt. Olive C.M.E. Church
+    addr: CR 3918, Athens
+    https://atlas.thc.texas.gov/Details/5000022768
+
+  THC 15935: Myrtle Springs Cemetery
+    addr: ABOUT 5 MILES EAST OF LARUE, TEXAS ON CR 4336, LaRue
+    https://atlas.thc.texas.gov/Details/5507015935
+
+  THC 22442: New Hope United Methodist Church
+    addr: 7943 FM 314 N, Brownsboro
+    https://atlas.thc.texas.gov/Details/5000022442
+
+  THC 12052: New York Baptist Church
+    addr: New York
+    https://atlas.thc.texas.gov/Details/5213012052
+
+  THC 10372: Pioneer Oak
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5213010372
+
+  THC 15331: Providence Baptist Church of Tool
+    addr: Tool
+    https://atlas.thc.texas.gov/Details/5507015331
+
+  THC 16719: Rounsavall Cemetery
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507016719
+
+  THC 16734: Sand Flat Cemetery
+    addr: FIVE MILES NORTH ON STATE HIGHWAY 19; TURN LEFT AND TRAVEL FOR 2 1/2 MILES ON CR 3907., Athens
+    https://atlas.thc.texas.gov/Details/5507016734
+
+  THC 12057: Thomas Boucher Wood Family Cemetery
+    addr: Wofford Street, Athens
+    https://atlas.thc.texas.gov/Details/5213012057
+
+  THC 17502: Trinidad Cemetery
+    addr: Trinidad
+    https://atlas.thc.texas.gov/Details/5507017502
+
+  THC 17524: W. H. Howdy Martin
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507017524
+
+  THC 16458: Willow Springs Cemetery
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507016458
+
+  THC 15154: Wreay Cemetery
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507015154
+

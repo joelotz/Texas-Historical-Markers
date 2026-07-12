@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Bandera County — Unmapped Historical Markers</name>
+  <description>THC markers in Bandera County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Benjamin Franklin and Mary Hay Langford, Jr. Home</name>
+    <description><![CDATA[407 Fourteenth St<br/><br/><b>Address:</b> 407 Fourteenth St, Bandera<br/><br/><b>Marker Text:</b> Bandera's early settlers included Lyman Wight's Mormon colony, which arrived in 1854. In 1890, John and Jennie Davenport Miller bought this site from colonists George and Virgine Minear hay. George and early Bandera settler Isaac Berry Langford helped build a home for the Millers, who sold it in 1904 to children of the Hays and Langfords: Benjamin Franklin "Frank" Langford, Jr., and his bride, Mary Emma Hay. The couple added to the house over the years, converting the one-story, l-plan design into a two-story block structure. Frank and Mary were active in the community and donated land across the street for a Mormon church. The long-time Langford family home serves as a reminder of Bandera's early history. Recorded Texas Historic Landmark - 2002]]></description>
+    <Point><coordinates>-99.071078,29.72751,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jureczki House</name>
+    <description><![CDATA[Northwest corner of Seventh and Cypress, Bandera.<br/><br/><b>Address:</b> 607 Cypress St., Bandera]]></description>
+    <Point><coordinates>-99.075393,29.72053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schmidtke-Callahan House</name>
+    <description><![CDATA[Corner of Cypress (SH 16) and Main, Bandera.<br/><br/><b>Address:</b> 285 TX-16, Bandera<br/><br/><b>Marker Text:</b> This home was constructed in the 1870s by Georgia stonemason James Henry White for Charles F. Schmidtke (1839-1884). A native of Germany, Schmidtke was an early Bandera merchant, grist miller, and lumber mill operator. White's grandson J. Calvin Callahan (d. 1958), the owner of a feed store and poultry business, purchased the property in 1927. The limestone house, with influences of Greek Revival styling, remained in the Callahan family until the 1970s. Recorded Texas Historic Landmark - 1981.]]></description>
+    <Point><coordinates>-99.068647,29.726395,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Stanislaus Catholic Church</name>
+    <description><![CDATA[<b>Address:</b> 703 Cypress St., Bandera<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-99.074223,29.721485,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

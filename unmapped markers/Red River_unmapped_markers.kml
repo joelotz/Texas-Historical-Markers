@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Red River County — Unmapped Historical Markers</name>
+  <description>THC markers in Red River County without an HMDB id (isMissing excluded). 12 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Andrew Thompson House</name>
+    <description><![CDATA[<b>Address:</b> 706 N. Walnut St., Clarksville<br/><br/><b>Marker Text:</b> This Gothic revival home was built in 1874 for the family of Andrew Thompson. It was constructed by W. Otto Glossnop, a German cabinetmaker who came to Clarksville in the 1860s. The home was sold to George Burdett in 1882 and remained in that family until 1947. A good example of an unusual style of architecture in Texas, the house features steeply pitched gables with three triangular dormers and diamond-shaped panes in the side dormers. Recorded Texas Historic Landmark - 1984]]></description>
+    <Point><coordinates>-95.050736,33.615878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bluff Cemetery</name>
+    <description><![CDATA[CR 2127, 2.3 mi. NE of 2573<br/><br/><b>Address:</b> Detroit<br/><br/><b>Marker Text:</b> Benjamin Weatherly, a veteran of the U.S.-Mexico War and Civil War, donated approximately two acres here for a church and cemetery in the 1870s. The Baptist Church of Christ at Liberty organized here in 1878 and was associated with the burial ground for thirty years before moving to a new location. Weatherly, his wife Sarah (King), and three of their children are buried here. The Bluff Cemetery Committee expanded the graveyard boundaries in the 1940s through purchase of adjoining tracts. The Bluff Cemetery Association, organized in 1986, has more recently been responsible for maintenance of this historic site. The cemetery features grave slabs and marble, limestone and granite headstones. Historic Texas Cemetery-2007]]></description>
+    <Point><coordinates>-95.217399,33.679401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Col. Charles DeMorse Home</name>
+    <description><![CDATA[<b>Address:</b> 115 E Comanche St., Clarksville<br/><br/><b>Marker Text:</b> Built 1834; ante-bellum architecture.]]></description>
+    <Point><coordinates>-95.049412,33.612762,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church of Clarksville</name>
+    <description><![CDATA[First Presbyterian Church, NW corner Pecan and Church streets. RTHL medallion and plate at entrance facing Pecan St.<br/><br/><b>Address:</b> 106 Pecan St., Clarksville<br/><br/><b>Marker Text:</b> Organized at Old Shiloh, 1833; moved here 1858. This church built 1905. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-95.052078,33.61022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Cellum</name>
+    <description><![CDATA[Gilliam Cemetery, CR 4405 (Gilliam Cemetery Rd)<br/><br/><b>Address:</b> Boxelder<br/><br/><b>Marker Text:</b> (Star and Wreath) Served in the Army of Texas, 1836.]]></description>
+    <Point><coordinates>-94.861765,33.509907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McKenzie College</name>
+    <description><![CDATA[3.5 mi. south of Clarksville off SH 37<br/><br/><b>Address:</b> Clarksville<br/><br/><b>Marker Text:</b> Site of McKenzie College - An outstanding school of the Southwest before the Civil War - Established in 1841 by the Reverend John W. P. McKenzie (1806-1877), pioneer missionary to the Choctaws, circuit rider in Texas in 1838 - Opened in a log cabin, it expanded to four large buildings on 900 acres - Chartered January 10, 1854 - Enrolled 300 boarding pupils annually - Closed in 1869]]></description>
+    <Point><coordinates>-95.104662,33.594846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McKenzie Home</name>
+    <description><![CDATA[<b>Address:</b> Clarksville]]></description>
+    <Point><coordinates>-95.107419,33.590831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Shamrock Cemetery</name>
+    <description><![CDATA[4 mi. W of Clarksville, .25 mi. N of intersection of Why 82 &amp; Mabry Rd. (CR 2123)<br/><br/><b>Address:</b> Clarksville<br/><br/><b>Marker Text:</b> New Shamrock Cemetery, established 1918. Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-95.116891,33.615115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Shamrock Cemetery</name>
+    <description><![CDATA[from Clarksville, travel W on Hwy 82, then N on FM 2573 for 1 mi., cemetery is on the rt., approx. .2 mi. off FM 2573<br/><br/><b>Address:</b> Clarksville<br/><br/><b>Marker Text:</b> Old Shamrock Cemetery, established 1860. Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-95.141798,33.635596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old W. L. Nunnely Home</name>
+    <description><![CDATA[<b>Address:</b> 507 Locust St., Clarksville<br/><br/><b>Marker Text:</b> Built in 1868 by W. L. Nunnely. Hand-hewn oak logs over bois d'arc wood blocks are joined by wooden pegs and square nails. Spacious 22 x 20-foot rooms have oak floors and high, 12-foot ceilings. Distinctive design in ornate, hand-carved mantel is repeated in cornices and wainscoting (half paneling). As Baptist parsonage, 1912-1927, was scene of hundreds of weddings. Restored by Mr. and Mrs. J. A. Strickland, present owners. Recorded Texas Historic Landmark - 1969]]></description>
+    <Point><coordinates>-95.049204,33.608104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ringo Ferry and Ringo Cemetery</name>
+    <description><![CDATA[5 mi. S of Bogata on SH 37; 3.5 mi. W on FM 196<br/><br/><b>Address:</b> Bogata<br/><br/><b>Marker Text:</b> Peter and Edy (Jones) Ringo came to Texas from Missouri with their nine children in 1840. The family established a ferry on the Sulphur River which became a local landmark and provided for travel, shipping and communication between the Red River and central Texas areas. Peter and Edy Ringo's son Abraham acquired land on the north and south sides of the ferry in 1842. The ferry ceased operations in 1900, when it was replaced by the Ringo Bridge. The bridge was retired from use in the 1930s, but the area continued to be referred to as Ringo's Crossing. The family cemetery was established about two miles northeast of the crossing and 650 feet south of this site. The resting place of sixteen people, it was destroyed sometime before 1961. Restoration efforts later recovered half the grave markers. (2000)]]></description>
+    <Point><coordinates>-95.282833,33.409284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert Hamilton</name>
+    <description><![CDATA[Old Rowland Cemetery, Bryerly/Burks Ridge vicinity, Negley vicinity, near CR 3230, 3 mi E of FM 1159. Located on private land.<br/><br/><b>Address:</b> Negley<br/><br/><b>Marker Text:</b> In memory of Robert Hamilton - a signer of the Texas Declaration of Independence - March 2, 1836 - Born in Blevard, Scotland - March 24, 1783 - Died in Red River County, Texas - 1843]]></description>
+    <Point><coordinates>-94.878787,33.732953,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

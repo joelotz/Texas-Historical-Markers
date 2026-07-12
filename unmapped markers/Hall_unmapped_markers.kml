@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hall County — Unmapped Historical Markers</name>
+  <description>THC markers in Hall County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bankhead Highway in Turkey</name>
+    <description><![CDATA[NE corner of 5th and Main streets (SH 86) | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 501 Main Street, Turkey<br/><br/><b>Marker Text:</b> Increasing popularity of automobile travel in the early 20th century led to improved roads throughout the U.S. Alabama senator John H. Bankhead, staunch advocate of the Good Roads movement, sponsored the 1916 Federal Aid Road Act to provide matching funds to states. The Bankhead Highway was the first national highway created due to the act, establishing a transcontinental route from Washington, D.C. to San Diego.
+  In April 1919, at the annual meeting of the Bankhead National Highway Association in Mineral Wells (Palo Pinto Co.), delegates debated two possible routes for the Bankhead through Texas. At the meeting, Samuel Porter Lacy of Turkey was a strong advocate for the highway to cross the Texas panhandle. The final decision resulted in two paths. The main road, the "All Texas Route," included Texarkana, Dallas, Fort Worth and El Paso. A northern alternative, designated the "Scenic Route," branched off in Hot Springs and crossed Oklahoma, the Texas plains and New Mexico before joining the main route in El Paso. E.H. Perry of Plainview stated "this route will prove to be of more benefit than three new railroads would, and thousands of tourists will pass over it and through here each year." Cities and towns on the highway reaped significant economic benefits.
+  The Scenic Route, later renamed the Four States Division, included Childress, Estelline, Turkey, Quitaque, Silverton, Plainview, Olton, Muleshoe and Farwell. Main Street in Turkey served as the Bankhead route through town and had enough tourism and commerce in the 1920s to support twelve filling stations, two groceries, a bank, three automobile dealerships, and several other stores. The alignment through this area later became State Highway 86. The Four States Division of the Bankhead Highway made a lasting contribution to the social and economic growth of Turkey.   (2023)]]></description>
+    <Point><coordinates>-100.895272,34.392885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lacy Dry Goods Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 215 Main Street, Turkey<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-100.898606,34.392858,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,72 @@
+Rusk unmapped markers with NO usable address (18):
+
+  THC 22707: Anadarco Slaves Legacy (UNDERTOLD)
+    addr: 13406 FM 1662 W, Laneville vicinity
+    https://atlas.thc.texas.gov/Details/5000022707
+
+  THC 10960: Birdwell House
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5401010960
+
+  THC 11059: Capt. Robert Smith
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5401011059
+
+  THC 10975: Cherokee Indian Village
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5401010975
+
+  THC 23978: Concord Rosenwald School
+    addr: 19447 FM 95 South, Mount Enterprise
+    https://atlas.thc.texas.gov/Details/5000023978
+
+  THC 10997: Forest Home Baptist Church
+    addr: Kilgore
+    https://atlas.thc.texas.gov/Details/5401010997
+
+  THC 23571: Gage Cemetery
+    addr: CR 437, Laneville
+    https://atlas.thc.texas.gov/Details/5000023571
+
+  THC 17852: Hickory Grove Baptist Church
+    addr: 4239 CR 284 E, Kilgore
+    https://atlas.thc.texas.gov/Details/5507017852
+
+  THC 12497: Hunt Cemetery
+    addr: Henderson vicinity
+    https://atlas.thc.texas.gov/Details/5401012497
+
+  THC 23559: Laneville Cemetery
+    addr: FM 225, Laneville
+    https://atlas.thc.texas.gov/Details/5000023559
+
+  THC 11008: Leverett House
+    addr: Overton
+    https://atlas.thc.texas.gov/Details/5401011008
+
+  THC 16817: Miles Cemetery
+    addr: Concord
+    https://atlas.thc.texas.gov/Details/5507016817
+
+  THC 11021: Monte Verdi
+    https://atlas.thc.texas.gov/Details/5401011021
+
+  THC 23861: Mt. Zion Baptist Church
+    addr: 18098 County Road 3223 South, Mount Enterprise
+    https://atlas.thc.texas.gov/Details/5000023861
+
+  THC 11053: Old House of Dr. Wm. M. Ross
+    https://atlas.thc.texas.gov/Details/5401011053
+
+  THC 11052: Richardson-Lowe House
+    addr: Lanevile
+    https://atlas.thc.texas.gov/Details/5401011052
+
+  THC 14648: Smith, Captain Robert W.
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5507014648
+
+  THC 14894: Smith, General James
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5507014894
+

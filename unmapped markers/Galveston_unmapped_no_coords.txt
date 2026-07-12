@@ -1,0 +1,10 @@
+Galveston unmapped markers with NO usable address (2):
+
+  THC 7441: First Hutchings-Sealy National Bank
+    addr: Galveston
+    https://atlas.thc.texas.gov/Details/5167007441
+
+  THC 7448: First Wharf in Galveston
+    addr: Galveston
+    https://atlas.thc.texas.gov/Details/5167007448
+

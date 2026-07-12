@@ -1,0 +1,30 @@
+Goliad unmapped markers with NO usable address (7):
+
+  THC 738: Cart Wars
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5175000738
+
+  THC 22765: Singer Cemetery
+    addr: 12515 FM 622, Schroeder
+    https://atlas.thc.texas.gov/Details/5000022765
+
+  THC 16060: Site of Mission Nuestra Senora del Rosario
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5507016060
+
+  THC 4885: Site of September 1824 Indian Treaty
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5175004885
+
+  THC 23584: Stockton Charco Cemetery
+    addr: 212 Stockton Charco Rd., Goliad
+    https://atlas.thc.texas.gov/Details/5000023584
+
+  THC 14785: Treaty of 1824
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5507014785
+
+  THC 5673: W. J. Ed and Mary Elizabeth Lott House
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5175005673
+

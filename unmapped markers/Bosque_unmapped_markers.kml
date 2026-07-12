@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Bosque County — Unmapped Historical Markers</name>
+  <description>THC markers in Bosque County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cedron Cemetery and School</name>
+    <description><![CDATA[5.2 miles south of Lakeside Village, west side of FM 56 between CR 1105 and CR 1135<br/><br/><b>Address:</b> FM 56, Lakeside Village vicinity<br/><br/><b>Marker Text:</b> Settlement of northeastern Bosque County began in the 1850s, as people traveling west through the area were attracted to the fertile lands along Cedron Creek. Among the first community projects of the new neighbors was the construction of a school building. A one-room cedar structure, it was also used for church and social gatherings. The original schoolhouse was replaced in the 1930s by a newer frame structure. Like its predecessor, it also served as a church and community center. The school was consolidated with other area schools in 1938, and the building later was dismantled. A community cemetery (about one-half miles west) was established on land adjacent to the school building. Although there may have been earlier, undocumented burials, the oldest marked grave is that of school teacher J. T. Hungerford (1844-1880), the apparent victim of tuberculosis. A few days after Hungerford's death, another community resident, Susan J. Arnold (1845-1880) was also buried in the graveyard. Since that time many area citizens have been interred there. Few residents remain in the Cedron vicinity. The cemetery and school building foundation are the last visible reminders of a once-thriving rural community. (1990)]]></description>
+    <Point><coordinates>-97.461369,31.95792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chisholm Trail, Kimball Crossing</name>
+    <description><![CDATA[from Morgan take SH 174 about 10 miles east to marker, located in Kimball Bend Park<br/><br/><b>Address:</b> Morgan<br/><br/><b>Marker Text:</b> Kimball, one of the first towns in Bosque County, was established on this site in the early 1850's. One of the westward wagon routes forded the river at this crossing until a ferry was built in 1865. The famous Chisholm Trail made its major crossing of the Brazos River here during the 1870's. Tens of thousands of Texas longhorn cattle forded the river and were driven on to northern markets. Building of barbed wire fences and railroads during the 1880's caused abandonment of the Chisholm Trail. Kimball, with no railroad and loss of the cattle trail, became a ghost town by the middle 1900's. Erected by Boy Scouts of America Troop 326 Longhorn Council, Ft. Worth, Texas, 16 June 1963 A.D.]]></description>
+    <Point><coordinates>-97.496663,32.122649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fairview Baptist Church and Cemetery</name>
+    <description><![CDATA[From the intersection of FM56 and State Hwy 22 drive approximately 6.2 miles and turn left on CR 3510. Turn left on CR 3530 and go 0.8 miles. At the junction of CR 3530 and CR 3510 turn left and go 0.5 miles.<br/><br/><b>Address:</b> 806 CR 3530, Clifton<br/><br/><b>Marker Text:</b> Founded in southeastern Bosque County, Fairview Baptist Church organized in April of 1889 as Coon Creek Missionary Baptist Church. It was, however, several years before land was set aside for a permanent meeting house. Thomas Gipson “Gip” Smith, an early settler and financier of the area, donated land for a school in 1897. Originally christened “Merrivale,” the school was soon renamed “Fairview” because of the view that the elevated school grounds offered. Church services were held in the school building for eight years until a proper church was constructed nearby. The Fairview Cemetery was dedicated during this period; its first interment being in November of 1900. The original church and school structures were demolished in the 1950s in order to construct a new building, which was completed in 1956. This building still stands today. A notable early settler of the community was the infamous outlaw Belle Starr, who, with her husband, owned some 160 acres in the Fairview area. It is rumored that she used her Fairview property as a hideout when eluding authorities. The church, which is still in operation, has been a source of community pride since its establishment. Large celebrations have accompanied its semicentennial, centennial, and quasquicentennial anniversaries. Many current members of the congregation are descendants of original Fairview pioneers, demonstrating how important of a cultural hub the church has been for the community. The camaraderie surrounding the church has been a cornerstone of the surrounding community for more than 125 years.]]></description>
+    <Point><coordinates>-97.402932,31.791322,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Homestead of Knud S. Knudson</name>
+    <description><![CDATA[from Cranfills Gap, take CR 445 about 6.5 miles east to marker, on south side of highway<br/><br/><b>Address:</b> Cranfills Gap<br/><br/><b>Marker Text:</b> Norwegian immigrant Knud S. Knudson (1830-1910) and his family moved to Bosque County in 1868. He received a state land grant and established a farm at this site. A small log home was erected in the 1860s and was later enlarged with a limestone addition. Knudson and his wife Gunhild (d. 1917) were the parents of eight children. This farmstead, consisting of the family home, two barns, and out buildings, remained in the Knudson family until 1945. It is a fine example of a rural Norwegian vernacular farm complex. (1988)]]></description>
+    <Point><coordinates>-97.722486,31.792864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jens Jenson Homestead</name>
+    <description><![CDATA[13 miles west of Clifton, via 219 west to 182 north to Gary Creek Rd, (CO 4175) marker is in front of small ranch house 500 feet from CO 4175<br/><br/><b>Address:</b> Clifton<br/><br/><b>Marker Text:</b> Jens Jenson (1835-1912) came to this county with his Norwegian parents and their family in 1854. Later he was a sailor berthed in Galveston for some years; he also served in the Confederate Army in the Civil War (1861-65). After he bought part of his parents' land in 1867, he built one stone room of this house and married Sarah Swenson in 1868. As his family grew to 11 children, he added rooms, three of stone, two of wood. After his death, a son, Palmer, bought the place. In 1958 grandson Arden Jenson purchased the land. He lives in the house, farming the ancestral acres. (1976)]]></description>
+    <Point><coordinates>-97.731974,31.770992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John and Mary Colwick House</name>
+    <description><![CDATA[from Clifton take FM 219 8 miles west; take CR 4230 south 1 mile; take CR 4235 1.1 miles west to house (first on the right)<br/><br/><b>Address:</b> Clifton<br/><br/><b>Marker Text:</b> John Colwick and his parents came to Texas with Norwegian colonizer Cleng Peerson in 1859. Colwick married Mary Jenson in 1879, and they lived in a small home on this site. Using some materials from that dwelling, this house was constructed for them in 1889 by J. H. Nordahl. The vernacular farmhouse exhibits unusual proportions derived from traditional Norwegian forms. Its simple, elegant detailing includes Eastlake brackets on the porch. Recorded Texas Historic Landmark - 1989]]></description>
+    <Point><coordinates>-97.697399,31.710075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Norse Seventh Day Adventist Church</name>
+    <description><![CDATA[Take FM 2136 off Hwy 6 South, go appr 4 miles, then take CR 4155 for 1.6 miles, church is on left<br/><br/><b>Address:</b> 710 CR 4155, Norse<br/><br/><b>Marker Text:</b> Norwegian immigrants moved to Bosque County when it was organized by the Texas legislature in 1854. Most came to Norwegian settlement, which was later named Norse. Two Evangelical Lutheran Churches, our Savior’s Lutheran and St. Olaf’s Kirke, served the people’s spiritual needs. Ole T. Nystel and his family moved to the area in 1866. In 1867, he was captured by Comanche Indians near his home at age 14, and lived with them for three months. After being ransomed and returned, he was confirmed into the Lutheran Church. After A. W. Jensen, a Danish Seventh Day Adventist Evangelist, visited the area in 1880, Nystel was baptized into the Seventh Day Adventist Church. He and other converts organized the Norse S. D. A. Church on Feb. 23, 1880. The first meeting was held Jan. 10, 1881. Members built a small frame church on an acre of land out of the Thomas A. Graves survey, which J. O. Olsen deeded on Sep. 13, 1886, to the church’s general conference at Battle Creek, Michigan. On Apr. 23, 1904, A. E. Anderson deeded one-fifth of an acre to the general conference as a burial ground for church members. Among those interred are ole T. Nystel, his wife, Annie (Anderson), their son, Oscar, who died as a missionary in New Mexico in 1918, and their grandson, Walter Thomas Nystel, a marine killed in World War iiII. The current structure replaced the first sanctuary and was dedicated on Mar. 8, 1913 by Elder Field and Elder Miller. Today it is the oldest standing Seventh Day Adventist Church in Texas. The congregation included a Sabbath School and made yearly offerings to missions as far away as Japan and korea. The last regular services held were Dec. 31, 1927. The congregation has held an annual homecoming since 1983.]]></description>
+    <Point><coordinates>-97.670947,31.791127,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Odle Log Cabin</name>
+    <description><![CDATA[5 miles west of Valley Mills via FM 217 to CR 3155 west to Odle Ln. (200 yards north of intersection of Odle Ln and CR 401)<br/><br/><b>Address:</b> Valley Mills<br/><br/><b>Marker Text:</b> A native of Tennessee, pioneer John Odle (1824-1913) moved to Texas in 1843, one year after his marriage to Lucinda Reeder (d. 1890). They came to this area in 1856 and built this cabin of oak logs about 1860. They occupied this structure until Odle could erect a more substantial rock house for their family of 13 children. During the Civil War (1861-1865), Odle served in a frontier ranger company and fought in the Battle of Dove Creek, January 8, 1865, against Kickapoo Indians. Recorded Texas Historic Landmark - 1978]]></description>
+    <Point><coordinates>-97.552407,30.909048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Omenson House</name>
+    <description><![CDATA[from Clifton take FM 219 west about 7 miles; take FM 182 south about 3 miles; house is located on southeast side of the highway as road turns to the west, through gate reading "Norway Mill"<br/><br/><b>Address:</b> Clifton<br/><br/><b>Marker Text:</b> ----]]></description>
+    <Point><coordinates>-97.658644,31.692163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Original Site of Valley Mills</name>
+    <description><![CDATA[from Valley Mills take FM 56 north 1 mile, go east on FM 1637 about 0.2 miles to marker<br/><br/><b>Address:</b> Valley Mills<br/><br/><b>Marker Text:</b> A. H. Steagall and Dr. E. P. Booth purchased 300 acres of land on the north side of the Bosque River in 1868. They mapped out and platted a townsite, which they named Valley Mills. As settlers began arriving in the area, the first homes were built of logs. Soon, however, with products provided by a local sawmill, many more homes were constructed of sawn lumber. In addition to the sawmill, flour and grist mills were also built in the valley. Cotton gins were soon built, as well, to process hundreds of bales from neighboring farms. A United States post office was established in Valley Mills in 1867, with Moses Isenhower serving as first postmaster. Experiencing steady growth, the town at its peak boasted homes, general stores, a drugstore, blacksmith shop, boardinghouse, and stagecoach stop. In 1881 the Santa Fe Railroad line was built through the area, but the tracks were laid on the south side of the river about one mile from the original townsite. Soon thereafter the residents of Valley Mills moved their town to be closer to the rail line. By 1900 the original site of Valley Mills had become a ghost town. (1990)]]></description>
+    <Point><coordinates>-97.465443,31.675597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oswald Cemetery</name>
+    <description><![CDATA["1.8 miles north of Clifton on FM 1991  then 0.5 mile east on FM 3221"<br/><br/><b>Address:</b> CR 3221, Clifton]]></description>
+    <Point><coordinates>-97.577735,31.814152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pool-Tibbs House</name>
+    <description><![CDATA[<b>Address:</b> 108 Tibbs Dr., Valley Mills<br/><br/><b>Marker Text:</b> S. A. Pool built this residence, a store, and a cotton gin on the river bank in 1870, when the town of Valley Mills stood on the north side of the Bosque. The building stone came from nearby Fitzhugh Hill. Robert A. Tibbs, a Mississippi Civil War veteran, bought the house in 1891. After acquiring it in 1926, Anselm Tibbs (1886-1967) removed the original Greek Revival portico and made other changes. The town of Valley Mills moved south of the river when the Santa Fe Railroad was built. As a consequence, this is the oldest house in the present, or "new" town. (1978)]]></description>
+    <Point><coordinates>-97.47132,31.662245,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Poston-Odle Cemetery</name>
+    <description><![CDATA[from Valley Mills, take FM 217 west about 1.2 miles to CR 3155; take CR 3155 1.8 miles southwest; turn south on CR 3160 and continue about 0.3 miles to cemetery<br/><br/><b>Address:</b> Valley Mills<br/><br/><b>Marker Text:</b> One of the earliest settlements in this area was established in the 1850s along Hog Creek. A rock building used for a school and church was erected, and the area became known as Rock Church on Hog Creek. The family of John Odle settled here following the Civil War. Land for this cemetery was set aside by Odle following the death of his sister, Mary Odle Poston, in 1875. Those buried here include members of the Odle, Poston, Cutbirth, Pool, Cureton, Adams, Hord, Callan, Hoffman, and Le Fever families. The cemetery gates were built from the stones of the Old Rock Church. (1989)]]></description>
+    <Point><coordinates>-97.518661,31.632312,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Springs Cumberland Presbyterian Church</name>
+    <description><![CDATA[from Valley Mills take FM 56 north, head east on FM 1637 about 4.5 miles to marker<br/><br/><b>Address:</b> FM 1637, Valley Mills<br/><br/><b>Marker Text:</b> The Rev. James B. Sadler (1828-1911), a self-educated former slave, started this black congregation in 1870 and helped establish a separate black Presbytery in 1876. Worship services were held in a nearby brush arbor or in homes until the present structure was erected in 1890. This building also housed a community school for a time. The Rev. Sadler and his wife, Susan, owned the property until 1909. It was then deeded to church officers, who maintain the church and adjacent cemetery today. The congregation's annual homecoming is held in November. (1975)]]></description>
+    <Point><coordinates>-97.416145,31.685855,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Searsville Baptist Church</name>
+    <description><![CDATA[from Valley Mills take FM 217 west about 2 miles to church<br/><br/><b>Address:</b> 686 FM 217, Valley Mills<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-97.485244,31.660723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spring Creek Cemetery</name>
+    <description><![CDATA[from Meridian take SH 22 about 2.3 miles west, continue west on FM 1473 about 8.9 miles; turn north on County Road 2160 to Spring Creek Cemetery, about 2 miles, near church<br/><br/><b>Address:</b> Meridian<br/><br/><b>Marker Text:</b> As settlement along Spring Creek increased after the end of the Civil War, land in this area was set aside for a Missionary Baptist church, a school, and this cemetery. According to local tradition, the first burial was that of a horse thief hanged in the vicinity. The earliest marked tombstone, however, is that of 2-year-old Will Bullard who died in 1881. In its role as a reflection of the area's heritage, Spring Creek Cemetery is the burial site of many early settlers, war veterans, schoolteachers, and church members. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-97.828027,31.897072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Berry Smith</name>
+    <description><![CDATA[Smith-Pitts Cemetery, off FM 1238 on private property. Map dot approximate.<br/><br/><b>Address:</b> FM 1238, Iredell<br/><br/><b>Marker Text:</b> Came to Texas from North Carolina in 1834. A soldier in the Texas War for Independence. Veteran of the Indian Wars. Died June 30, 1876 - 84 years old. Erected by the State of Texas 1957]]></description>
+    <Point><coordinates>-97.914557,31.959176,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Womack - White Cemetery</name>
+    <description><![CDATA[1314 CR 1115, Morgan<br/><br/><b>Address:</b> 1314 CR 1115, Morgan<br/><br/><b>Marker Text:</b> THIS HISTORIC CEMETERY BEGAN AS THE FAMILY CEMETERY FOR THE ABNER PRYOR WOMACK FAMILY WHO LIVED BESIDE STEELE CREEK. THE WOMACK FAMILY MOVED TO THIS AREA FROM POLK COUNTY IN 1859 WHERE THEY FARMED THE LAND AND RAISED LIVESTOCK. IN 1866, THEY PURCHASED THE PROPERTY FROM J.P. BAKER. THE EARLIEST DOCUMENTED BURIAL IS THAT OF JOHN A. WOMACK, ABNER’S GRANDSON, WHO DIED IN 1874, BUT NUMEROUS UNMARKED GRAVES EXIST. IN 1877, THE WOMACKS SOLD THEIR LAND TO JOHN LOREN WHITE AND ELIZABETH (MILLER) WHITE. THE FIRST BURIAL FROM THE WHITE FAMILY BEGAN WITH KATIE WHITE AFTER HER DEATH IN 1882. THE WOMACK AND WHITE PLOTS ARE DIVIDED INTO THEIR OWN AREAS WITH 38 DOCUMENTED GRAVESITES. HISTORIC TEXAS CEMETERY – 2011]]></description>
+    <Point><coordinates>-97.597901,32.005008,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

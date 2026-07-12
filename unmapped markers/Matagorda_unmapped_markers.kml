@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Matagorda County — Unmapped Historical Markers</name>
+  <description>THC markers in Matagorda County without an HMDB id (isMissing excluded). 10 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
+  <Placemark>
+    <name>Buckeye</name>
+    <description><![CDATA[southeast corner of  intersection of FM 1468 and CR 411<br/><br/><b>Address:</b> Markham<br/><br/><b>Marker Text:</b> During the early 1900s land promoters established hundreds of towns across Texas by luring residents of the northern United States with advertisements of Texas’ warm climate and fertile soil. The founders of the town of Buckeye sought to establish a town upon existing grazing land and planned irrigated farm land and railroad service that would increase the town and surrounding area’s population. Dr. Ambrose A. Plotner and John W. Stoddard purchased the land known as “Kuykendall pasture” from Wylie and Susan Kuykendall and R. G. and Maggie Kuykendall in 1902. The two men named the planned town after their native Ohio, known as the Buckeye state. A headquarters was established at the site and Charles F. Chillson was hired as the general manager. The plotner-stoddard irrigation canal was platted in 1902 and was designed to irrigate approximately thirty thousand acres. The St. Louis, Brownsville &amp; Mexico Railway was granted right-of-way through Buckeye in 1903. A community school was organized in 1905 with Plotner and Stoddard donating the one-room school building, and a post office was established in 1907. The Buckeye irrigation farm was subdivided for resale in 1909 into tracts from ten to three hundred acres. The town was finally platted in 1912, and streets were given names such as Citrus, Fig, Orange and Peach. Plotner and Stoddard dissolved their partnership in 1916 and divided the remaining unsold property. Despite the hope of an oil discovery at Buckeye during the 1930s, the town gradually declined, and the Plotner and Stoddard heirs sold most of their property during the mid-1940s. The post office closed in 1971, and only a few houses remain today at the Buckeye site.]]></description>
+    <Point><coordinates>-96.048466,28.894486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Collegeport Cemetery</name>
+    <description><![CDATA[Collegeport, N on River Road to gravel FM 1095, 1 mi. N on 1095<br/><br/><b>Address:</b> FM 1095, Collegeport<br/><br/><b>Marker Text:</b> Collegeport Cemetery The town of Collegeport was founded in 1908, and this site was used as a cemetery for area residents. Early burials include those of Elizabeth Palmer and Harry Sundstrom. Several burials are marked by Roman numerals set into shell concrete. The King's Daughters organization maintained the cemetery from 1921 to 1958, when the Collegeport Cemetery Association was formed. In 1961, hurricane Carla destroyed most of the cemetery records. Members of the community have always tended the burial ground, from men in the early days digging the graves to those funding operation and maintenance projects today. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-96.168995,28.739914,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Berean Missionary Baptist Church</name>
+    <description><![CDATA[approx. 16 mi. SE of Bay City to FM 457, then W on FM 521 to Hawkinsville Rd.<br/><br/><b>Address:</b> approx. 16 mi. SE of Bay City to FM 457, then W on FM 521 to Hawkinsville Rd., Bay City<br/><br/><b>Marker Text:</b> First Berean Missionary Baptist Church The congregation of the First Berean Missionary Baptist Church began formally meeting after emancipation in 1865. Members held worship services in homes, under trees and in a local school before building their first house of worship. The church grew around the community known as Van, African, King Vann and Vann Settlement, located in Buckner's Prairie, which was named for Aylett C. "Strap" Buckner (d. 1832), an old three hundred colonist and Texas folklore hero. Church members also came from the nearby sugar land community on Buckner's Prairie. The congregation built its first sanctuary in 1896 on land sold for five dollars by Odo and Fatuma Van (Vann), both born in Africa before being captured and sold into slavery. The church's first pastor was the Rev. Anthony Martin. At this same time, congregational members named themselves Berean Missionary Baptist Church for a mission site in Greece. After purchasing an acre of land for a new sanctuary in 1951, the Berean Baptist Church, as it was often known, held its first service in the new structure in 1953. The congregation incorporated in 1993 as the First Berean Missionary Baptist Church. For more than 100 years, the church has provided the area with an assembly site, a school and a place for community communications. At the turn of the 20th century, the congregation had new facilities and continued its mission through its outreach, educational programs and music ministries. (2002)]]></description>
+    <Point><coordinates>-95.772549,28.908556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grove Hill Missionary Baptist Church</name>
+    <description><![CDATA[115 1st Street, Pledger<br/><br/><b>Marker Text:</b> Named for an area near the Brown Plantation home site, Grove Hill Baptist Church was organized in 1884 by the Rev. Jack Yates and London Branch. The original church building also served as a school for the African American community. A new church structure was built on this site in 1919. As the congregation expanded, a Sunday School, music department, choir and youth group were established. Improvements to the building included enlarging the pulpit area, and building a steeple and a detached bell tower. The church continues to serve the community as it has for over 100 years. (1996)]]></description>
+    <Point><coordinates>-95.907302,29.18113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Linnie Roberts Elementary School</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>SW corner Whitson St. and Roberts Rd. Marker pending, in production as of Sep. 2021.<br/><br/><b>Address:</b> 1212 Whitson, Bay City]]></description>
+    <Point><coordinates>-95.975127,28.969307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Matagorda Cemetery</name>
+    <description><![CDATA[Matagorda Cemetery<br/><br/><b>Address:</b> Matagorda Cemetery Road, Matagorda]]></description>
+    <Point><coordinates>-95.959124,28.70089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Pilgrim Missionary Baptist Church</name>
+    <description><![CDATA[11 miles SE of Bay City on FM 457, then one mile W on CR 151<br/><br/><b>Address:</b> FM 457, CR 151, Bay City<br/><br/><b>Marker Text:</b> Tradition holds that slaves from nearby plantations once gathered together in worship in the Lower Caney Creek area. These men and women continued their services after the close of the Civil War and by 1885 acquired land at this site. Under the Rev. Anthony Morton (Martin), church members built a sanctuary here. For the next several decades, the building served as a place of worship, as well as a community school until circa 1930. Although area population declined during the 20th century, the congregation remains a symbol of the community's religious history. Its sanctuary and cemetery are visible links to generations of area families. (2005)]]></description>
+    <Point><coordinates>-95.801078,28.94779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sargent Cemetery</name>
+    <description><![CDATA[from Sargent take FM 457 east approximately 2.5 miles; take Caney Road south approximately 7/10 miles<br/><br/><b>Address:</b> Sargent<br/><br/><b>Marker Text:</b> George Thomas Sargent (1791-1875) and his family came to Texas from England in 1834. In 1838 they moved to Matagorda county, where Sargent became a major landowner. This family cemetery contains six graves. The first to be interred here was a Sargent grandson, Jacob Smith, Jr. (1843-1859). The second burial was that of a great-grandson, Frank J. Freeman, in August 1872. George T. Sargent and his daughter - in - law, Sarah Ann, drowned in the storm of 1875. Granddaughter Cornelia Smith Freeman (d. 1883) and her husband, Henry H. Freeman (d. 1908), were the last to be buried here. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-95.653154,28.805183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The F. Cornelius House</name>
+    <description><![CDATA[from Midfield go north on SH 71 approximately 2 miles; 120 east on one lane paved road approximately 2 miles (turns to dirt road approximately .5 miles from house)<br/><br/><b>Marker Text:</b> Friedrich Caspar Cornelius (1850-1946) migrated from Germany to Texas in 1870, shortening name to F. Cornelius. From employers he learned ranching. By 1875 he owned cattle; bought land here in 1882; built house 1886-88 of lumber hauled from Indianola on an ox-drawn slide. Despite storms and floods, he held and added to his lands, giving portions to his children as they came of age. He was a charter member of the old trail drivers' association. Recorded Texas Historic Landmark - 1971]]></description>
+    <Point><coordinates>-96.186753,28.955221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>World War I and II Memorial</name>
+    <description><![CDATA[northeast corner of Fisher and Laurel, Matagorda<br/><br/><b>Marker Text:</b> "In memory of Boyd Scott Dunbar Woe Yeamans Joseph Beverly Lawhon World War I-II"]]></description>
+    <Point><coordinates>-95.971409,28.689274,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

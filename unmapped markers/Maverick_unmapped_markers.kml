@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Maverick County — Unmapped Historical Markers</name>
+  <description>THC markers in Maverick County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Camp Rabb and Fort Duncan, C.S.A.</name>
+    <description><![CDATA[in front of Chamber of Commerce - Garrison St. near bridges to Mexico, Eagle Pass<br/><br/><b>Marker Text:</b> Camp Rabb, 15 miles northeast, was one of 18 Confederate outposts placed a day's horseback ride apart, from Red River to Rio Grande, to prevent Indian attacks and Federal invasion. Named for captain in Frontier Regiment, Texas Cavalry; guarded ford on the Cotton Road, used as major Southern supply line. Fort Duncan, at this site, a former U.S. outpost, protected Civil War trade of cotton for vital supplies and arms. Fort served the counter threat from Federals in upriver El Paso and the Davis Mountains. (1964)]]></description>
+    <Point><coordinates>-100.504726,28.70611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Church of the Redeemer</name>
+    <description><![CDATA[<b>Address:</b> 648 Madison Street, Eagle Pass<br/><br/><b>Marker Text:</b> Chaplains at Fort Duncan held the earliest Episcopal services in Eagle Pass in the 1850s. The Rt. Rev. R. W. B. Elliott, first bishop of the Missionary District of West Texas, with $500 contributed by the Eagle Pass Ladies Aid Society, led in planning the construction of this edifice in 1886-87. William G. Hausser was awarded a contract for the construction at a cost of $3,150. The Gothic revival structure was apparently completed in late 1887. The Rev. A. H. Noll, the first resident priest, initiated services here in February 1888. Bishop James Steptoe Johnston consecrated the church building on Ascension Day, May 15, 1890, during a meeting of the district convocation. The church continued as a mission until January 14, 1895, when the parish of the Church of the Redeemer, with sixteen members, was organized. The Rev. J. D. Worrell, Jr., was ordained to the deaconate and the Rev. R. E. Dicus and the Rev. E. L. Browning, who served as rectors here, later became bishops. The Cunning Workers Club, a ladies organization which functioned from 1902 to 1953, donated many of the furnishings and a number of the stained glass windows. Recorded Texas Historic Landmark - 1978]]></description>
+    <Point><coordinates>-100.502965,28.713183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jesse Sumpter</name>
+    <description><![CDATA[in Catholic cemetery at north end of Memorial Drive enter - go left and pass utility shed, make second left on dirt road - go to end.  Where it loops back (at end) is where marker and grave are located under Mesquite tree,  Eagle Pass<br/><br/><b>Address:</b> Eagle Pass<br/><br/><b>Marker Text:</b> Pioneer citizen, soldier, and law officer. Served in D Co., 1st infantry on Texas Frontier, 1848-1852. Among first troops to be stationed at Fort Duncan. Stayed in Eagle Pass after discharge in 1852. Worked as saloon keeper, mustang hunter, rancher, and as deputy sheriff. In Civil War, he was a deputy customs collector for the confederacy. In 1871 he became first sheriff on newly organized Maverick county. Married twice; had 2 children. Recorded -- 1969]]></description>
+    <Point><coordinates>-100.50167,28.708608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>S. P. Simpson, Jr., House</name>
+    <description><![CDATA[597 Ceylon Street (door reads 597 at bottom, but 419 at top)<br/><br/><b>Address:</b> 597 N. Ceylon St., Eagle Pass<br/><br/><b>Marker Text:</b> Built by Samuel Pruit Simpson, Jr. (1871-1924), pioneer banker and civic leader who came to Eagle Pass from Lexington, KY., in 1883. Beginning 1889, he was associated with city's first bank, founded by his father. On December 8, 1897, he married Elisa Dolch (1876-1965) in Episcopal Church of the Redeemer, where he was later a vestryman. Designed by San Antonian Henry Phelps, constructed 1908-09 by Green Vann, this was one of first fine homes on Ceylon Street. Recorded Texas Historic Landmark - 1972]]></description>
+    <Point><coordinates>-100.500739,28.712856,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

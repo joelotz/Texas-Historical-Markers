@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Howard County — Unmapped Historical Markers</name>
+  <description>THC markers in Howard County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Permanent Building in Big Spring</name>
+    <description><![CDATA[121 Main Street, Big Spring<br/><br/><b>Address:</b> 121 Main Street, Big Spring<br/><br/><b>Marker Text:</b> Application only -]]></description>
+    <Point><coordinates>-101.47809,32.253562,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Olive Cemetery</name>
+    <description><![CDATA[on FM 350, .4 mi. N of intersection with Interstate 20<br/><br/><b>Address:</b> Big Spring]]></description>
+    <Point><coordinates>-101.47848,32.271383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>W. P. Soash, Colonizer</name>
+    <description><![CDATA[from Vealmoor take FM 1785 about 4 miles west to marker at intersection with Soash Road<br/><br/><b>Address:</b> Vealmoor<br/><br/><b>Marker Text:</b> Land promoter W. P. Soash (1877-1961) of Iowa came (1905) to Texas to sell parcels of XIT Ranch land. He founded the towns of Ware in Dallam County and Olton in Lamb County. He platted Soash (1 mi. N) on part of C. C. Slaughter's Long S Ranch in 1909 and brought trainloads of farmers from the East and Midwest to settle this area. The town flourished, but his proposed Gulf, Soash &amp; Pacific Railroad failed when the Santa Fe Line was extended. A four-year drought soon caused Soash to decline. In the 1970s, only the shell of the bank building remained to mark the original townsite. (1978)]]></description>
+    <Point><coordinates>-101.638609,32.507317,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

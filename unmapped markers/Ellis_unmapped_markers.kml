@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Ellis County — Unmapped Historical Markers</name>
+  <description>THC markers in Ellis County without an HMDB id (isMissing excluded). 30 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Boren Cemetery</name>
+    <description><![CDATA[Cemetery is located 500 feet W of the end of Boren Dr. and 600 feet SW of Old Waxahachie Rd.<br/><br/><b>Address:</b> Boren Dr., Waxahachie<br/><br/><b>Marker Text:</b> Kentucky native Michael Boren and his second wife, Mary Ann (Ridgeway) moved to this part of Texas with their children and slaves in 1847. Hers is believed to be among the earliest graves in Boren Cemetery, as she died in 1857, but 1868 is the earliest death date recorded on a stone marker. It belongs to Sidney T. Boren, the five-year-old grandson of Michael and his first wife, Bettie (Morrow). Boren and his son George donated land for this cemetery for the use of the Reagor Springs and Bethel communities. A reflection of the area's history, it contains the graves of numerous military veterans and members of Ellis county pioneer families. (2001)]]></description>
+    <Point><coordinates>-96.744037,32.313595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bristol School</name>
+    <description><![CDATA[Corner of Church St. and Union Hill Rd., Bristol<br/><br/><b>Address:</b> Church Street, Bristol<br/><br/><b>Marker Text:</b> The community's first school was housed in a multi-purpose building erected here in 1870. The Bristol School district was established in 1877. Youth from throughout the area attended Bristol schoolhouse built in 1886 and 1913. A new brick school containing five classrooms and an impressive auditorium and stage was completed here by the U.S. Works Progress Administration (WPA) in 1940. 130 pupils attended the 9-grade, 6-teacher school in 1940-41. The school served the area until 1955. In 1957 its facilities and grounds were deeded to the Bristol Cemetery Association.]]></description>
+    <Point><coordinates>-96.568137,32.459436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ellis County Courthouse</name>
+    <description><![CDATA[Courthouse Square on Main St., Waxahachie<br/><br/><b>Address:</b> Waxahachie<br/><br/><b>Marker Text:</b> Built 1895-1897 of Texas granite, limestone, marble. Over east door, sculptor carved face of beautiful local girl he admired. Example of Romanesque Revival building, Victorian period. The architect was J. Reilly Gordon.]]></description>
+    <Point><coordinates>-96.848895,32.38643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ellis County Farm Cemetery</name>
+    <description><![CDATA[Ellis Co. Farm is at the SE corner of the T-intersection of FM 878 and a NW to SE gravel road connecting FM878 and FM 879.  Cemetery is in the SE corner of the farm bordered by a white iron pipe fence.  It is on FM 879, 1.2 miles N of the intersection with FM 878.<br/><br/><b>Address:</b> Waxahachie<br/><br/><b>Marker Text:</b> Ellis County Farm Cemetery This fenced area marks the boundaries of what has sometimes been called the Pauper Cemetery, one of possibly three burial grounds on old county farm land that served as the final resting place for some of Ellis County's poor farm residents. County officials purchased 450 acres between 1893 and 1895 to create the farm for the support and employment of the needy. The earliest death recorded at the facility was that of Albert Estes in 1890, the last was Dave Madison in 1946. Iron pipes driven into the ground once identified the graves of some of the other 73 individuals whose names are recorded in county records. Historic Texas Cemetery-2002]]></description>
+    <Point><coordinates>-96.791493,32.387196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elm Branch Cemetery</name>
+    <description><![CDATA[2 mi. S. of Bardwell on FM 984<br/><br/><b>Address:</b> Bardwell<br/><br/><b>Marker Text:</b> The rural community of Elm Branch served as a social, economic and religious center for the scattered farming families who lived in the area. The settlement contained a school, a Methodist church founded in 1886, and a cemetery. The church relocated to Bardwell in 1909, approximately two miles north of Elm Branch. The earliest documented burial in Elm Branch Cemetery is that of Martha R. Tidwell, who died on November 28, 1877. Veterans dating from the Civil War to the Vietnam War are interred at the site, which has also been known as Bardwell Cemetery and Matlock Cemetery. Today, the cemetery remains active and continues as a reminder of the early settlers of the area. Historic Texas Cemetery - 2007]]></description>
+    <Point><coordinates>-96.687701,32.246201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Ovilla</name>
+    <description><![CDATA[803 E Main<br/><br/><b>Address:</b> 803 E Main, Ovilla<br/><br/><b>Marker Text:</b> Area residents organized a Baptist church in September 1903. The next year, the community built a wooden tabernacle on Red Oak Creek for use by local churches, including the Baptist congregation, which participated in regular services and revivals. In 1922, the Rev. Bob Burleson became the first full-time pastor for the Baptists. Records are unclear about other early meeting spaces, but in 1936 the congregation built a sanctuary at this site, adding other facilities over time. More than 100 years after its initial organization, First Baptist still serves the community through worship, support and outreach. (2005)]]></description>
+    <Point><coordinates>-96.886386,32.526527,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First United Baptist Church of Waxahachie</name>
+    <description><![CDATA[<b>Address:</b> 450 East U.S. Hwy 287 Bypass, Waxahachie]]></description>
+    <Point><coordinates>-96.822072,32.406658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fry - Butcher House</name>
+    <description><![CDATA[<b>Address:</b> 501 FM 2377, Red Oak<br/><br/><b>Marker Text:</b> Sam and Sarah Jane "Jennie" Fry purchased 150 arces here in 1882. Aided by noted local carpenter Lewis Butcher, the Frys built this farmhouse in 1883. The house is an excellent local example of the Queen Anne architectural style and features a gable roof, turned-wood porch posts, and jig-sawn brackets and porch friezes. The property eventually passed to George A. Butcher, Jennie's son from a previous marriage, and remained in the family until 1986.]]></description>
+    <Point><coordinates>-96.788375,32.504167,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George Rosson Home</name>
+    <description><![CDATA[Off Mike Rd. on private property<br/><br/><b>Address:</b> Mike Rd., Milford<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-96.920147,32.113389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harkey - Payne House</name>
+    <description><![CDATA[216 W. Jefferson St., Palmer<br/><br/><b>Address:</b> 216 W. Jefferson St., Palmer<br/><br/><b>Marker Text:</b> Originally a four-room house with south and east porches, this home was built about 1870 by carpenter and blacksmith D. H. Harkey. Dr. J. M. Johnson bought the property in 1896 and added the second story and the colonial revival style columns. In 1897 the house was sold to Confederate veteran John Payne, who ran a successful mercantile business in Palmer. Built of cypress, the home remained in the Payne family until 1906.]]></description>
+    <Point><coordinates>-96.672164,32.430737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jay Justin Clarke</name>
+    <description><![CDATA[Southwest Corner of the intersection of N. Dallas St. and W. Knox St.<br/><br/><b>Address:</b> 119 N. Dallas St., Ennis<br/><br/><b>Marker Text:</b> On June 15, 1902, at a baseball field in Ennis, Texas, Jay Justin Clarke set two single game professional Minor League Baseball records. The game was unusual because it was scheduled to be played in Corsicana, but was relocated to Ennis due to Corsicana’s “Blue Laws” which prohibited the playing of the game on a Sunday. The Corsicana Oil Citys beat the Texarkana Casketmakers 51-3 that day. Clarke, who played for the Oil Citys, hit eight home runs and tallied sixteen runs batted in, records that still stand as all-time Minor League records. The actual field has been lost to history, but played a major role in Clarke’s records as the fence was estimated to be less than 210 feet from home plate.]]></description>
+    <Point><coordinates>-96.628824,32.32789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Joshua Chapel A.M.E. Church</name>
+    <description><![CDATA[<b>Address:</b> 109 Aiken St., Waxahachie<br/><br/><b>Marker Text:</b> Organized in 1876, this congregation was named for its first pastor, the Rev. Joshua Goins, who started many African Methodist Episcopal churches across the state. Worshipers met in an old schoolhouse until this sanctuary was constructed in 1917. Designed by noted black architect W. S. Pittman, the building exhibits influences of the Romanesque Revival style and has become a landmark in Waxahachie's black community. Recorded Texas Historic Landmark - 1984]]></description>
+    <Point><coordinates>-96.839975,32.383679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Matthews-Atwood House</name>
+    <description><![CDATA[307 N. Sherman St., Ennis<br/><br/><b>Address:</b> 307 N. Sherman, Ennis<br/><br/><b>Marker Text:</b> Pearl C. Matthews purchased this property in 1900 when he and his brother Will, owners of a McKinney department store, opened a second establishment in Ennis. He and his wife Virgie (Thompson) lived in a cottage at this site until 1908 when they constructed the present house. Harry Atwood (1873-1948), a native of Arkansas, purchased the home in 1917. His wife Bessie (Craig) deeded the residence to their son Felix Atwood (1908-1974) in 1955. A Lieutenant Colonel during World War II, Atwood lived here and maintained a law office in Dallas.]]></description>
+    <Point><coordinates>-96.631714,32.328446,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Zion Cemetery</name>
+    <description><![CDATA[Mount Zion Road, west of Shady Grove Road and US 287<br/><br/><b>Address:</b> Mount Zion Road, Midlothian<br/><br/><b>Marker Text:</b> An Indian who often rested on this hill was killed by his wild prairie horse in the 1850s and buried here. Sarah Witherspoon (1832-1857), an early Anglo-American settler, was interred nearby in the first marked grave. Soon after Coleman Jenkins died in 1861, his brother Alexander (1829-1895) deeded this public burial ground. In 1873, Jenkins helped found the Mount Zion Presbyterian Church here. A church house was erected and used for school. In the early 1900s, as the population shifted, the church and school closed. The cemetery is all that remains of this pioneer community. (1979)]]></description>
+    <Point><coordinates>-96.955305,32.459702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Phillip R. Pierce</name>
+    <description><![CDATA[Crisp Cemetery, W side Shankle Rd., 0.2 mi. NW of FM 660. Map dot approximate.<br/><br/><b>Address:</b> 137 Shankle Rd., Ennis<br/><br/><b>Marker Text:</b> Born September 18, 1813 in North Carolina. Soldier in the Texas War of Independence. Member Madisonville Cavalry, Texas Volunteers. Died in Ellis County December 2, 1891. Erected by the State of Texas 1962]]></description>
+    <Point><coordinates>-96.592055,32.391767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rockett Christian Church</name>
+    <description><![CDATA[Intersection of FM 183 and Loma Linda Rd., Rockett<br/><br/><b>Address:</b> Rockett<br/><br/><b>Marker Text:</b> The Rockett Christian Church grew out of early worship services that began in the area about 1853. Formally organized in 1894, the congregation constructed this sanctuary in 1900-01. The Carpenter Gothic building features lancet windows, and octagonal front porch, interior beaded board wainscoting, and the original wooden pews. Despite a period of inactivity in the 1960s, the sanctuary was later reopened for regular services.]]></description>
+    <Point><coordinates>-96.763165,32.469547,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sand Lake</name>
+    <description><![CDATA[7000 Hwy 34 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 7000 Hwy 34, Ennis<br/><br/><b>Marker Text:</b> For Daniel Buckley’s sacrifice in the 1836 Battle of Goliad, the Republic of Texas granted his heirs some 2,200 acres on the west bank of the Trinity River, in what became Ellis County. In 1871, his widow sold Alsdorf Faulkner (1838-1901) some of her land. In 1882, Faulkner deeded a 150-foot strip of land for the construction of the Texas Midland Railroad. The railroad added a stop at Sand Lake, and it soon became a popular destination for camping, fishing and hunting. Subsequent owners sold land to the U.S. Government next to the Trinity River and to the Ellis County Levee District. Landowner Homer Newton Chapman (1891-1931) installed a water system for the growing town of Sand Lake in the early twentieth century. 
+  The town had a blacksmith’s shop, grocery store and post office, icehouse, some forty houses and a cemetery. The town’s two schools, one for white students and one for black students, also held occasional church services. The community remained rural in nature. By 1938, Miles Durham Glaspy (1871-1955) and his son J. Roy (1900-1980) had acquired Sand Lake Farm plus additional land amassing 3,300 acres. The land produced cotton, wheat and maize crops, but was home to a large cattle operation as well. By 1940, the community had over 200 residents. 
+  The community suffered levee breaches in 1942 and 1946, the latter of which washed out the railroad tracks. The community of Sand Lake did not recover, and most of the population moved to other areas. Later uses of the land have included extensive sand and gravel mining. (2023)]]></description>
+    <Point><coordinates>-96.731949,32.247517,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sardis School</name>
+    <description><![CDATA[Business 287 (Sardis Rd.), in Sardis Community, 6 mi. NW of Waxahachie<br/><br/><b>Address:</b> Sardis<br/><br/><b>Marker Text:</b> Children of the Sardis Community attended school in the Methodist church building from the early 1870s until a small two-room schoolhouse was constructed near this site in 1897. By 1915 the school population had grown such that a larger facility was needed. Over the years, the Sardis School system served as a source of leadership for the community. As the population dwindled and school bus service became available, consolidation with the Waxahachie school district began in 1937 and was completed in 1952. The c. 1915 schoolhouse remains in use as a community center.]]></description>
+    <Point><coordinates>-96.909616,32.432103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 7810 Shiloh Rd., Ovilla<br/><br/><b>Marker Text:</b> Burials in this cemetery began with Peters Colony pioneers who founded Ovilla in 1844. The earliest marked grave is that of Mary C. Patton, wife of elder James E. Patton, who died on August 14, 1851. The Pattons were among the original settlers of Ovilla. James S. and Martha Berry and the Rev. Finis E. King formally deeded land for the Shiloh Cumberland Presbyterian church and cemetery. Tombstones record the graves of a number of pastors who served the Shiloh church and many veterans of the Civil War, World Wars I and II, and Korea. Buried here also are members of fraternal lodges and two 19th-century Ovilla postmasters. (2001)]]></description>
+    <Point><coordinates>-96.89535,32.518163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Cumberland Presbyterian Church</name>
+    <description><![CDATA[intersection of Shiloh Rd. and FM 664, Ovilla<br/><br/><b>Address:</b> Ovilla<br/><br/><b>Marker Text:</b> The first organized church in Ellis county, the Shiloh Cumberland Presbyterian Church congregation was chartered with twenty members on July 25, 1847, two years before the formation of the county. The church was begun under the leadership of the Rev. Finis E. King, a pioneer area minister, with the assistance of the Rev. J.C. Provine of Paris in Lamar County. Worship services were first conducted under a brush arbor and later in a cedar log tabernacle constructed by Matt McElroy and his eight sons. In 1872, during the pastorate of the Rev. D.G. Molloy, the present frame sanctuary was completed. J.P. Laughlin built the structure using lumber from Cherokee County in East Texas. Ministers here have included such prominent early Presbyterian preachers as the Rev. King, pastor from the church's organization until his death in 1859, and the Rev. E.M. White, who was instrumental in the formation of the several Ellis County churches. Since the earliest days of settlement, the Shiloh Cumberland Presbyterian congregation has led in the development of Ovilla and the surrounding area.]]></description>
+    <Point><coordinates>-96.89063,32.516173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Grady School</name>
+    <description><![CDATA[On FM 813 about 4 mi. N. of Palmer<br/><br/><b>Address:</b> Palmer<br/><br/><b>Marker Text:</b> Originally established in 1895 to serve children on the pioneer Farrar family, Grady school eventually grew into a community rural school. The first school building, located on a hill overlooking the north bank of Red Oak Creek, was replaced in 1919 by a second building on the south side of the creek. Mrs. Simon Bowden Farrar named the school for Henry W. Grady, editor of the Atlanta Constitution newspaper. The Grady School continued to serve students in this area until the late 1920s. After it closed the students transferred to school in nearby communities.]]></description>
+    <Point><coordinates>-96.725798,32.448198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Old Hawkins Springs</name>
+    <description><![CDATA[On FM 1387, one mile east of Midlothian<br/><br/><b>Address:</b> Midlothian<br/><br/><b>Marker Text:</b> William Alden Hawkins (1800-67) and wife Anna Eddy (1800-95), from La Porte, IN., arrived with family at this site in May 1848, becoming first settlers in area. The family included Marcellus Tolbert (1824-96); Mary Melissa (1824-84), with her husband Harrison F. Hinkley and child Annie Lucretia; Benjamin Franklin (1828-91) and wife Mary; James Emerson (1829-1912); William Alden (1831-89); Elizabeth Ann (1838-1903); David Peter (1838-63); John Wesley (1841-76); and George Washington (1842-1931). As a member of Peters Colony, Wm. A Hawkins and adult children claimed about 2500 acres of land. In a critical period of 28 days prior to July 1, 1848, logs were cut and hauled from Dallas County cedar brakes to build five houses, to sustain the claims. Hawkins Spring, about 100 feet from the Wm. A Hawkins' home supplied water for all households and often for passers-by. Upon the organization of Ellis County in 1850, William A. Hawkins (1800-67) was appointed first Chief Justice (County Judge). Currently situated on Hawkins' family lands are part of Midlothian business district east of Santa Fe Railroad, on the Wm. A Hawkins' survey; Northridge Shopping Center, on Harrison Hinkley survey; First United Methodist Church, on B.F. Hawkins' survey.]]></description>
+    <Point><coordinates>-96.979073,32.489523,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smith Cemetery</name>
+    <description><![CDATA[Smith Cemetery Road, off FM 813 and Farrar Road<br/><br/><b>Address:</b> Palmer<br/><br/><b>Marker Text:</b> (Established in 1852) Burial place of pioneers and generations of descendants; on a knoll that was in wilderness when cemetery opened, but now overlooks nine urban areas. Founded by Nancy Owen Smith for her family and neighbors. First burial was for her husband Hans Smith (1799-1852), lawmaker in Missouri (1830-32, 1834-36) and Arkansas (1844-46), who moved here in 1846. He opened area's first cotton gin, helped organize Ellis County (1850), and was robbed and murdered while buying goods in Houston for his store. The Smith Cemetery Association, organized in 1953, was chartered in 1955. (1973)]]></description>
+    <Point><coordinates>-96.739051,32.441764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sokol Karel Havlicek Borovsky</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2622 E. State Hwy 34, Ennis<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.599687,32.347430,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sweatt Family Legacy</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 400 Blk E. Dr. MLK, Waxahachie<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.843968,32.384104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Telico Cemetery</name>
+    <description><![CDATA[From Ennis go E on SH 34 about 6 mi. then S on FM 1181 to Telico Cemetery Rd.<br/><br/><b>Address:</b> Ennis<br/><br/><b>Marker Text:</b> The first burial in this cemetery was that of the Rev. William J. Kirkpatrick, a local Cumberland Presbyterian Minister, who died on May 1, 1867. Shortly after his death, a congregation organized by the Rev. W.G.L. Quaite was named in Kirkpatrick's honor, and a place of worship was constructed later near the gravesite. Land surrounding Kirkpatrick's grave was part of the plantation of Confederate veteran Major Henry Pannill. Pannill's son Joseph died in October 1867 and was buried near Kirkpatrick's gravesite. The following year Pannill deeded some of his land around the burial sites to trustees of the Kirkpatrick Cumberland Presbyterian Church. Within the next decade the community of Telico grew up around the church building and cemetery. After the turn of the century, however, people began abandoning the village for the conveniences of the railroad town of Ennis (6 mi. W), and the cemetery fell into a period of neglect. Telico Cemetery serves as a reminder of the hardships faced by area pioneers. Of the more than 300 known graves, 45 date before 1882 and almost half are of children under the age of ten. Since 1937 the Telico Cemetery Association has cared for the grounds.]]></description>
+    <Point><coordinates>-96.509884,32.367318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The H.P. Barkley Home</name>
+    <description><![CDATA[709 N. Dallas, Ennis<br/><br/><b>Address:</b> 709 N. Dallas, Ennis<br/><br/><b>Marker Text:</b> Local contractor B. F. Sargeant constructed this residence in 1892 for H.P. Barkley, a conductor and yardmaster for the Houston and Central Texas Railroad. Built in the Victorian style, it features elaborate gingerbread detailing. T.H. Floyd, a local businessman, purchased the house in 1905 and resided here until 1949. Later used as a church parsonage, the Barkley home now serves as a reminder of Ennis' early days as a growing railroad town.]]></description>
+    <Point><coordinates>-96.631879,32.332619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Mulkey-Loggins House</name>
+    <description><![CDATA[E. Avenue G, N side between N. 11th and N. 12th streets. Inscription refers to the house's original site at 110 N. Elm St. in Ennis. Marker reported missing Apr. 2017.<br/><br/><b>Address:</b> 315 Avenue G, Midlothian<br/><br/><b>Marker Text:</b> This property was part of a tract settled in 1854 by pioneer Philip A. Mulkey (d. 1862). Ennis was founded in 1871, when the Houston &amp; Texas Central Railroad reached this point. Mulkey's son James (1859-1903), a prosperous cattleman, included this site in the Highland addition, a neighborhood that he developed after Ennis became the railroad's divisional headquarters in 1891. Dr. James C. Loggins (1845-1921), mayor and city alderman, erected this Victorian residence in 1898. It was purchased in 1944 by Keith Mulkey, James Mulkey's grandson, and his wife Tina Beth (Wheeler). (1978)]]></description>
+    <Point><coordinates>-96.990379,32.48258,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Telico Church</name>
+    <description><![CDATA[From Ennis go E on SH 34 about 6 mi. then S on FM 1181 to Telico Cemetery Rd.<br/><br/><b>Address:</b> Ennis<br/><br/><b>Marker Text:</b> Built in 1867 for the Kirkpatrick Presbyterian Church, this sanctuary later served other denominations. It was a Baptist church from 1909 to 1961. Designed in the Greek Revival style with high Victorian Italianate details, it features shoulder architraves, paired brackets in the cornice, and six-over-six windows. The building was stabilized after a 1960 tornado tore it from its foundation. A 1986 restoration project returned the church to its historic appearance.]]></description>
+    <Point><coordinates>-96.509884,32.367318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trippet-Shive House</name>
+    <description><![CDATA[209 N. Grand Ave., Waxahachie<br/><br/><b>Address:</b> 209 N. Grand Ave., Waxahachie<br/><br/><b>Marker Text:</b> Completed in 1896 for banker and civic leader H.W. Trippet (b.1853), this residence was later sold to Walter E. Shive (b.1873), who owned a successful Waxahachie seed, grain, and coal store. Exhibiting influences of the Queen Anne and Shingle styles of architecture, the Trippet-Shive house is indicative of the houses built in this neighborhood at the turn of the century. Interesting features include the cedar fish-scale shingles, wraparound porch, and octagonal tower.]]></description>
+    <Point><coordinates>-96.862605,32.398991,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

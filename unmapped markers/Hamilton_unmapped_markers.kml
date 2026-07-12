@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hamilton County — Unmapped Historical Markers</name>
+  <description>THC markers in Hamilton County without an HMDB id (isMissing excluded). 15 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Brummett Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 2338 CR 225, Hamilton<br/><br/><b>Marker Text:</b> Established circa 1900 and designated Historic Texas cemetery in 2012.]]></description>
+    <Point><coordinates>-97.94061,31.79054,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Capt. John Stephen Potts</name>
+    <description><![CDATA[Pottsville Cemetery<br/><br/><b>Address:</b> CR 219, Pottsville<br/><br/><b>Marker Text:</b> (1816 - 1901) Born in Bradley county, Tenn. married Malinda Davis, cousin of Jefferson Davis, president of the confederate states of America. Lived in Carthage, Mo., where he was justice of the peace, then sheriff (1850-52), and confederate soldier during the civil war. Moving to Texas, he paid $500 in gold for Hamilton county sheep range, 1872; later had more land. An ardent baptist, a mason, donor of cemetery site, he was honored in naming of Pottsville, 1878.]]></description>
+    <Point><coordinates>-98.326482,31.679999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cole House</name>
+    <description><![CDATA[105 West North Street, Hico<br/><br/><b>Address:</b> Hico<br/><br/><b>Marker Text:</b> This home was built by real estate investor J. Van Steenwyck in 1901-1902. It was purchased by John Baldwin Cole (1860-1924) and his wife, the former Minnie Victoria Grace, in 1907. A druggist, Cole operated the Cole and Grace Drugstore in partnership with his father-in-law, Dr. J. W. Grace. The two-story wooden home features an offset gable front, one-story wraparound porch with a Chippendale screen, and a steep-pitch hipped roof. Recorded Texas Historic Landmark - 1988]]></description>
+    <Point><coordinates>-98.033176,31.988534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Wm. Madison West</name>
+    <description><![CDATA[from Hamilton, take US 281 south about 8 miles, turn west on 221, go 2.1 miles to 2414, go south 2.3 miles to CR, west on CR about 7/10 mile to dirt road off CR (on right) (cem. is approx. 100 yards off CR)<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> Born in Tennessee, studied medicine by apprenticeship. Married Elizabeth Jane Reynolds; had seven children. In 1874 came to Hamilton County. A church leader, he farmed, practiced medicine. Gave land for West Point Cemetery-- named for him.]]></description>
+    <Point><coordinates>-98.219896,31.574828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Durham Ranch House</name>
+    <description><![CDATA[from Hamilton, take 281 north 1/2 mile from Town Square, go east on FM 2905 5.9 miles, go south on CR 9/10 mile to house on east side of road with stone gate entrance<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> -- from application - Built 1873 by John Jefferson Durham; 2-story rock, colonial residence. J. J. Durham was first to teach school in Hamilton. Owned several thousand acres of land, fought in Civil War, was an early merchant of general merchandise, a builder, and a man of great influence in the area.]]></description>
+    <Point><coordinates>-98.036354,31.749589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elise Waerenskjold</name>
+    <description><![CDATA[Howard Cemetery (corner of Howard and Gentry Streets) (enter at north entrance, marker is in middle by cedar tree), Hamilton<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> (1815 - 1895) Gifted pioneer whose 1846-1895 writings brought many settlers to Texas from her native Norway. Countrymen also found her home open to newcomers. She is now called "Lady with the Pen". She and her husband had 3 sons, many descendants.]]></description>
+    <Point><coordinates>-98.128007,31.708867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Francis Marion Graves Home</name>
+    <description><![CDATA[201 West Ross Street, Hamilton<br/><br/><b>Address:</b> 201 West Ross Street, Hamilton<br/><br/><b>Marker Text:</b> Built 1872; early Texas ranch style; 2-story, hewn rock]]></description>
+    <Point><coordinates>-98.123941,31.705883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hurst Ranch Cemetery</name>
+    <description><![CDATA[E side of CR 533, 0.2 mi. S of US 84, S of Shive<br/><br/><b>Address:</b> CR 533, Shive<br/><br/><b>Marker Text:</b> Hurst Ranch Cemetery Established ca. 1880 Historic Texas Cemetery - 2010]]></description>
+    <Point><coordinates>-98.288213,31.473763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ireland Cemetery</name>
+    <description><![CDATA[Hamilton, FM 932 to CR 428, then W 1.6 mi. to gravel road<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> Ireland Cemetery This site was once the family burial plot for the Daniel Webster (D.W.) Edwards family. The first marked grave is for his one-year-old son, Sterling P. Edwards, dating to October 1873. Several stones indicate other unmarked graves. Edwards settled in Texas after his Civil War regiment, the 11th Missouri Infantry, disbanded while in Texas in 1865. The next year, he married the widowed Elizabeth Moore Roberts. In 1871, he purchased land in this area, and his parents, Micajah and Matilda (Poor), later moved here from Missouri. Other family members who came include Allison Micajah Edwards, William P. and his wife, Eliza Jane (Faubion) Edwards, and several Faubion family members. In this community, D.W. and Elizabeth reared her two children and children of their own, including Daniel Lee Edwards, who, in 1920, donated the graveyard to the Ireland Cemetery Association. Early families interred here represent the cultures, occupations and customs of the community. Family names include Austin, Coston, Davis, Dooley, Faubion, Hampton, Huckabee, Hull, Kight, Laing, Lovelace, Neyland, Oldham, Pearson, Pietzsch, Taylor, Tyler, Walker, Williams, Walsleben and Wilson. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-97.985786,31.569594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Manning-Gordon-Henderson House</name>
+    <description><![CDATA[<b>Address:</b> 121 S. Rice Avenue, Hamilton<br/><br/><b>Marker Text:</b> Local contractor Louis V. Manning built this house between 1880 and 1885 on land inherited from his father, pioneer Exekiel Manning, and lived here until 1904. The John H. and Abbie Gordon family owned the house from 1907 to 1936 and the Oliver Dow and Minta Henderson family took up residence here in 1936. A simple example of a cross-gabled roof Queen Anne house, its distinguishing details include fish-scale textured gables, cutaway bay windows, and a front entry porch with ornamental posts and brackets and a jigsawn frieze. Also of interest is the unusual siding flanking the entry door. Recorded Texas Historic Landmark - 1999]]></description>
+    <Point><coordinates>-98.124537,31.703069,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shive</name>
+    <description><![CDATA[from Hamilton take US 281 south about 8 miles to FM 221, go west about 5 miles to marker (Marker is at intersection with spur 221 on north side of FM 221)<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> In area settled in 1870s. Some of the earliest settlers were Connels, McKinleys, Nettletons, and Roddys. First school, Union Hill, opened in 1883; A. S. Andrews, J. H. Clark, L. C. Sloneker, trustees. Post office, established Jan. 18, 1884, was in first store, owned by J. W. and R. L. Shive (with R. L. as postmaster). In 1885 came the first German settlers: Louis Bethke, August Kelm, Albert Kunkel, Paul Neese, Joe Schwartz. Others followed, giving town new traits of culture and economy. By 1908, Shive had 4 churches, a school, 4 stores, 2 blacksmiths, a hotel, a gin, a barber, and 2 doctors.]]></description>
+    <Point><coordinates>-98.233408,31.613262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Paul's Lutheran Church</name>
+    <description><![CDATA[from Hamilton, 7 miles southeast on FM 932 towards Aleman, then 1.5 miles south on FM 3340.<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> A number of German immigrants settled in this area in the late 19th century. Initially known as Pleasant Point, the settlement was later renamed Aleman. Traveling Lutheran missionaries held worship services for the settlers until a congregation was officially organized. An evangelical Lutheran congregation was established on September 24, 1886, with fourteen families. Johannes Barthel was called as the first pastor, and the name adopted for the church was St. Paul's. The first worship service was held on October 3, 1886, in the nearby Pleasant Point schoolhouse. Although plans to build a sanctuary were begun in 1890, the building was not completed until 1900. The Rev. Emil F. Moerbe began a thirty-year ministry at St. Paul's in 1909. Worship services were conducted exclusively in the German language until 1913, when English services were introduced. Rudolf Krueger donated land across the road from the 1900 building for a new sanctuary. Designed by Emil Waiser, this building was completed in 1916. A fine example of the Gothic revival style of architecture, it features simple detailing, arched windows, and a central entry with extended porch. Recorded Texas Historic Landmark-1989]]></description>
+    <Point><coordinates>-98.055255,31.621162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trinity Lutheran Church</name>
+    <description><![CDATA[<b>Address:</b> 11860 FM 218 W, Pottsville<br/><br/><b>Marker Text:</b> German Lutherans in Pottsville and surrounding communities formed an evangelical Lutheran congregation in 1891. The first resident pastor, the Rev. F. Naumann, served from 1898 to 1903. Church services were held in the McGirk Community Schoolhouse (12 miles south) until 1907, when a sanctuary was built near Pottsville. The congregation established a German school in 1908. Worship services were conducted exclusively in the German language until 1929. A new sanctuary was built at this site after the original church building was destroyed by fire in 1937.]]></description>
+    <Point><coordinates>-98.320636,31.674375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Twin Oaks</name>
+    <description><![CDATA[end of Baker Street at Campbell Lane (in front of house), Hamilton 222 Baker Street (off US 281), Hamilton<br/><br/><b>Address:</b> Hamilton<br/><br/><b>Marker Text:</b> Named for historic trees. Built 1904 by Dr. Chas. C. Baker (1872-1942), city's first resident dentist, descendant of the Beemans, one of Dallas' founding families; graduate, Baltimore College of Dental Surgery, Republican state executive committeeman for 26 years. Dr. Baker built "Twin Oaks" with ball-and billiard rooms unique in Hamilton. At death of widow, Alma Nicholson Baker, 1958, the home was sold to Andrew Campbell. Recorded Texas Historic Landmark, 1968]]></description>
+    <Point><coordinates>-98.1261,31.694674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Twin Oaks</name>
+    <description><![CDATA[(off US 281)<br/><br/><b>Address:</b> 222 Baker St., Hamilton<br/><br/><b>Marker Text:</b> Between these trees Wm. Willis took refuge on Dec. 24, 1866, but was shot fatally by Indians. He was riding a mule to a dance when attacked. Recorded Texas Historic Landmark, 1967]]></description>
+    <Point><coordinates>-98.1261,31.694674,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

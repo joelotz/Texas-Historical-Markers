@@ -1,0 +1,61 @@
+Matagorda unmapped markers with NO usable address (15):
+
+  THC 23717: Allenhurst - Mt. Zion Cemetery
+    addr: Allenhurst Rd., Van Vleck
+    https://atlas.thc.texas.gov/Details/5000023717
+
+  THC 23642: Allenhurst Community and Cemetery
+    addr: Allenhurst Rd., Van Vleck
+    https://atlas.thc.texas.gov/Details/5000023642
+
+  THC 15968: Bethlehem Christian Church
+    addr: CR 279, Cedar Lake
+    https://atlas.thc.texas.gov/Details/5507015968
+
+  THC 14571: City Hall and Fire Station, 1928
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507014571
+
+  THC 14552: Gaines-Rugeley-LeTulle House
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507014552
+
+  THC 2774: John Duncan
+    https://atlas.thc.texas.gov/Details/5321002774
+
+  THC 23934: Jones-Jackson Cemetery
+    addr: 1975 FM 1301, Pledger
+    https://atlas.thc.texas.gov/Details/5000023934
+
+  THC 24025: King Van Estate Cemetery
+    addr: 426 CR 176, Cedar Lane
+    https://atlas.thc.texas.gov/Details/5000024025
+
+  THC 15555: Lukefahr School Community
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507015555
+
+  THC 15615: Memorial to all Veterans
+    addr: Palacios
+    https://atlas.thc.texas.gov/Details/5507015615
+
+  THC 23220: Partain Cemetery
+    addr: Blessing
+    https://atlas.thc.texas.gov/Details/5000023220
+
+  THC 15246: Rugeley Building (Old City Bank)
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507015246
+
+  THC 15346: Saint Mark's Episcopal Church (Bay City)
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507015346
+
+  THC 15688: St. Mark Missionary Baptist Church
+    addr: Cedar Lane
+    https://atlas.thc.texas.gov/Details/5507015688
+
+  THC 12070: Vine Grove Christian Church
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5321012070
+

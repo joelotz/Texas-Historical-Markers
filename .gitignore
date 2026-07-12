@@ -15,7 +15,6 @@ pythonLib/.pytest_cache/
 /scripts/*
 !/scripts/hooks/
 /generated/
-/unmapped markers/
 /data_files/
 
 # AI junk
@@ -29,3 +28,4 @@ HANDOFF.md
 ### Notes ###
 # /builds/ == Ignore the 'builds' folder in the root directory
 # logs/ == Ignore any folder named 'logs' anywhere in the repository
+TODO.md

@@ -1,0 +1,10 @@
+Carson unmapped markers with NO usable address (2):
+
+  THC 14176: Farm & Ranch Building
+    addr: 501 Elsie, Panhandle
+    https://atlas.thc.texas.gov/Details/5507014176
+
+  THC 14735: Wheatherlys, John F.
+    addr: Panhandle
+    https://atlas.thc.texas.gov/Details/5507014735
+

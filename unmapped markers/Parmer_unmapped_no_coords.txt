@@ -1,0 +1,10 @@
+Parmer unmapped markers with NO usable address (2):
+
+  THC 15554: Bank Building, Old
+    addr: Farwell
+    https://atlas.thc.texas.gov/Details/5507015554
+
+  THC 15167: Lakeview School
+    addr: Friona
+    https://atlas.thc.texas.gov/Details/5507015167
+

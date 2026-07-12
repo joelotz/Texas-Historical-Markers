@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>La Salle County — Unmapped Historical Markers</name>
+  <description>THC markers in La Salle County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cotulla Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Medina St. &amp; FM 468, Cotulla]]></description>
+    <Point><coordinates>-99.243199,28.440803,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Ferdinand Evans</name>
+    <description><![CDATA[Cotulla Cemetery - east end of road through entrance gate<br/><br/><b>Address:</b> Cotulla<br/><br/><b>Marker Text:</b> (Jan. 14, 1831 - Jan. 13, 1917) Born in Louisiana, W. F. Evans moved to Polk County, Texas, in 1850, and to Gonzales County in 1856. During the Civil War (1861-65), he served on Galveston Island in Texas coastal defenses, with Co. I, 2D Texas Regiment, Volunteer Infantry, and in Cunningham's Co. C, Mann's Regiment. He married Nancy M. Weathers, and after her death Malissa Justice. He had four children. Cotulla was his home from 1903 to 1917.]]></description>
+    <Point><coordinates>-99.243199,28.440803,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

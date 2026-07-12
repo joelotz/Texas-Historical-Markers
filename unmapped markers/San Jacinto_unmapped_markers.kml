@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>San Jacinto County — Unmapped Historical Markers</name>
+  <description>THC markers in San Jacinto County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>George Tyler Wood</name>
+    <description><![CDATA[Robinson Cemetery, SW of Robinson Way, 0.3 mi. SE of Gov. Wood Dr. Granite obelisk at gravesite. Map dot approximate. See also historical markers for Governor Wood in San Jacinto County from 1936 (5507016088), 1970 (5407007674) and 1976 (5407007675).<br/><br/><b>Address:</b> Robinson Way, Point Blank<br/><br/><b>Marker Text:</b> Born March 12, 1795, at Cuthbert, Randolph County Georgia. Died September 3, 1858. Was a member of the Congress of the Republic of Texas in 1841-2, and was Governor of the State of Texas in 1847-9. Here sleeps a just man.]]></description>
+    <Point><coordinates>-95.208226,30.739829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Isaac Jones</name>
+    <description><![CDATA[Isaac Jones Cemetery at Jones Bluff just west off US 190, about 4 mi. east of Point Blank<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> (October 4, 1793 - May 27, 1878) Individualistic pioneer of Texas. Born in Mississippi; moved here 1834, receiving Mexican land grant on west bank of Trinity River. Served 3 months in army of Texas Republic 1836-38. Operated ferry at Jones Bluff 1858, 1861. Wife: Elizabeth (Martin).]]></description>
+    <Point><coordinates>-95.167886,30.798123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Capers Cemetery</name>
+    <description><![CDATA[take US 190 E about 3 mi. to FM 980, go north on FM 980 2.5 mi. to Old Staley Rd., go west about 2 mi. to Mount Capers Cemetery Rd., go south to cemetery<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> Sarah Washington Ricks Durdin Chrznowski (1819-94) donated land for this cemetery from estate of her late husband, James. T. Durdin (d. 1859), probably in 1860s, although no deed exists. Cemetery was named for adjacent Mount Capers Baptist Chapel, built by the Rev. L. R. Capers. According to tradition, first grave was for Elisha Williams; James Tarpley Knight, an infant grandson of land donor, was interred in Dec. 1871. Oldest legible headstone is dated 1873. The Mount Capers Cemetery Association received in Aug. 1971 a deed to four acres of land here. There are 100 or more graves.]]></description>
+    <Point><coordinates>-95.271023,30.817779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Zion Cemetery</name>
+    <description><![CDATA[south of SH 156, 3 mi. SE of Point Blank<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> John R. Johnson, whose 1849 land grant included this property, gave 4.25 acres in 1850 to Mount Zion Methodist Church. Churchyard burials may have begun earlier, but oldest gravestone is dated 1870. The church building was dismantled in 1928 after it fell into ruin. In 1958, descendants of Harrells' settlement, Mount Zion, and Stephens Creek pioneers began a yearly homecoming here at the sole public landmark of their ancestors, the cemetery. As of 1976, there are about 250 graves-- most of them identified and a number marked through efforts of a special committee.]]></description>
+    <Point><coordinates>-95.194576,30.711655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oakhurst Center Hill Church and Cemetery</name>
+    <description><![CDATA[from Oakhurst, east on US 190 about .9 mi., then south .1 mi. on dirt road<br/><br/><b>Address:</b> Oakhurst<br/><br/><b>Marker Text:</b> In area settled by 1830s, five successive buildings -- the first a log cabin, Hibbetts Church -- have stood here as community worship centers. Since all faiths used early building, it came to be called "Union Center," then "Center Hill." Site was actually privately owned until Sept. 3, 1882, when Russell Roark deeded 5-acre cemetery and church site to Center Hill community. In the 1890s, a Baptist group assumed care of cemetery and church. In 1938, Annual Homecoming (fourth Sunday in June) was instituted.]]></description>
+    <Point><coordinates>-95.304249,30.741198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pine Valley Cemetery and Missionary Baptist Church</name>
+    <description><![CDATA[16 mi. west of Coldspring off FM 2693 via SH 150<br/><br/><b>Address:</b> Coldspring<br/><br/><b>Marker Text:</b> The organizational meeting for this church was held about 1868 in the smokehouse of David Pursley. The earliest sanctuary was a log building constructed by the members, and the Rev. Lewin Adams (1822-1899), who is buried here, served as the first pastor. The community burial ground also served the pioneer settlers of the area. The earliest marked grave is that of Susan Henley Irby (1825-1878) who died here while on a visit from Mississippi. An early member of the Tryon Baptist Association, the church celebrates homecoming here each May.]]></description>
+    <Point><coordinates>-95.323848,30.592062,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Big Thicket, C. S. A.</name>
+    <description><![CDATA[2 mi. SE of Coldspring on SH 150 in picnic area. Marker reported missing July 2015.<br/><br/><b>Address:</b> Coldspring<br/><br/><b>Marker Text:</b> In early Texas, a paradise for settlers liking solitude. During the Civil War, became notorious as hunt of army deserters or men avoiding conscript officers and living off the country. The thicket was so hard to penetrate that it was the despair of commanding officers. Soldiers who remained loyal were somewhat demoralized by seeing that men camping in the Big Thicket were safe from punishment for desertion. On at least two occasions, however, the men were discovered, once a fire was set in a circle around them, and smoked them out. A later camp was located by a veteran hunter whose pack of bear dogs brought out the deserters. Before they were hunted out, the deserters found thicket life good. They feasted on game and wild honey. Their wives, living nearby, would visit the men occasionally. Except when conscript officers were in the locality, the wives would visit caches established by the men and remove meat, hides or honey to be marketed for the support of the family. These people felt justified in deserting. Many were foreign-born and had sworn allegiance to the U. S. only 5 to 10 years earlier. Confused by the onset of war, they had fled from their homes.]]></description>
+    <Point><coordinates>-95.123669,30.579563,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

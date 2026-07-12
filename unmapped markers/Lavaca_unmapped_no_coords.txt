@@ -1,0 +1,42 @@
+Lavaca unmapped markers with NO usable address (10):
+
+  THC 14708: Camp of Texas Army
+    addr: Moulton
+    https://atlas.thc.texas.gov/Details/5507014708
+
+  THC 22754: Dr. Frank M. Wagner
+    addr: 124 E. Wolters 2nd St., Shiner
+    https://atlas.thc.texas.gov/Details/5000022754
+
+  THC 14072: Hallett, John
+    addr: Hallettsville
+    https://atlas.thc.texas.gov/Details/5507014072
+
+  THC 22670: Klimitchek Cemetery
+    addr: Private Road 1080, Hallettsville
+    https://atlas.thc.texas.gov/Details/5000022670
+
+  THC 14902: Memorial Park Cemetery
+    addr: Hallettsville
+    https://atlas.thc.texas.gov/Details/5507014902
+
+  THC 17225: Old Kinkler Cemetery
+    addr: Hallettsville
+    https://atlas.thc.texas.gov/Details/5507017225
+
+  THC 23622: Pleasant Grove School
+    addr: CR 208, Hallettsville
+    https://atlas.thc.texas.gov/Details/5000023622
+
+  THC 17203: Rocky School
+    addr: FM 957, Moravia
+    https://atlas.thc.texas.gov/Details/5507017203
+
+  THC 19967: Ross Middlebrook Youngs
+    addr: 65 CR 350, Shiner
+    https://atlas.thc.texas.gov/Details/5000019967
+
+  THC 17109: Thompson School
+    addr: Sweet Home
+    https://atlas.thc.texas.gov/Details/5507017109
+

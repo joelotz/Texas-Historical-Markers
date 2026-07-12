@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Starr County — Unmapped Historical Markers</name>
+  <description>THC markers in Starr County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Farm Workers Movement in Texas</name>
+    <description><![CDATA[South Texas College - Starr County Campus, near Cultural Arts Center (Building F)<br/><br/><b>Address:</b> 142 FM 3167, Rio Grande City<br/><br/><b>Marker Text:</b> On June 1, 1966, more than 700 farm workers in Rio Grande City went on strike at the height of melon season demanding a minimum wage of $1.25 per hour and better working conditions. Local labor organizers joined forces with Eugene Nelson, an associate of César Chávez, in the planning and orchestration of the strike under the banner of the Independent Workers Association, an affiliate of the National Farm Workers Union. Farm workers picketed for three months under harsh conditions of oppression and retaliation from law enforcement agents who sided with the growers. However, the strike unified religious institutions and leaders, Mexican American organizations, labor unions, civil rights workers, and the liberal public in support of the farm workers and their demands. On July 4, 1966, a group of 120 marchers began a pilgrimage from Rio Grande City to nearby San Juan Shrine Church to organize support for the march. At this point, the march assumed a broader purpose when participants decided to continue to Austin to advocate in the Capitol for better working conditions and a minimum wage bill. The march gained momentum and solidarity along the way despite harassment from law enforcement and opposition from governor John Connally. At its conclusion, over 10,000 supporters rallied with the marchers at the Capitol in Austin on Labor Day 1966. César Chávez addressed the participants in Zilker Park and celebrated an amazing moment of worker unity. Among the pivotal effects of the 1966 strike and march was the passage in 1969 of the state minimum hourly wage of $1.25. These events sparked a political revolution among Mexican Americans and were a major rallying point for mobilization of the Chicano civil rights movement in Texas. (2016)]]></description>
+    <Point><coordinates>-98.857441,26.376354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Howard L. Bass Home</name>
+    <description><![CDATA[Corner of Main Street and Washington Street, Rio Grande City.<br/><br/><b>Address:</b> Main Street and Washingotn, Rio Grande City<br/><br/><b>Marker Text:</b> Built 1877 of lumber from sunken steamboat; mesquite block flooring; handmade brick. Home and business house of John Peter Kelsey, Starr County judge; large landowner who came from New York in 1848. Acquired by L. R. Brooks 1937; and by Howard L. Bass in 1954.]]></description>
+    <Point><coordinates>-98.818165,26.378363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Juan Gonzales House</name>
+    <description><![CDATA[100-106 E. Main St., S side of Main St. between Britton Ave. and N. Corpus St. RTHL medallion on same post as marker for Site of Cortina Battle.<br/><br/><b>Address:</b> 104 E. Main St., Rio Grande City<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-98.819953,26.378766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Knights of Columbus Hall</name>
+    <description><![CDATA[901 Estrella Street, Roma.<br/><br/><b>Address:</b> 901 Estrella St., Roma]]></description>
+    <Point><coordinates>-99.018617,26.407876,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noah Cox House</name>
+    <description><![CDATA[101 Main Plaza - overlooking Rio Grande, Roma.<br/><br/><b>Address:</b> 101 Main in Central Plaza, Roma<br/><br/><b>Marker Text:</b> N/A - Medallion only]]></description>
+    <Point><coordinates>-99.0187,26.405466,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Garcia Home</name>
+    <description><![CDATA[On Main Plaza overlooking Rio Grande River, Roma.<br/><br/><b>Address:</b> Main Street in Plaza, Roma<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-99.0187,26.405466,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Roma Convent Building</name>
+    <description><![CDATA[Estrella Street at Main Plaza, Roma.<br/><br/><b>Address:</b> Estrella Street at Main Plaza, Roma]]></description>
+    <Point><coordinates>-99.01851,26.405502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Our Lady of Refuge Catholic Church</name>
+    <description><![CDATA[On Old Main Plaza, Roma.<br/><br/><b>Address:</b> Main Plaza off US 83, Roma]]></description>
+    <Point><coordinates>-99.01851,26.405502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ramirez Hall</name>
+    <description><![CDATA[Corner of Portscheller Street and Main Plaza, Roma.<br/><br/><b>Address:</b> Portsheller Street on Main Plaza, Roma<br/><br/><b>Marker Text:</b> Commercial structure with family home upstairs. On site bought 1872 by Lino Ramirez. Built by architect Heinrich Portscheller (1840-1915), who personally laid brick in fine detail around windows and doors. Three generations of Ramirez family occupied hall.]]></description>
+    <Point><coordinates>-99.01851,26.405502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert E. Lee House</name>
+    <description><![CDATA[Rio Grande City C.I.S.D. campus off US 83. Also known as Commandant's House.<br/><br/><b>Address:</b> Lee Circle, Rio Grande City<br/><br/><b>Marker Text:</b> Overlooked steamboat dock on Rio Grande, landscape of northern Mexico. Main rooms were walled with military maps of this locality. Used as field quarters by Col. Robert E. Lee, U.S. Army Commandant in Texas, 1860. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-98.808789,26.374025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Roma City Hall</name>
+    <description><![CDATA[Corner of Hidalgo and Gonzalez Avenues, Roma.<br/><br/><b>Address:</b> Hidalgo &amp; Gonzalez Ave., Roma<br/><br/><b>Marker Text:</b> TEXT?]]></description>
+    <Point><coordinates>-99.019111,26.406287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Jose de la Mulada Ranch</name>
+    <description><![CDATA[<b>Address:</b> FM 3167, El Sauz<br/><br/><b>Marker Text:</b> Porcion 74, located in Starr County, was originally granted to Pedro Lugo in 1767 by the king of Spain. On December 26, 1787, Pedro Jose Perez purchased Porcion 74, which consisted of 6,740 acres, from Pedro Lugo. According to Camargo, Mexico, census records, Pedro Jose Perez married Manuela de la Garza on January 8, 1769. The Perez family assisted in establishing and settling La Villa de Santa Ana with Col. Jose de Escandon in Camargo on March 5, 1749. The Perez family named the ranch “San Jose de la Mulada.” A La Mulada census on September 26, 1870, indicated there were 31 inhabitants at the ranch. Ledgers kept on the ranch documented the employees’ duties and salaries, as well as other items. In 1968, Josefa Hinojosa Perez and Toraldo C. Perez purchased acreage at La Mulada from Perez family heirs. La Mulada Ranch was included in Los Tejanos Exhibition at the Lyndon B. Johnson Library and Museum as one of the oldest ranches in Texas. On display from October 12, 1997, through September 8, 1998, the exhibit, titled “Los Tejanos: Sus Huellas en la Tierra,” investigated the contributions made by Texans of Mexican ancestry to the state’s history. The life of Casimiro Perez-Alvarez, great-great-grandson of Pedro Jose Perez and an inheritor of La Mulada Ranch, was also on exhibit at the Museum of South Texas History in Edinburg. Apart from ranching on the property, Casimiro was a well-known figure in Starr County who was a deputy U.S. Marshal from Brownsville to Laredo on horseback between 1902 and 1913, and again in 1921. The exhibit included pictures, a saddle, rifle, revolver, and documents from the Perez family, as well as correspondence related to the ranch’s cattle and trading.]]></description>
+    <Point><coordinates>-98.876453,26.504365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Starr County Veterans</name>
+    <description><![CDATA[US 83 East, Town Plaza, Rio Grande City.<br/><br/><b>Address:</b> US 83 at town plaza, Rio Grande City]]></description>
+    <Point><coordinates>-98.820599,26.379431,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

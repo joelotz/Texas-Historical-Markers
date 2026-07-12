@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Archer County — Unmapped Historical Markers</name>
+  <description>THC markers in Archer County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alex Albright</name>
+    <description><![CDATA[In TxDOT storage.  Will relocate when road construction is complete.<br/><br/><b>Address:</b> 11165 TX-97, Dundee<br/><br/><b>Marker Text:</b> (September 22, 1861 - April 8, 1937) A pioneer American karakul breeder. Born in Nebraska; grew up in cattle business. In 1890 came to Dundee; opened a general store. Built Elm Lodge Ranch (1400 acres on Holliday Creek, 4 mi. SE). At first raised purebred Lincoln sheep. In 1910, with help of U.S. ex-President Theodore Roosevelt and the Czar of Russia, he imported valuable karakul sheep from Asia. Later his upbred flock of 1200 took prizes all over the world. Albright's first wife, Dorothy Jane Duncan, died in 1900. Second wife, Marie Sahores, assisted him in ranching business. Daughters were Zella, Ester, and Marie. (1971) Erected by Mrs. Jake Webb (Zella Albright) and Archer County Historical Survey Committee. (1971)]]></description>
+    <Point><coordinates>-98.873803,33.750197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Archer County Courthouse</name>
+    <description><![CDATA[Archer County Courthouse. Marker reported missing May 2018.<br/><br/><b>Address:</b> 100 S. Center St., Archer City<br/><br/><b>Marker Text:</b> Courthouse, Archer County, 1891. Besides government, housed many pioneer social affairs. Dome, cupola removed, 1925. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-98.625312,33.595083,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Battle of the Little Wichita</name>
+    <description><![CDATA[from Archer City, take FM 25 North about 2 miles to roadside park. Marker reported missing Mar. 2016.<br/><br/><b>Address:</b> Archer City<br/><br/><b>Marker Text:</b> In reaction to an Indian attack on a mail stage, Capt. Curwen B. McLellan set out on July 6, 1870, from Fort Richardson with 56 men of the 6th Cavalry. On July 12, McLellan's command encountered a war party of 250 Kiowas led by "Kicking Bird" near the north fork of the Little Wichita (6 miles NW). After a brief skirmish, McLellan ordered his troops into retreat, fighting a defensive battle across the middle and south forks of the Little Wichita. The Indians gave up the chase on the 13th. Corporal John Given and Private George Blume were killed; 13 Medals of Honor were awarded for heroism. (1974)]]></description>
+    <Point><coordinates>-98.672785,33.598826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bridwell Park</name>
+    <description><![CDATA[from Windthorst, take Highway 281 South about 5 miles to roadside park.<br/><br/><b>Address:</b> Windthorst<br/><br/><b>Marker Text:</b> Donated to his countrymen by conservationist-philanthropist Joseph Sterling Bridwell (1885-1966), Missourian who moved to Texas in 1909. Drilling his first well in 1921 on W. T. Waggoner estate, in 1927 he formed Bridwell Oil Co., which ultimately produced 50 million barrels of petroleum. In 1932 he bought local ranch (with headquarters 5 mi. to NW), where he bred famous herd sire Larry Domino and other fine Herefords. A founder and president (1940), West Texas Chamber of Commerce, Bridwell gave nation the site for Sheppard Air Force Base. He and wife had 2 daughters. (1972)]]></description>
+    <Point><coordinates>-98.446406,33.479947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cimmaron (Persimmon) Springs</name>
+    <description><![CDATA[7 mi. S on roadside park on SH 79<br/><br/><b>Address:</b> Archer City<br/><br/><b>Marker Text:</b> (Four miles east off Cowan Road) The natural springs that flow near this site first appeared on early maps of the area as Cimmaron Springs. European immigrants who settled here in the early 1890s were unfamiliar with the word cimmaron and called it Persimmon Springs. The water source served early Native Americans, settlers and military parties and was a factor in settlement patterns and immigration routes. A garden spot in the midst of a dry, windy area, Cimmaron (Persimmon) Springs has been a well-known landmark since the earliest days of occupation in Archer County. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-98.659101,33.512616,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lake Creek Cemetery</name>
+    <description><![CDATA[6 mi. N of Scotland on US 281, then E on Lake Creek Rd.<br/><br/><b>Address:</b> Scotland<br/><br/><b>Marker Text:</b> In the late 1800s, this part of Texas was open range. After the U.S. government removed Native American tribes to Indian Territory (Oklahoma), new settlers began arriving as early as 1874. Disputes between ranchers, who favored the open range, and homesteading farmers divided the settlers, but Archer County organized in 1880, despite opposition. Early farmers in what became the Lake Creek community included the Gant, Edgin and Presley families, as well as Edward A. and Fannie McDonald, who, c. 1900, buried a visiting relative, known today only as Grandma Crisp, on their land. Hers is the first marked grave at this location, which the McDonalds donated to the county for use as a community cemetery in 1908. A school and church later developed, and residents maintained the burial ground and held Decoration Day services. In 1981, descendants of those buried here joined others from the community to form a cemetery association. Four years later, the county conveyed the property to the group, which continues to preserve the cemetery, the final resting place of military veterans and generations of area residents. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-98.473257,33.748037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sheriff E. Harrison Ikard</name>
+    <description><![CDATA[west side of courthouse lawn, Highway 79, Center Street, Archer City.<br/><br/><b>Address:</b> 100 South Center Street, Archer City<br/><br/><b>Marker Text:</b> This stone is erected to the memory of Sheriff E. Harrison Ikard by the Commissioner's Court, American Legion and local friends in recognition of a man who holding sacred a public trust answered duties call; fearless unto death, September 22, 1925.]]></description>
+    <Point><coordinates>-98.625539,33.595075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The D. S. Dudley Show</name>
+    <description><![CDATA[On US 82, Mankins<br/><br/><b>Address:</b> Mankins<br/><br/><b>Marker Text:</b> Founded in late 19th or early 20th century as a wild west circus, the D. S. Dudley Show has been chief industry in Mankins for over half a century. Dick "Cheyenne" Dudley (born in 1896), a prize-winning bronc rider, bought the show in 1914, interrupted his career to serve overseas in the U.S. Army in World War I, came back and married Ruth Wolf of Mankins. Together they toured the Southwest with the show 8 months of the year, employing as many as 250 people, wintering here with their exotic animals. Younger generations of their family continue with the show. (1974)]]></description>
+    <Point><coordinates>-98.797004,33.782131,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>West Fork School</name>
+    <description><![CDATA[9 mi. S of Windthorst on SH 16 at Prideaux Rd.<br/><br/><b>Address:</b> Windthorst<br/><br/><b>Marker Text:</b> West Fork School Begun in the early 1880s as the Baggett School, taught by landowner Silas Baggett, the West Fork School served students in this rural region for more than 60 years. In order to remain in the center of a dispersed agricultural community, the two-room school building was moved twice: once in 1886, when it was renamed New Hope, and again in the 1920s to this site, where it was called West Fork. By 1944, enrollment had declined to six children, and the school was closed. Students were reassigned to school in Antelope. The building was relocated to Archer City, where it served as a residence until it burned some years later. (2002)]]></description>
+    <Point><coordinates>-98.457043,33.429385,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

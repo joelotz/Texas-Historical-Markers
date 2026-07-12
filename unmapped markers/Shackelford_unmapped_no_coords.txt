@@ -1,0 +1,10 @@
+Shackelford unmapped markers with NO usable address (2):
+
+  THC 22717: Alice Reynolds
+    addr: Albany
+    https://atlas.thc.texas.gov/Details/5000022717
+
+  THC 22718: Berta Hart Nance
+    addr: Albany
+    https://atlas.thc.texas.gov/Details/5000022718
+

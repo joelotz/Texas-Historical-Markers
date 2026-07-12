@@ -1,0 +1,38 @@
+Potter unmapped markers with NO usable address (9):
+
+  THC 142: Amarillo
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375000142
+
+  THC 6112: Amarillo
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375006112
+
+  THC 6113: Amarillo
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375006113
+
+  THC 15215: Bivins Library (PLATE 81)
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5507015215
+
+  THC 696: Canadian River Project
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375000696
+
+  THC 15383: Ft. Smith-Santa Fe Trail, Marcy Rt. 1849 (RE81)
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5507015383
+
+  THC 695: n
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375000695
+
+  THC 24323: Ranching Origins of Amarillo
+    addr: Amarillo Blvd., Amarillo
+    https://atlas.thc.texas.gov/Details/5000024323
+
+  THC 5215: Tecovas Springs
+    addr: Bushland
+    https://atlas.thc.texas.gov/Details/5375005215
+

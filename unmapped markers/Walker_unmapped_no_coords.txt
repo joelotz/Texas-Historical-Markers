@@ -1,0 +1,19 @@
+Walker unmapped markers with NO usable address (5):
+
+  THC 22398: Burials of Enslaved People in McAdams Cemetery (UNDERTOLD)
+    addr: 1251 FM 1696 W, Huntsville
+    https://atlas.thc.texas.gov/Details/5000022398
+
+  THC 18194: Jasper Missionary Baptist Church
+    https://atlas.thc.texas.gov/Details/5507018194
+
+  THC 8436: Site of Cincinnati
+    https://atlas.thc.texas.gov/Details/5471008436
+
+  THC 8484: Site of the Home of Henderson Yoakum
+    addr: Huntsville
+    https://atlas.thc.texas.gov/Details/5471008484
+
+  THC 8477: Walker County
+    https://atlas.thc.texas.gov/Details/5471008477
+

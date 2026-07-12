@@ -1,0 +1,21 @@
+Presidio unmapped markers with NO usable address (5):
+
+  THC 16075: Apache Last Stand
+    https://atlas.thc.texas.gov/Details/5507016075
+
+  THC 20158: Cementerio del Barrio de los Lipanes
+    addr: Market Street, Presidio
+    https://atlas.thc.texas.gov/Details/5507020158
+
+  THC 20159: Native Peoples of La Junta de los Rios
+    addr: FM 170, Presidio
+    https://atlas.thc.texas.gov/Details/5507020159
+
+  THC 8: Presidio - Oldest Town in America
+    addr: Marfa
+    https://atlas.thc.texas.gov/Details/5377000008
+
+  THC 7095: Site of Alamito
+    addr: Marfa vicinity
+    https://atlas.thc.texas.gov/Details/5377007095
+

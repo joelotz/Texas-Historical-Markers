@@ -1,0 +1,33 @@
+Cameron unmapped markers with NO usable address (8):
+
+  THC 14252: Cavalry Barracks
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014252
+
+  THC 15294: Commissary-Guard House
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507015294
+
+  THC 23694: Gomez Cemetery
+    addr: Los Indios
+    https://atlas.thc.texas.gov/Details/5000023694
+
+  THC 14750: Medical Laboratory
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014750
+
+  THC 14083: Morgue Building
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014083
+
+  THC 16849: Pitt House
+    addr: 1806 Palm Boulevard, Brownsville
+    https://atlas.thc.texas.gov/Details/5507016849
+
+  THC 17463: The Old Weaver Cemetery
+    https://atlas.thc.texas.gov/Details/5507017463
+
+  THC 23393: Ullman-Stern-Krausse Grocery Warehouse / Alamo Iron Works
+    addr: 730 McNair Family Drive, Brownsville
+    https://atlas.thc.texas.gov/Details/5000023393
+

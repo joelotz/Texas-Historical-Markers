@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jeff Davis County — Unmapped Historical Markers</name>
+  <description>THC markers in Jeff Davis County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Grierson-Sproul House</name>
+    <description><![CDATA[<b>Address:</b> 901 West Court Avenue, Fort Davis<br/><br/><b>Marker Text:</b> This masonry residence resembles other buildings in the community, including several officer’s quarters at the military post of Fort Davis. Completed in 1908 by B. H. Grierson Jr., the house incorporates pink volcanic rock known as tuff that exemplifies early 20th century construction. In 1912, a fire destroyed much of the structure, but local rancher and County Sheriff Franklin Sproul directed the restoration of the home. It is due in large part to the Sproul family that the residence became a center for community activities. The home now serves as an architectural link to the military and agricultural history of West Texas. RECORDED TEXAS HISTORIC LANDMARK – 2016]]></description>
+    <Point><coordinates>-103.904628,30.588773,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Mills County — Unmapped Historical Markers</name>
+  <description>THC markers in Mills County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Caradan Cemetery</name>
+    <description><![CDATA[<b>Address:</b> FM 575 N, Goldthwaite vicinity<br/><br/><b>Marker Text:</b> After the Civil War families settled in this area, originally called Lookout. A.F. Smith deeded two acres of land in 1889 for a public school. Arthur Nixon, the infant son of W.J. Nixon and N.E. Nixon, died later that year and was buried on school land. When the school burned in the early 1900s, it was rebuilt in another location, leaving two acres for the cemetery. Among the more than 150 graves here are veterans of the Civil War, World War I, and World War II. The cemetery is one of the few physical remnants of the once thriving town of Caradan and still serves the community. (1996)]]></description>
+    <Point><coordinates>-98.475036,31.545464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Confederate Veterans Memorial of Mills County</name>
+    <description><![CDATA[Highway 183, Courthouse Square, Goldthwaite.<br/><br/><b>Address:</b> 1011 4th St, Goldthwaite<br/><br/><b>Marker Text:</b> C.S.A. 1861-1865 James Thomas Guthrie Pvt 13th TX CAV Co. E David Morris Frontier Protection Wm. D Rudd Co. D 45th Reg Inf Daniel H. Trent Co. E, 31st TX Brigade TST George W. Trent Co. E, 31st TX Brigade TST Josiah G. Trent Co. E, 31st TX Brigade TST Henry A. Atkinson Sgt Co. I, 2nd Reg Ark Inf Hiram C. Dunlap Pvt Co. G 31st Reg TX Cav C. C&gt; Chesser Cpl Co. D 16th Inf TX]]></description>
+    <Point><coordinates>-98.569531,31.449787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mohler Cemetery</name>
+    <description><![CDATA[<b>Address:</b> S 370 FM 3023, Goldthwaite<br/><br/><b>Marker Text:</b> Ambrose Bull bought part of the Moses Hughes tract in Nov. 1859 and was among the first settlers in the Bulls Springs community. War of 1812 veteran George Washington Joy is thought to be the first person buried here in the 1870s. Of 83 surveyed graves, 27 are unknown, and most date from the 1870s to 1920s. In 1899, land was placed in trust with County Judge G. H. Dalton by Trustees C. B. Mohler, S. A. Bull and D. S. Kelley. Cemetery features include concrete curbing, raised brick crypts, iron fencing, shell grave decorations, and sandstone, granite and limestone markers. Many tombstones are engraved with poems written by family members. The cemetery is a chronicle of this early mills county settlement.]]></description>
+    <Point><coordinates>-98.610181,31.400947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Olive Primitive Baptist Church and Cemetery</name>
+    <description><![CDATA[15 mi. NE of Goldthwaite on FM 2005 to FM 575N on CR 237<br/><br/><b>Address:</b> Goldthwaite<br/><br/><b>Marker Text:</b> Mount Olive Primitive Baptist Church was organized in July 1899 with nineteen charter members in the community of North Bennett. The new church adopted the articles of faith of the Old Harmony Baptist Association and called Elder W. W. Fowler as first pastor. The church purchased 15 acres of land in 1901 for a house of worship and cemetery. The church building also was used as a school-house and was shared with other denominations. Area population declined during World War ll, and by 1999 the church had four members. In addition to several of the church's charter members, many of the early settlers of the community are interred here, as are veterans of the U. S. Armed Forces. With more than 150 graves in 1999, the cemetery continues to serve the entire community. (1999)]]></description>
+    <Point><coordinates>-98.469598,31.594297,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>North Brown Cemetery</name>
+    <description><![CDATA[From Goldthwaite, take SH 16 about 5 miles north, then go west on local road 1 mile, then north 1 mile on second local road.<br/><br/><b>Address:</b> Off SH 16 on private road, 5 mi. N of Goldthwaite, Goldthwaite<br/><br/><b>Marker Text:</b> Named for creek followed by homeseekers, this burial ground originated about 1857 when death struck at a nearby campsite. In the 1870s North Brown farming community surrounded this site. It had a school and held church services in the schoolhouse. In 1895 local leaders A. A. Boulter, G. M. O'Quin, and J. S. Weatherby secured a deed to the acreage in which graves had so long existed, and the North Brown Cemetery Association was formed. After school had closed, proceeds from sale of its site were pledged in 1967 for cemetery care. Pioneer families continue burials here.]]></description>
+    <Point><coordinates>-98.566318,31.553664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Old Town Well, Goldthwaite</name>
+    <description><![CDATA[Courthouse Square, Highway 183, Goldthwaite.<br/><br/><b>Address:</b> US 183, at Courthouse square, Goldthwaite<br/><br/><b>Marker Text:</b> Mr. Peyton died from poison fumes in digging this well; Ben Cox was also overcome; Deed H. Mayer rescued Mr. Cox and brought up Mr. Peyton's body; August 1887. In memory of these three men; Mills Co. Hist. Society]]></description>
+    <Point><coordinates>-98.568712,31.449888,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

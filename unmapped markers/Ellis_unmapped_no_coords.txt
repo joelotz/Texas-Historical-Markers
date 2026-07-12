@@ -1,0 +1,14 @@
+Ellis unmapped markers with NO usable address (3):
+
+  THC 24005: Brooks Family Cemetery
+    addr: E. Burnett St., Ennis
+    https://atlas.thc.texas.gov/Details/5000024005
+
+  THC 15183: Jackson Cemetery
+    addr: Maypearl
+    https://atlas.thc.texas.gov/Details/5507015183
+
+  THC 23309: Old Bardwell
+    addr: 6102 W State Hwy 34, Bardwell
+    https://atlas.thc.texas.gov/Details/5000023309
+

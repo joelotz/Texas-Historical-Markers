@@ -1,0 +1,14 @@
+Eastland unmapped markers with NO usable address (3):
+
+  THC 1371: Eastland County
+    addr: Eastland
+    https://atlas.thc.texas.gov/Details/5133001371
+
+  THC 14523: Liberty Cemetery
+    addr: Cisco
+    https://atlas.thc.texas.gov/Details/5507014523
+
+  THC 23817: Texas Eleventh Court of Appeals
+    addr: Eastland County Courthouse, Eastland
+    https://atlas.thc.texas.gov/Details/5000023817
+

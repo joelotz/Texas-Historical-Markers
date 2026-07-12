@@ -1,0 +1,10 @@
+Somervell unmapped markers with NO usable address (2):
+
+  THC 15571: Marks-English Hospital
+    addr: Glen Rose
+    https://atlas.thc.texas.gov/Details/5507015571
+
+  THC 18365: Oden Cemetery
+    addr: CR 2015, Glen Rose
+    https://atlas.thc.texas.gov/Details/5507018365
+

@@ -1,0 +1,17 @@
+Maverick unmapped markers with NO usable address (4):
+
+  THC 18192: Chittim Ranch
+    addr: 17703-18509 US Hwy 277, Eagle Pass
+    https://atlas.thc.texas.gov/Details/5507018192
+
+  THC 1148: Deadman's Hill
+    https://atlas.thc.texas.gov/Details/5323001148
+
+  THC 18547: Dos Chimeneas Ranch House
+    addr: 17703-18509 U.S. Highway 277, Eagle Pass
+    https://atlas.thc.texas.gov/Details/5507018547
+
+  THC 16069: Maverick County
+    addr: Eagle Pass
+    https://atlas.thc.texas.gov/Details/5507016069
+

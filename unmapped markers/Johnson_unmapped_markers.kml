@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Johnson County — Unmapped Historical Markers</name>
+  <description>THC markers in Johnson County without an HMDB id (isMissing excluded). 12 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alvarado Glenwood Cemetery</name>
+    <description><![CDATA[Glenwood Dr, NW side of town<br/><br/><b>Address:</b> Glenwood Dr, Alvarado<br/><br/><b>Marker Text:</b> Two early area families established cemeteries at this site in the 1870s. During that time, the Campbell and Sansom families purchased land in this vicinity. The first documented burial is that of seven-month-old Ula Sansom (d. 1876), who was buried in the Sansom family plot. The following year, Louisianna Campbell (1826-1877), was buried in the Campbell plot. Several more burials were made during the next two decades. In 1881, the railroad came to Alvarado, bringing with it many new residents. With more families in the area and a growing need for additional cemetery space, many buried their loved ones in the vicinity of the Sansom and Campbell plots. In 1896, the local Knight of Pythias and I.O.O.F. lodges established burial grounds on land surrounding the two family plots. During the Great Depression, the City of Alvarado took over care for the cemeteries, which were known collectively as Glenwood Cemetery. Additional land enlarged the graveyard, for which in 1970 a cemetery association formed to maintain and preserve the site. Today, the burial ground remains a link to early pioneers and the history of generations of Alvarado residents. Historic Texas Cemetery - 2004 DURING THE GREAT DEPRESSION, THE CITY OF ALVARADO TOOK OVER CARE FOR THE CEMETERIES, WHICH WERE KNOWN COLLECTIVELY AS GLENWOOD CEMETERY. ADDITIONAL LAND ENLARGED THE GRAVEYARD, FOR WHICH IN 1970 A CEMETERY ASSOCIATION FORMED TO MAINTAIN AND PRESERVE THE SITE. TODAY, THE BURIAL GROUND REMAINS A LINK TO EARLY PIONEERS AND THE HISTORY OF GENERATIONS OF ALVARADO RESIDENTS. HISTORIC TEXAS CEMETERY- 2004]]></description>
+    <Point><coordinates>-97.218991,32.410802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bethel Salter A.M.E. Church</name>
+    <description><![CDATA[106 Olive Street, Cleburne<br/><br/><b>Address:</b> Cleburne<br/><br/><b>Marker Text:</b> Salter Chapel African Methodist Episcopal Church was established in Cleburne in 1887 by the Goodwin and Sims families, with help from Allen Chapel A.M.E. Church in Fort Worth, and was named for Bishop Moses B. Salter (1841-1913). The first church building was built on East Chambers Street, followed by a sanctuary erected on Brazos Street in 1918. The Sanctuary was relocated here in 1926 on land donated by the Charles Alexander family with funding help from the Grand Lodge Colored Knights of Pythias of Texas. A community church was formed in Oak Hill south of Cleburne and formally recognized by the A.M.E. Conference of Texas in the 1940s. The church was named Greater Bethel A.M.E. Church. In 1943 a building was purchased for a sanctuary and moved to Oak Hill. Both churches had experienced a decline in membership, and officially merged into one congregation in 1988, named Bethel Salter A.M.E. Church. The aging sanctuary was torn down, and a new church building was constructed with the help of community volunteers and completed in 1992. The church continues traditional outreach programs and has as its creed "everlasting commitment to God our father, Christ our redeemer, and man our brother." (1996)]]></description>
+    <Point><coordinates>-97.380805,32.35213,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Confederate Soldiers</name>
+    <description><![CDATA[Courthouse lawn, Highway 174-171, Cleburne<br/><br/><b>Address:</b> Cleburne]]></description>
+    <Point><coordinates>-97.385923,32.34691,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dotey-Kirkham House (Little Old House)</name>
+    <description><![CDATA[409 North Buffalo Street, Cleburne<br/><br/><b>Address:</b> Cleburne<br/><br/><b>Marker Text:</b> Believed to have been built in the late 1860s or early 1870s, soon after Cleburne was established, the house is within “water-totin” distance of what became known as City Spring on West Buffalo Creek. This single-story, white clapboard southern colonial cottage was originally the home of Martha Elizabeth Featherston (Aunt Pat) Dotey, sister of prominent Cleburne educator W. B. Featherston (1817-1878). The T.P. Kirkham family acquired the house in 1912 and retained it until 1965. Mr. Kirkham added the rock structure behind the house for use in his business as a hatter. Recorded Texas Historic Landmark, 1965]]></description>
+    <Point><coordinates>-97.389636,32.349086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Emory Home</name>
+    <description><![CDATA[700 East College, Grandview<br/><br/><b>Address:</b> Grandview<br/><br/><b>Marker Text:</b> Maryland native John Samuel Emory (d. 1953) and his wife Mary Elizabeth (Van Cleave) (d. 1957) built this two-story residence in 1907. A successful farmer and stockman, John Emory became one of Grandview's outstanding civic leaders. The Emory home, owned by family members until 1961, reflects influences of the Queen Anne and classical styles. It is one of the few early homes to escape Grandview's destructive fire of 1920. Recorded Texas Historic Landmark - 1986]]></description>
+    <Point><coordinates>-97.174691,32.263992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Greenbrier Baptist Church</name>
+    <description><![CDATA[from Alvarado, take CR 401 south from south city limit about 3.5 miles then go west on FM 2415 for 1/4 mile to intersection with CR 313<br/><br/><b>Marker Text:</b> Constituted in 1878 with 17 charter members, this pioneer church originally served early settlers of the Greenbrier community, renamed Greenfield in 1917 when the Stubblefield School merged with the local district. Before the construction of sanctuaries, the Baptist and Methodist congregations met together in the community's schoolhouse. A center of activity in the surrounding area for over a century, the Greenbrier Baptist Church has been led by many prominent pastors and Johnson County pioneers.]]></description>
+    <Point><coordinates>-97.220232,32.349154,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haley-Smith Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 1.3 mi W on CR 916, Rio Vista<br/><br/><b>Marker Text:</b> Thomas Haley came to Johnson County by 1852. After purchasing land from Henry Briden, he built a race track along the Nolands River and began breeding fine horses. Haley was a captain in Parson's mounted volunteers (4th Tex. Dragoons) during the Civil War; he died in February 1865 of wounds sustained in battle. His is the oldest marked burial in Haley-Smith Cemetery. Veterans Leonard Fisher (Civil War) and John Hubble (Texas War for Independence) are also buried here, along with several Johnson County pioneers. There are nine identified graves, although unmarked burials are believed to exist. Since the 1990s, the Rio Grange Cemetery Association has cared for this pioneer burial ground. Historic Texas Cemetery – 2006]]></description>
+    <Point><coordinates>-97.3996,32.234417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Johnson County Feeders Supply</name>
+    <description><![CDATA[southwest corner of S. Caddo and Harrell streets<br/><br/><b>Address:</b> 302 S. Caddo Street, Cleburne<br/><br/><b>Marker Text:</b> This one-story commercial building with running bond brick pattern has a history of serving the community and the state. In the mid-1920s, this building housed Midco Feed until the Texas National Guard began occupying the building. Between 1926 and 1943, this was the home of the 132nd Field Artillery, 36th Division, Texas National Guard. It served as the armory and later as living quarters for 130 soldiers during WWII. In 1944, the building again served the farming and ranching industry by housing King Brothers Implement Co. which became the Farmers Implement Co. of Cleburne. In 1953, E.M. Prather and H.C. Westbury established Johnson County Feeders Supply Inc., which is still in business today. Recorded Texas Historic Landmark – 2014.]]></description>
+    <Point><coordinates>-97.385446,32.345033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Market Square</name>
+    <description><![CDATA[on Main Street, between Harrell and Shaffer Streets, Cleburne<br/><br/><b>Address:</b> Cleburne<br/><br/><b>Marker Text:</b> Established 1898 when 11 men, not waiting for an expenditure of public money, donated this land to the county "forever". Carries on tradition of "First Monday" (day used for trading in 1890s). Still used for trade of cattle, produce, and gossip among Johnson countians.]]></description>
+    <Point><coordinates>-97.386851,32.343161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Meredith Hart House</name>
+    <description><![CDATA[Private
+from Rio Vista, take FM 916 .5 mile east<br/><br/><b>Address:</b> Rio Vista<br/><br/><b>Marker Text:</b> Built 1856 by Indian fighter, cattleman, Texas Ranger, patriot. Early Texas colonial. Built by slaves. Hand-hewn and pegged foundation. No nails in framing. Timbers carted from Louisiana by oxen.]]></description>
+    <Point><coordinates>-97.358119,32.237809,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prairie Springs Cemetery</name>
+    <description><![CDATA[CR 714, .25 mi. E of CR 731<br/><br/><b>Address:</b> CR 714, CR 731, Burleson<br/><br/><b>Marker Text:</b> Prairie Springs Cemetery Established 1857 Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-97.340268,32.515714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unity Cemetery</name>
+    <description><![CDATA[Turn off SH 171 on to CR 1000 going east about .8 mile<br/><br/><b>Address:</b> Godley]]></description>
+    <Point><coordinates>-97.57882,32.493452,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Liberty County — Unmapped Historical Markers</name>
+  <description>THC markers in Liberty County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <Placemark>
+    <name>Andrew Jackson Isaacks</name>
+    <description><![CDATA[Oak Shade Cemetery, S of Oak Shade Baptist Church, CR 2212 (Oakshade Rd.), 5.6 mi. NE of Cleveland. Map dot approximate.<br/><br/><b>Address:</b> 1807 CR 2212, Cleveland<br/><br/><b>Marker Text:</b> (December 3, 1817 - January 18, 1864) Born in Jackson, Mississippi. Fought in the Texas Revolution in 1835. Served as sheriff of Jasper County, 1841-1842. Married Miss Sicily Beatty in 1842. they had eight children. A farmer and rancher, Isaacks was the first postmaster at Tarkington Prairie, 1853-1854, at that time in Liberty County. He belonged to Baptist church. Upon his death he was buried at Tarkington Prairie. Remains were reinterred here in 1970. Recorded - 1970]]></description>
+    <Point><coordinates>-94.999385,30.365346,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bailey's Corner</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1825 Trinity St., Liberty<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.797990,30.059863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cooke-Griffin Methodist Cemetery</name>
+    <description><![CDATA[Cooke Memorial Cemetery, 0.1 mi. NE of Jefferson Dr then 0.1 mi. SE on turn before 1906 Lakeland Dr. (Liberty Police Department)<br/><br/><b>Address:</b> Lakeland Dr., Liberty<br/><br/><b>Marker Text:</b> Cooke-Griffin Methodist Cemetery. Established 1846. Historic Texas Cemetery - 2018]]></description>
+    <Point><coordinates>-94.778062,30.073089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Henry O. Ager Home</name>
+    <description><![CDATA[Northeast corner of Block 20; corner of Cos &amp; Fannin, one block East of Main St.<br/><br/><b>Address:</b> 537 Fannin, Liberty<br/><br/><b>Marker Text:</b> Louisiana native Henry O. Ager (1852-1924) first came to Liberty in the 1870s before returning in 1884 as a druggist. While visiting Chicago for the 1893 World’s Fair, he met Bridgett E. Garrity (1867-1931), whom he married in 1903. The couple moved into this house on the lot northeast of the drugstore in 1905. Mr. Ager also served as county clerk, school board president and president of the First State Bank of Liberty. He and his wife raised their two sons here; Mrs. Ager and son Henry O. Ager, Jr. Opened the Ager Theatre in 1925. Today the house remains in the family after more than a century. The two-story classical revival-style home features cypress construction, a wraparound gallery and railing, and decorative gables and transoms.  Recorded Texas Historic Landmark – 2011]]></description>
+    <Point><coordinates>-94.794721,30.060286,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalita, Chief of the Coushatta Indians</name>
+    <description><![CDATA[in Moss Hill, roadside park on W side of SH 146 just N of intersection with SH 105, about 15 mi. N of Liberty<br/><br/><b>Address:</b> Liberty<br/><br/><b>Marker Text:</b> Friend of the pioneers.]]></description>
+    <Point><coordinates>-94.742446,30.24932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Linney Cemetery</name>
+    <description><![CDATA[Linney-Acie Cemetery. Corner of E. Linney and N. Colbert. Historic Texas Cemetery (HTC) medallion installed on post 2019.<br/><br/><b>Address:</b> E. Linney St., Dayton<br/><br/><b>Marker Text:</b> Founded in the 1850s, this graveyard was established to serve the citizens of West Liberty (now Dayton). Although there was no early organization of the cemetery, sections of the burial ground were known by the names of families interred there, such as Smith and Alford. A section reserved for blacks in the early years is now known as Acie Cemetery. Several land acquisitions and donations over the years have combined to bring the cemetery's total size to thirteen acres. There are many unmarked burials in this cemetery. The earliest documented interment is that of Joseph Monroe Linney, who died at the age of six days in 1880. Other early burials include those of Jane Francis Hunt, who died in 1881, and Marie Louise Schneider Gossie, who died in 1885. Those buried in the Linney Cemetery include pioneer settlers, city and county elected officials, community leaders, members of fraternal organizations, and veterans from the Civil War, World War I, World War II, Korea, and Vietnam. The Linney Cemetery Association, established in 1903, still cares for the historic graveyard. It serves as a reflection of the area's early heritage, and as a reminder of pioneer life in Liberty County. (1988) Historic Texas Cemetery]]></description>
+    <Point><coordinates>-94.88793,30.058555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lovett House (RTHL)</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1723 Webster St., Liberty]]></description>
+    <Point><coordinates>-94.799433,30.062024,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oak Shade Cemetery</name>
+    <description><![CDATA[Oak Shade Cemetery, S of Oak Shade Baptist Church, CR 2212 (Oakshade Rd.), 5.6 mi. NE of Cleveland<br/><br/><b>Address:</b> 1807 CR 2212, Cleveland<br/><br/><b>Marker Text:</b> Oak Shade Cemetery. Established 1845. Historic Texas Cemetery - 2018]]></description>
+    <Point><coordinates>-94.999905,30.365844,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Stephen's Episcopal Church</name>
+    <description><![CDATA[Sam Houston Regional Library and Research Center<br/><br/><b>Address:</b> 650 FM 1011, Liberty<br/><br/><b>Marker Text:</b> Served as early as the 1850s by visiting clergy, local Episcopalians worshiped in temporary quarters before erecting this structure in 1898. the oldest church building in Liberty, it stands on property donated by George W. Davis and Judge William F. Hardin. This parish was known by several names before it became St. Stephen's in 1952. Stained glass windows were installed in the frame church in the 1960s.]]></description>
+    <Point><coordinates>-94.759783,30.091038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thomas Jefferson Chambers Home</name>
+    <description><![CDATA[<b>Address:</b> 624 Milam at Webster, Liberty<br/><br/><b>Marker Text:</b> This residence was built during the 1860s for newspaper editor Thomas Jefferson Chambers (1840-1929), the nephew and namesake of Texas colonial leader T. J. Chambers (1802-1865). The younger Chambers was a native Virginian and Confederate veteran. He served as state representative, justice of the peace, city councilman, and mayor. The shape of the "octagon house", with its central chimney, has been altered by remodeling. Recorded Texas Historic Landmark - 1978]]></description>
+    <Point><coordinates>-94.797762,30.061615,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] William C. Abbott</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 718 Fannin St., Liberty]]></description>
+    <Point><coordinates>-94.794628,30.062242,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

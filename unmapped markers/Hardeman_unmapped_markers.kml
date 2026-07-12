@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hardeman County — Unmapped Historical Markers</name>
+  <description>THC markers in Hardeman County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Goodlett Cemetery</name>
+    <description><![CDATA[US 287 to FM 2363, south 1.25 miles to Cemetery Road<br/><br/><b>Address:</b> FM 2363, Goodlett<br/><br/><b>Marker Text:</b> [no text -- HTC medallion only]]]></description>
+    <Point><coordinates>-99.880308,34.318578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Quanah, Acme &amp; Pacific Railway</name>
+    <description><![CDATA[102 Mercer St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 102 Mercer St., Quanah<br/><br/><b>Marker Text:</b> Originally chartered as the Acme, Red River and Northern Railway, the Quanah, Acme &amp; Pacific Railway (QA&amp;P) served the Quanah area in the early twentieth century. The railway was created in 1902, but the name was changed in 1909 when Quanah was chosen as its headquarters. In 1910, the company built a headquarters building at 105 Mercer Street that encompassed offices and a depot. The railway was the vision of Sam Lazarus of St. Louis, Missouri, president of the Acme Cement &amp; Plaster Company in Acme, TX. He wished to connect larger existing rail lines spanning eastern destinations such as St. Louis, Kansas City and Memphis to Los Angeles for service via a long bridge line through west Texas, from the Red River to El Paso. Additionally, the railway would move his own products to these markets. However, the “Pacific” goal never materialized, and the railway’s complete service ran from Quanah in the east to Floydada (Floyd Co.) In the west, about 117 total miles. Still, the railway successfully hauled passengers, goods, and mail for many decades. In 1911, the Frisco Railway purchased an ownership share in the QA&amp;P, although Lazarus remained as president.
+  The town of Quanah saw an immediate boost thanks to the presence of a new railway. Its population doubled, and property values increased fifty percent. However, the 1920s and 1930s brought hardship to the company. In 1926, Sam Lazarus died. The Depression and the Dust Bowl devastated the area served by the QA&amp;P. The railway continued for several decades as a Frisco subsidiary until being merged with new owner Burlington Northern Railway in 1981. The lines west of Acme were ultimately abandoned soon thereafter. Nevertheless, the Quanah, Acme &amp; Pacific Railway remains a major part of the story of the commerce and development of Quanah. (2022)]]></description>
+    <Point><coordinates>-99.740287,34.299651,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shootout at the Quanah Depot</name>
+    <description><![CDATA[102 S. Main St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 102 S. Main St., Quanah<br/><br/><b>Marker Text:</b> An infamous gunfight between law enforcement officers occurred on December 9, 1893. Bad blood had been boiling between the two for months. At a sheriffs’ convention in Houston, Childress County Sheriff Jonathan Pearce Matthews (1837-1893) had disrespected then-Governor James Hogg. A witness, Texas Ranger Captain William Jesse “Bill” McDonald (1852-1918), verbally reprimanded Matthews. Matthews took great offense to this and began making comments to others that one day he would kill McDonald. Later, Matthews’ resentment grew over an instance in which Texas Ranger Bob McClure, an associate of McDonald, refused to turn over a prisoner to Matthews and instead escorted the prisoner to a different county where he could face stronger charges. With McDonald’s usual men out of town on the prisoner escort, Matthews and three men rode the train from Childress to Quanah, where McDonald headquartered. Their purpose was clear: they were going to kill the ranger.
+  McDonald, never one to back down from a fight, was at the depot when Matthews and his gang arrived. He met them south of the train platform, halfway between the depot and the opera house. McDonald called out Matthews for making threats. Matthews responded, “No. I didn’t say that, but I’ll tell you what I did say,” and then a hail of bullets erupted from both sides. Who shot first is a mystery. In a matter of minutes, the whole affair ended, with Matthews being shot three times and McDonald twice. Matthews ultimately succumbed to his wounds on December 30, leaving behind a wife and one-year-old child. Men of both parties were arrested and tried, but none were convicted. Ranger McDonald lived on to become one of the “four great captains” of the Texas Rangers, dying in 1918 from natural causes. (2022)]]></description>
+    <Point><coordinates>-99.739115,34.299814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Simpson Building</name>
+    <description><![CDATA[<b>Address:</b> 222 S. Main St., Quanah<br/><br/><b>Marker Text:</b> After serving as manager of the Cameron lumberyard in Quanah and then as a general manager in Waco, L. Simpson began his own lumber company and returned to Quanah in 1906. In 1910, Simpson had this three-story commercial building constructed to house his offices; other local businesses, including the corner drug store from 1920 until 1998; and the elks lodge, which occupied the top floor. Featuring decorative brick detailing and a corner entry, the Simpson building is a significant part of Quanah's architectural heritage. Recorded Texas Historic Landmark - 2001]]></description>
+    <Point><coordinates>-99.739161,34.295893,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

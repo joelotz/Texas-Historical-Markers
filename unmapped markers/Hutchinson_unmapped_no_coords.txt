@@ -1,0 +1,10 @@
+Hutchinson unmapped markers with NO usable address (2):
+
+  THC 24280: Pringle Community
+    addr: Hwy 136, Stinnett
+    https://atlas.thc.texas.gov/Details/5000024280
+
+  THC 23941: The Aluminum Dome
+    addr: 1113 Bulldog Blvd., Borger
+    https://atlas.thc.texas.gov/Details/5000023941
+

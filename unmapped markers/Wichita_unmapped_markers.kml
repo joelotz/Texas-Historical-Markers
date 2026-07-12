@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wichita County — Unmapped Historical Markers</name>
+  <description>THC markers in Wichita County without an HMDB id (isMissing excluded). 30 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Athletic Park / Spudder Park</name>
+    <description><![CDATA[701 Farris St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 701 Farris St., Wichita Falls<br/><br/><b>Marker Text:</b> Wichita Falls citizens of the early 1900s enjoyed local games of baseball. In 1914, Bob Carruth formed a team for African Americans, later named the Black Spudders, in the Texas Colored League. As the city experienced an influx of funds due to an oil boom, local businessmen William Harvey and W. Newton Maer purchased the Waco Navigators in 1919 and hired Walter Salm to manage the team. The newly formed Wichita Falls Baseball Association purchased a 20-acre tract of land on 7th Street and built the Athletic Park Complex with a 5,000 person grandstand. The Spudders, named by resident Grace Morse in a public contest, joined the Texas League from 1920-1932. Both the Spudders and the Black Spudders shared the Athletic Park facilities. Baseball greats such as Babe Ruth, Lou Gehrig and Jerome “Dizzy” Dean played in exhibition games.
+  The Spudders enjoyed success in the Texas League, finishing with a winning record ten times and winning the league championship in 1927. However, the Depression and slowing local oil production took a toll on both teams’ profitability. In 1930, the Black Spudders were sold to Galveston. The next year, the Spudders were relocated to Longview. In 1941, the Wichita Falls Baseball Association purchased the Midland Cowboys of the West Texas-New Mexico League and moved them to what locals affectionately referred to as “Spudder Park.” The team later moved to the Big State League, winning the league championship in 1953. Their league closed in 1957, and baseball did not return to Wichita Falls. The city later removed Spudder Park’s grandstands and reworked the site for community recreation and events, including city baseball games on the original baseball diamond. (2023)]]></description>
+    <Point><coordinates>-98.485933,33.916693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Burkburnett Junior High</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 S. Ave D, Burkburnett<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.569228,34.093249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Call Field Monument</name>
+    <description><![CDATA[Wichita Falls Regional Airport<br/><br/><b>Address:</b> 4000 Armstrong Dr., Wichita Falls<br/><br/><b>Marker Text:</b> Application for Listing Private Historical Markers with the State included.]]></description>
+    <Point><coordinates>-98.49167,33.964354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>City View School</name>
+    <description><![CDATA[1023 City View Drive (inside school) Wichita Falls<br/><br/><b>Address:</b> 1023 City View Dr., Wichita Falls<br/><br/><b>Marker Text:</b> Created in 1889 as Common School District No. 8, City View School was renamed by its students because of its original site (ca. 2 miles northwest) which featured a commanding view of the surrounding city. The school was relocated in 1926 to this site, in a building nicknamed "The Alamo" because of its mission revival architecture. It was replaced by a new facility in 1960. Experiencing steady growth, City View School was officially designated an independent school district in 1961. A number of buildings have been added to the campus over the years. (1990)]]></description>
+    <Point><coordinates>-98.55316,33.935597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Samuel Hiatt Burnside, Mary Margaret Grice Burnside</name>
+    <description><![CDATA[Riverside Cemetery 1810 5th Street, Wichita Falls from Main gate, take drive straight about .1 mile.  Turn right, about 100feet to graves on south side of drive<br/><br/><b>Address:</b> 1810 5th St., Wichita Falls<br/><br/><b>Marker Text:</b> Kentucky native Samuel H. Burnside, an 1882 graduate of the University of Pennsylvania, opened a medical practice in Wichita Falls in 1883. Mary Margaret Grice, a native of Philadelphia, moved to Wichita Falls in 1885 at the invitation of her uncle, George Fox, and was treated for tuberculosis by Dr. Burnside. A romance ensued, and the two were married in 1887. Mary purchased land on Seventh Street where the couple built a large home, which also housed the doctor's office. Dr. Burnside built a hospital, the Wichita Falls Sanitarium, next door to the house in 1907. Well respected in medical circles, Dr. Burnside was a renowned physician who also served as chief surgeon for two railroad companies and medical examiner for twenty-four insurance companies. He performed innovative surgeries and often treated Comanche Indians from the nearby reservations in Oklahoma. Mary Burnside was a leader in local and state civic organizations, including the daughters of the American Revolution and the Texas Federation of Women's Clubs. Both Dr. and Mrs. Burnside were active in the First Presbyterian Church. They were the parents of five children, two of whom lived to adulthood. (1994)]]></description>
+    <Point><coordinates>-98.507147,33.911999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George "Tex" Barringer</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1400 9th St, Wichita Falls<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.498543,33.906866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hodges-Hardy House</name>
+    <description><![CDATA[1100 Travis, Wichita Falls<br/><br/><b>Address:</b> 1100 Travis, Wichita Falls<br/><br/><b>Marker Text:</b> Local builders W. Lee Moore and James A. Richolt constructed this residence in 1893-95 for Samuel H. Hodges, an attorney and real estate investor. The late Victorian style house has a wraparound porch and Eastlake detailing. Hodges sold the property in 1910 to Dan Hardy, a merchant, oilman, and landowner. Hardy and his wife Myrtle were prominent philthropists and civic leaders. The house remained in their family for over 70 years. Recorded Texas Historic Landmark - 1984.]]></description>
+    <Point><coordinates>-98.489867,33.909187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hotter 'N Hell Hundred</name>
+    <description><![CDATA[<b>Address:</b> 100 North Scott, Wichita Falls]]></description>
+    <Point><coordinates>-98.497343,33.918155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Jimmie Kolp</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>on the west side of the entry door to the Wichita Falls Regional Airport<br/><br/><b>Address:</b> 4000 Armstrong Dr., Wichita Falls]]></description>
+    <Point><coordinates>-98.489897,33.96612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Hart Wilson</name>
+    <description><![CDATA[Near corner of 4015 Lake Park Drive and Brenda Hursh Road<br/><br/><b>Address:</b> 4015 Lake Park Drive, Wichita Falls<br/><br/><b>Marker Text:</b> Entrepreneur John Hart Wilson was born in Pueblo, Colorado and grew up in Clarksburg, West Virginia. He graduated from Purdue University in 1914 with a degree in electrical engineering and joined the U.S. Army Corps of Engineers. He then worked in Toledo, Ohio, setting up electrical generating plants, before serving as an engineer during World War I. After the war, he organized a company in Clarksburg to manufacture electric lights to be installed on Model T Fords after purchase. In 1920, Wilson moved to Burkburnett, joining his brother. There, he met and married Ella Nevile, a nurse. Wilson designed a winch that could be mounted to a tractor and moved between oil wells; the product’s success led Wilson to move his manufacturing company to Wichita Falls in 1926. In 1932, he introduced a mechanical drilling rig, which helped make steam-powered drilling rigs obsolete. Wilson patented 118 inventions, including the chain transmission, which made possible the use of larger engines with greater drilling speed and depth potential. He also improved a pneumatically controlled clutch, making it possible to control large amounts of power by moving a small actuating valve. He organized Wichita Clutch Company to produce this equipment; he also owned Wichita Falls Foundry and Machine Company, which produced castings. During World War II, Wilson redesigned and manufactured barrage balloon winches, used to keep low-flying enemy aircraft away from troop positions. He also built houses and commercial buildings. Today, John Hart Wilson is remembered as a gifted inventor whose accomplishments were matched only by his ethics and generosity.]]></description>
+    <Point><coordinates>-98.506187,33.872149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kadane Discovery Well</name>
+    <description><![CDATA[From Electra take SH 25 about 14 miles south.  Marker is located on west side of highway.<br/><br/><b>Address:</b> SH 25, S of Electra, Electra<br/><br/><b>Marker Text:</b> Oil development in this part of Wichita County began in 1919 from shallow depths in the KMA Field. As the original wells went dry, and a severe national Depression blighted the country in the 1930s, the oil industry sought new production. The Mangold family, owners of land at this site, offered liberal terms for deeper exploration, but at first found no driller willing to take the risk on the scant capital then available. Finally veteran operator George E. Kadane (1881-1945) and sons Edward, Jack, and Mike had the courage to drill in this area of negative geologic readings. On Nov. 11, 1937, they struck oil at a depth of 3800 feet, bringing in Mangold No. 1 as a gusher. The discovery effected an extension of the KMA Field. This spot was labeled "Kadane Corner" on local maps. Other operators rushed in, starting a new Wichita County boom. Along with a rapid rise in population came new housing construction, new industries, new jobs, and an era of financial growth. In 1942 a test well on the Griffin Ranch came in at 4300 feet. Final development of the field resulted in more than 2000 producing wells in an area of 75,000 acres. Over a 40-year period, the field has yielded 250 million barrels of oil.]]></description>
+    <Point><coordinates>-98.839189,33.859226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kell Field Air Terminal</name>
+    <description><![CDATA[Sheppard Air Force Base, Wichita Falls.  enter at main gate, and continue on road to Motor Pool Drive.  Thisis an active Military Base<br/><br/><b>Address:</b> Sheppard Air Force Base, Wichita Falls<br/><br/><b>Marker Text:</b> Known as "Little Adobe", this pueblo revival building was constructed in 1928 to serve as the air terminal for Kell Field, the first municipal airport for the city of Wichita Falls. In 1941 it was incorporated into Sheppard Field, a World War II Army Air Corps Training Center. Now part of Sheppard Air Force Base, the Kell Field Air Terminal has served such notable pilots as Charles Lindbergh, Wiley Post, and Amelia Earhart. (Recorded Texas Historic Landmark - 1981.)]]></description>
+    <Point><coordinates>-98.51502,33.984786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kemp Public Library</name>
+    <description><![CDATA[1300 Lamar, Wichita Falls<br/><br/><b>Address:</b> 1300 Lamar, Wichita Falls<br/><br/><b>Marker Text:</b> In the 1890s Flora Anderson Kemp (1861-1957) and other women in Wichita Falls circulated books among friends. After many attempts to begin a library, Mrs. Kemp in 1916 asked her husband, pioneer businessman Joseph Alexander Kemp (1861-1930), for a public library building as a Christmas gift. In 1918 Kemp presented the main structure of this building to the citizens of Wichita Falls. The community donated 4,000 books and raised money for furnishings. While the building has been enlarged and remodeled several times, the original structure remains intact. (1979)]]></description>
+    <Point><coordinates>-98.488597,33.906196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>KMA Oilfield</name>
+    <description><![CDATA[Kamay Community, in front of Kamay VFD and EMS building.<br/><br/><b>Address:</b> 8537 State Highway 258 W, Electra<br/><br/><b>Marker Text:</b> Covering 135,000 acres and holding more than 3,000 wells, the KMA Oilfield has impacted the north Texas area since the early twentieth century. In January 1919, four local businessmen, Joseph A. Kemp (1861-1930), S.I. Munger (1855-1921), H.M. Munger (1854-1923) and Reece S. Allen (1874-1946), joined together to form the Kemp-Munger-Allen Oil Company and bought a plot of land in southwestern Wichita County. From its inception, the KMA Oilfield continuously produced oil from depths of 75 to 4,300 feet and almost all major oil companies profited from the operation. KMA's first oil well began flowing in October 1919 and by August 1921, the oilfield produced 7,200 barrels of oil per day. However, with production declining and the appearance of saltwater, investors had to find alternate methods for oil acquisition. Deep Oil Company's 1931 discovery of the 3800-ft. oil zone led to the 1937 Kadane-Mangold 2000-barrel-per-day gusher and the 1942 Ellenberger 4300-ft. oil zone. Pressurized gas and saltwater injection advances in the 1940s and 1950s ensured continued oil recovery in the KMA field. Over the years, the success of the KMA Oilfield led to the boom of the old town of Kemp City. As the town expanded in size, residents called for a post office. Because Kemp, Texas, already existed to the southeast and KMA was not accepted as a word, the postmaster added an "a" and a "y" to KMA to designate the town as Kamay, naming the town after the oilfield that spurred the region's initial boom. (2018)]]></description>
+    <Point><coordinates>-98.814112,33.857468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lake Wichita</name>
+    <description><![CDATA[At the Kemp Street boat ramp on Lake Wichita, physical address 6102 Kemp Blvd.<br/><br/><b>Address:</b> 6102 Kemp Blvd, Wichita Falls]]></description>
+    <Point><coordinates>-98.530165,33.84216,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lloyd Ruby</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Near the intersection of 9th Street and Broad Street<br/><br/><b>Address:</b> 1400 9th St., Wichita Falls]]></description>
+    <Point><coordinates>-98.498543,33.906866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Midwestern University Desegregation</name>
+    <description><![CDATA[near Ferguson Hall facing quadrangle<br/><br/><b>Address:</b> 3410 Taft Blvd., Wichita Falls<br/><br/><b>Marker Text:</b> In 1948, Emzy Downing and James O. Chandler, both graduates from the African American high school in Wichita Falls, Booker T. Washington High School, applied for admission to Hardin Junior College, a division of Midwestern University. The Board of Trustees denied their admission. In 1950, with encouragement from local NAACP leader Professor C.E. Jackson, Willie Faye Battle, an honor graduate, applied by mail for admission to the two-year nursing school at Hardin Junior College. She was accepted. But when she and Professor Jackson went to the school to complete the application process, she was denied admission. Subsequently she was accepted to Prairie View A&amp;M University. In the fall of 1951, MS. Battle along with Maryland Virginia Menefee, Helen Muriel Davis, Golden E. Mitchell White, Carl Lawrence McBride and Wilma Jean Norris were encouraged to apply in person. Each applicant received rejection letters in the mail. Following this incident, a meeting was held between the University Board of Trustees and Representatives of the Texas State Council. Alternative solutions were discussed such as a College at Booker T. Washington High School or Midwestern paying the tuition for African American students to attend African American colleges. These alternatives were rejected and a suit was filed in United States District Court, the first of its type. Initially, Battle, et al. V. Wichita Falls Junior College Dist., et al. was decided in favor of the students. But, with appeals and injunctions, the final decision came through the Supreme Court in 1954, following the Brown v. Board of Education of Topeka ruling. The first African American students were enrolled in the summer of 1954. (2015)]]></description>
+    <Point><coordinates>-98.521153,33.875591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mytinger-Richardson House</name>
+    <description><![CDATA[<b>Address:</b> 2106 Wenonah, Wichita Falls]]></description>
+    <Point><coordinates>-98.536004,33.895452,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pilgrim Rest Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 513 Fort Worth Street, Wichita Falls<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.480544,33.900882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Circuit Riders Memorial</name>
+    <description><![CDATA[From Electra take SH 25 south about 8 miles.  Turn west onto FM 2326, about 3 miles to cemetery on south side of highway.<br/><br/><b>Address:</b> FM 2326, 3 mi. W of SH 25, Electra<br/><br/><b>Marker Text:</b> Application for Listing Private Historical Markers With the State included.]]></description>
+    <Point><coordinates>-98.922284,33.904014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Ralph Harvey Jr.</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 720 Indiana, Wichita Falls]]></description>
+    <Point><coordinates>-98.491565,33.913285,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Booker T. Washington High School</name>
+    <description><![CDATA[700 Flood St.<br/><br/><b>Address:</b> 700 Flood St, Wichita Falls<br/><br/><b>Marker Text:</b> Records indicate that by 1886, when Cora Robinson was chosen as a teacher, Wichita County operated at least one school for African American students in the Wichita Falls area. Other early teachers included A.L. Hedrick and M.E. Hunter, and students attended classes at different times in facilities on Mill, Park and Sullivan streets. Walter Downing and C.C. Trimble served as principals for many years, but it was during the princaipalship of H.D. Robinson that a three-story brick school building was constructed at this site. In 1921, former Wichita Falls mayor Jim Marlow sold eight acres in this section of town to create a new African American business and social center. The community chose this site for the Booker T. Washinton School, named for the noted educator and author. The school became a neighborhood focal point, and businesses developed around it that further placed it at the center of Wichita Falls' African American community. In 1922, A.E. Holland became the school's principal. He served until 1946, and under his leadership the school became a Class A accredited campus, and additional facilities, including a cafeteria and lighted football field, were constructed. The acclaimed C.E. Jackson served as principal from 1946 to 1963, during which time the district added a gym and an adjacent elementary school, also named for Washington. The high school moved to a site on Harding Street in 1963, and the district integrated in 1969, razing the former Washington High School building in 1971. Since that time, the community has continued using other buildings on the campus, including the cafeteria, which now serves as a center for the school's proud alumni. (2006)]]></description>
+    <Point><coordinates>-98.47739,33.91534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Friberg School</name>
+    <description><![CDATA[From Wichita Falls, take SH 171 north to Friberg Road.  Marker is next to building across the road from Methodist church.<br/><br/><b>Address:</b> Friberg Rd &amp; SH 171, Wichita Falls<br/><br/><b>Marker Text:</b> Friberg School was created in 1895 to serve families in this area. By 1896 students attended classes in a granary owned by Will Friberg; the following year John Friberg donated land here and a 2-room schoolhouse was erected. The school also served as a community gathering place, and by 1922 increased enrollment led to the addition of a third room. Upper level students began attending Wichita Falls High School in 1931, and in 1956 Clay County's Thornberry School consolidated with Friberg. After a 1969 fire left only the cafeteria intact, Friberg School closed.]]></description>
+    <Point><coordinates>-98.456654,34.000153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Valley View School</name>
+    <description><![CDATA[4 mi. NE of Kamay on FM 1206<br/><br/><b>Address:</b> FM 1206, Kamay<br/><br/><b>Marker Text:</b> Area families established the Denny and Jones Dale schools in 1897. In 1918, the schools combined, and J.A. Kemp and R.S. Allen sold land to the trustees of Wichita County School District No. 6 at this site to build the Valley View School. The next year, oil discovered in the Kemp-Munger-Allen (KMA) field brought many new residents. In 1924, the completion of lakes Kemp and Diversion, and the creation of a farm irrigation district, influenced even more growth. Two years later, with 325 students in grades one through eleven, the school opened a larger building, and voters created the Valley View Independent School District in 1928. Local African American students attended school at the Wichita County Rural Colored School, which operated on the Munger farm from 1925 to 1942. In the 1930s, the Valley View School student population increased, peaking in the 1937-38 school year with nearly 600 students. The district added new buildings as needed, including a second brick structure completed as a federal project in 1942. In the 1950s, however, with the mechanization of farming and a decline in the oil industry, the area's population began decreasing. The Eagle Bend School merged into the Valley View district in 1956, and although it completed new facilities in 1968, the district consolidated with Iowa Park in 1970. The Iowa Park Consolidated Independent School District utilized former Valley View facilities for several years, but most have since been dismantled. The significance of the Valley View School continues, though, in the lives of those who were students here over the years. (2006)]]></description>
+    <Point><coordinates>-98.763472,33.874111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of: The Antlers Hotel Fire of 1929</name>
+    <description><![CDATA[Inside Wichita Falls activity center Southeast corner of 10th and Indiana<br/><br/><b>Address:</b> 10th &amp; Indiana, Wichita Falls<br/><br/><b>Marker Text:</b> A three-story brick hotel building was constructed at this site in 1920 by the firm of Bachman and Goodwin. Originally known as the Argonne, the name was later changed to the Antlers Hotel when the structure was purchased by H. G. Karrenbrock. In the early morning hours of December 12, 1929, a fire broke out in the building. Firemen of the central station were the first to arrive on the scene and were promptly aided by additional units responding to a second alarm. Flames were visible throughout the city and quickly attracted a large crowd. Thirty minutes after the first alarm, the west wall of the structure began to crumble. Although some of the fire fighters escaped, assistant city fire chief Smiley Turner and fireman Guno Anderson were killed by the collapsing wall. One occupant of the hotel, Kenneth (Toby) Brice of Bowie, also died in the fire that morning. As a result of the destructive Antlers Hotel fire, significant changes were made in the Wichita Falls Fire Department. Equipment was updated, new training programs were established, and city officials began strengthening ordinances in an effort to actively enforce the municipal fire code. (1981)]]></description>
+    <Point><coordinates>-98.489471,33.910304,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Van Dorn Trail</name>
+    <description><![CDATA[From Iowa Park take FM 368 south (road will turn several times) about 6 miles to FM 1206, take FM 1206 about 4 miles to school<br/><br/><b>Address:</b> FM 1206, about 4 miles from FM 368, Iowa Park<br/><br/><b>Marker Text:</b> First important wagon road in Wichita County. Blazed by Brevet Major (later general) Earl Van Dorn in September 1858 with 200 men of the crack 2nd U.S. Cavalry. Just ahead of him went young L. S. "Sul" Ross (Governor of Texas 1887-91, and president of Texas A &amp; M College, 1891-98) with 100 Indian scouts from the Brazos reservation. Loyal Tonkawa Chief Placido guided Ross and his party. After opening the trail, Van Dorn camped on Otter Creek, in present Oklahoma, for over a year. He routed the Comanches in a battle near Rush Springs (70 miles east), although he and Ross were wounded in the fighting. In 1859 Van Dorn won another decisive victory over the Comanches in Ford County, Kansas; famous persons in this battle were Kirby Smith (later a noted Confederate general) and Fitzhugh Lee (later governor of Virginia). They had recently ridden up the west branch of the trail. The 15-army wagons which brought supplies to the men leveled a trail much used by pioneer settlers who came afterward. The trail ran from Fort Belknap, near Newcastle, Texas, to Camp Radzminski on Otter Creek, north of Frederick, Oklahoma. At Van Dorn Crossing the road branched off to Montague County for supplies. (1969)]]></description>
+    <Point><coordinates>-98.762841,33.87181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Weeks Mansion</name>
+    <description><![CDATA[Intersection of Harrison and Kell, Wichita Falls.<br/><br/><b>Address:</b> Harrison &amp; Kell, Wichita Falls<br/><br/><b>Marker Text:</b> A lawyer who made a fortune during the oil boom in this area, Fred Weeks (1888-1977) erected this elegant home in 1924-26. Designed by Kansas City architect J. F. Louck, the mansion stood in the middle of a 13-acre landscaped tract. Local brick mason Walter McAbee laid the specially made Kansas bricks. The Weeks family often hosted musical recitals here. Two later owners, George F. LeBus (1876-1956) and Charles H. Featherston (1886-1969), were also oilmen.]]></description>
+    <Point><coordinates>-98.512242,33.891086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wichita Falls High School</name>
+    <description><![CDATA[2149 Avenue H, Wichita Falls inside main doorway<br/><br/><b>Address:</b> 2149 Ave H, Wichita Falls<br/><br/><b>Marker Text:</b> Evolving out of three private schools founded in 1879, the first public school in Wichita Falls opened in 1880 in a log cabin. Five years later the former Wichita County Courthouse was relocated to Tenth and Scott streets for use as a school. The first Wichita Falls High School was built in 1890, and in 1892 the first graduating class, consisting of five students, received diplomas. After undergoing several reorganizations, the Wichita Falls Independent School District was chartered by the Texas Legislature in 1908. A new high school was built and opened in September 1910. Construction of the high school building on Avenue H began on April 24, 1923. The high school changed from an eleven-year curriculum to a twelve-year plan in 1940. Additions to the building occurred in 1953, 1956, and 1977. Since its initial graduating class of five, the student population of Wichita Falls High School has continued to increase. By 1936 4,507 students had graduated from the school. Among the institution's former students are legislators, doctors, attorneys, ministers, entertainers, and business people. The school continues to be a vital part of the community. Texas Sesquicentennial 1836-1986.]]></description>
+    <Point><coordinates>-98.516495,33.894476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wichita Falls Municipal Zoo</name>
+    <description><![CDATA[<b>Address:</b> 1500 N. 1st Street, Wichita Falls]]></description>
+    <Point><coordinates>-98.509625,33.917565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Youth Opportunities Center</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 401 Madison St., Wichita Falls<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.498742,33.928249,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

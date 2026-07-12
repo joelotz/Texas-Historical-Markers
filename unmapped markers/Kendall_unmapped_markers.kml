@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Kendall County — Unmapped Historical Markers</name>
+  <description>THC markers in Kendall County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>August Ebers House</name>
+    <description><![CDATA[from Comfort take Old State Road 9 fourteen miles to house in Bankersmith<br/><br/><b>Address:</b> Fredericksburg<br/><br/><b>Marker Text:</b> In 1860 August Ebers, a German immigrant, built the east portion of this stone house. It included a kitchen, a "big room", and an upstairs loft bedroom. Before 1880 he added the west wing. Ebers was killed in a well accident in 1884, and his family continued operating the farm. The home became a social center where community dances were held, and served as a polling place during elections. The home remained in the family until 1962. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-98.819487,30.137442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Boerne Settlement</name>
+    <description><![CDATA[100 N. Main St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 100 N. Main St., Boerne<br/><br/><b>Marker Text:</b> Prior to the 1850s, Native American groups, such as Comanche, inhabited the Cibolo Creek Land that would become Kendall County. The country possessed a few existing roads, such as Camino San Saba and Camino Pinta. John James conducted initial surveys in the area and, in 1850, sold 400 acres of land along Camino San Saba on Cibolo Creek to William Friedrich, and it was used as a socialistic farming commune. The unnamed Cibolo Creek commune was populated by seven men from Darmstadt, Germany, with six members of the previous Llano River Bettina colony which had gathered approximately forty members. The Cibolo Creek commune was short-lived but the young men garnered two nicknames: DArmstädters (a region in Germany) and Vierziger (“forty”). Several former Cibolo Creek commune members moved to later settlements in Kendall County and became prominent.
+  In 1852, John James and Gustav Theisen platted the adjacent town of Boerne, named after German writer Karl Ludwig Börne, also near Camino San Saba. William Friedrich was an early settler in the new town. Grocer and saloon owner August Staffel became Boerne’s first postmaster in 1856. The town provided travelers a much-needed rest stop along Camino San Saba, now called Fredericksburg Road. The settlement was included in the new Blanco County in 1858, but in 1859, Boerne residents were among those who filed for the creation of Kendall County (1862). Former commune members Adam Vogt, Leopold Schultz, Phillip Zoeller and Christoph Flach held civic leadership roles in the new county seat. Kendall County and Boerne continued to experience growth due to its natural assets and strategic positioning near major roadways.
+(2023)]]></description>
+    <Point><coordinates>-98.731937,29.794030,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Faltin Homestead</name>
+    <description><![CDATA[Main and Seventh Street, Comfort<br/><br/><b>Address:</b> Comfort<br/><br/><b>Marker Text:</b> German native Theodor Georg Ludwig Goldbeck constructed the original part of this home in 1854, the same year the town of Comfort was founded. In 1856 he sold the house and his mercantile business to Friedrich August Faltin, a merchant who had recently migrated from Prussia. Additions to the residence, completed during his ownership, reflect German influences of pioneer building techniques. For over 125 years it has remained in the Faltin family. Recorded Texas Historic Landmark - 1981]]></description>
+    <Point><coordinates>-98.908851,29.966845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hermann and Antoine Ingenhuett Homestead</name>
+    <description><![CDATA[436 8th St.<br/><br/><b>Address:</b> 436 8th St., Comfort<br/><br/><b>Marker Text:</b> Hermann and Antoine Ingenhuett Homestead This site was the homestead of Hermann (1870-1944) and Aantoine (1873-1941) Ingenhuett from their marriage in 1895 until their deaths and remained in the family until the end of the 20th century. Hermann acquired the Ingenhuett livery stable and cotton yard from his father, Peter Ingenhuett, about 1895 and served as postmaster of Comfort from 1908 until 1915. The Ingenhuetts, who reared two daughters on their homestead, were active in local civic and business affairs. The homestead included a house, barn, washhouse, smokehouse and cistern and remains a significant part of the German-Texan heritage of this part of the state.  (2002)]]></description>
+    <Point><coordinates>-98.906657,29.963558,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Idlewilde Lodge</name>
+    <description><![CDATA[from Comfort, take FM 473 about 1.5 miles E - turn S onto road to lodge, about .5 mile to site<br/><br/><b>Address:</b> 115 Route 473, Comfort<br/><br/><b>Marker Text:</b> Built in 1902 of Texas long leaf yellow pine with cypress siding and millwork, this structure was first used as a spa by Dr. C. H. Wilkinson of Galveston. In 1906 the property was sold to E. Hugo, who operated "Camp Reliance" here until 1912 when Robert Wilke acquired the land and adopted the name "Camp Good Times". The building was bought by the YWCA in 1918 and served as the main lodge for "Camp Idlewilde", a girls' summer camp, for more than 60 years. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-98.882805,29.966355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ludwig Hein Home</name>
+    <description><![CDATA[<b>Address:</b> 727 High Street, Comfort<br/><br/><b>Marker Text:</b> Ludwig Hein (1855-1933) came to Texas from Germany in 1877. He married Rosa Treiber of Waring and built this home for his family before 1900. Hein operated a blacksmith shop next door until the family moved to San Antonio in 1914. The home was known as the "nerve center" of Comfort when the local telephone switchboard was housed here from 1923 to 1955. Features of the Victorian house include its front bay window and bracketed porch supports. Recorded Texas Historic Landmark - 1987]]></description>
+    <Point><coordinates>-98.90749,29.966785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paul Ingenhuett Home</name>
+    <description><![CDATA[<b>Address:</b> 421 Eighth Street, Comfort<br/><br/><b>Marker Text:</b> Young Paul Ingenhuett (b. 1868), born on this block, succeeded his father Peter Joseph in the mercantile business. Soon Paul expanded into farming, sheep and cattle ranching, and helped found Comfort State Bank. In 1891 he married Ida Emma Sophie Flach and they had four children. After noted architect Alfred Giles designed several Comfort buildings, the Ingenhuetts employed him in 1897 to draw plans for this home. The limestone was quarried on family property. Recorded Texas Historic Landmark - 1979]]></description>
+    <Point><coordinates>-98.910856,29.973173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Hon. Samuel Boyd Patton</name>
+    <description><![CDATA[FM 3351, 2.8 miles west of Kendalia, east side of highway right-of-way, west of Sansom Road and east of Curry Creek.<br/><br/><b>Address:</b> Kendalia<br/><br/><b>Marker Text:</b> Born in South Carolina in 1787, Samuel Boyd Patton moved to Tennessee as a youth. After serving in the war of 1812, he moved to Alabama, where he held public office and served in the state legislature. In 1837 Patton moved to Texas. He was appointed to the Board of Land Commissioners and was a member of the Congress of the Republic of Texas. He helped organize Blanco County and served as the first chief justice (county judge) from 1858-60. He was the second chief justice in Kendall County in 1865. He died in 1869 and is buried across the field nearby. (1996)]]></description>
+    <Point><coordinates>-98.563343,29.949638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Wren Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 50 Spring Creek Rd., Boerne]]></description>
+    <Point><coordinates>-98.692598,29.823455,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

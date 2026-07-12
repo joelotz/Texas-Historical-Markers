@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Kerr County — Unmapped Historical Markers</name>
+  <description>THC markers in Kerr County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>A. C. Schreiner, Jr. Home</name>
+    <description><![CDATA[405 Water Street, Kerrville<br/><br/><b>Address:</b> Kerrville<br/><br/><b>Marker Text:</b> Prominent Kerrville rancher, businessman, philanthropist, and civic leader Charles A. Schreiner built the original part of this house in 1897 as a wedding gift for his son C. A., Jr. In 1912 it became the home of Schreiner's grandson A. C. Schreiner, Jr. (1890-1963), also an active area business leader. The second floor, arched porch, and tile roof were added in 1927. Designed by noted San Antonio architect Alfred Giles, they reflect influences of the Spanish style. Recorded Texas Historic Landmark - 1981]]></description>
+    <Point><coordinates>-99.14471,30.049345,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Center Point School</name>
+    <description><![CDATA[Center Point, 215 China Street<br/><br/><b>Address:</b> 215 China Street, Center Point<br/><br/><b>Marker Text:</b> Prior to the settlement of the community of Zanzenburg and Center Point, school was taught in shacks and homes. From 1873-1875, B.F. Johnson taught classes in the first school held in various buildings in the area. From 1876-1884, the Center Point Academy served as the community’s school. In 1884, Dr. J.C. Nowlin donated an acre of land for a school building and a plank building was erected. In 1910, San Antonio architect Alfred Giles designed and J. V. Oppert built a two-story limestone building. The school officially opened for classes in the fall of 1911. Students still receive an education in the original limestone building, which serves as an educational and social hub for Center Point. (2011)]]></description>
+    <Point><coordinates>-99.034245,29.942209,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Education in Hunt</name>
+    <description><![CDATA[Hunt School, near entrance, W side of School Rd. opposite Dutch Ln.<br/><br/><b>Address:</b> 115 School Rd., Hunt<br/><br/><b>Marker Text:</b> Established about 1915, the Hunt School combined the earlier rural schools of the North and South Forks of the Guadalupe River that served the children of the early settlers of Kerr County. Increased enrollment and floods prompted the community to build a new school farther from the river in 1926. In 1934 citizens voted for incorporation of the Hunt Independent School District. Low enrollment caused the upper grades to transfer to Kerrville from 1938 to 1980, when grades 7-12 transferred to the new Tom Moore School. The Hunt School continues to serve the community. (1996)]]></description>
+    <Point><coordinates>-99.33837,30.070337,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First School House</name>
+    <description><![CDATA[from Mountain Home take SH 41 approximately 15.2 miles to Y.O. Ranch - marker located at visitor's complex<br/><br/><b>Address:</b> Mountain Home<br/><br/><b>Marker Text:</b> Built in 1852 by J. L. O'Conner at Center Point with cypress logs (12 by 14 inches) cut from nearby Guadalupe River. Mortar was a hand-mixed solution of baked lime and sand dug from local shallow pits. The making of cypress shakes for roofing was first industry along Guadalupe in Kerr County. Cabin served as first school for pioneer Texas children in Center Point community in 1858. Moved to Y.O. Ranch; restored. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-99.669917,30.207238,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hermann Sons Home for the Aged</name>
+    <description><![CDATA[from Comfort take SH 27 W, past Kendall/Kerr County Line - turn S onto first southbound road -.  Marker set in stone in yard of large building on hill.<br/><br/><b>Address:</b> Comfort<br/><br/><b>Marker Text:</b> A fraternal group originally for persons of German descent, the Sons of Hermann grew rapidly after the founding of the first Texas lodge in 1860-61. At a meeting in Austin in 1913, members voted to establish a home for the aged, to be called "Altenheim". This was one of the first homes for the aged started by a fraternal group in Texas. The citizens of Comfort raised $7,000 to buy this 202-acre tract for the facility. Lodge members from around the state contributed funds for the construction of a limestone building in 1915-16. (1979)]]></description>
+    <Point><coordinates>-98.928087,29.940821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kerrville Daily Times</name>
+    <description><![CDATA[429 Jefferson St.<br/><br/><b>Address:</b> 429 Jefferson St., Kerrville<br/><br/><b>Marker Text:</b> Several newspapers have served the residents of Kerr County since its organization. Most of these have ceased to publish but one, the Kerrville Daily Times, has served area readers as the only daily newspaper published in the Hill Country. One of the oldest businesses in continuous operation in the county, the paper began as the Center Point News in 1910. James J. Starkey, son of Kerr County pioneers J.M. and Martha Starkey, led a group of investors who moved the Center Point News to Kerrville in 1925. Starkey originally renamed his publication The Latest, but changed the name in January 1926 to the Hill View Times, writing that “a person standing on a hill top and viewing the times of the day can get a clear and accurate perspective of events.” In October 1926, Starkey once again changed the name of his weekly newspaper to The Kerrville Times. He also served in community affairs, including as chairman of the Democratic Party in Kerr County. James sold the assets of The Times publishing company to his nephew, G. Rankin Starkey, in 1934, and continued to write a weekly column, “Pioneer History,” until his death twenty years later. G. Rankin Starkey and co-publisher Sam P. Braswell converted the weekly paper to a daily run in March 1949 with the debut of the Kerrville Daily Times. William E. Dozier, who added a weekend edition to The Times in 1976, was elected president of the Texas Press Association in 1979. The Times later produced an electronic edition and purchased the assets of the kerrville mountain sun, continuing to publish that historic newspaper. A Texas company, Southern Newspapers Inc., purchased The Times in 1995. The Times and its employees have a long history of service to the community and the newspaper industry.]]></description>
+    <Point><coordinates>-99.142404,30.050861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Remount Station</name>
+    <description><![CDATA[from Mountain Home, take SH 41 approximately 15.2 miles to the Y.O. Ranch - marker located at visitor's complex<br/><br/><b>Address:</b> Mountain Home<br/><br/><b>Marker Text:</b> Built during the 1850s in Waring by an unknown settler. Constructed with elm logs measuring eight inches wide. Offered food and lodging to stagecoach travelers between San Antonio and points west during the 1870s. Cabin was once the home of a settler who provided horses and saddles for Pony Express riders, so it became known as Remount Station and Stage Stop. Moved to Y.O. Ranch; restored. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-99.669551,30.206861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Comparette Home</name>
+    <description><![CDATA[1001 Jefferson Street, Kerrville, Medallion reported vandalized 2.4.2020<br/><br/><b>Address:</b> Kerrville<br/><br/><b>Marker Text:</b> This Victorian house was built in the Tivy Addition by S. W. and Laura Smith in 1890. After several other ownerships, Dr. R. H. P. Wright, a prominent Kerrville physician, occupied the property from 1896 to 1905. One of his daughters, Fay, married Texas Governor Coke Stevenson. D. H. Comparette (1871-1952), civic leader, organizer and manager of Kerrville Telephone Company, lived here with his wife Beatrice, a school teacher. The Comparette family owned the home 1905-1977. Recorded Texas Historic Landmark - 1979]]></description>
+    <Point><coordinates>-99.134599,30.0445,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

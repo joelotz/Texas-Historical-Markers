@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Shackelford County — Unmapped Historical Markers</name>
+  <description>THC markers in Shackelford County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Producing Oil Well in West Texas</name>
+    <description><![CDATA[Courthouse Square, intersection of Highway 180 &amp; SH 6 -Albany<br/><br/><b>Address:</b> US 180 and SH 6 at Courthouse Square, Albany<br/><br/><b>Marker Text:</b> Marker is a miniature oil well derrick made of steel, eight feet tall, mounted on a moulded concrete base. A bronze plate attached to the derrick reads: The Texas Company --J. E. Wild A-1 Survey 65, University Lands, Shackelford County, completed November 9, 1913. Presented to The Texas Company by Texas Mid-Continent Oil and Gas Association at Albany Chamber of Commerce Commemoration Dinner February 12, 1940. (1940)]]></description>
+    <Point><coordinates>-99.296893,32.722699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Frank Eben Conrad</name>
+    <description><![CDATA[<b>Address:</b> 950 CR 220, Albany<br/><br/><b>Marker Text:</b> Frank Eben Conrad (1842-1892) was born in Rockford, Illinois, to John and Mary Ann (Brookbank) Conrad. After the death of his parents in Florida, he moved in 1854 to live with family in San Antonio. Conrad worked as a store clerk until the advent of the Civil War, when he enlisted in the Confederate Army. After the war, he established a trading company at Fort McKavett in Menard County. In 1875 Conrad partnered with Charles Rath, the notable frontier buffalo hide merchant. The pair opened a store and hide yard near Fort Griffin, under the name Conrad &amp; Rath. The store was a provision point along the Great Western Trail for both buffalo hunters and South Texas cattle herders. In 1878 Conrad &amp; Rath opened a new store on the flat at Fort Griffin. They were advertised as the largest stock supplier west of Fort Worth. When the buffalo market declined sharply, Conrad was able to profit from selling the vast quantities of bone left behind by hunters, which was ground into fertilizer. In 1881, with the closing of Fort Griffin, Conrad moved south to Albany, opened a business and eventually served as Shackleford County Commissioner. By the 1880s, he and his new business partner, John Bradley, were heavily involved in the sheep trade. When Albany’s wool market opened in 1887, F.E. Conrad &amp; Co. offered some 700,000 pounds of wool for sale. Conrad married twice: first in 1872 to Davidella Ella McGavock, and then to Rose Ella Matthews in 1881—with one child from Davidella and five from Rose. In 1891, Frank Conrad retired to his Chimney Creek Ranch in Shackleford County. He died at his Albany residence on May 4, 1892, and was buried in Albany Cemetery.]]></description>
+    <Point><coordinates>-99.515946,32.712435,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

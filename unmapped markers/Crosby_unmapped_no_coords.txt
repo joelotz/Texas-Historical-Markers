@@ -1,0 +1,10 @@
+Crosby unmapped markers with NO usable address (2):
+
+  THC 46: A. B. Robertson Ranch
+    addr: Lorenzo vicinity
+    https://atlas.thc.texas.gov/Details/5107000046
+
+  THC 4177: Headquarters of Half Circle S Ranch (L.R. French Ranch House)
+    addr: Crosbyton
+    https://atlas.thc.texas.gov/Details/5107004177
+

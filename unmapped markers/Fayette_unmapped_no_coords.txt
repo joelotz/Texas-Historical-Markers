@@ -1,0 +1,65 @@
+Fayette unmapped markers with NO usable address (16):
+
+  THC 18720: Boehnke Cemetery
+    addr: Muldoon
+    https://atlas.thc.texas.gov/Details/5507018720
+
+  THC 11878: Cedar Cemetery
+    addr: LaGrange
+    https://atlas.thc.texas.gov/Details/5149011878
+
+  THC 3460: Colonel John H. Moore House
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149003460
+
+  THC 14199: Cotton Oil Mill, First
+    addr: Schulenburg
+    https://atlas.thc.texas.gov/Details/5507014199
+
+  THC 15268: Dawson Oak, The
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5507015268
+
+  THC 1365: Earthman Farm
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149001365
+
+  THC 4283: First Roadside Park in Texas
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149004283
+
+  THC 3462: John Henry Moore
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149003462
+
+  THC 5659: John Vogt Homestead
+    https://atlas.thc.texas.gov/Details/5149005659
+
+  THC 1803: Original Site of First Oil Mill in Texas
+    addr: Schulenburg
+    https://atlas.thc.texas.gov/Details/5149001803
+
+  THC 12487: Plum Grove Baptist Church and Cemetery
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149012487
+
+  THC 22581: Psencik Cemetery
+    addr: Rosanky Rd., Cistern
+    https://atlas.thc.texas.gov/Details/5000022581
+
+  THC 19976: Schulenburg Community Cemetery
+    addr: 1319 Eilers Street, Schulenburg
+    https://atlas.thc.texas.gov/Details/5507019976
+
+  THC 23536: The Morgan Family of Plum
+    addr: 247 Main St., Plum
+    https://atlas.thc.texas.gov/Details/5000023536
+
+  THC 15655: US Rural Mail Route in Texas, First
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5507015655
+
+  THC 23288: Willow Springs Road Bridge
+    addr: Willow Springs Rd., Fayetteville
+    https://atlas.thc.texas.gov/Details/5000023288
+

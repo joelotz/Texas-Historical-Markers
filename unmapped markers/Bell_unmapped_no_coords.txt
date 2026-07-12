@@ -1,0 +1,58 @@
+Bell unmapped markers with NO usable address (14):
+
+  THC 708: Captain Andrew Caddell
+    addr: Belton
+    https://atlas.thc.texas.gov/Details/5027000708
+
+  THC 22811: Carpenter Cemetery (HTC)
+    addr: Charter Oak Drive, Temple
+    https://atlas.thc.texas.gov/Details/5000022811
+
+  THC 23945: Comanche Hunting Grounds Battle
+    addr: Almeda St and Merritt St, Temple
+    https://atlas.thc.texas.gov/Details/5000023945
+
+  THC 15916: Dallas Cemetery
+    addr: Holland
+    https://atlas.thc.texas.gov/Details/5507015916
+
+  THC 23332: Dyess Family Cemetery
+    addr: Stringtown Rd., Temple
+    https://atlas.thc.texas.gov/Details/5000023332
+
+  THC 17447: Little River-Wilson Valley Cemetery
+    addr: Little River
+    https://atlas.thc.texas.gov/Details/5507017447
+
+  THC 3233: Maruna Meadow
+    addr: Temple vicinity
+    https://atlas.thc.texas.gov/Details/5027003233
+
+  THC 11729: Miller Springs Bridge
+    addr: Belton vicinity
+    https://atlas.thc.texas.gov/Details/5027011729
+
+  THC 24284: Simmonsville and Marlboro Heights Communities
+    addr: South 42nd St., Killeen
+    https://atlas.thc.texas.gov/Details/5000024284
+
+  THC 12503: Site of Pecan School
+    addr: Holland vicinity
+    https://atlas.thc.texas.gov/Details/5027012503
+
+  THC 18907: St. Paul Lutheran Cemetery
+    addr: Temple
+    https://atlas.thc.texas.gov/Details/5507018907
+
+  THC 17555: Temple College
+    addr: Temple
+    https://atlas.thc.texas.gov/Details/5507017555
+
+  THC 11736: Tennessee Valley
+    addr: Belton vicinity
+    https://atlas.thc.texas.gov/Details/5027011736
+
+  THC 14901: Willingham Cemetery
+    addr: Salado
+    https://atlas.thc.texas.gov/Details/5507014901
+

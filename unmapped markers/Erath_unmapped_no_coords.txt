@@ -1,0 +1,38 @@
+Erath unmapped markers with NO usable address (9):
+
+  THC 23579: Chalk Mountain Masonic Lodge #894 A.F. & A.M.
+    addr: 327 CR 198, Stephenville
+    https://atlas.thc.texas.gov/Details/5000023579
+
+  THC 17210: Cottonwood Cemetery
+    addr: Dublin
+    https://atlas.thc.texas.gov/Details/5507017210
+
+  THC 1260: Doublin Inn
+    addr: Dublin
+    https://atlas.thc.texas.gov/Details/5143001260
+
+  THC 24268: Harbin Community
+    addr: FM 847, Dublin
+    https://atlas.thc.texas.gov/Details/5000024268
+
+  THC 17142: Houston Ranch
+    addr: 12444 CR 148, Bluff Dale
+    https://atlas.thc.texas.gov/Details/5507017142
+
+  THC 17258: Liberty Cemetery
+    addr: Stephenville
+    https://atlas.thc.texas.gov/Details/5507017258
+
+  THC 14914: Purves Live Oak Cemetery
+    addr: Dublin
+    https://atlas.thc.texas.gov/Details/5507014914
+
+  THC 17872: Purves Live Oak Cemetery
+    addr: Purves
+    https://atlas.thc.texas.gov/Details/5507017872
+
+  THC 22540: Shapard Street
+    addr: 198 N. Shapard Ave., Stephenville
+    https://atlas.thc.texas.gov/Details/5000022540
+

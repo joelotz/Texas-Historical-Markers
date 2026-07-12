@@ -1,0 +1,14 @@
+Garza unmapped markers with NO usable address (3):
+
+  THC 9405: Famous Post Picnic of 1906
+    addr: Post
+    https://atlas.thc.texas.gov/Details/5169009405
+
+  THC 15355: Post, Marjorie M.
+    addr: Post
+    https://atlas.thc.texas.gov/Details/5507015355
+
+  THC 5642: Verbena Community Church
+    addr: Post
+    https://atlas.thc.texas.gov/Details/5169005642
+

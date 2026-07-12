@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Medina County — Unmapped Historical Markers</name>
+  <description>THC markers in Medina County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Castro Out-lot No. 60</name>
+    <description><![CDATA[1230 County Road 477 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1230 County Road 477, Castroville<br/><br/><b>Marker Text:</b> To retain colonists in his new town, Henri Castro gifted a 40-acre farming “out-lot” and one “town lot” to those who would live in Castroville. Out-lot no. 60 was originally owned by Gaspard Sax, who quickly sold it along with six acres of adjoining lot 61 to Jules Simon Bourgeois in 1846. It is believed Bourgeois built the “Casa Fuerte,” a dwelling type developed by Mexican settlers in San Antonio, on the property. Later owner, Texas Ranger Louis Moehring constructed a one-room German house, which was moved to its current location after flooding. Other notable owners include the Lamons, Groffs, Charles Suehs, and veterinarian Woodrow Sharp. Out-lot no. 60 reflects the rich European traditions of Castroville’s earliest colonists. (2022)]]></description>
+    <Point><coordinates>-98.894704,29.358858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Castroville Field</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 10500 Airport Rd, Castroville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.848133,29.344327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fred Metzger House</name>
+    <description><![CDATA[1003 Sixteenth Street, Hondo.<br/><br/><b>Address:</b> Hondo<br/><br/><b>Marker Text:</b> From Application for Texas Historical Building Medallion: Brick, partial two-story, inner walls also solid brick, hand-carved staircase, other hand-carved interior features, tongue-and-grooved wood ceilings.]]></description>
+    <Point><coordinates>-99.140112,29.347899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Louis Haller House</name>
+    <description><![CDATA[Fiorella Street #1307, Castroville<br/><br/><b>Address:</b> Castroville<br/><br/><b>Marker Text:</b> A native of France, 17-year-old Louis Haller (d. 1920) came to Texas with his father in 1845. He was a scout for the Texas Rangers and a wagoner during the Civil War. In 1871 he married Leonie Naegelin (d. 1918). They built this house about 1877 for their growing family. The limestone structure is similar in style to many pioneer homes in Castroville. The chimney of the unusual corner fireplace angles through the wall and sits at the peak of the roof over a window. Recorded Texas Historic Landmark, 1978.]]></description>
+    <Point><coordinates>-98.876987,29.357528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Wurzbach Place</name>
+    <description><![CDATA[From San Antonio, about 12 miles Southwest on Potranco Road, from Potranco Road take CR 381 North at one mile.<br/><br/><b>Address:</b> CR 381, Rio Medina<br/><br/><b>Marker Text:</b> Built 1906 by H.F. Wurzbach, a rancher and Medina County Commissioner, 1915-1916. He planned house, featuring Colonial columns, banisters. His commissary, built 1915, served neighbors and passing stageline. Ranch was bought by E.M. Stevens family, 1960. Recorded Texas Historic Landmark - 1967.]]></description>
+    <Point><coordinates>-98.809626,29.447333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ranch Home of Charles De Montel</name>
+    <description><![CDATA[1.6 mi NW off De Montel Ln, private road<br/><br/><b>Address:</b> CR 466, Castroville<br/><br/><b>Marker Text:</b> Frontiersman, soldier, and engineer, came from Europe to Texas, 1838. Helped found Castroville and organize Medina County. Served as county judge; Texas Ranger Captain; and Navy Commander in Civil War (1861-65). Also a confounder of Bandera. Wed Justine Pingenot in 1847. Built home 1848-50. (1971)]]></description>
+    <Point><coordinates>-98.901766,29.366727,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Joseph Meyer Homestead</name>
+    <description><![CDATA[800th block, Lower LaCoste Road, Castroville.<br/><br/><b>Address:</b> Castroville<br/><br/><b>Marker Text:</b> Joseph (1803-87) and Katherine (Koos) Meyer, pioneers from Alsace, bought this 4-acre homestead in 1855. Except for a roadway, it remains as platted by surveyor John James for Henri Castro in 1844, and is the only undivided tract in Castroville. The house is typically Alsatian in roof line and room arrangement. The thick rock walls were plastered with lime from Meyer's kiln near the Medina River. Meyer gave his land to a daughter, Mrs. Leahr. Alex, Rosalie, and Fred Jungman, and the Robert Gerloffs were later owners. Col. and Mrs. Irvin Keefer bought the tract in 1960. 1976]]></description>
+    <Point><coordinates>-98.874751,29.349394,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

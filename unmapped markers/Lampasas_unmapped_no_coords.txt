@@ -1,0 +1,26 @@
+Lampasas unmapped markers with NO usable address (6):
+
+  THC 14325: Junior High School
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5507014325
+
+  THC 16227: Kempner
+    addr: Kempner
+    https://atlas.thc.texas.gov/Details/5507016227
+
+  THC 23317: Smith Cemetery
+    addr: CR 4700, Kempner
+    https://atlas.thc.texas.gov/Details/5000023317
+
+  THC 23688: Smith Cemetery at School Creek
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5000023688
+
+  THC 22736: Straley Cemetery
+    addr: CR 3790, Adamsville
+    https://atlas.thc.texas.gov/Details/5000022736
+
+  THC 15490: Trosper Building
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5507015490
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Mason County — Unmapped Historical Markers</name>
+  <description>THC markers in Mason County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Art Schoolhouse</name>
+    <description><![CDATA[From Art take Lower Willowcreek Rd. south approx. 400 yds.<br/><br/><b>Address:</b> Art<br/><br/><b>Marker Text:</b> Originally this was the area's second Methodist church. Built of native stone and lumber by the pioneers in 1875, after a fire destroyed an 1858 church and school structure. Rocks were plastered over about 1938. After the 1890s this building was used solely as a school until 1945, when all the schools of Mason County consolidated. Now this building is used as the center for the Art Community Club. Recorded Texas Historic Landmark, 1968]]></description>
+    <Point><coordinates>-99.110529,30.733682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Crosby Cemetery</name>
+    <description><![CDATA[From Mason County Courthouse take U.S. 87 approx. 1.3 miles north to cemetery<br/><br/><b>Address:</b> Mason vicinity<br/><br/><b>Marker Text:</b> The first burial ground for the citizens of Mason and Koocksville, this cemetery traces its history to the 1850s. The oldest documented burial is that of Kate Lemburg, who died in 1856. Also interred here is Mason County's first sheriff, Thomas Milligan (1810-1860). The Crosby family purchased the property surrounding the cemetery in 1866, and it has been known as Crosby cemetery since that time. Those buried in the cemetery include members of the Crosby and other pioneer families. It stands as a reflection of the area's heritage. (1988)]]></description>
+    <Point><coordinates>-99.249233,30.75871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Old Park Named for Comanche Chief Katemcy</name>
+    <description><![CDATA[west side of Dry Fork Katemcy Creek<br/><br/><b>Address:</b> RR 1222, Katemcy<br/><br/><b>Marker Text:</b> Helped make 1847 treaty with settlers. Katemcy and peace party said to have camped in present park. At first Old Settlers Reunion here (1925) Herman Lehmann, raised by Indians, showed ritual killing of animal with a longbow. Settlers gave the land to state for use as park. 1967]]></description>
+    <Point><coordinates>-99.256397,30.910903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Taylor-Carter House</name>
+    <description><![CDATA[<b>Address:</b> 610 Robin Ave., Mason<br/><br/><b>Marker Text:</b> The first two sandstone rock rooms of the house probably were built for Thomas Lee, who owned the property from 1870 to 1875. The two-story cut sandstone portion was built in 1875 for Mrs. E. B. (Crosby) Taylor, an Irish immigrant and prominent rancher. From 1895 to 1993, the property was owned by the M. F. and Julia (Gamel) Carter Family, who built a frame addition in 1928 and enclosed the second story porch in the 1930s. The house is built in typical 19th century form, symmetrically arranged around a central hall. Segmentally arched windows and corbelled chimneys suggest Italianate influences. Recorded Texas Historic Landmark -1999]]></description>
+    <Point><coordinates>-99.236515,30.754308,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wagram Cemetery</name>
+    <description><![CDATA[Fredonia, approx. 3 mi. S, W on RR 286<br/><br/><b>Address:</b> RR 286, Fredonia<br/><br/><b>Marker Text:</b> Wagram Cemetery This cemetery was created to serve settlers of the Blue Stretch community, which became known as Wagram when the post office opened in 1906. This cemetery was established alongside the community schoolhouse. The first marked burial is that of three-month-old Marion Eaker Miller (d. 1880). Several graves marked by uncarved rocks may predate the 1880 burial. Mr. and Mrs. J.C. Goodall transferred the land to the Blue Stretch community in 1897 for burial purposes. The cemetery continues to serve the community today and is maintained by a perpetual care cemetery association. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-99.130833,30.893198,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>San Saba County — Unmapped Historical Markers</name>
+  <description>THC markers in San Saba County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 11 omitted (no usable address).</description>
+  <Placemark>
+    <name>Adams Cemetery</name>
+    <description><![CDATA[<b>Address:</b> N on Fm 45 2.5 mi, W on FM 2997 2.5 mi, S on CR 262, Richland Springs<br/><br/><b>Marker Text:</b> Established 1904. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-98.980579,31.310697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Big Uncle Cemetery</name>
+    <description><![CDATA[1 mi. NW off CR 204<br/><br/><b>Address:</b> CR 204, Richland Springs<br/><br/><b>Marker Text:</b> Big Uncle Cemetery Established 1859 Historic Texas Cemetery - 2000]]></description>
+    <Point><coordinates>-98.966705,31.285205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Camp McMillan, C.S.A._Texas Civil War Frontier Defense</name>
+    <description><![CDATA[San Saba County Courthouse grounds, north side facing Wallace St. (US 190)<br/><br/><b>Address:</b> 500 E. Wallace St., San Saba<br/><br/><b>Marker Text:</b> Located 18 mi. West, 6 mi. North, this outpost guarded the Texas frontier during Civil War. One of a chain of outposts a day's horseback ride apart, from the Red River to the Rio Grande manned by the Texas Frontier Regiment. Regular patrols kept Indians in check and rounded up draft evaders. Food, clothing, horses and arms were always needed. They shared few of the glories of the war, but at the cost of the lives of not a few of them, these Confederates gave a measure of protection to a vast frontier area. A memorial to Texans who served the Confederacy. Erected by the State of Texas 1963 (Reverse) TEXAS CIVIL WAR FRONTIER DEFENSE 1861-1865 Texas made an all-out effort for the Confederacy after voting over 3 to 1 for secession. 90,000 troops noted for mobility and heroic daring, fought on every battlefront. An important source of supply and gateway to foreign trade thru Mexico, Texas was the storehouse of the South. Camp McMillan and other posts on this line were backed by patrols of State Rangers, organized militia, and citizen posses scouting from nearby "family forts." This was part of a 2000 mile frontier and coastline successfully defended by Texans.]]></description>
+    <Point><coordinates>-98.716978,31.19543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedar Log Cabin Museum</name>
+    <description><![CDATA[Mill Pend Park, E. city limits, Highway 190, San Saba.<br/><br/><b>Address:</b> US 190 at Mill Pend Park, San Saba<br/><br/><b>Marker Text:</b> Stables used over 100 years ago to prevent Indians from stealing horses on the Chas. Harris ranch on Cherokee Creek 14 mi. south San Saba; given in memory of Eula Gray Kuykendall (1888-1958) by her husband Warren U. Kuykendall and Mr. and Mrs. Kenneth Kuykendall and her other children]]></description>
+    <Point><coordinates>-98.712989,31.194841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edward D. Doss</name>
+    <description><![CDATA[FM 580, south side of Colorado River (south side of road), Bend.<br/><br/><b>Address:</b> FM 580 at Colorado River, Bend<br/><br/><b>Marker Text:</b> (1849-1928) Beloved pioneer doctor in this area for 40 years; served as pharmacist, general practitioner, obstetrician, dentist &amp; on occasion, surgeon &amp; nurse. Traveled horseback, two wheel cart, horse &amp; buggy (Old Ross in picture). Crossed river by ferry boat; wore out 3 Ford cars. Came to Bend with his wife Arebell Tomblinson, 1882. Owned &amp; operated general mercantile store with son, Lawrence. "No nights too dark or road too long to serve his fellow man." Erected by those who loved him - July, 1965.]]></description>
+    <Point><coordinates>-98.511898,31.099387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Edwards-Smith-Ashley House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 602 W. Dry St., San Saba]]></description>
+    <Point><coordinates>-98.725584,31.194151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Algerita Cemetery</name>
+    <description><![CDATA[<b>Address:</b> W on US 190, N on CR 226, E on CR 228; cemetery is north side, Richland Springs]]></description>
+    <Point><coordinates>-98.855903,31.266596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>W. H. (Uncle Billy) Gibbons</name>
+    <description><![CDATA[1 mi. W on US 190, 13.7 mi. S on county road<br/><br/><b>Address:</b> Richland Springs<br/><br/><b>Marker Text:</b> (1846-1932) In the 1870s Irish-born William Henry Gibbons drove 1500 sheep into San Saba County. After a time "Uncle Billy" became one of the largest landowners in the county, a prominent banker, and a community leader. In 1930 he gave the Boy Scouts of America a 99-year lease to campgrounds along Brady Creek on his ranch. Gibbons' son James Edward inherited Camp Billy Gibbons land in 1932 and continued the agreement with the newly organized Comanche Trail Council. In 1947 the camp moved to this 103-acre site donated by "Uncle Billy's" son John William Gibbons. (1979)]]></description>
+    <Point><coordinates>-99.055547,31.12384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Whitis-Moore House</name>
+    <description><![CDATA[406 W. Commerce<br/><br/><b>Address:</b> 406 W. Commerce, San Saba<br/><br/><b>Marker Text:</b> In 1905, Austin banker John H. Whitis came to San Saba as co-founder and officer of First National Bank. His family lived with Irene Clark before buying this site. They hired A.T. McLellan to build their home, completed by October 1905. Two years later, when the Whitis family returned to Austin, clark bought the home. She later sold it to her daughter and son-in-law, Cornelia (Clark) and Alex Enoch Moore. The Moore family, active civicly and in the Presbyterian Church, owned the house until 1973. The home features Queen Anne styling, including spindlework, turned posts and hipped roof with cross gables.Recorded Texas Historic Landmark-2005]]></description>
+    <Point><coordinates>-98.723946,31.195,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

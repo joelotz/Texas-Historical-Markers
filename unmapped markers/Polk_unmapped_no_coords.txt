@@ -1,0 +1,68 @@
+Polk unmapped markers with NO usable address (17):
+
+  THC 14319: Abbott Springs Meadows Cemetery
+    addr: Corrigan
+    https://atlas.thc.texas.gov/Details/5507014319
+
+  THC 15987: Adams Cemetery
+    addr: Moscow
+    https://atlas.thc.texas.gov/Details/5507015987
+
+  THC 18246: Bluewater Cemetery
+    https://atlas.thc.texas.gov/Details/5507018246
+
+  THC 23491: Bluff Creek Cemetery
+    addr: 169 Bluff Creek Cemetery Rd., Livingston
+    https://atlas.thc.texas.gov/Details/5000023491
+
+  THC 12150: Feagin Cemetery
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373012150
+
+  THC 10403: John C. Leggett House
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010403
+
+  THC 10402: John Kale House
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010402
+
+  THC 15566: Magnolia Hill Cemetery
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5507015566
+
+  THC 14061: Moscow Baptist Church
+    addr: Moscow
+    https://atlas.thc.texas.gov/Details/5507014061
+
+  THC 10416: Moscow Masonic Male and Female Academy
+    addr: Moscow
+    https://atlas.thc.texas.gov/Details/5373010416
+
+  THC 12164: Nelson Henry Rice Cemetery
+    addr: Leggett
+    https://atlas.thc.texas.gov/Details/5373012164
+
+  THC 10384: Old Bean Place
+    https://atlas.thc.texas.gov/Details/5373010384
+
+  THC 10418: Paddlewheels on the Trinity
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010418
+
+  THC 10399: Roscoe D. Holliday
+    addr: Goodrich
+    https://atlas.thc.texas.gov/Details/5373010399
+
+  THC 10423: Saxon Family Homestead
+    addr: Corrigan
+    https://atlas.thc.texas.gov/Details/5373010423
+
+  THC 12518: Site of Smithfield
+    addr: Livingston vicinity
+    https://atlas.thc.texas.gov/Details/5373012518
+
+  THC 23498: Wright Cemetery
+    addr: Wright Cemetery Rd., Onalaska
+    https://atlas.thc.texas.gov/Details/5000023498
+

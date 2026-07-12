@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Crosby County — Unmapped Historical Markers</name>
+  <description>THC markers in Crosby County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Early Settlers of Ralls</name>
+    <description><![CDATA[City square, Watts and Main Streets, Ralls<br/><br/><b>Address:</b> Ralls]]></description>
+    <Point><coordinates>-101.382884,33.678682,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

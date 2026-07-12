@@ -1,0 +1,30 @@
+Brazoria unmapped markers with NO usable address (7):
+
+  THC 24265: Greater St. Paul Baptist Church
+    addr: N. Brooks St., Brazoria
+    https://atlas.thc.texas.gov/Details/5000024265
+
+  THC 9567: Hicks Dairy Farm
+    addr: Manvel
+    https://atlas.thc.texas.gov/Details/5039009567
+
+  THC 17994: Mount Zion Cemetery
+    addr: Lake Jackson
+    https://atlas.thc.texas.gov/Details/5507017994
+
+  THC 9583: Perkins Family Cemetery
+    addr: West Columbia vicinity
+    https://atlas.thc.texas.gov/Details/5039009583
+
+  THC 9594: Site of The Home of Henry Smith
+    addr: Brazoria
+    https://atlas.thc.texas.gov/Details/5039009594
+
+  THC 16052: Site of the Home of James Walker Fannin
+    addr: Brazoria
+    https://atlas.thc.texas.gov/Details/5507016052
+
+  THC 23697: Thomas Cemetery
+    addr: CR 401, West Columbia
+    https://atlas.thc.texas.gov/Details/5000023697
+

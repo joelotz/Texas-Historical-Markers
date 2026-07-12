@@ -1,0 +1,34 @@
+Llano unmapped markers with NO usable address (8):
+
+  THC 9436: Castell
+    addr: Castell
+    https://atlas.thc.texas.gov/Details/5299009436
+
+  THC 12033: Chew Cemetery
+    addr: Llano
+    https://atlas.thc.texas.gov/Details/5299012033
+
+  THC 14106: First Known Religious Services
+    addr: Castell
+    https://atlas.thc.texas.gov/Details/5507014106
+
+  THC 9443: Lake Lyndon B. Johnson
+    addr: Kingland
+    https://atlas.thc.texas.gov/Details/5299009443
+
+  THC 9449: Matthew Mark Moss
+    addr: Llano
+    https://atlas.thc.texas.gov/Details/5299009449
+
+  THC 15169: Packsaddle Mountain
+    addr: Llano
+    https://atlas.thc.texas.gov/Details/5507015169
+
+  THC 17421: Sandy Mountain Cemetery
+    addr: Sunrise Beach Village
+    https://atlas.thc.texas.gov/Details/5000017421
+
+  THC 24274: Thomas Henry Davis
+    addr: 8685 RR 2241, Bluffton
+    https://atlas.thc.texas.gov/Details/5000024274
+

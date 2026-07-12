@@ -1,0 +1,17 @@
+Tarrant unmapped markers with NO usable address (4):
+
+  THC 15252: Indian Creek Cemetery
+    addr: Newark
+    https://atlas.thc.texas.gov/Details/5507015252
+
+  THC 14639: Snider Cemetery
+    addr: Kennedale
+    https://atlas.thc.texas.gov/Details/5507014639
+
+  THC 5985: Tarrant, Gen. Edward H.
+    https://atlas.thc.texas.gov/Details/5439005985
+
+  THC 15056: Tom B. Yarbrough House
+    addr: Fort Worth
+    https://atlas.thc.texas.gov/Details/5507015056
+

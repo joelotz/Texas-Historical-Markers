@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Taylor County — Unmapped Historical Markers</name>
+  <description>THC markers in Taylor County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Taylor County Jail - Courthouse</name>
+    <description><![CDATA[Buffalo Gap Village, off Highway 89<br/><br/><b>Address:</b> 133 N. William St, Buffalo Gap]]></description>
+    <Point><coordinates>-99.827763,32.283096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hendrick Medical Center</name>
+    <description><![CDATA[Hendrick Medical Center at main entrance, facing S toward N. 18th Street | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1900 Pine St., Abilene<br/><br/><b>Marker Text:</b> In 1915, Millard A. Jenkens (1872-1962), the new pastor of Abilene’s First Baptist Church, saw a need for a hospital that prioritized serving all people, whether or not they were able to pay for treatment. His congregation shared his vision and donated $35,000 to establish a Baptist hospital. A committee formed of First Baptist congregants and officials from Simmons college (now Hardin-Simmons University). Judge Clifton Mott Caldwell and his wife, Cora (Keathley) Caldwell, donated six acres for a Baptist hospital. David S. Castle designed the 52-bed facility, which opened on September 15, 1924, as the West Texas Baptist Sanitarium. The hospital’s modern facilities included three operating rooms, three elevators and an x-ray department. The hospital also hosted a nursing school. Notable early leaders include Earl Matthew Collier (1898-1981), the longest serving superintendent from 1929-1970.
+  The new hospital experienced strain during the Depression. In 1936, Thomas G. Hendrick (1862-1946) and his wife, Ida (Nations) Hendrick (1866-1946), paid off the hospital’s existing debt and financed a four-story east wing, including two specialty wards for children. The hospital was renamed Hendrick Memorial Hospital in their honor. Regular additions followed, including a four-story west wing (1943), a four-story north wing (1946), a six-story service wing (1957), student nursing housing (1959), the Millie L. Anderson building (1963), Mary Meek School of Nursing building (1966), and more. In 1971, the facility was renamed Hendrick Medical Center to reflect its regional healthcare role. For 100 years, Hendrick has committed to provide high-quality healthcare in west central Texas. (2023)]]></description>
+    <Point><coordinates>-99.731188,32.471638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miss Clara Bussell</name>
+    <description><![CDATA[706 N. Cedar Street, Abilene<br/><br/><b>Address:</b> 706 N. Cedar St., Abilene<br/><br/><b>Marker Text:</b> Joined staff, West Texas Chamber of Commerce February 26, 1920; was office manager 40 years. Worked unselfishly through day of death. Her love for West Texas and dedication to W. T. C. ideals did much to develop regional progress. Devoted life to making West Texas a better place to live. Outstanding Women of Texas Series, 1967.]]></description>
+    <Point><coordinates>-99.734903,32.456357,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Light Missionary Baptist Church</name>
+    <description><![CDATA[518 N. 6th St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 518 N. 6th St., Abilene<br/><br/><b>Marker Text:</b> The initial Baptist church to serve African American residents of Abilene was founded in 1885, four years after the town was established by cattlemen as a stock shipping point. New Light Missionary Baptist Church was founded in 1923 by Mary Yates, Mariah Bennett, Lillian Wells and Mr. and Mrs. Sam Weir after separating from Macedonia Baptist Church, which had been established in 1898. The Rev. S.H. Hubbard was the first pastor. The newly formed congregation held worship in a small house located on Magnolia Street (now known as N. Treadway).
+  The Rev. R. F. Bonner served as pastor of New Light from 1927 through 1948. He led efforts in fundraising and construction of a new church building, erected across the street facing the original home where services were first held. This new facility was affectionately referred to as “the Little Cobblestone Church.” Due to the growing congregation, a new building was completed in 1958 under the leadership of the Rev. Alton Hurd.
+  Through its long-serving leadership, New Light is also known for its contribution to community efforts, education and the arts in the city. The church sponsored a daycare center, adult education classes, a young men’s mentoring program and a church choir which was featured on the radio and in the community. The choir was also the special guest of Governor Ann Richards at the Texas Capitol. The Rev. Dr. Leo F. Scott was the first African American to serve on the Abilene City Council. Pastors and the congregation have participated in the progressive West Texas Baptist District Association, Abilene Negro Ministerial Alliance, and the General Baptist State Convention. New Light Missionary Baptist Church continued to be an integral part of the Abilene community. (2023)]]></description>
+    <Point><coordinates>-99.726501,32.454287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paramount Theatre</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 325 Cypress Street, Abilene<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-99.733991,32.451887,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Taylor, Edward, James, &amp; George</name>
+    <description><![CDATA[Taylor County Courthouse, Oak Street, Abilene<br/><br/><b>Address:</b> Oak Street, Abilene<br/><br/><b>Marker Text:</b> Inscriptions on the monument are: across top - "I shall never surrender or retreat." Travis, Edward, James, George sons of Anson Taylor, died at the Alamo March 6, 1836. Taylor County was named for these gallant men. Erected by John Hudnall Chapter of the U.S. Daughters of 1812, with the cooperation of the Taylor County Commissioners Court. (1955)]]></description>
+    <Point><coordinates>-99.73512,32.445531,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

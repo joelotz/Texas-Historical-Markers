@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Camp County — Unmapped Historical Markers</name>
+  <description>THC markers in Camp County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bolton Cemetery</name>
+    <description><![CDATA[FM 993, 3 mi. S. of Pittsburg<br/><br/><b>Address:</b> Pittsburg<br/><br/><b>Marker Text:</b> Ebenezer (Ebb) and Martha Bolton settled in this area in the 1850s. They established an extensive plantation and owned a number of slaves before the Civil War. Following Ebb Bolton's death in 1877, his widow made arrangements to provide land to their former slaves. This cemetery, which began in 1861 upon the death of Martha Bolton's mother, Rebecca Durley, became a part of the Bolton community, a Freedmen's town which built up in the area. Both Ebb and Martha Bolton are interred here, as are many of the former slaves and their descendants.]]></description>
+    <Point><coordinates>-94.932892,32.95423,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Center Point Community</name>
+    <description><![CDATA[Center Point community, at Center Point Baptist Church on FM 2057, 10 mi. SE of Pittsburg<br/><br/><b>Address:</b> FM 2057, Pittsburg<br/><br/><b>Marker Text:</b> In 1865 black Freedmen began this community. The Center Point Baptist Church was organized in 1873. The Industrial Union was chartered in 1889 to aid settlers in buying farms and building homes. A cooperative managed a brick kiln, sawmill and cotton gin. Under the leadership of Mr. and Mrs. L.B. Cash, the first principals, Center Point School became an important vocational facility. Students erected most of the structures on the 14-acre campus and there was a cooperative boarding plan. The school was consolidated with Pittsburg in 1950. (1979)]]></description>
+    <Point><coordinates>-94.827048,32.95539,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ebenezer Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 5513 FM 557, Pittsburg<br/><br/><b>Marker Text:</b> Ebenezer Cemetery was officially established when Israel B. Rape deeded property for the cemetery in 1857. However, Rape and his wife Sarah are buried in Pittsburg's Rosehill Cemetery. Ebenezer community was founded by the Rapes and several other pioneering families who arrived in the area from Georgia during the 1850s. The oldest known burial in the cemetery is that of infant Pairlie Clementine Bailey, who died in September 1870. A cemetery association was organized in 1971 to preserve and maintain the site. The cemetery has been enlarged through donations of property and now contains two acres. Today, Ebenezer Cemetery remains active and serves as a reminder of an early Camp County settlement. Historic Texas Cemetery - 2009]]></description>
+    <Point><coordinates>-94.952116,32.99404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Holly Springs Baptist Church</name>
+    <description><![CDATA[11 mi. SE of Pittsburg on FM 557 at intersection w/CR 4435<br/><br/><b>Address:</b> Pittsburg<br/><br/><b>Marker Text:</b> The Bluff Springs Baptist and Philadelphia Baptist churches, both established near here by post-Civil War immigrants, merged in 1903 to form the Holly Springs Baptist Church of Christ; the Rev. B. H. Sims served as its first pastor. The congregation joined the Liberty Baptist Association in 1903 and built its first sanctuary here, on land donated by Mrs. Harriet Coffman, sometime prior to 1916. A new sanctuary, built here in 1928, was the site of the association's 1929 and 1957 annual meetings. the church, known as a training ground for young ministers, continues to serve the local community.]]></description>
+    <Point><coordinates>-94.816536,32.925746,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Independent Hope Baptist Church</name>
+    <description><![CDATA[<b>Address:</b> 6055 FM 993, Pittsburg<br/><br/><b>Marker Text:</b> In the late 1880s, African-American residents of the Bolton community held worship services under a brush arbor. By 1898, Polk and Elizabeth Bolton deeded land for a church building. Members completed the structure for Bolton Church, which would also serve as the focal point of the settlement. In 1942, the congregation replaced the old building, which was destroyed by a storm, and also gave the church its current name. Since the church's early years, members have worked diligently to help others in the community, particularly the elderly and sick. Today, Independent Hope Baptist Church continues to serve as a beacon of light in Camp County. (2009)]]></description>
+    <Point><coordinates>-94.910007,32.926299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Leesburg Cemetery</name>
+    <description><![CDATA[FM 1519, west of SH 11<br/><br/><b>Address:</b> FM 1519, Leesburg<br/><br/><b>Marker Text:</b> Established 1870 Historic Texas Cemetery - 2009]]></description>
+    <Point><coordinates>-94.75689,31.82412,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

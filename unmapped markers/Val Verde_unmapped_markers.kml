@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Val Verde County — Unmapped Historical Markers</name>
+  <description>THC markers in Val Verde County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Babb Cemetery</name>
+    <description><![CDATA[Boothill Rd., 0.1 mi. SW of Torres Ave., then SE along a dirt road to cemetery<br/><br/><b>Address:</b> Boothill Rd., Langtry<br/><br/><b>Marker Text:</b> Babb Cemetery Established ca. 1898 Historic Texas Cemetery - 2008]]></description>
+    <Point><coordinates>-101.560288,29.80589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cementerio La Loma De La Cruz</name>
+    <description><![CDATA[from intersection of US 277 and Garza--W. on Garza, S. on Artega, W. on Noriega to Punta Colorado, then over the bridge; continue 100 yds on dirt road and cemetery is on the left<br/><br/><b>Address:</b> Del Rio<br/><br/><b>Marker Text:</b> HTC medallion only]]></description>
+    <Point><coordinates>-100.88334,29.344444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Del Rio Bank &amp; Trust</name>
+    <description><![CDATA[The southeast corner of the block (which is entirely occupied by the Bank &amp; Trust), at Veterans Blvd. and 10th Street, near the Veterans Blvd. sidewalk and the south parking lot of the Bank &amp; Trust main building.<br/><br/><b>Address:</b> 1200 Veterans Blvd, Del Rio<br/><br/><b>Marker Text:</b> One of the county’s oldest and most influential institutions is the Del Rio Bank and Trust, which is one year older than the city government of Del Rio. The bank organized on August 10, 1910. The original shareholders of the bank and trust purchased 750 shares at $100 per share. Those shareholders consisted of several of the most prominent members of the community and the southwest Texas ranching and entrepreneurial communities, including John Nance Garner, Vice President of the U.S. Under President Franklin Roosevelt. The original location was in the heart of the town’s original business district, moving in 1939 to a larger facility only a block away on south main. Drive-thru banking was added in 1957 and was the first bank in Del Rio to have this convenience. In the summer of 1976, the Del Rio bank and trust moved to its current location on Veterans Blvd. The new facility had double the square footage as well as a larger drive-thru. In addition to serving the area as a financial institution, the Del Rio bank and trust has assisted the community in many fashions. It has awarded scholarships and supported many local programs. The bank lends out their facilities to local clubs and community training classes. It has also adopted Greenwood Park, covers the cleaning and maintenance costs and is responsible for the restoration and preservation of the Cassinelli Gin House, one of Del Rio’s few national register sites. Almost consecutively owned by community members, the Del Rio Bank and Trust has been a part of the foundation of the Del Rio community for over a century.]]></description>
+    <Point><coordinates>-100.902238,29.375097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Val Verde County</name>
+    <description><![CDATA[On the west side of the County Courthouse, just inside the sidewalk ringing Courthouse Square, near the center of the west side of the Square on the left side of the sidewalk that approaches the west entrance to the Courthouse.<br/><br/><b>Address:</b> 400 Pecan Street, Del Rio<br/><br/><b>Marker Text:</b> VAL VERDE COUNTY LIES IN SOUTHWEST TEXAS NEAR THE BORDER WITH MEXICO AND ON THE SOUTHWESTERN EDGE OF THE EDWARDS PLATEAU. HOME TO MANY PREHISTORIC ARCHEOLOGICAL SITES, THE COUNTY WAS ALSO INHABITED AND VISITED BY NATIVE AMERICANS AND EUROPEANS, SOME AS THEY WERE PASSING TO AND FROM MEXICO. ALTHOUGH THE SOIL IN THE COUNTY IS NOT PERFECT FOR FARMING, THE LARGE AREA IS IDEAL FOR GRAZING AND INCLUDES MANY RIVERS AND CREEKS. THE LAND THAT IS NOW VAL VERDE COUNTY WAS ASSIGNED TO BEXAR COUNTY IN 1836, ALONG WITH MOST OF SOUTHWEST TEXAS. BEGINNING IN THE 1850s, THE FORMATION OF COUNTIES IN THIS AREA BEGAN. FORMING A GATEWAY TO MEXICO, DEL RIO (ORIGINALLY SAN FELIPE DEL RIO) WAS ESTABLISHED NEAR THE RIO GRANDE IN KINNEY COUNTY IN THE 1860s. IN 1882, THE SOUTHERN PACIFIC RAILROAD REACHED DEL RIO, BYPASSING BRACKETTVILLE, THE COUNTY SEAT OF KINNEY COUNTY. FROM 1882 TO 1885, DEMAND TO CREATE A NEW COUNTY WITH DEL RIO AS THE COUNTY SEAT INCREASED. AFTER AN INITIAL DEFEAT IN THE LEGISLATURE, THE COUNTY WAS ORGANIZED IN 1885 AND OFFICIALS WERE ELECTED. THE COUNTY WAS CARVED FROM PARTS OF CROCKETT, KINNEY AND PECOS COUNTIES. THE ORIGIN OF THE NAME VAL VERDE IS THE SUBJECT OF DEBATE. SOME ARGUE THAT THE NAME IS IN HONOR OF THE BATTLE NEAR FORT CRAIG, NEW MEXICO IN 1862, WHILE OTHERS MAINTAIN THAT THE NAME, SPANISH FOR “GREEN VALLEY,” IS PURELY AN ENVIRONMENTAL DESCRIPTION. THE POPULATION OF THE COUNTY CONTINUES TO GROW AND SUPPORTS NUMEROUS SHEEP, GOAT AND CATTLE RANCHES, LAUGHLIN AIR FORCE BASE, TOURISM AND TRADE WITH MEXICO.]]></description>
+    <Point><coordinates>-100.897652,29.359562,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

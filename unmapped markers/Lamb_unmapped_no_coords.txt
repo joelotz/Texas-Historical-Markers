@@ -1,0 +1,13 @@
+Lamb unmapped markers with NO usable address (3):
+
+  THC 3191: Major George Littlefield
+    addr: US 84, Littlefield
+    https://atlas.thc.texas.gov/Details/5279003191
+
+  THC 15033: Sacred Heart Catholic Church
+    https://atlas.thc.texas.gov/Details/5507015033
+
+  THC 14752: Spade Ranch Headquarters, North
+    addr: Hartcamp
+    https://atlas.thc.texas.gov/Details/5507014752
+

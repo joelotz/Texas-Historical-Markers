@@ -1,0 +1,30 @@
+Kaufman unmapped markers with NO usable address (7):
+
+  THC 14986: Ables Springs Cemetery
+    addr: Terrell
+    https://atlas.thc.texas.gov/Details/5507014986
+
+  THC 14450: Cottonwood Cemetery
+    addr: Scurry
+    https://atlas.thc.texas.gov/Details/5507014450
+
+  THC 11987: Hillcrest Cemetery
+    addr: Forney
+    https://atlas.thc.texas.gov/Details/5257011987
+
+  THC 14705: Oakland Memorial Park
+    addr: Terrell
+    https://atlas.thc.texas.gov/Details/5507014705
+
+  THC 14762: Pioneer Cemetery
+    addr: Terrell
+    https://atlas.thc.texas.gov/Details/5507014762
+
+  THC 15155: Rockwall and Brin Church of Christ
+    addr: Terrell
+    https://atlas.thc.texas.gov/Details/5507015155
+
+  THC 15332: Victorian Residence, 1883 (Cartwright House)
+    addr: Terrell
+    https://atlas.thc.texas.gov/Details/5507015332
+

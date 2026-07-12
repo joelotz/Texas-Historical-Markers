@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Live Oak County — Unmapped Historical Markers</name>
+  <description>THC markers in Live Oak County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>VFW and American Legion War Memorial</name>
+    <description><![CDATA[Live Oak County Courthouse lawn, Houston Street at Guadalupe, George West<br/><br/><b>Address:</b> 301 Houston Street, George West<br/><br/><b>Marker Text:</b> In memory of those who served, and gave their lives for freedom and defense of their country.]]></description>
+    <Point><coordinates>-98.114211,28.334174,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

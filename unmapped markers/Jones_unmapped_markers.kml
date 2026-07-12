@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jones County — Unmapped Historical Markers</name>
+  <description>THC markers in Jones County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Avoca Methodist Church</name>
+    <description><![CDATA[Howard Street<br/><br/><b>Address:</b> Avoca<br/><br/><b>Marker Text:</b> This church grew from an 1887 brush arbor camp meeting in the Spring Creek community of Avo (1.5 miles west), conducted by the Rev. J. H. Wiseman, a Methodist circuit rider. The congregation moved to the new railroad town of Avoca when the present sanctuary was completed in 1906. The original steeple was later destroyed by a storm, and the belfry was added in 1953 under the supervision of the Rev. Joe Grimes to house two railroad locomotive bells. Recorded Texas Historic Landmark -1981.]]></description>
+    <Point><coordinates>-99.716184,32.866838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Phantom Hill Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 11343 S FM 600, Abilene]]></description>
+    <Point><coordinates>-99.68919,32.610044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Swenson Ranch Commissary</name>
+    <description><![CDATA[S. Swenson St., west side between W. McLendon and W. Reynolds.<br/><br/><b>Address:</b> 414 S. Swenson St., Stamford<br/><br/><b>Marker Text:</b> The Texas Central Railroad and the SMS Ranch collaborated to create the town of Stamford in the late 1890s. Built about 1900, this building was strategically located to serve as the central supply storage facility for the four extensive Swenson ranches in west Texas: Tongue River, Spur, Throckmorton and Flat Top. The utilitarian structure was constructed of Lueders stone, and located adjacent to the railroad tracks. Supplies were off-loaded from the trains and stored until the various ranch foremen could come into town to collect their supplies and exchange news. The building is a reminder of Stamford's origins. Recorded Texas Historic Landmark - 1999]]></description>
+    <Point><coordinates>-99.803181,32.941576,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

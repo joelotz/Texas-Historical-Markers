@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Culberson County — Unmapped Historical Markers</name>
+  <description>THC markers in Culberson County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Texas Civil War Indian Trouble</name>
+    <description><![CDATA[3rd and Culberson in Van Horn<br/><br/><b>Address:</b> Van Horn<br/><br/><b>Marker Text:</b> War brought turmoil to Indians living in Kansas and the Indian Territory, with unfortunate results for Texans on the frontier. Most Cherokees, Choctaws, Creeks and Seminoles aided the South, while others adhered to the North. Few Comanches made a treaty with the South; but a great majority with their allies, the Kiowas, held aloof from either side and plundered the frontier at will. Apaches and Kickapoos did the same from Mexico. Texas and Confederate troops, despite poor arms and mounts, held defense lines until war's end.]]></description>
+    <Point><coordinates>-104.825529,31.046524,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

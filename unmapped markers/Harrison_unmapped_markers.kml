@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Harrison County — Unmapped Historical Markers</name>
+  <description>THC markers in Harrison County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 24 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bishop College</name>
+    <description><![CDATA[East end of parking lot<br/><br/><b>Address:</b> 1500 W Grand Ave, Marshall<br/><br/><b>Marker Text:</b> Founded by the Baptist Home Mission Society in 1881, Bishop College became the second historically Black college in Marshall. Nathan Bishop, a New York native and superintendent of several Northeastern school systems, his wife, Caroline Caldwell Bishop, and several local Baptist ministers combined their funds to begin the college. Throughout its existence, Bishop College offered instruction in 22 disciplines including literature, science, art and religion, In 1925, the school began a two-year ministerial training program, which was later renamed to honor its first African American president, Joseph J. Rhoads. In athletics, Bishop College achieved championships in the Southwest Athletic Conference and later in the Gulf Coast Athletic Conference. In 1960, Martin Luther King Jr. spoke at the commencement ceremony at Bishop College and during the 1960s Civil Rights era, Bishop College students participated in sit-ins at local Marshall restaurants. The 1960s also marked the relocation of the Bishop College campus from Marshall to Dallas. With the 1960s demolition of Bishop College's Administration Building and former Holcomb family home on the Wyalucing Plantation, all traces of Bishop College in Marshall slowly disappeared. Notable alumni include professional athletes, politicians and ministers. Although Bishop College officially closed its doors in 1988, Bishop College's legacy stands as testament to the success and perseverance of African American institutions of higher learning. (2018)]]></description>
+    <Point><coordinates>-94.381124,32.548293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Confederate Memorial</name>
+    <description><![CDATA[on FM 1998 in Scottsville<br/><br/><b>Address:</b> Scottsville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.233717,32.54063,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Confederate Memorial</name>
+    <description><![CDATA[Marshall Cemetery, US 80 at Columbus St.<br/><br/><b>Address:</b> Marshall<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.364797,32.549315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>County Line Cemetery</name>
+    <description><![CDATA[from Harleton, 7 mi. NW on FM 450, then W on FM 726 approx. 4 mi.<br/><br/><b>Address:</b> FM 726, Harleton<br/><br/><b>Marker Text:</b> Early settlers to this area included: Eli Henderson McCoy, who came from North Carolina in 1859 and later served in the Confederate Army; Jeremiah Brisco Ormes, who arrived from Mississippi in the 1850s; and Jessie Pierce, who came from Georgia around 1870. These men and their families established what became known as the Crossroads community near the Harrison-Upshur county line. Early residents founded the County Line Baptist Church, affiliated with the Soda Lake Association. They also established the County Line Cemetery on land donated by Dr. T.B. and Buena Vista (Craver) Burford. Although the original deed was lost, Burford descendants formally deeded the land to the church and cemetery again in 1959. The number of unmarked graves indicated some may predate the earliest marked one, that of Eli Henderson McCoy (d. 1863). Other tombstones also reflect military service, as well as memberships in fraternal organizations. Unique graves include two early stone cairns. Maintained by descendants of those buried here, County Line Cemetery is an important link to generations of area residents and the stories of their lives. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-94.697339,32.757712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Samuel Floyd Vaughan Home</name>
+    <description><![CDATA[on FM 134 about 1.5 mi. N of Jonesville<br/><br/><b>Address:</b> Jonesville<br/><br/><b>Marker Text:</b> This home evolved from a two-room central hall plan house built in 1841-42. The second story was completed in 1865, and the Italianate style front rooms and Eastlake style porches were added after Dr. Samuel Floyd Vaughan purchased the home in 1870. A native of Missouri and a Civil War veteran, Vaughan (1844-1916) served Harrison County as a physician and surgeon. The homestead has remained in the Vaughan family for more than 100 years. Recorded Texas Historic Landmark - 1985]]></description>
+    <Point><coordinates>-94.117944,32.517665,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elks Building</name>
+    <description><![CDATA[<b>Address:</b> 212 1/2 N Washington Street, Marshall<br/><br/><b>Marker Text:</b> Designed by noted east Texas architect Cornelius Granville Lancaster as a crown jewel of Marshall’s shopping district, the 1903 Elks Building served as the headquarters for lodge 683 of the Benevolent Paternal Order of Elks. Lodge 683 organized on April 19, 1901, at Newman Hall in downtown Marshall. Soon, a building committee was established and C.G. Lancaster was chosen as architect with the Moose Brothers as the builders. Organization activities such as meetings and events were held here until 1953 when the Elks Lodge moved to Austin and Alamo Streets. Recorded Texas Historic Landmark – 2017]]></description>
+    <Point><coordinates>-94.367214,32.546484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church</name>
+    <description><![CDATA[corner of N Fulton at W Burleson<br/><br/><b>Address:</b> 400 W Burleson St, Marshall<br/><br/><b>Marker Text:</b> Recorded Texas Historic Landmark - 1963]]></description>
+    <Point><coordinates>-98.602871,31.898579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Telegraph Office in Texas</name>
+    <description><![CDATA[101 E. Houston St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 101 E. Houston St., Marshall<br/><br/><b>Marker Text:</b> The Red River and Texas Telegraph Company opened Texas’ first telegraph office in Marshall on February 14, 1854. Since the first demonstration of the telegraph in 1844, with communication between Washington D.C. and Baltimore, inventor Samuel Morse (1791-1872) had been offering revenue from his invention to various outlets. At the time, the impoverished Texas Embassy in Washington D.C. was not interested in the project. It would be another ten years before the existing Shreveport Telegraph Line would extend into Texas. By 1852, New Orleans-based financial backers founded the Red River and Texas Telegraph Company to install the first commercial telegraph lines into the state. A telegraph office was opened in Marshall, a distance of 49 miles from Shreveport. Lines were quickly extended to Henderson, Rusk, Crockett, Montgomery, Houston and Galveston. The telegraph office was housed in Travis George Twyman’s store on the courthouse square.
+  The telegraph became the primary technology for industries like railroad and newspapers. During the Civil War, the telegraph became an important line of communication for both the Union and the Confederacy. Union soldiers attempted to reach Shreveport to cut off telegraph communication to Texas but were unsuccessful. From October 1, 1879 to July 1, 1880, more than a quarter million messages flowed through Western Union wires across the state. By 1938, Western Union provided service to 228 of the state’s 254 counties, maintaining 12,400 miles of poles and 80,700 miles of wire. In 1972, Western Union closed the Marshall office which had been in operation since 1854. Later turned into a city park, the space around the old Marshall office recalls the advance of technology and communication in the state. (2022)]]></description>
+    <Point><coordinates>-94.366798,32.545402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Forrest-Rogers-Dollahite Cemetery</name>
+    <description><![CDATA[from Hallsville, about 4 mi. S on FM 450 to FM 968; go about 1 mi. W on FM 968 to CR 3310 (Quail Lane); go about .4 mi. S on CR 3310 to cemetery on E side of road<br/><br/><b>Address:</b> Hallsville<br/><br/><b>Marker Text:</b> This cemetery is located on the home site of Elisha T. and Sarah Vincent Forrest, who came to Texas from Tennessee about 1846. Other early settlers included the Rogers and Dollahite families who formed the community of Little Flock south of Hallsville. The cemetery name changed over the years depending on the ownership of the land. The earliest marked grave is that of Edward Tansil in 1849. Seven generations of the Forrest family are buried here. The three-acre site is maintained by a cemetery association and continues to serve the community as it has for over 125 years.]]></description>
+    <Point><coordinates>-94.595345,32.443064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fraley-Garland House</name>
+    <description><![CDATA[<b>Address:</b> 700 E. Rusk at Davis St., Marshall<br/><br/><b>Marker Text:</b> Designed in the American four-square style with colonial revival detailing, this home was built for Clinton Virgil Fraley in 1896. A Confederate soldier captured and held in Union prisons during the Civil War, Fraley moved from his native Kentucky to Marshall in 1866. Here he served as deputy sheriff, tax collector, and constable. Railroad worker Wiley E. Garland bought this home in 1907 and, with his wife, operated it as a boardinghouse for over 50 years. Recorded Texas Historic Landmark - 1986]]></description>
+    <Point><coordinates>-94.361056,32.546307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harleton Methodist Church</name>
+    <description><![CDATA[<b>Address:</b> FM 450 at York St., Harleton<br/><br/><b>Marker Text:</b> Methodist services were held in the homes of area settlers as early as the 1840s. In 1901 the Methodist Episcopal Church, South, was deeded land in Harleton where they built a sanctuary. Membership expanded and in 1914 Trustee R. W. Taylor supervised the building of a new brick sanctuary at this site. The congregation has historically shared its church building with other local organizations. The congregation became Harleton United Methodist Church in 1970. The church continues to sponsor various outreach programs and provide spiritual guidance for the community.]]></description>
+    <Point><coordinates>-94.575258,32.674399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison County Courthouse</name>
+    <description><![CDATA[<b>Address:</b> Houston at Washington St., Marshall<br/><br/><b>Marker Text:</b> Built 1900. Cost $62,000. Third on this site. (Little Virginia, 1851; brick Gothic, 1889, burned in 1899.) This one of granite, brick and marble. Capitol-styled, classic Roman architecture, with a dome clock and belfry surmounted by a symbolic figure of justice. In 1964 became site of Harrison County Museum, in space allotment after new Courthouse was opened on Whetstone Square. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-94.367605,32.544865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Home of William Thomas Scott</name>
+    <description><![CDATA[<b>Address:</b> FM 1998, Scottsville<br/><br/><b>Marker Text:</b> (1811-1887), an 1834 Texas settler, and founder of Scottsville. Through father of his wife, Mary Rose, he was embroiled in local 1840s Regulator-Moderator Feud. Congressman and Senator in the Republic of Texas, he joined in chartering Vicksburg &amp; El Paso Railroad (1852), a forerunner of Texas &amp; Pacific Railway, to build a major transcontinental line through this state. He served eight terms in State Legislature. Home, built 1838-1840, has hand-hewn timbers, handmade brick. Recorded Texas Historic Landmark - 1963]]></description>
+    <Point><coordinates>-94.236336,32.542165,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Barry Henderson Home</name>
+    <description><![CDATA[about 5 miles N of Marshall on US 59<br/><br/><b>Address:</b> Marshall<br/><br/><b>Marker Text:</b> Rear wing built before 1861. Way station on route of Shreveport-to-Daingerfield stage. Main part built 1868-1871 by Henderson, who during Civil War had furnished beef to the Confederate Army. Thick ground floor walls are of hand-cut local iron-ore rock (only 19th century native stone home in county). Frame second story has narrow cantilevered porch with ornamental railing. Still in family of Henderson. Recorded Texas Historic Landmark - 1963]]></description>
+    <Point><coordinates>-94.336259,32.617073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Leigh Community Center and Health Unit</name>
+    <description><![CDATA[14109 FM 134 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 14109 FM 134, Karnack<br/><br/><b>Marker Text:</b> Among the African American community in Leigh, the Reverend James H. Patterson, pastor of Antioch Baptist Church from 1873-1889, encouraged his congregation to buy land, build homes and fund schools and other community enrichment. Several decades later, Leigh Community Center and Health Unit was founded as a continuation of that same idea. As early as 1936, a group of residents led by Antioch school principal Uriel Rosborough Weisner (1891-1979) suggested establishing a community center and health unit. During World War II, Antioch leaders and residents from nearby black school communities, including those of Annie Glade, Carver, High Ridge, Lake Chapel, Pleasant Hill and Smithsonia, furthered plans by the original group. The Leigh Community Center and Health Unit was established on May 13, 1943. U. R. Weisner served as the first director. After World War II ended, the group purchased a building formerly owned by Longhorn Ordnance Works and moved it to Leigh. The community pitched in to update the building. The front of the building provided community space, and the back was devoted to health center operations. The building was dedicated in May 1947.
+  Doctors came at regular intervals to provide immunizations, prenatal and pediatric care, tuberculosis screening, and health classes. Later, Red Cross instruction and dental services were offered. The center sponsored Christmas community outreaches, leadership conferences and annual fairs. Most significantly, in the 1950s after the health unit found contamination in area well water, they identified uncontaminated water sources and eventually assisted in the creation of the Leigh Water Supply Corporation. The organization’s work continues to benefit the Leigh community.
+(2022)]]></description>
+    <Point><coordinates>-94.161803,32.647264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Magnolia Hall</name>
+    <description><![CDATA[<b>Address:</b> 303 N. Columbus at E. Rusk, Marshall<br/><br/><b>Marker Text:</b> Built 1866 by John H. Lee as a wedding gift for his daughter, Anna E. Pierce. New Orleans style "raised cottage", of brick, pine, and hand-cut cypress, was home of lawyers John L. and Jack T. Pierce. There was once a private school on grounds. Recorded Texas Historic Landmark - 1968 Restored 1966 by Eunice and Emory Elder]]></description>
+    <Point><coordinates>-94.364361,32.546551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Marshall Fire Department</name>
+    <description><![CDATA[601 S. Grove St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 601 S. Grove St., Marshall<br/><br/><b>Marker Text:</b> Prior to the creation of an official department for the city, citizens responded to fires with “bucket brigades.” No fire alarm existed, so response time was delayed. The city of Marshall suffered devastating fires in 1868 and 1870. On December 1, 1871, city Alderman William E. Singleton formed the Marshall Salamander Fire Company No. 1. Other volunteer fire departments formed through 1875, such as the Stone Wall Hook and Ladder Company No. 1 and the Texas and Pacific Hook and Ladder Company No. 1. In 1876, a city charter combined these groups into the fire department of the City of Marshall. The Marshall Salamanders purchased a lot at 108 West Houston St. to serve as a fire station. The Salamander Company purchased a fire bell manufactured by J. Register &amp; Sons of Baltimore, Maryland for $200. It weighed 900 pounds, measured 38 inches in diameter at the bottom and stood 24 inches tall. The bell was installed on February 8, 1878. The city charter expired in 1901 and volunteer companies began to withdraw. The bell was officially donated to the City of Marshall in 1901 and housed in a new tower.
+  The city re-formed the Marshall Fire Department once again in 1907 and opened a central station on the lower level of city hall. The bell was moved to the city hall’s southeast corner. In 1909, central station received a new steam-powered fire whistle and moved the bell to the north side station at Main and Twyman St. The bell remained there until 1950 when it was removed for construction. In 1963, Chief Glenn Warnstaff and City Manager Hugh Henry discovered the bell under a stairwell at city hall. The bell went on display at the courthouse from 1966 until the late 1990s. It was returned to the Marshall Fire Department and placed on display.  
+(2022)]]></description>
+    <Point><coordinates>-94.371820,32.539851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nesbitt Cemetery</name>
+    <description><![CDATA[5 mi. NW of Marshall on SH 154, then west on CR 4204 to cemetery<br/><br/><b>Address:</b> CR 4204, Marshall<br/><br/><b>Marker Text:</b> Robert Jameison (1810-86) and Nathan L. Nesbitt, twin brothers from Tennessee, settled this area in 1847. First grave here was that of Nathan's wife, Psyche ("Sackey") Walker Nesbitt (1815-51) Robert's wife, Susan Adeline Nesbitt (1827-1901), who often nursed sick neighbors in the absence of a community doctor, donated this site for the family cemetery. After her husband died, she used her pension from his service in the Mexican war (1846-48) to fence the plot. Nesbitt descendants, led by Julian Womack Nesbitt, established a trust fund for perpetual care of the cemetery in 1969.]]></description>
+    <Point><coordinates>-94.447769,32.590482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noonday Holiness Camp</name>
+    <description><![CDATA[thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3753 FM 450, Hallsville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.590937,32.554516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noonday Holiness Camp Interdenominational</name>
+    <description><![CDATA[4 mi. north of Hallsville on FM 450 near Noonday Cemetery<br/><br/><b>Address:</b> Hallsville<br/><br/><b>Marker Text:</b> Founded in 1897 by J. M. Black, T. P. Black, F. E. Dickard, J. B. LaGrone, J. J. Koon and G. B. Richardson, early civic leaders who were businessmen and landowners. The first two annual camp meetings were held under brush arbors on site given by Mrs. Alfred Beaty and Messrs. Will Schaffer, Will Brazzil and G. W. Croft. Tabernacle was built here in 1900. A plantation bell announced services. In early days, guests came by special trains. Camp is controlled by a board of managers who maintain the facilities and conduct business.]]></description>
+    <Point><coordinates>-94.590746,32.5553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Powder Mill Cemetery</name>
+    <description><![CDATA[George Gregg St. (FM 1997), E side between Loop 390 and Cedar St.<br/><br/><b>Address:</b> George Gregg St., Marshall<br/><br/><b>Marker Text:</b> Located on part of a site once occupied by a Confederate gun powder factory, this cemetery originated with the burial of slaves on the Powder Mill acreage. After the factory was destroyed in 1865 with the collapse of the Confederacy, the acreage fell into private ownership. One of the landowners, mortician M. M. Rains, began recording the burials here in 1880; however, the earliest known marked grave, that of Millie Abner, is dated 1878. Her husband, David Abner, a former Harrison County Treasurer and member of the 14th Texas Legislature, is also buried here. Old Powder Mill Cemetery is important to the history of Harrison County as the burial ground of many of the leaders of Marshall's Black community who played important roles in local religious, social, business, and political affairs. among those interred here are educators H.B. Pemberton, J.R.E. Lee, and Frederick William Gross; war veterans; businessmen and women; and professionals. Also located in Old Powder Mill Cemetery are the graves of many former members and founders of the Colored (now Bethesda) Baptist Church, including William Massey, a Confederate soldier who served as first pastor. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-94.373697,32.568007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pierce House</name>
+    <description><![CDATA[<b>Address:</b> 303 N. Columbus, Marshall]]></description>
+    <Point><coordinates>-94.364418,32.546784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pleasant Hill Baptist Church</name>
+    <description><![CDATA[3.8 mi. S of Hallsville on FM 450, then 1 mi. E on Pleasant Road<br/><br/><b>Address:</b> Hallsville<br/><br/><b>Marker Text:</b> Within a few months of the 1865 notification of the Emancipation Proclamation, former slave families began to settle in the area later known as the Pleasant Hill community. Led by Brother Ned Jacobs, several community members held prayer meetings in private homes. In 1871 the Pleasant Hill baptist Church was established under a brush arbor with the Rev. George Pritchett as pastor. In the absence of other public gathering places, the church became a focal point for community pursuits such as reading and writing lessons and economic and political meetings, as well as the church's own gatherings. (1997)]]></description>
+    <Point><coordinates>-94.549065,32.438745,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert W. Loughery, Civil War Editor</name>
+    <description><![CDATA[NW corner E. Austin and N. Columbus streets. Marker reported missing Jan. 2008.<br/><br/><b>Address:</b> 309 E. Austin St., Marshall<br/><br/><b>Marker Text:</b> In the mid-nineteenth century Robert W. Loughery (b. 1820) was one of East Texas' best known journalists through his association with several Harrison County newspapers. As owner and editor of Marshall's "Texas Republican", he supported such controversial issues as slavery, secession and the Confederacy, while boldly denouncing his opposition. After the Civil War he wrote for other papers around the state and was appointed United States Consul in Acapulco, Mexico, in 1885. He retired to Marshall, where he died in 1894, and is buried in the Marshall Cemetery. (1983)]]></description>
+    <Point><coordinates>-94.365136,32.545966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smyrna Cemetery</name>
+    <description><![CDATA[5 mi. N of Harleton on FM 450<br/><br/><b>Address:</b> Harleton<br/><br/><b>Marker Text:</b> Pioneer physician John Chadd received a land grant in 1845 made by Texas Governor J. Pinckney Henderson. Dr. Chadd donated land to the community in 1846 to be used for a church, school, and cemetery and chose the community's biblical name of Smyrna. This cemetery dates to 1850 when John Glover was buried in an unmarked grave. The earliest headstone is that of Susana Kirkpatrick in 1859. Dr. Chadd deeded two acres of land in 1874 to the Smyrna Methodist Episcopal Church. The cemetery has been closely associated with the church through the years. Tombstones mark the graves of Dr. Chadd and his wife Emily Jane Taylor, and other early settlers who lived and died in the area. Among the more than 675 graves are those of veterans of conflicts from the Civil War to the Vietnam War. The Smyrna Cemetery Association was established as a non-profit organization in 1954 by the people of the Smyrna community. Additional land was donated to the cemetery in 1962 and in 1974. Annual meetings have been held at the cemetery since 1946. The site continues to serve Smyrna and many surrounding communities. (1997)]]></description>
+    <Point><coordinates>-94.630569,32.727573,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Hallsville Cemetery</name>
+    <description><![CDATA[Hallsville Cemetery, at intersection of driving paths. Marker reported damaged Nov. 2013.<br/><br/><b>Address:</b> 300 W. Willow St., Hallsville<br/><br/><b>Marker Text:</b> After the establishment of Hallsville in 1869 by railroad developers, land was secured here for a cemetery. In 1875 the James F. Taylor Masonic Lodge No. 169 acquired from the railroad (by then named the Texas &amp; Pacific) three acres of land near the rail line and dedicated it as a community burial ground. The earliest marked burial is that of Mrs. G. C. Russell in 1875, taking place while the land transaction was in progress. Some burials from the older communities of Ash Springs (2 mi. NE) and Fort Crawford (2 mi. SW) were transferred here, as most of their settlers moved to Hallsville and the railhead. Since the 1920s cemetery cleaning days during May served as community gatherings. Children were encouraged to take part and learn about their ancestors while helping to maintain family plots. Politicians spoke to the crowds before spring primary elections, and veterans were honored on war memorial days. A cemetery association was formed in 1947 to ensure perpetual care and acquire more land. Several additions were made through the generosity of the railroad. Formal entrance gates, landscaping and other improvements have been sponsored by the association. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-94.580666,32.503349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ware Home</name>
+    <description><![CDATA[on Old Blocker Rd., off SH 31 (about 2.5 mi. W), about 9 mi. SE of Marshall<br/><br/><b>Address:</b> Marshall<br/><br/><b>Marker Text:</b> -- Two story brick colonial plantation home built 1852.]]></description>
+    <Point><coordinates>-94.286329,32.449126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wiley College Cemetery</name>
+    <description><![CDATA[Achte St., 0.1 mi. SW of the S end of the street, 0.2 mi. S of Lancaster St.<br/><br/><b>Address:</b> Achte St., Marshall<br/><br/><b>Marker Text:</b> The Freedmen's Aid Society of the Methodist Episcopal Church, North, an organization devoted to the education of former slaves and their descendants, established Wiley College in Marshall in March 1873. The school was named for Bishop Isaac W. Wiley, a charter member of the society, and was originally located about three miles south of the town square. The college moved to its present location in 1877. A four-acre plot of the college property was set aside as a burial ground for the Black community, and has been known through the years as both Wiley College Cemetery and Wiley University Cemetery. The earliest documented graves here are those of Oscar Laurin Coffin (March 11 - May 15, 1894) and his mother, Minnie May Coffin (d. June 17, 1894). Other members of the community buried here include the Rev. Matthew Dogan (1863-1947), president of Wiley College from 1896 to 1942; respected schoolteacher Effie Mitchell; educators Henry and Gertrude H. Mason; and veterans of the Civil War, World War I, World War II, and the Korean War. The cemetery also contains a large number of unmarked graves. The Wiley College Cemetery Club, organized in 1959, maintains the historic graveyard. (1989)]]></description>
+    <Point><coordinates>-94.378018,32.521786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Woodlawn Baptist Church</name>
+    <description><![CDATA[on US 59, 1 mi. S. of Woodlawn, about 6.5 mi. N of Marshall<br/><br/><b>Address:</b> Woodlawn<br/><br/><b>Marker Text:</b> Organized as Bethesda Baptist Church on July 21, 1850, with 13 charter members, most of whom had come from Mississippi or Alabama. Bethesda church building, erected in 1850, was moved in 1877 to a site donated by Capt. Henry L. Berry. For 95 years, until 1945, services were held only on the fourth Sunday of each month, sometimes furnishing an occasion for "dinner on the ground." In 1958, the congregation adopted its present name and completed this modern building on a site given by Mr. and Mrs. George C. Ives.]]></description>
+    <Point><coordinates>-94.345967,32.649729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Woodley Cemetery</name>
+    <description><![CDATA[12 mi. SE of Marshall on SH 31, then W on Woodley Rd., 5 mi. to cemetery at intersection of West Rd.<br/><br/><b>Address:</b> Marshall<br/><br/><b>Marker Text:</b> Wingate Woodley arrived in the Republic of Texas in 1839 and settled in Harrison County shortly after its formation that year. He received a letter from his father, William (b. 1787), in 1840, asking that he leave the lawlessness of this area and return to the safety of his former home in Georgia. Wingate remained, and in 1843 his father and mother, Telitha (McMichael), left Alabama with their large family and traveled by wagon train to Harrison county. the cemetery began with the burial of their young daughter, Harriett Ellen, here on their family farm in 1844. Woodley family records suggest that this site was set aside for cemetery use in William Woodley's 1844 will. The will was subsequently lost and never probated. The families of William and Telitha's eleven children and their descendants formed the nucleus of the former community of Arleston and account for most of the people buried here. this site, property of Woodley descendants for more than 100 years, was legally set aside by descendants of George and Caroline (Woodley) McJimsey in 1970. Buried here are veterans of conflicts ranging from the Creek Indian War (Alabama - 1836) to the Korean Conflict. The Woodley Cemetery Trust was established in 1986 to maintain this site.]]></description>
+    <Point><coordinates>-94.248352,32.352603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Woodley House</name>
+    <description><![CDATA[12 mi. SE of Marshall on SH 31, then 2 mi. W on Woodley Rd. (CR 1313)<br/><br/><b>Address:</b> Marshall<br/><br/><b>Marker Text:</b> Woodley family members first settled in Harrison County in the 1840s. Here they farmed the land and served in local government. William Lawrence Woodley built his home at this site in 1873, soon after he acquired the land from his father. The one-story farmhouse was enlarged in 1910 when he died and son Jessie Lawrence Woodley inherited the homestead. The house now features a six-bay porch, squared columns, and a center-gabled roof. Recorded Texas Historic Landmark - 1988]]></description>
+    <Point><coordinates>-94.241286,32.387663,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Young's Mill Pond</name>
+    <description><![CDATA[Marker is going by driveway on Noonday Road, 1 km south of pond which is accessed only on private road<br/><br/><b>Address:</b> 5000 Block of Noonday Road, Hallsville]]></description>
+    <Point><coordinates>-94.591913,32.555019,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

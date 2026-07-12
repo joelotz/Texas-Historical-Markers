@@ -1,0 +1,26 @@
+Hood unmapped markers with NO usable address (6):
+
+  THC 14147: Antioch Cemetery
+    addr: Tolar
+    https://atlas.thc.texas.gov/Details/5507014147
+
+  THC 17583: Friendship Cemetery
+    addr: Granbury
+    https://atlas.thc.texas.gov/Details/5507017583
+
+  THC 16394: Long Creek Cemetery
+    addr: Granbury
+    https://atlas.thc.texas.gov/Details/5507016394
+
+  THC 12379: Martin Cemetery
+    addr: Lipan vicinity
+    https://atlas.thc.texas.gov/Details/5221012379
+
+  THC 18793: Rock Church Cemetery
+    addr: 6101 Rock Church Road, Tolar
+    https://atlas.thc.texas.gov/Details/5507018793
+
+  THC 14060: Temple Hall United Methodist Church
+    addr: Granbury
+    https://atlas.thc.texas.gov/Details/5507014060
+

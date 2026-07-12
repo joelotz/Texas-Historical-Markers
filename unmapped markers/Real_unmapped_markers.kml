@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Real County — Unmapped Historical Markers</name>
+  <description>THC markers in Real County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Clark Family Cemetery</name>
+    <description><![CDATA[from Uvalde, travel N. on Hwy 83, left on FM 1051, rt. on Canyon Ranch Road, then 1.8 mi. to cemetery on the rt.<br/><br/><b>Address:</b> Rio Frio<br/><br/><b>Marker Text:</b> Newlyweds Joseph Hutchinson Clark (1857-1901) and Annie Susie Wilson (1869-1953) bought this land from Annie's father on April 2, 1887. On Christmas Eve, 1901, Joseph was killed in a wagon accident on a curve between here and Reagan Wells. According to family oral history, he had recently told his daugher of his wish to be buried at this site. In 1905, Annie married Joseph's brother, David Gaston Clark (1864-1943). He was killed in an accident on the same curve where his brother died nearly five decades earlier. Annie was laid to rest between her two husbands. They share this burial ground with other members of the Clark family. Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-99.839446,29.627222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cypress Creek Cemetery</name>
+    <description><![CDATA[From Leakey, 7.7 mi. NE on US 83, 0.2 mi. E on N. Prong Cypress Creek Rd. (E of East Frio River). Marker is on N side of the road, cemetery is another 150 feet north. Map dot approximate.<br/><br/><b>Address:</b> N. Prong Cypress Creek Rd., Leakey<br/><br/><b>Marker Text:</b> Established in the 1870s, Cypress Creek Cemetery served a scattered community of pioneers along Cypress Creek in what was then Bandera County before the founding of nearby Leakey in Edwards County. The land on this site belonged to settler John Bunyan Stidham, Sr., whose son, John Bunyan Stidham, Jr., gave land for a school nearby. Legend surrounds this graveyard. The earliest grave in the cemetery is believed to be that of four-year-old James Beauford Bybee (1875-1879). His burial site is marked by two flat rocks in the ground according to Bybee family practice. Records indicate that the second burial is that of Polly A. Smart (1847-1881). Also buried here is Laura (Turner) Stidham, wife of John Bunyan Stidham, Jr. She and their son Alonzo (b. 1877) were killed when a tornado destroyed their home in 1927. They were buried in a common grave marked only with stones. The graves of several infants and children bear witness to the harsh conditions of pioneer life. Ten known veterans of U. S. and foreign conflicts are interred here. The cemetery contains more than 75 marked and many unmarked graves. Still in use in 1998, Cypress Creek Cemetery continues to serve the descendants of the pioneer settlers of Real County. (1998)]]></description>
+    <Point><coordinates>-99.677896,29.809127,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Near Route of Famous Cattle Trail</name>
+    <description><![CDATA[from Leakey go south on US Highway 83 approximately 5.2 miles to R.O.W., marker reported damaged 11/13/2020<br/><br/><b>Address:</b> US 83, S of Leakey, Leakey<br/><br/><b>Marker Text:</b> One of many "feeder trails" in Texas that converged with the legendary Chisholm Trail above the Red River, this route directed thousands of longhorns to northern markets during the first year after the Civil War. Many local settlers took part in the drives, which lasted for months, and their tales are full of stampedes and Indian raids. At times, the trail was used by herds of 200-300 hogs being driven 40 miles to local markets. The cattle industry and trails such as this helped save Texas' economy -- torn by the Civil War -- and enriched pioneer folklore. (1968)]]></description>
+    <Point><coordinates>-99.753076,29.654219,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

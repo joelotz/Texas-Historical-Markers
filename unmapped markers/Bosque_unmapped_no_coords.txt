@@ -1,0 +1,26 @@
+Bosque unmapped markers with NO usable address (6):
+
+  THC 22662: Cole Family Cemetery
+    addr: Morgan
+    https://atlas.thc.texas.gov/Details/5000022662
+
+  THC 22494: Greenock Community
+    addr: FM 2490, Laguna Park
+    https://atlas.thc.texas.gov/Details/5000022494
+
+  THC 11759: Lowry Hampton Scrutchfield
+    addr: Valley Mills
+    https://atlas.thc.texas.gov/Details/5035011759
+
+  THC 3846: Ole Pierson Homestead
+    addr: Clifton
+    https://atlas.thc.texas.gov/Details/5035003846
+
+  THC 11758: Scrutchfield Cemetery
+    addr: Clifton
+    https://atlas.thc.texas.gov/Details/5035011758
+
+  THC 20082: Zion United Church of Christ
+    addr: 2114 FM 129, Womack
+    https://atlas.thc.texas.gov/Details/5507020082
+

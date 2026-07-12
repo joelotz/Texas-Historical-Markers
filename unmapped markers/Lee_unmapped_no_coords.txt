@@ -1,0 +1,35 @@
+Lee unmapped markers with NO usable address (8):
+
+  THC 8142: Dime Box
+    addr: Dime Box
+    https://atlas.thc.texas.gov/Details/5287008142
+
+  THC 17199: Globe Hill Baptist Church
+    addr: 4083 County Road 133
+4083 County Road 133, Giddings
+    https://atlas.thc.texas.gov/Details/5507017199
+
+  THC 12025: Gloyna School
+    addr: Lincoln
+    https://atlas.thc.texas.gov/Details/5287012025
+
+  THC 14227: King's Highway
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5507014227
+
+  THC 8162: King's Highway - Camino Real - Old San Antonio Road
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5287008162
+
+  THC 14746: Lee, General Robert E.
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5507014746
+
+  THC 22859: Scott Cemetery
+    addr: CR 402, Old Dime Box
+    https://atlas.thc.texas.gov/Details/5000022859
+
+  THC 12024: Site of Bethany Lutheran Church and School
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5287012024
+

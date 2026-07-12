@@ -1,0 +1,37 @@
+Limestone unmapped markers with NO usable address (9):
+
+  THC 22679: Bend Cemetery
+    addr: Mexia
+    https://atlas.thc.texas.gov/Details/5000022679
+
+  THC 14338: Focke Gin, Old (BURNED)
+    addr: Mexia
+    https://atlas.thc.texas.gov/Details/5507014338
+
+  THC 12030: Gunter Cemetery
+    addr: Kosse
+    https://atlas.thc.texas.gov/Details/5293012030
+
+  THC 24240: Hyden-Hughes Cemetery
+    addr: FM 937, Groesbeck
+    https://atlas.thc.texas.gov/Details/5000024240
+
+  THC 16068: Limestone County
+    addr: Groesbeck
+    https://atlas.thc.texas.gov/Details/5507016068
+
+  THC 3228: Martin House
+    addr: SH 14, S of Mexia, Mexia
+    https://atlas.thc.texas.gov/Details/5293003228
+
+  THC 15160: McKenzie Cemetery
+    addr: Groesbeck
+    https://atlas.thc.texas.gov/Details/5507015160
+
+  THC 17414: Personville Cemetery
+    https://atlas.thc.texas.gov/Details/5507017414
+
+  THC 23551: Prairie Grove Cemetery
+    addr: 2678 FM 1953, Mexia
+    https://atlas.thc.texas.gov/Details/5000023551
+

@@ -1,0 +1,41 @@
+Newton unmapped markers with NO usable address (10):
+
+  THC 22786: Biloxi Evergreen Cemetery
+    addr: CR 4062, Newton
+    https://atlas.thc.texas.gov/Details/5000022786
+
+  THC 11104: Colonel John R. Burke Home Site
+    addr: Newton
+    https://atlas.thc.texas.gov/Details/5351011104
+
+  THC 11113: Farrsville
+    addr: SH 63 W, Newton
+    https://atlas.thc.texas.gov/Details/5351011113
+
+  THC 16625: Garlington Cemetery
+    https://atlas.thc.texas.gov/Details/5507016625
+
+  THC 23952: Hughes Cemetery
+    addr: CR 4040 South, Newton
+    https://atlas.thc.texas.gov/Details/5000023952
+
+  THC 14449: Newton City Cemetery
+    addr: Newton
+    https://atlas.thc.texas.gov/Details/5507014449
+
+  THC 12398: Pine Grove Missionary Baptist Church
+    addr: Burkeville vicinity
+    https://atlas.thc.texas.gov/Details/5351012398
+
+  THC 18912: Sand Ridge Cemetery
+    addr: CR 4045, Newton
+    https://atlas.thc.texas.gov/Details/5507018912
+
+  THC 15149: Tatum House
+    addr: Newton
+    https://atlas.thc.texas.gov/Details/5507015149
+
+  THC 12858: Wilson Chapel Cemetery
+    addr: CR 4002 at CR 4004, Newton
+    https://atlas.thc.texas.gov/Details/5351012858
+

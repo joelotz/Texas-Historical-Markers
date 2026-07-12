@@ -1,0 +1,10 @@
+Franklin unmapped markers with NO usable address (2):
+
+  THC 15550: Good Hope Cemetery
+    addr: Scroggins
+    https://atlas.thc.texas.gov/Details/5507015550
+
+  THC 14434: Hagansport Cemetery
+    addr: Hagansport
+    https://atlas.thc.texas.gov/Details/5507014434
+

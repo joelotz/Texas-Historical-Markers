@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Upton County — Unmapped Historical Markers</name>
+  <description>THC markers in Upton County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Adrian Building</name>
+    <description><![CDATA[On US 67, Eastern edge of McCamey in Santa Fe Park<br/><br/><b>Address:</b> 25634 Pleasanton Rd, McCamey<br/><br/><b>Marker Text:</b> Western Bungalow. Built 1915, in Girvin, by R. F. Mayse, first merchant. Moved to McCamey, 1946. Mr. and Mrs. Hal Holmes: gift. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-102.217622,31.140602,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elliott Ranch</name>
+    <description><![CDATA[At the Yates Hotel (5th and Main Sts.) Rankin<br/><br/><b>Address:</b> 5th and Main St., Rankin<br/><br/><b>Marker Text:</b> Built 1880 near old Butterfield Stage Road by Geo. Elliott, from San Antonio, one of first to go so far out on open range. Had to haul water from head of the Concho, 50 miles. His home was first polling place in what became Upton County in 1887. Headquarters 1905-1928 for Mayer Halff and brother's J. M., "Quien Sabe", Circle Dot herds. After Upton County organized, 1910, served as a mail station, a salt house, cowboys' bunkhouse. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-101.939563,31.221169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Table Top Mountain</name>
+    <description><![CDATA[On US 67, about 9 miles E. of McCamey, marker missing, replacement in progress 9/2021<br/><br/><b>Address:</b> US 67, E of McCamey, Rankin<br/><br/><b>Marker Text:</b> Round, flat-topped mesa rising 475 feet above its base; part of an uplift in Permian Basin, which was once a prehistoric sea. The limestone-topped buttes and mesas in this area are remnants of rock that covered county 115 million years ago, but has now been mostly eroded.]]></description>
+    <Point><coordinates>-102.078201,31.151228,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

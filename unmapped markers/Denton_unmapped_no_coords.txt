@@ -1,0 +1,10 @@
+Denton unmapped markers with NO usable address (2):
+
+  THC 23259: Landrum Cemetery
+    addr: Frisco
+    https://atlas.thc.texas.gov/Details/5000023259
+
+  THC 23756: Tom Cook Blacksmith Shop
+    addr: FM 455, Bolivar
+    https://atlas.thc.texas.gov/Details/5000023756
+

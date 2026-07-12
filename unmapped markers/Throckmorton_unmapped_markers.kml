@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Throckmorton County — Unmapped Historical Markers</name>
+  <description>THC markers in Throckmorton County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Christian Church</name>
+    <description><![CDATA[200 Highway 183 N | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 200 Highway 183 N, Woodson<br/><br/><b>Marker Text:</b> The area’s earliest ranching families worshipped in each other’s homes, occasionally organizing circuit rider visits and camp meetings. After a camp meeting in 1904, O.J. Wood conveyed land for a church site. Members constructed the church building and dedicated it in early 1905. Soon after, members elected deacons and elders and formally organized First Christian Church, with a Brother Weaver as the first pastor. An early community school met in the church building. The church built additional structures in the latter half of the 20th century. For over one hundred years, First Christian Church has continued to serve the spiritual needs of the Woodson community.]]></description>
+    <Point><coordinates>-99.054509,33.016318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Throckmorton Jail</name>
+    <description><![CDATA[South Eagle and West Chestnut<br/><br/><b>Address:</b> Throckmorton]]></description>
+    <Point><coordinates>-99.622509,33.054274,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

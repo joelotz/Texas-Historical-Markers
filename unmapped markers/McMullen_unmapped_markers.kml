@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>McMullen County — Unmapped Historical Markers</name>
+  <description>THC markers in McMullen County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Townsite of Zella</name>
+    <description><![CDATA[From Fowlerton, north about 6 miles on SH 97 (on left just over cattle guard) just before Franklin Ranch Road.<br/><br/><b>Address:</b> Tilden<br/><br/><b>Marker Text:</b> Organized 1913, with 189 city blocks laid off along San Antonio, Uvalde &amp; Gulf Railroad. Structures built included depot, store-post office, schoolhouse, hotel. A water well was drilled. War and the 1917 drouth stifled growth. Few lots were sold; land ownership was retained by founders. (1968)]]></description>
+    <Point><coordinates>-98.792871,28.561061,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

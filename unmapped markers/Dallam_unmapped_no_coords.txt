@@ -1,0 +1,6 @@
+Dallam unmapped markers with NO usable address (1):
+
+  THC 24191: Texline Cemetery
+    addr: Hwy 296, Texline
+    https://atlas.thc.texas.gov/Details/5000024191
+

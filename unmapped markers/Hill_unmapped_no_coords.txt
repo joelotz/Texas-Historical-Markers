@@ -1,0 +1,53 @@
+Hill unmapped markers with NO usable address (13):
+
+  THC 23585: Bragg Williams Lynching
+    addr: Hillsboro
+    https://atlas.thc.texas.gov/Details/5000023585
+
+  THC 14897: Derden Cemetery
+    addr: Blum
+    https://atlas.thc.texas.gov/Details/5507014897
+
+  THC 18532: Dodson Cemetery
+    https://atlas.thc.texas.gov/Details/5507018532
+
+  THC 14839: Files, F. Marion, Home
+    addr: Itasca
+    https://atlas.thc.texas.gov/Details/5507014839
+
+  THC 12075: Graham-Mason Cemetery
+    addr: Irene
+    https://atlas.thc.texas.gov/Details/5217012075
+
+  THC 2766: John A. Kimberlin Residence
+    addr: Covington
+    https://atlas.thc.texas.gov/Details/5217002766
+
+  THC 20062: Mesquite Cemetery (HTC)
+    addr: Mt. Calm
+    https://atlas.thc.texas.gov/Details/5507020062
+
+  THC 15203: Old Lebanon Cemetery
+    addr: Aquilla
+    https://atlas.thc.texas.gov/Details/5507015203
+
+  THC 20031: Prairie Dale Cemetery
+    addr: Hillsboro
+    https://atlas.thc.texas.gov/Details/5507020031
+
+  THC 14316: Salem Cemetery
+    addr: Irene
+    https://atlas.thc.texas.gov/Details/5507014316
+
+  THC 23960: St. Peter's Lutheran Church
+    addr: 133 PR 346, Malone
+    https://atlas.thc.texas.gov/Details/5000023960
+
+  THC 14363: Taylor, J.A., Home (MARKER GONE)
+    addr: Blum
+    https://atlas.thc.texas.gov/Details/5507014363
+
+  THC 23965: Walling Cemetery
+    addr: 538 HCR 3441, Malone
+    https://atlas.thc.texas.gov/Details/5000023965
+

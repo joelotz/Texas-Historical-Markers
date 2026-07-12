@@ -1,0 +1,10 @@
+Dimmit unmapped markers with NO usable address (2):
+
+  THC 6978: Dimmit County
+    addr: Carrizo Springs
+    https://atlas.thc.texas.gov/Details/5127006978
+
+  THC 1501: Espantosa Lake
+    addr: Carrizo Springs
+    https://atlas.thc.texas.gov/Details/5127001501
+

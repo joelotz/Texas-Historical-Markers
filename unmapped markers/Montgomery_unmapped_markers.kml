@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Montgomery County — Unmapped Historical Markers</name>
+  <description>THC markers in Montgomery County without an HMDB id (isMissing excluded). 17 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>Baker Cemetery</name>
+    <description><![CDATA[Baker Cemetery Road<br/><br/><b>Address:</b> Magnolia<br/><br/><b>Marker Text:</b> Baker Cemetery Established CA. 1855 Historic Texas Cemetery-2008]]></description>
+    <Point><coordinates>-95.676024,30.116182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Crater Hill</name>
+    <description><![CDATA[FM 1485, W side of Crystal Creek, 0.3 mi. W of Waukegan Rd. Original 1967 inscription revised in 1995. Marker reported missing Jan. 2006. Map dot approximate.<br/><br/><b>Address:</b> FM 1785, Conroe<br/><br/><b>Marker Text:</b> Oil wells known as Madeley No. 1 and No. 2, drilled in 1933 by Standard Oil Company of Kansas, came in on fire and threatened the entire Conroe oil field. The flames reached as high as 150 feet as firefighters struggled for three months to control the inferno with water, mud, and explosives. Finally Humble Oil Company, using a method never before tested on the Texas Gulf Coast, drilled a directional well, pumped mud into the crater caused by the blowouts, and extinguished the fires. Crater Lake, created by the explosions, remains on the site. (1967, 1995)]]></description>
+    <Point><coordinates>-95.353053,30.29578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Danville Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 10763 Shepard Hill Rd., Willis]]></description>
+    <Point><coordinates>-95.51465,30.482181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Girl Scouts Camp Robinwood</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 9877 Calvary Road, Willis<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.514834,30.460280,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. S. Griffith Home</name>
+    <description><![CDATA[<b>Address:</b> College and Prairie St., Montgomery<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-95.694625,30.391161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>M. B. Steger Home</name>
+    <description><![CDATA[<b>Address:</b> 709 College at Eugenia, Montgomery]]></description>
+    <Point><coordinates>-95.699061,30.391322,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mabin Alexander Anderson</name>
+    <description><![CDATA[Oakwood Cemetery, E. SH 105<br/><br/><b>Address:</b> Conroe<br/><br/><b>Marker Text:</b> (Aug. 6, 1869 - Feb. 3, 1940) Upon winning election as Montgomery County Sheriff, 1902, took office in critical period of the John Winston murder trial. Success led to his serving 18 years. Married Mattie Talley. They had five children. Recorded - 1968]]></description>
+    <Point><coordinates>-95.444154,30.315903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Magnolia</name>
+    <description><![CDATA[Magnolia Blvd. and Magnolia Pkwy.<br/><br/><b>Address:</b> FM 1488, Magnolia<br/><br/><b>Marker Text:</b> In early days, known as Mink's Prairie, and by 1850, shortened to Mink. In 1902, railroad named it Melton to honor Jim Melton, a large landowner in the county, but U. S. Post Office confused it with town of Milton. Citizens renamed it Magnolia for the many magnolia trees beside nearby Mill Creek.]]></description>
+    <Point><coordinates>-95.44834,30.316938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mallalieu United Methodist Church</name>
+    <description><![CDATA[Texas Annual Conference Mission Center, Archival Center (congregation dissolved, and marker moved from Houston in 2018).<br/><br/><b>Address:</b> 3771 North Loop 336 East, Conroe<br/><br/><b>Marker Text:</b> Area residents organized First Ward Methodist Episcopal Church on June 23, 1885, and in November of that year, the Rev. I.D. Rose became the church's first pastor. The congregation soon bought this site on which to build a house of worship. In 1900, the church was renamed in honor of Bishop Willard F. Mallalieu. That same year, the Galveston Hurricane destroyed the sanctuary. The congregation rebuilt, and in 1926 built again, finishing the wood-frame Greek Revival structure that would serve them into the 21st century. Throughout its history, the church has served the community through a variety of educational, outreach and worship programs. (2006)]]></description>
+    <Point><coordinates>-95.400747,30.318009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Montgomery County</name>
+    <description><![CDATA[Marker is in temporary storage pending widening of the highway. Was at US 75 (N. Frazier Street), roadside park on west side, near Camp Arnold Drive.<br/><br/><b>Address:</b> US 75, Conroe<br/><br/><b>Marker Text:</b> Created from Washington County -- December 14, 1837 -- Organized the same year -- Named in honor of -- Richard Montgomery -- 1736-1775 -- Brigadier General in -- the Continental Army -- County seat, Montgomery, 1837 -- Conroe, since 1888]]></description>
+    <Point><coordinates>-95.479813,30.376838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Zion Cemetery</name>
+    <description><![CDATA[25120 Harper Lane | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 25120 Harper Lane, The Woodlands<br/><br/><b>Marker Text:</b> MT. ZION CEMETERY, ESTABLISHED 1879, HISTORIC TEXAS CEMETERY – 2023]]></description>
+    <Point><coordinates>-95.470575,30.126675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Cemetery of Montgomery</name>
+    <description><![CDATA[1 block south of SH 105<br/><br/><b>Address:</b> Plantersville St., Montgomery<br/><br/><b>Marker Text:</b> Burial place of many honored Texans, including Dr. Charles B. Stewart, a signer of the Texas Declaration of Independence and first secretary of state; also wife of Gen. Memucan Hunt, Texas soldier and statesman. Other noted individuals here include soldiers of the Texas army and veterans of the Civil War and other wars engaged in by the United States. This cemetery was founded December 1, 1868, to relieve "Old" Methodist plot. First persons buried on land (donated by P. J. and R. S. Willis, merchants) were 3 men killed by vigilantes. A fourth was buried nearby.]]></description>
+    <Point><coordinates>-95.703105,30.387027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Dr. Wm. P. Powell Home</name>
+    <description><![CDATA[<b>Address:</b> Wood and Stewart St., Willis<br/><br/><b>Marker Text:</b> Remaining portion of 13-room house built in 1872 by carpenter Sid Inglet. Powell-- a pioneer physician, Confederate veteran-- married Miss Mary Eugenia Thompson, 1863, in Waverly; six of their 12 children born here. He traveled by horse and buggy to visit the sick; used home as office and improvised hospital until his death, Nov. 6, 1915. Purchased in 1946 by justice of the peace, R. M. Jordy. Site of 119 wedding ceremonies. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-95.482218,30.423407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reinhardt Homestead</name>
+    <description><![CDATA[US 59 and Loop 494, on corner Reinhardt Rd. north of New Caney<br/><br/><b>Address:</b> New Caney<br/><br/><b>Marker Text:</b> Conrad Reinhardt (1886-1969) bought this property in 1918 and established this homestead where he and his wife, Lillie Bell Freeman (1894-1970), raised a family and lived until their deaths. Built about 1920 of heart of pine and magnolia lumber cut from the property's trees, the house reflects the bungalow style in its hipped roof and three-bay porch with tapered columns on brick piers. A garage, two barns, and three shed structures complete the complex. Recorded Texas Historic Landmark - 1991]]></description>
+    <Point><coordinates>-95.200707,30.15848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shepherd Drive Methodist Church</name>
+    <description><![CDATA[Texas Annual Conference Mission Center, Archival Center (congregation dissolved, and marker moved from Houston in 2018).<br/><br/><b>Address:</b> 3771 N Loop 336 East, Conroe<br/><br/><b>Marker Text:</b> In 1899 a group of Methodists from this area, known then as the Brunner Addition, met in a building known as McClure's Assembly Hall and organized the McAshan and City Mission Methodist Church. A sanctuary, built on this block in 1900, was destroyed by a severe storm that year. A new sanctuary was completed in 1901. The church was renamed McAshan and Brunner Methodist in 1904, Brunner Methodist in 1906 and Brunner and Epworth Methodist in 1913. When construction of a new church building began in 1917, it became known as West End Methodist Episcopal Church, South. The church acquired additional land here in 1940 which included a parsonage and provided a full block of frontage on Shepherd Drive. By 1942 the congregation was known as the Shepherd Drive Methodist Church. In 1954-55 a new church building containing 17 classrooms, a sanctuary, and a fellowship hall was built at this site. In 1959 Shepherd Drive Methodist Church merged with the Larkin Street Methodist Church, a nearby congregation organized in 1916. This congregation continues its traditional spiritual programs, support of youth and senior outreach programs, promotion of community gatherings, and involvement in civic and social issues affecting the area. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
+    <Point><coordinates>-95.400747,30.318009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Davison Home</name>
+    <description><![CDATA[<b>Address:</b> 355 Linwood, Conroe<br/><br/><b>Marker Text:</b> County's first prefabricated house. Built 1887-88 by R.A. Corry. Parts were shipped from St. Louis. Hand-carved wainscot, staircase, mantels. Wood is cypress. Original doors and hardware are still in use. In family of C.H. Davison since 1889. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-95.564443,30.349938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>West Fork of The San Jacinto River</name>
+    <description><![CDATA[SH 105, 7 mi. west of Conroe near Conroe Dam and Coast Guard Auxiliary<br/><br/><b>Address:</b> Conroe<br/><br/><b>Marker Text:</b> Patiri and other Indians lived here in Archaic and Neo-American periods. When Spanish incursions began in the 1700s, the river was named either for hyacinths or for the saint on whose day it was discovered. Pioneers from the United States settled on the San Jacinto before Stephen F. Austin founded his colony to the west in 1821. Upon their wish to join him, he took this area into his colony in 1824. The San Jacinto won wold fame when beside its lower channel Mexican Dictator Santa Anna with 1700 troops was defeated on April 21, 1836, by General Sam Houston and Texas volunteers fighting for freedom. Riverside farms became plantations, often shipping cotton by keelboat down the San Jacinto, in 1845-61. Until woodlands vanished during the years 1880-1930, sandhill cranes and bear abounded. Reforestation, begun in 1936, brought back timber industries and small game. The lake now makes this a residential and recreational paradise, but covers such landmarks as Grandma Ed'Ards fishing hole, Indian Camp Creek, and the White Sugar Sand Crossing. Downriver, after this fork and the East Fork unite, the San Jacinto forms part of the Houston Ship Channel, the link between Port of Houston, the Gulf, and the high seas.]]></description>
+    <Point><coordinates>-95.586293,30.35142,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

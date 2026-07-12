@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wilson County — Unmapped Historical Markers</name>
+  <description>THC markers in Wilson County without an HMDB id (isMissing excluded). 10 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Albert Kosub House</name>
+    <description><![CDATA[From 1346 turn left at first gravel road, about 4 miles, take a right, go about 1/2 mile, go left until approach mailboxes, proceed straight up driveway/dirt road to home.<br/><br/><b>Address:</b> 500 E San Antonio Ave, LaVernia<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-98.132581,29.4108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Beauregard Ranch</name>
+    <description><![CDATA[From Poth, about 4.5 mi. SE on US 181 near CR 202. Marker reported missing Mar. 2009. Map dot approximate.<br/><br/><b>Address:</b> US 181, Poth<br/><br/><b>Marker Text:</b> Founded 1852, by Augustin Toutant-Beauregard, of landed Creole gentry who traced lineage to 16th century Spanish nobility. Brother was Confederate General Pierre Gustave Toutant-Beauregard. Stone-mounted iron rings were part of scaffolding used to butcher hogs. (1967)]]></description>
+    <Point><coordinates>-98.053204,29.019287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Charles Carl Winkler House</name>
+    <description><![CDATA[Take 1346 north out of La Vernia to the Carpenter Community located at Wilson/Bexar County Line.  House is on left 1/4 mile from County Line.  Located behind new Winkler family about 300 feet off highway.<br/><br/><b>Address:</b> FM 1346, La Vernia<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-98.183204,29.378089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fairview</name>
+    <description><![CDATA[From Floresville, take FM 536 west 12 miles to intersection with FM 2505.<br/><br/><b>Address:</b> FM 536 &amp; 2505, Fairview, Fairview<br/><br/><b>Marker Text:</b> Near this crossroads was once the flourishing community of Fairview. The village began shortly after the Civil War, when Henry Hudson opened a store on the Old Oakville Road. A post office was established in the store in 1868. Fairview grew to include homes, churches, doctors' offices, a blacksmith shop, cotton gin, public school, Masonic Lodge, and telephone exchange. The area's economy was based on agriculture, and the main crop was cotton. The advent of the boll weevil and other pests which attacked the cotton crop played a large part in the eventual decline of the town following World War I. Fairview was the hometown of twenty-seven Texas peace officers, including twenty Texas Rangers. Among the Rangers was Frank Hamer (1884-1955), who is best remembered for his role in pursuing notorious Depression-era outlaws Bonnie Parker and Clyde Barrow. Still remaining and in use in the area is the Fairview Cemetery, originally called the Rock Church Cemetery due to its position next to a Methodist church built in the 1870s. With grave markers dating from the 1860s, it is one of the few remaining physical reminders of the town. (1988)]]></description>
+    <Point><coordinates>-98.324869,29.112815,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] First Baptist Church of Sutherland Springs</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>East corner of 4th &amp; FM 539<br/><br/><b>Address:</b> 216 4th St., Sutherland Springs]]></description>
+    <Point><coordinates>-98.05568,29.2736,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Marcelina Cemetery</name>
+    <description><![CDATA[E on Hwy 97, S on CR 404; next to Marcelina Baptist Church<br/><br/><b>Address:</b> Hwy 97, CR 404, Floresville<br/><br/><b>Marker Text:</b> In 1876, Isaac and Malinda Sims moved from Mississippi to Wilson County's Marcelina community. Seven years later, they deeded part of their land for a burial gound and the Marcelina Baptist Church. Samuel Foster, Isaac's stepbrother, also deeded land, including the site of his mother's grave, for burial purposes. Over time the two cemeteries merged into one. Th oldest marked grave, that of Martin Donaho, dates to 1882. The cemetery continues to be used by the community. A cemetery association, organized in 1954 by Sally Sims and others, still maintains the burial ground, which remains a link to the area's rich history. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-98.089348,29.190817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Marcelina Community</name>
+    <description><![CDATA[From Floresville take SH 97 approximately 5.5 miles northeast and turn south onto road to cemetery.<br/><br/><b>Address:</b> SH 97 NE of Floresville, Floresville<br/><br/><b>Marker Text:</b> Located on the Old San Antonio-Indianola Road, this rural settlement, named for nearby Marcelinas Creek, began in late 1873, when Wiley R. Franklin (1837-93) bought land in the area (1.5 miles S) and built a small horse-powered cotton gin. In 1874, a Baptist congregation was organized, holding services in the home of Gabriel Moffit; a one-teacher school opened in 1875; and the cemetery was begun in 1882 with the death of Martin Donaho. William Y. Elkins established a mercantile store in 1886, and was named postmaster when the post office opened on Feb. 1, 1887. By the mid-1890s, Marcelina had 2 stores, 2 cotton gins, a blacksmith and wheelwright shop, gristmill, large school and church buildings, and several homes. From the beginning, the local economic base had been agriculture, primarily cotton production, but in 1901, the crops became infested with boll weevils and the prosperous community began to decline. Improvements in transportation diverted trade to Floresville (5.5 miles W), and the advent of rural mail delivery caused the post office to close on Oct. 1, 1906. All that remains of the Marcelina Community are the cemetery and the Baptist Church. The present sanctuary was erected in 1935. (1974)]]></description>
+    <Point><coordinates>-98.089746,29.193573,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Phillip John Burrow</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Fairview Cemetery<br/><br/><b>Address:</b> 1696 FM 2505, Floresville]]></description>
+    <Point><coordinates>-98.324442,29.089657,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Cemetery</name>
+    <description><![CDATA[on FM 539 5.2 miles south of the intersection of US 87 &amp;  FM 539<br/><br/><b>Address:</b> Sutherland Springs<br/><br/><b>Marker Text:</b> The Shiloh community developed along Lodi-Sutherland Springs Road. In 1886, J. H. James and others sold land to John P. Pritchett for a cemetery, although the land was already being used as a burial ground. Pritchett also later conveyed adjoining land to the Methodist Episcopal Church South and to Wilson County to establish Shiloh School. The earliest known burial here was Florence Price (d. 1884). James Madison Smith (d. 1905) served in the 2nd Florida Cavalry C.S.A. during the Civil War. The last known burial was Thomas McDonald in 1939. Today, Shiloh Cemetery features concrete, granite and marble headstones, unmarked graves, and interior fencing. It is a historic vestige of a rural Wilson County settlement.]]></description>
+    <Point><coordinates>-96.89535,32.518163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Yndo Ranch</name>
+    <description><![CDATA[From Floresville, 3 mi. W on FM 536, then 7 mi. NW on FM 1303, near intersection with FM 775<br/><br/><b>Address:</b> Floresville<br/><br/><b>Marker Text:</b> (RTHL medallion only - no text)]]></description>
+    <Point><coordinates>-98.274391,29.189466,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,10 @@
+Mitchell unmapped markers with NO usable address (2):
+
+  THC 15522: Permian Basin Discovery Well
+    addr: Westbrook
+    https://atlas.thc.texas.gov/Details/5507015522
+
+  THC 23626: Spade Community
+    addr: SH 163, Colorado City
+    https://atlas.thc.texas.gov/Details/5000023626
+

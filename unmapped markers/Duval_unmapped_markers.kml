@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Duval County — Unmapped Historical Markers</name>
+  <description>THC markers in Duval County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Duval County Courthouse</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 400 E. Gravis Avenue, San Diego]]></description>
+    <Point><coordinates>-98.235665,27.763239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Rancho La Gloria</name>
+    <description><![CDATA[<b>Address:</b> 1747 CR 101, Freer]]></description>
+    <Point><coordinates>-98.412282,27.967938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>La Mota de Olmos Cemetery</name>
+    <description><![CDATA[3 miles east of Benavides on FM 2295<br/><br/><b>Address:</b> 1631 E. FM 2295, Benavides<br/><br/><b>Marker Text:</b> Begun in 1894, the La Mota de Olmos Cemetery sits on land originally part of the Rancho La Mota de Olmos (The Cluster of Elms). The ranch, settled by the Bazan family, was founded by Francisco Bazan Villarreal, a native of Nuevo Leon, Mexico, on land granted to him in the 1870s. Several of those buried here were also born on the ranch with one of the earliest burials being the oldest child of Juan Bazan, son of Francisco Bazan. The first person to be buried, however, was a ranch hand. Other burials include Francisco Bazan (d. 1909) and Don Pedro Bazan (d. 1934), a well known curandero, or healer. The cemetery, approximately 250 feet by 250 feet, contains more than 100 graves and remains active. Historic Texas Cemetery - 2009]]></description>
+    <Point><coordinates>-98.349052,27.585279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santo Nino Cemetery</name>
+    <description><![CDATA[CR 210 W of S FM 1329<br/><br/><b>Address:</b> CR 210, San Diego<br/><br/><b>Marker Text:</b> Located south of San Diego, the Santo Nino Cemetery is an important chronicle of a historic Duval County community. The northern half of the cemetery was donated by Vicente Gonzales, whose grandfather, Dionicio Elizondo, received a land grant called, "El Senor de la Carrera." The southern half of the cemetery was donated by Jose Maria Martinez Gonzales, who was the son of Julia Gonzales Garcia, an aunt of Vicente Gonzales. Their donation was a part of the historic "La Huerta" land grant. The family members of the two original grantees donated the land for this cemetery to keep their loved ones close to the land they loved and sacrificed for. At the time of the land grants, Duval County was still part of Mexico. Unmarked graves with eroded and illegible grave markers predate the earliest marked burials. The oldest readable tombstone dates to June 19, 1908. This marker belongs to Eluterio Saenz Martinez, who was born on February 13, 1827. Another burial belongs to Maria Guillerma Garcia Solis, wife of Jose Maria Martinez Gonzales. Several veterans are interred here including those who fought in World War II, the Korean War and the Vietnam War. This cemetery has served Duval County families from the time it was part of Mexico, through the Republic of Texas, and finally as part of the 28th state of the United States. Santo Nino Cemetery is a reflection of the evolution of the area's history, resulting in an integrated cemetery with Anglo Americans and Mexican Americans laid to rest side by side. It has served the San Diego community as a final resting place for more than 100 years and continues to be used by the community. Historic Texas Cemetery - 2012]]></description>
+    <Point><coordinates>-98.271631,27.501652,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

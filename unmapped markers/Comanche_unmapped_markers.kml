@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Comanche County — Unmapped Historical Markers</name>
+  <description>THC markers in Comanche County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
+  <Placemark>
+    <name>Amity Cemetery</name>
+    <description><![CDATA[17 miles northwest on SH 36, then c. 6 miles west to cemetery.<br/><br/><b>Address:</b> Comanche vicinity<br/><br/><b>Marker Text:</b> When 14-year-old Charles Farley died in Feb. 1878, his parents buried him near their farmhouse, as this frontier locality had no cemetery at the time. Three months later Fannie Nichols (1875-78) died and was buried nearby. The Farleys then donated an acre of land as a community graveyard. The neighbors built an adjacent brush arbor for funerals and general gatherings. In the summer of 1878, Baptists organized a church, naming it Amity (friendship). Before erecting their own buildings, Baptists and Methodists held services in the brush arbor or at Amity School (1 mi. NW). William H. Lindley (1840-1913) bought land south of the Farley Farm in 1885. When new surveys placed the cemetery on his land, Lindley deeded the burial ground to the public. Later his son-in-law, George Brown, gave an additional acre to be used if needed. A large tabernacle with permanent fixtures replaced the brush arbor and was used for funerals until 1938 or 1939, when it was severely damaged by a storm. Free-will donations have maintained the cemetery since 1951. A "First Sunday in June Singing" which Amity Baptist Church originated in 1897 now serves as an annual memorial day and homecoming. By 1978 Amity Cemetery has nearly 400 graves. (1978)]]></description>
+    <Point><coordinates>-98.89701,32.047271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Big Eye Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> CR 235, Comanche]]></description>
+    <Point><coordinates>-98.500836,31.987555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Captain James Cunningham Home</name>
+    <description><![CDATA[12 miles south on SH 16 to Mt. Creek Ranch on east side of road (marker is on chimney).<br/><br/><b>Address:</b> Comanche vicinity<br/><br/><b>Marker Text:</b> 1855. Lumber hauled from Waco by ox wagon. Local stone. Place of county's first wedding. Recorded Texas Historic Landmark, 1965]]></description>
+    <Point><coordinates>-98.522454,31.743686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cyrus Campbell</name>
+    <description><![CDATA[De Leon City Cemetery, Weatherford and Reynosa Streets, De Leon.<br/><br/><b>Address:</b> DeLeon<br/><br/><b>Marker Text:</b> (October 11, 1810 - September 12, 1883) A blacksmith by trade, Cyrus Campbell migrated to Texas in 1828. He performed a number of jobs for the Republic of Texas, including the making of leg irons for Mexican General Antonio Lopez de Santa Anna after his capture at San Jacinto in 1836. Married twice, Campbell moved to De Leon in 1883 and was active in the Methodist Church. According to tradition, he chose the site for the De Leon Cemetery. His was the first grave here. Recorded - 1981]]></description>
+    <Point><coordinates>-98.544395,32.110142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Comanche County Courthouse</name>
+    <description><![CDATA[Comanche County Courthouse grounds, southwest corner facing W. Central Ave. (US 377). Moved here c. 1983. Medallion is on exterior wall and inscription plate is on interior.<br/><br/><b>Address:</b> 101 W. Central Ave., Comanche<br/><br/><b>Marker Text:</b> A dwelling before county organization, 1856. Served as courthouse in town of Cora until 1859, when Comanche became the county seat; then reverted to use as a residence. Moved here and restored by Mr. and Mrs. A. P. Burks.]]></description>
+    <Point><coordinates>-98.604021,31.897508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church</name>
+    <description><![CDATA[<b>Address:</b> 207 N. Pearl St., Comanche<br/><br/><b>Marker Text:</b> Organized 1874. Comanche County's oldest Presbyterian church. Original services in courthouse. First pastor was Rev. W. A. Smith. Suppers, teas, bake sales and quilting bees raised funds for construction of first edifice in 1880. Present church built, 1907. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-98.602871,31.898579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hanging Oak</name>
+    <description><![CDATA[Comanche County Museum, W. city limits, on Moorman Road, .2 mile west of intersection with Hilcrest, Comanche.<br/><br/><b>Address:</b> Comanche<br/><br/><b>Marker Text:</b> Oak used 1874 by mob to hang Joe Hardin, Tom and Bud Dixon, kinsmen of John Wesley Hardin in reprisal for murder of Deputy Chas. Webb. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-98.60202,31.910261,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hardin, John Wesley</name>
+    <description><![CDATA[Comanche County Museum, located west of city limits, on Moorman Road, 2 miles west of intersection with Hilcrest, Comanche.<br/><br/><b>Address:</b> Comanche<br/><br/><b>Marker Text:</b> Champion gunfighter in personal combat, Hardin was brought to justice for first time for murder of Deputy Sheriff Charles Webb here in Comanche in 1874. Served 15 years in prison. On release, opened law office in El Paso, 1894. Killed at age of 42 when shot in back, 1895. (1966)]]></description>
+    <Point><coordinates>-98.60202,31.910261,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>L. B. Russell Home</name>
+    <description><![CDATA[<b>Address:</b> 801 N. Elm, Comanche<br/><br/><b>Marker Text:</b> Two original rooms built 1877 of rubblestone hauled to site by ox wagons. Purchased 1886 by Texas pioneers L. B. and Alice Beeman Russell, who added rooms as children grew older. Home is still occupied by descendants. Mr. Russell, who survived until 1940, was lawyer, judge, mayor, editor, historian, genealogist, linguist, poet, fiddler, Bible student and a Mason--in his late years known as "The Grand Old Philosopher of Comanche." Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-98.481289,32.006158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Pleasant Baptist Church</name>
+    <description><![CDATA[From Comanche, take FM 2247 north about 2.5 miles to church (east side of road).<br/><br/><b>Address:</b> Comanche vicinity<br/><br/><b>Marker Text:</b> Organized under a brush arbor, with 21 charter members, Oct. 16, 1892. First pastor, F. M. Herring, and E. M. Moore, Jesse Cunningham and C. C. McCurdy composed the presbytery. Will Dewitt gave land, Nov. 26, 1892, on which the first building was dedicated, May 1893. Tabernacle was built in 1906 and present church, 1913. The charter members were The Revs. and Mmes. Frank Herring and Jim Fagan; Messrs. and Mmes. Will Dewitt, Jake Hodges, John Cameron, Dave Coker, Alfred Loftis and J. A. Payne; also Mrs. E. B. Farmer, Beckie Leech, Green West, Cordelia McNutt, Z. K. Smith. (1969)]]></description>
+    <Point><coordinates>-98.611567,31.936364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nineveh Cemetery</name>
+    <description><![CDATA[From Sipe Springs, 5 mi. E to NE corner of FM 587 and CR 170.<br/><br/><b>Address:</b> FM 587, Sipe Springs<br/><br/><b>Marker Text:</b> Settlement in the community that became known as Nineveh began as some southerners moved west after the close of the Civil War. In 1886, Hezekiah Bellamy gave two acres for a school and cemetery around this site. A young schoolmaster who was a graduate of Harvard University in Massachusetts named the school and cemetery for Nineveh in ancient Assyria. The first person to be interred here was Elizabeth McNeely (1804-1890). Her granddaughter, Minnie McNeely Dukes (1885-1972), was a teacher and community leader at Ninevah, and the Dukes family has maintained the historic graveyard. The area around the cemetery gradually became known as Old Nineveh. There are about 24 graves in the cemetery, including those of members of several pioneer Comanche County families. (2000)]]></description>
+    <Point><coordinates>-98.711786,32.106104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oakland Cemetery</name>
+    <description><![CDATA[From Sipe Springs, 5 mi. E on FM 587 then 2 mi. N on CR 170, at NW corner of CR 170 and CR 195<br/><br/><b>Address:</b> CR 170, Sipe Springs<br/><br/><b>Marker Text:</b> Settlement of Oakland community, which was named for the abundant live oak trees in the area, began in the early 1860s. H. S. Anglin and Sarah Frances Weaver were married in 1872, and they moved to Oakland in 1875. Brother Anglin, as H. S. was known, was a circuit riding Methodist minister who built the church in Oakland while also serving nine churches in nearby communitites. The first burial on this site took place in May 1891 upon the death of Willey N. Burleson. Three months later H. S. and Sarah Anglin deeded the two acres on which the church and burial gound were located to church trustees to serve Oakland and the surrounding communities of Sipe Springs, Duster, Beattie and Gorman. In 1907 the Anglins conveyed two more acres of land to cemetery trustees D. N. Burleson, L. C. Echols and T. J. Munn and their successors. Sarah Weaver Anglin died in 1928 and H. S. Anglin died in 1931; both are interred in the Oakland Cemetery. Others buried here incude members of the Anglin, Brooks, Couch, Dennis, Dukes, Echols, Foote, Hadaway, Hamlin, Hasley, Little, Munn, Poyner, Sexton, Sutton and Underwood families. The Oakland Cemetery Association was organized in 1976. By 1998 the burial ground occupied five acres. The graves include those of more than 40 veterans of World War I and World War II. The cemetery continues to serve Oakland and the surrounding communities and remains a record of the pioneers of Comanche County. (1999)]]></description>
+    <Point><coordinates>-98.711884,32.142443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Old De Leon Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending, in production as of Sep. 2021.<br/><br/><b>Address:</b> 100 S. Festival Lane, DeLeon]]></description>
+    <Point><coordinates>-98.526342,32.112601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Indian Creek Community</name>
+    <description><![CDATA[From Comanche, take SH 36 SE about 1.25 mile, then go east on county road about 2 miles, then north about 0.5 mile to Indian Creek Cemetery.<br/><br/><b>Address:</b> Comanche vicinity<br/><br/><b>Marker Text:</b> One of the first settlements in Comanche County; founded in 1851 by John A. McGuire. The first public building here was a stockade that enclosed several log cabins. Named "Double Pens" for its double walls, it was a storehouse for emergency supplies of grain, water and other food to be used by the settlers when they took refuge there during Indian raids. When the men were away, the women and children slept at Double Pens. Church services were also held inside the walls and a school was organized there in 1876. The first teacher was R. W. Welborne. The Indian Creek Methodist Church was formed in 1880 with the Rev. H. B. Henry as pastor. Land for a building was given by J. M. (Mart) McGuire. The church was noted for its summer camp meetings, held yearly for two weeks after cultivation of the crops was finished. The campers, from a wide area, would bring chickens for eggs and meat and cows to supply milk. The church was also known for the large number of preachers it produced. In 1922 the present building was erected. Services were discontinued in 1958. The first burial in the cemetery was made in 1880. The land, then property of R. C. Coker, was given to the church by later owner J. H. Watson in 1894. (1968)]]></description>
+    <Point><coordinates>-98.533924,31.898581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Swann Hill School</name>
+    <description><![CDATA[From Energy, take FM 2486 3 miles west near CR 252.<br/><br/><b>Address:</b> FM 2486, Energy<br/><br/><b>Marker Text:</b> John Henry Swann deeded this land about 1900 for educational purposes so that area children would not have to travel to Little Valley (3 mi. N) to school. In response, the Little Valley School closed and its building was relocated here. At its peak, Swann Hill offered ten grades of instruction to more than 100 students. In 1929, it was consolidated with the Pettit School (2 mi. W), and the schoolhouse was relocated again to enlarge that institution. Though operating only briefly, Swann Hill School was typical of early rural schools of the period. (1992)]]></description>
+    <Point><coordinates>-98.426072,31.790257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Taylor's Chapel Congregational Methodist Church</name>
+    <description><![CDATA[Comanche, 9.5 mi. NW at intersection of CR 140 and CR 144<br/><br/><b>Address:</b> Comanche<br/><br/><b>Marker Text:</b> Taylor's Chapel Congregational Methodist Church Under a brush arbor in 1901, Rev. J.V. Havner, a Methodist circuit preacher, led area residents as they organized a Methodist congregation. In January 1902, Hood Taylor deeded approximately two acres to the church, which thereafter became known as Taylor's Chapel. Although the earliest church records have been lost, those involved in the congregation during its formative years included the Robertson, Bingham, Chapman, Vaughn and Power families. Jim Power, Jim Robertson and Sam Vineyard were important early leaders. In 1914, Rev. Hutchins S. Anglin, known as the "walking preacher," was elected pastor of the church, a position he held until 1920. Rev. Brady Claud "B.C." Slate served in the 1920s, and Rev. William Sineon "Will" Clark served in the 1930s and 1940s. In combined years of service, Rev. Gloyd Horton and Rev. J.l. Jones pastored more than 30 years, from 1949 until 1981. Although construction on the congregation's first church house began in January 1902, members have often held services outside, under brush arbors and tabernacles, since their earliest meeting in 1901. Their first sanctuary served until 1948, when a new building was dedicated. Since that time, membership has fluctuated, with rising numbers at the church's centennial anniversary in 2001. The Taylor's Chapel Congregational Methodist Church, a part of the Soda Springs Community, continues to serve as a focal point and place of worship for the surrounding rural area. (2003)]]></description>
+    <Point><coordinates>-98.67502,32.000588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Toliver Cemetery</name>
+    <description><![CDATA[From Lamkin, take county road NE about 0.75 mile, veer right at fork, then continue about 1.1 mile east to end of road; go NE about .15 mile.<br/><br/><b>Address:</b> Lamkin vicinity<br/><br/><b>Marker Text:</b> Burial place of pioneers, including James H. Neel (east center plot), one of first seven men to bring families here (1852), four years before county was organized. His home was a quarter-mile east. He was postmaster, Resley's Creek Village, Sept. 17, 1858 to Nov. 5, 1866. (1967)]]></description>
+    <Point><coordinates>-98.23895,31.828051,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Union Primitive Baptist Church</name>
+    <description><![CDATA[on county road about 0.25 mile southwest of SH 36 in Lamkin<br/><br/><b>Address:</b> Lamkin<br/><br/><b>Marker Text:</b> Organized 1892 by Elders A. P. Koen, W. G. Green, W. C. Burks, and Deacons F. W. Bryan, J. H. Caudle. Charter members were Deacon A. B. Neal, Messrs. J. C. Clayton, J. W. Hamilton, G. R. Hamilton, John Manning, and J. A. Stevens, Clerk; also Mmes. M. J. Hamilton, L. J. Stevens, P. Neal, and H. D. Clayton. Early pastors were elders W. G. Green, A. P. Koen, and J. R. Sims. Except for one leave, Elder Len Dalton has been pastor since 1915. Assistant Pastors: Elders G. Dalton and C. T. Venable. First Deacons ordained: M. C. Morris and J. A. Stevens, whose son F. C. Stevens succeeded him as Clerk. (1968)]]></description>
+    <Point><coordinates>-98.267503,31.823907,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

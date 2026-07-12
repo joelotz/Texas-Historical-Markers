@@ -1,0 +1,13 @@
+DeWitt unmapped markers with NO usable address (3):
+
+  THC 16057: Captain John York and James Madison Bell
+    https://atlas.thc.texas.gov/Details/5507016057
+
+  THC 3266: May-Hickey House
+    addr: Yoakum
+    https://atlas.thc.texas.gov/Details/5123003266
+
+  THC 24172: Sandy Gate Cemetery
+    addr: Yorktown
+    https://atlas.thc.texas.gov/Details/5000024172
+

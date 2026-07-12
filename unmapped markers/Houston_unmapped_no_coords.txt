@@ -1,0 +1,109 @@
+Houston unmapped markers with NO usable address (29):
+
+  THC 24185: "Slocum Massacre" in Houston County
+    addr: FM 2022, Grapeland
+    https://atlas.thc.texas.gov/Details/5000024185
+
+  THC 7011: Archie Adams
+    addr: Lovelady
+    https://atlas.thc.texas.gov/Details/5225007011
+
+  THC 11093: Bradford Davis Family
+    https://atlas.thc.texas.gov/Details/5225011093
+
+  THC 11085: Captain Elisha Clapp
+    https://atlas.thc.texas.gov/Details/5225011085
+
+  THC 15607: Captain John English
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507015607
+
+  THC 11083: Cedar Point Church and Cemetery
+    https://atlas.thc.texas.gov/Details/5225011083
+
+  THC 11088: Creek Cemetery
+    https://atlas.thc.texas.gov/Details/5225011088
+
+  THC 12081: Elisha Clapp
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225012081
+
+  THC 14768: First National Bank Building
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014768
+
+  THC 20014: Fodice Cemetery
+    addr: 7446 County Rd. 4200, Lovelady
+    https://atlas.thc.texas.gov/Details/5507020014
+
+  THC 12083: Hall Cemetery
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225012083
+
+  THC 15007: Hill Cemetery
+    addr: Kennard
+    https://atlas.thc.texas.gov/Details/5507015007
+
+  THC 14884: Jasper Cemetery
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014884
+
+  THC 11204: John A. Box
+    https://atlas.thc.texas.gov/Details/5225011204
+
+  THC 16239: King's Highway - Camino Real - Old San Antonio Road
+    https://atlas.thc.texas.gov/Details/5507016239
+
+  THC 15391: Kings Highway
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507015391
+
+  THC 23841: Lake Creek Cemetery
+    addr: 5175 County Road 4545, Kennard
+    https://atlas.thc.texas.gov/Details/5000023386
+
+  THC 17104: Lovelady Evergreen Cemetery
+    addr: Lovelady
+    https://atlas.thc.texas.gov/Details/5507017104
+
+  THC 11249: Madden Massacre
+    https://atlas.thc.texas.gov/Details/5225011249
+
+  THC 11205: Nelson Box
+    https://atlas.thc.texas.gov/Details/5225011205
+
+  THC 18281: Old Shady Grove Cemetery
+    addr: FSR 587, Kennard
+    https://atlas.thc.texas.gov/Details/5507018281
+
+  THC 12373: Old Zion Cemetery
+    addr: Kennard vicinity
+    https://atlas.thc.texas.gov/Details/5225012373
+
+  THC 11206: Reverend Thomas Box
+    https://atlas.thc.texas.gov/Details/5225011206
+
+  THC 12080: Site of Center Grove School
+    addr: Lovelady
+    https://atlas.thc.texas.gov/Details/5225012080
+
+  THC 7921: Site of Daniel McLean Claim
+    addr: SH 21, Weches
+    https://atlas.thc.texas.gov/Details/5225007921
+
+  THC 11244: Smith Brothers
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225011244
+
+  THC 12087: William Preston and Rebecca Kate Conner House
+    addr: Ratcliff
+    https://atlas.thc.texas.gov/Details/5225012087
+
+  THC 15229: Wingate, Mrs. Isabella
+    addr: Grapeland
+    https://atlas.thc.texas.gov/Details/5507015229
+
+  THC 14314: Wortham, Major John
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014314
+

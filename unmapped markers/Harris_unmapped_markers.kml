@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Harris County — Unmapped Historical Markers</name>
+  <description>THC markers in Harris County without an HMDB id (isMissing excluded). 53 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alief Cemetery</name>
+    <description><![CDATA[SW corner of Bellaire Blvd. and Dairy-Ashford Rd.<br/><br/><b>Address:</b> Houston]]></description>
+    <Point><coordinates>-95.604406,29.703397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Allen's Landing</name>
+    <description><![CDATA[Main St.; (park under viaduct)<br/><br/><b>Address:</b> Houston<br/><br/><b>Marker Text:</b> This Houston City Park, created in 1967, is on the site of Houston's first port, ocean-going ships, both steamers and sailing vessels, loaded and unloaded freight here, beginning with visit of the steamer "Laura," which docked on January 26, 1837. The farsighted Allen brothers, Augustus C. and John K., located their city here primarily because they considered Houston "the head of navigation" on Buffalo Bayou. Although shallow and winding, Buffalo Bayou contributed immeasurably to growth of Houston from its earliest days. The confluence of Buffalo and White Oak bayous provided a natural turning basin for the small ships of the day. The Port of Houston was officially established by the city on June 8, 1841. Over the years Houston has labored for deeper water. In 1910 the United States Congress adopted the "Houston Plan," whereby the navigation district and Federal government shared costs of dredging a ship channel from the Gulf to the present turning basin, 4.25 miles east of this point. This deep water channel brings the world's commerce to one of the largest ports in the nation. However, to this day barges move much freight on up the bayou to downtown Houston.]]></description>
+    <Point><coordinates>-95.359211,29.763934,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Arthur B. Cohn House</name>
+    <description><![CDATA[near Minute Maid Park<br/><br/><b>Address:</b> Avenida de las Americas, Houston<br/><br/><b>Marker Text:</b> A native of Little Rock, Arkansas, Arthur Benjamin Cohn (1871-1938) constructed this home soon after purchasing the property in 1905. As principal accountant for the William Marsh Rice Estate, Cohn was instrumental in the establishment of Rice Institute in 1912 and served as its first business manager. The late Queen Anne style house, which features paired classical columns and bracketed eaves, was Cohn's residence until 1909. Recorded Texas Historic Landmark - 1985]]></description>
+    <Point><coordinates>-95.355995,29.75552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Baker-Jones House</name>
+    <description><![CDATA[<b>Address:</b> 22 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Prominent attorney, banker, and industrialist James Addison Baker (d. 1941) purchased this property in 1915. He hired noted Houston architect Birdsall P. Briscoe to design this house, which he presented as a gift to his daughter, Alice Graham Baker and her husband, Murray Brashear Jones. Completed in 1917, the Baker-Jones House is an excellent local example of an early-20th century grand residence. Classical stylistic influences are exhibited in its refined and symmetrical proportions. The structure's prominent architectural features include a pedimented entrance pavilion flanked by Doric pilasters, with a recessed entry portico supported by fluted Doric columns. Also of note are the multi-light windows and round-headed dormers. Murray Jones was a respected lawyer who served as assistant district attorney and Harris County judge. Alice Baker Jones was a prominent local civic leader involved in numerous church and charitable activities. The house was sold out of the family in 1938. It has undergone a succession of owners since that time but remains one of the best preserved examples of Birdsall P. Briscoe's work in Houston. Recorded Texas Historic Landmark - 1991]]></description>
+    <Point><coordinates>-95.385412,29.743821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Beth Israel Cemetery</name>
+    <description><![CDATA[1207 W. Dallas<br/><br/><b>Address:</b> 1207 W. Dallas, Houston<br/><br/><b>Marker Text:</b> Beth Israel Cemetery Established c. 1844 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-95.379555,29.757979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bogs-Hufsmith Cemetery</name>
+    <description><![CDATA[thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 11410 Bogs Rd., Tomball<br/><br/><b>Marker Text:</b> Bogs-Hufsmith Cemetery
+Established 1911]]></description>
+    <Point><coordinates>-95.591624,30.134224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bonin Family Cemetery</name>
+    <description><![CDATA[Bonin Cemetery Road, which intersects with 23000 block of Gosling Rd.<br/><br/><b>Address:</b> Houston<br/><br/><b>Marker Text:</b> Paul Norval Bonin was born on September 2, 1814 in Fausse Pointe, Iberia Parish, Louisiana to Joseph Baron Bonin and Euphrosine Louise (Borel) Bonin. Norval married Marie Coralie Hayes in Louisiana in 1835, and in 1852, the Bonins moved with several of their children and approximately fifty other French families to North Harris County, Texas. Bonin purchased 1253 acres, including this site, for $1250 in 1857. The Bonin family’s property was located at the heart of the area’s French settlement, and families such as Leleux, Melancon, and Pevateaux were neighbors. A 500-acre parcel was sold to Norval’s son-in-law Leon Leleux in 1859. Those buried here are descendants of Norval and Coralie Bonin and their spouses and in-laws. The earliest known grave marker in the cemetery states that Ofelait Bonin, three-year-old daughter of Joseph Telesphore Bonin and Marie Gertrude (Arceneaux) Bonin, died on September 9, 1865. Norval Bonin died in November 1868 and his wife, Coralie, died in February 1871; both were buried here. After the deaths of Norval and Coralie, the remaining family property passed to the five Bonin sons who survived their parents – Telesphore, Oneziphore, Zepherin, Ernst Adness and Alcide – and each received approximately 150 acres to farm. In 1987, Vernon Roland and Freddie Brill, together with other Bonin descendants, formed the Bonin Cemetery Association to oversee care and preservation of the site. The Bonin family cemetery remains active, and descendants meet each April to remember and honor their ancestors.]]></description>
+    <Point><coordinates>-95.508802,30.106911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Boynton Chapel Methodist Church</name>
+    <description><![CDATA[2812 Milby St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2812 Milby St., Houston<br/><br/><b>Marker Text:</b> The church’s history notes that it was organized by eight founding members in 1880. The African American congregation quickly grew and, in August 1885, the Dallas Street Methodist Episcopal Church, by now part of the Texas Conference, purchased property at Dallas and Paige Streets. The first recorded pastor was Peter Bush in 1886. The church was renamed Boynton Chapel Methodist Church by 1889, and membership grew to 300 by 1915. An expansion and addition to the 1887 church was designed under the Rev. Jesse W. Gilder in 1916 and completed under the Rev. S.W. Johnson in 1922. The church purchased an adjacent lot to enlarge the building and establish a community center, featuring a gymnasium, roof garden, reading room, classroom, playground and pool. This pool was the only such Houston facility open to African Americans from 1926 to 1939. The community center later added a nursery school. 
+  Under the leadership of the Rev. Homer D. Pace, the church purchased property at 2812 Milby Street in 1955 for a new building. John S. Chase (1925-2012), Texas’ first licensed African American architect, designed the building early in his career. Local artist Carroll Harris Simms (1924-2010) created the leaded art glass at the entry. The new building was dedicated on January 5, 1958. Chase’s mid-century modern design emphasizes the horizontal plane and natural lighting. Distinguishing features include the flying gables and low bell tower, stained glass window walls in the sanctuary and cruciform shapes outlined in pink marble on the east and south elevations.
+  In its new location, the church continued to serve the Third Ward community. Noted church members included community leaders such as Christia Adair (1893-1989), Madgelean “Mama” Bush (1931-2010) and Dr. Forde McWilliams (1926-2001). For more than 100 years, Boynton Chapel has been a staple of Houston’s Third Ward.
+
+RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
+    <Point><coordinates>-95.347106,29.730516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brill-Mueller House</name>
+    <description><![CDATA[<b>Address:</b> 2503 South Cherry St., Tomball<br/><br/><b>Marker Text:</b> In 1873, German native Johannes Brill (1832-1909) immigrated to Texas with his wife, Anna Schafer, and their daughter, Emilie. They settled near friends in the German community of Big Cypress, later known as Klein. Brill farmed his land and helped organize what is now the Trinity Lutheran Church of Spring. He built this home, originally located eight miles from this site, for his family about 1880. The house later belonged to Friedrick and Emilie (Brill) Mueller and remained in the Brill-Mueller family until 1981. The history of this family home reflects the area's rich German heritage.]]></description>
+    <Point><coordinates>-95.61121,30.07007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bryan-Chapman House</name>
+    <description><![CDATA[<b>Address:</b> 15 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Envisioning a thoroughly modern home for themselves, sisters and Houston arts community leaders Caroline Bryan Chapman (1859-1933) and Johnelle Bryan (1861-1935) had this house constructed in 1925. The home was a showplace of strong Mediterranean influences such as arched windows, multi-light doors, a Ludowici tile roof, and balconets. The sisters enjoyed their Courtlandt Place home for less than a decade. It was purchased in 1935 by Oilman Joseph F. Bashara, whose family remained in the house until 1980. Recorded Texas Historic Landmark - 1998 This home was designed by 26-year-old Texas architect Carlos B. Schoeppl (1898-1990). He later moved to Florida where he had a distinguished career. Supplemental plaque - 2010]]></description>
+    <Point><coordinates>-95.384434,29.743153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Charles W. Luckie School</name>
+    <description><![CDATA[1004 Palmer St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1004 Palmer St., Houston<br/><br/><b>Marker Text:</b> Charles W. Luckie was born into slavery on August 3, 1861. He studied at Atlanta University, graduating in 1883. Luckie then moved to Texas and was hired as the principal of Huntsville’s first school to offer primary, normal and collegiate classes for black students. In 1888, he accepted a position at Prairie View State Normal and Industrial College (now Prairie View A&amp;M University). During his 20 years with the college, he served in many positions, including professor of English, Latin and history, as well as bookkeeper, treasurer and vice principal. He also taught during the summers at various locations around the state. In 1893, he married Ida Bell Evans (1865-1919). Luckie died January 1, 1909 at age 47.
+  A new six-room wood frame elementary school for black students in Houston’s Third Ward was built at a cost of $5,700 and opened on April 5, 1909. The district’s black principals met and unanimously proposed that it be named after Professor Luckie. On May 11, the school board agreed, thus Charles W. Luckie school became the first Houston school to be named for a Black Texas educator. Just two weeks later, Prairie View College named a new building containing classrooms and student residences as Luckie Hall. 
+  A two-room annex was added to the Luckie School in 1911. The main building burned in February 1918 and was replaced in September 1919 with a two-story eight-room brick building at a cost of $16,751. The staff included John Logan Blount, renowned Houston architect; Julius N. Dodson, the school’s first principal; Jeremiah Johns, the school’s last principal; Mabel Fairchild, teacher; and Pauline Patten, the mother of Thelma Patten Law, the first Black woman in Houston to practice medicine. A fire next to the school in June 1944 caused its closure. It has since been used as a Houston ISD administration building and a commercial property. (2022)]]></description>
+    <Point><coordinates>-95.347055,29.746060,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>City of Goose Creek</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 207 W. Texas Ave, Baytown<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.969784,29.732702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dawson Lunnon Cemetery</name>
+    <description><![CDATA[5737 Kemp Street | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 5737 Kemp Street, Houston<br/><br/><b>Marker Text:</b> DAWSON LUNNON CEMETERY
+
+ESTABLISHED 1915
+HISTORIC TEXAS CEMETERY – 2009]]></description>
+    <Point><coordinates>-95.315042,29.733392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edward Mandell House</name>
+    <description><![CDATA[in lobby of Bob Casey Federal Courthouse<br/><br/><b>Address:</b> 515 Rusk, Houston<br/><br/><b>Marker Text:</b> (July 26, 1858 - March 28, 1938) Son of Houston businessman and Mayor Thomas W. House, was born in a two-story frame house at this site. He attended the Houston Academy and later continued his education in Virginia and at Cornell University. E. M. House married Loulie Hunter in 1881, and they were the parents of two daughters. In 1885 the family moved to Austin, and House became involved in Democratic party politics. He was instrumental in the election of four Texas governors-- James S. Hogg, Charles A. Culberson, S. W. T. Lanham, and Joseph D. Sayers. House gained national political prominence in 1912 when he was instrumental in the nomination of Woodrow Wilson for president. House became a trusted advisor to President Wilson, participating in foreign policy negotiations during and after World War I. He played a major part in drafting the Fourteen Points, Wilson's plan for ending the war, and was a delegate to the Paris Peace Conference in 1919. House died in New York in 1838 and was buried in Houston's Glenwood Cemetery. Known as Colonel House for many years, he is remembered as one of the most politically influential people of Texas and the United States, although he never held elective office.]]></description>
+    <Point><coordinates>-95.367759,29.760987,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edward R. and Ann Taylor</name>
+    <description><![CDATA[Houston, 1900 Reed Rd.<br/><br/><b>Address:</b> 1900 Reed Rd, Houston<br/><br/><b>Marker Text:</b> Edward R. and Ann Taylor Edward Ruthven Taylor, born in August 1845 at Independence, Texas, moved with parents Edward Wyllys and Aaroline Taylor to Houston in 1848. Here, in the city's formative years, the family made an impact in the cotton business and in the public education system. At the start of the Civil War, Edward Ruthven attended private school in New York. In 1862, at age 16, he returned to Texas and joined Waul's Texas Legion. He served with the unit at the battle of Vicksburg, Mississippi, where he was captured. While held as a prisoner of war, he contracted tuberculosis and the Legion later discharged him from service. As he recuperated at home, Edward became close to one of his family's slaves, a girl named Ann. Some sources indicate Ann came from Hungerford, Texas, and slave papers list her name as Ann George. Edward and Ann fell in love and unofficially married, as interracial marriages were not legal in Texas at the time. At the age of 25, Edward moved to Myrtle, later known as Pierce Junction, with Ann and their first child, Pinkie. Establishing a farm of more than 600 acres, the family grew, and Ann and Edward had five more surviving children: Major Julius, Samuel, William E., Nettie C., and Burt Taylor. In 1903, Edward deeded half of his property to Ann. She lived until 1909 and is buried on the original Taylor homestead with three children who did not reach adulthood. A few years before Ann's death, the family became aware of potential oil deposits on their land. In 1921, the Pierce Junction field had its first substantial oil strike. The oil rush continued beyond Edward's death in 1924, and his children, given equal shares of the property, continued to maintain the land and its resources. Family members donated the original homestead to the City of Houston in 1986. (2003)]]></description>
+    <Point><coordinates>-95.399924,29.657464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edwin and Daphne Neville House</name>
+    <description><![CDATA[11 Courtlandt Place, Houston<br/><br/><b>Address:</b> 11 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> This 1914 Birdsall P. Briscoe house is a two-and-a-half story brick Tudor revival style residence. Retaining its original floor plan and interior finishes, it features half-timbered gables, a steeply-pitched hipped roofline, and four brick chimneys. Briscoe’s design includes one-story brick loggias, topped with brick balustrades. Edwin L. Neville, partner at Dorrance &amp; Company, and his wife, Daphne Palmer, were active in civic affairs, including the Houston community chest, the Junior League of Houston, inc., the Edward Palmer Memorial Chapel and Jefferson Davis Hospital. The house remained in the Neville family until 1949.]]></description>
+    <Point><coordinates>-95.383633,29.743218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ewart H. and Lillian Lightfoot House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3702 Audubon Place, Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.386558,29.739612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Founders' Memorial Park Cemetery</name>
+    <description><![CDATA[1217 West Dallas at Valentine Street<br/><br/><b>Address:</b> 1217 West Dallas, Houston<br/><br/><b>Marker Text:</b> Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-95.379618,29.757979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Garrow House</name>
+    <description><![CDATA[<b>Address:</b> 19 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> John W. Garrow (1879-1944), a successful cotton broker, had this house built in 1913 for his family. Designed by Houston architect Birdsall P. Briscoe, this was the seventh house built in the exclusive Courtlandt Place neighborhood. The house is an excellent example of Italian renaissance influence, a style popular in the United States between 1890 and 1935. Garrow family members lived in the house until 1944. Recorded Texas Historic Landmark - 1997]]></description>
+    <Point><coordinates>-95.385203,29.743186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill of Rest Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1600 Market St., Baytown<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.983015,29.732910,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hillendahl Cemetery</name>
+    <description><![CDATA[southeast corner of Long Point Road and Pech Road<br/><br/><b>Address:</b> Houston<br/><br/><b>Marker Text:</b> (Historic Texas Cemetery medallion only)]]></description>
+    <Point><coordinates>-95.495437,29.802954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Houston Negro Chamber of Commerce</name>
+    <description><![CDATA[2808 Wheeler St.<br/><br/><b>Address:</b> 2808 Wheeler St., Houston<br/><br/><b>Marker Text:</b> In September 1935, several prominent community leaders organized the Houston Negro Chamber of Commerce (HNCC) to empower and promote African-American buinesses in the city. They focused on encouraging business within African-American communities, since Jim Crow laws prevented blacks from accessing opportunities outside of their neighborhoods. With J.E. Robinson, Sr. as its first president, it was the first successful group of this type in Houston's black community. The office was in the black-owned Pilgrim Temple Building from 1935 until moving here in 1963. The HNCC sought to promote the civic, ecnomic, industrial, agricultural and social welfare of Houston residents; encourage alrger patronacge of balc enterprises and practival educatino in the trades and arts to stimulate better business; and develop a more amicable relationship between racial groups. The organization also encouraged residents to pay their poll taxes in order to become eligible to vote, promoted fair housing and emplyment practives, contributed to international commerce, and held contests, better businessesformus, and baquets to motivate the African-American community. During World War II, their office served as a rations hedquarters. A junior chamber was organized in 1942. The chamger also provided platforms for national leaders and partnered with government programs. Women have been actively involved in the HNCC since its formation and hel d offices as early as 1957. In 1964, under the leadership of Mack H. Hannah, Jr., the chamber changed its name to the Houston Citizens Chamber of Commerce (HCCC). Today, the HCCC continues to represent the interests of and promote greater unity among the African-American business community. (2008)]]></description>
+    <Point><coordinates>-95.367414,29.724706,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Immaculate Heart of Mary Catholic Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1102 76th St., Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.287295,29.738776,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Judson and Lena Carter Carroll House</name>
+    <description><![CDATA[<b>Address:</b> 16 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Built in 1912, with 1924 alterations by architect Birdsall P. Briscoe, this was the home of James Judson Carroll (1876-1938), noted businessman and ornithologist, and Lena (Carter) 1879-1971) his wife, who was a member of a prominent lumber company family. The classical revival residence features interior carvings by artist Peter Mansbendel, two-story colossal columns, a distinctive balustrade, and large windows on the principal facade. Recorded Texas Historic Landmark - 1997]]></description>
+    <Point><coordinates>-95.384445,29.743879,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John M. Dorrance House</name>
+    <description><![CDATA[<b>Address:</b> 9 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> (1852-1935) An early Houston cotton broker and business and civic leader, had this home built for his family in 1914. Designed by the noted Fort Worth architectural firm of Sanguinet and Staats, the house is an outstanding example of Mediterranean architecture. Prominent features of the structure include its arched windows and door openings, tile roof, and stucco finish. It remained in the Dorrance family until 1941. Recorded Texas Historic Landmark - 1991]]></description>
+    <Point><coordinates>-95.383133,29.743227,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jones-Hunt House</name>
+    <description><![CDATA[<b>Address:</b> 24 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Noted Houston architect Alfred C. Finn designed this home for Sarah (Brashear) Jones, widow of state senator James W. Jones. Finn melded the oak woodwork of the Jones’ 1893 home, including the windows, doors, wainscoting and grand staircase, into this post-WWI house. The tudor revival styling features a wide central gable, a two-story off-center parapeted entrance portico, an arched opening supported by pilasters, and a porte cochere. Sarah, her daughter Irma and son-in-law William C. Hunt moved into the house in 1921; five generations of this family lived here until 1989.]]></description>
+    <Point><coordinates>-95.38577,29.743848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kohrville</name>
+    <description><![CDATA[11000 Gatesden Dr<br/><br/><b>Address:</b> 11000 Gatesden Dr, Tomball<br/><br/><b>Marker Text:</b> Early settlers came to this part of Harris County from distant lands. French-born Eugene Pillot, his son Nick and son-in-law J.C. Sellers operated the Pillot and Sellers Sawmill on Pillot Gully in the 1860s, when the area was known as Pillotville. By 1870, Paul Kohrmann had arrived from Baden, Germany. The following year, he was naturalized, and in 1872 he married Agnes Othila Tautenhahn. Near this site, the Kohrmanns owned a general store, which also housed a post office from 1881 to 1911. Paul Kohrmann was the first postmaster, serving until his death in 1894, when Agnes was appointed postmistress. She served until 1911 when the post office closed. Agnes died in 1932, and both she and Paul are buried here in the Kohrmann Family Cemetery. The general store and Kohrville post office served as the social center of a widely dispersed population. In the late 19th century, families arrived from Prussia, Denmark, Ireland and England, as well as several Southern states. African Americans also moved here from the Piney Point area west of Houston. The locale had multiple schools, churches, sawmills and a cotton gin in the early 20th century but remained sparsely populated until suburban growth occurred. All that remains today of the original historic Kohrville to remind us of the Kohrmann family and other early settlers and their contribution to the community is an area designated as Kohrmann Park, adjacent to the Kohrmann Family Cemetery. (2006)]]></description>
+    <Point><coordinates>-95.58531,30.003096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lola Ann Cullum</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 501 Pease St., Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.373987,29.755089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Minchen House</name>
+    <description><![CDATA[<b>Address:</b> 1753 North Blvd., Houston<br/><br/><b>Marker Text:</b> A pioneer in the oil and gas industry in Texas, Oklahoma and Louisiana, real estate investor Simon Minchen (1886-1958) and his wife, Mamie (Pesses) (1887-1986), purchased this lot in 1930 for $4,500. They paid noted Houston architect Joseph Finger $1,250 to design this house for their family, and contractor w. J. Goggan, known for his exceptional craftsmanship, completed it in 1931 for $25,000. A rare example of Italian Renaissance architecture in Houston, the Minchen House exhibits prominent characteristics of that style, including the clay tile roof and arched windows and doors. Recorded Texas Historic Landmark - 1999]]></description>
+    <Point><coordinates>-95.403306,29.727741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Dyer House, 1890</name>
+    <description><![CDATA[<b>Address:</b> 11510 S. Garden, Missouri City<br/><br/><b>Marker Text:</b> Victorian home, of heart pine and cypress, built with square nails. Erected in Richmond, texas. J. t. Dyer, builder, had crew desert him during murders in Jaybird-Woodpecker feud, a war for political rights. Moved to present site, 1963. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-95.525311,29.637284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Original site of the Houston Coca-Cola Bottling Company</name>
+    <description><![CDATA[Houston, 2009-2011 Washington Avenue<br/><br/><b>Address:</b> 2009-2011 Washington Ave, Houston<br/><br/><b>Marker Text:</b> Original site of the Houston Coca-Cola Bottling Company The Houston Coca-Cola Bottling Company, one of the first companies in the nation granted franchise rights for the distribution of Coca-Cola in bottles, opened its doors in a brick building on this site in 1902. J.T. Lupton of Chattanooga, Tennessee, was the primary owner. The initial purchase of syrup from the Coca-Cola Company consisted of 387 gallons of syrup, and bottled Coca-Cola was delivered by a mule-drawn wagon. In 1908, the company bought almost 3,000 gallons of syrup to meet the soda demand, which was growing along with Houston's population. In this location, they had one hand-operated bottling machine with a capacity of 250 cases a day. By 1915, sales of Coca-Cola had increased such that the company moved to larger facilities at 1212 Washington Avenue. In 1918, J.E. Evans became the plant's general manager, and during his tenure Houstonians continued to celebrate the soft drink sensation, prompting the company's continued growth. By 1948, C. Lupton Thomas, general manager, and J.E. Evans, president, developed plans for a new facility at 2800 Bissonnet. Lauded as the world's most modern Coca-Cola plant, the new million-dollar plant opened to the public in June 1950. For more than a century, the Houston Coca-Cola Bottling Company has provided jobs, as well as refreshment, to the City of Houston and surrounding areas. The company has consistently given back to the city through charity work and project funding. As one of the largest operations of its kind in the world, it continues its commitment to employees, customers and neighbors. (2003)]]></description>
+    <Point><coordinates>-95.36184,29.765349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Radio Station KLVL</name>
+    <description><![CDATA[<b>Address:</b> 111 N. Ennis Street, Houston]]></description>
+    <Point><coordinates>-95.341113,29.754762,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Samuel Paschall</name>
+    <description><![CDATA[St. Vincent de Paul Cemetery, NW corner Navigation Blvd. and N. St. Charles St.<br/><br/><b>Address:</b> 2400 Navigation Blvd., Houston<br/><br/><b>Marker Text:</b> Born in Tennessee in 1815. Private in Captain Amasa Turner's company at the Battle of San Jacinto. Served in the Army of Texas from February 13, 1836 to June 30, 1837. Died June 6, 1874. Wife, Bridget O'Reilly. Erected by the State of Texas 1957]]></description>
+    <Point><coordinates>-95.345382,29.758881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schools at Cedar Bayou</name>
+    <description><![CDATA[2610 E. Elvinta St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2610 E. Elvinta St., Baytown<br/><br/><b>Marker Text:</b> The 1876 Texas Constitution established districts called "school communities," leading to the opening of the first public school in Cedar Bayou that year. The school occupied the first floor of the masonic lodge. The 1884 school law established “common school districts” and District No. 15 contained three schools: Cedar Bayou, Goose Creek and Cedar Bayou Colored. Beginning in 1893, African American students attended school at Mt. Olive Church in Chambers County. In 1911, voters approved a bond to build a two-story brick school on a two-acre plot donated by Edward Ilfrey. Cedar Bayou Independent School District was created by an act of the Texas Legislature in 1917, but the district was not functional until 1919. 
+  In 1928, an elementary school was added, and in 1939, the two-story brick schoolhouse was replaced with a new building to be used for Cedar Bayou High School. Five years later, the junior high school wing was added. In 1954, Cedar Bayou ISD merged with Goose Creek ISD to become Goose Creek Consolidated Independent School District. The 1954 graduating class was the last to attend Cedar Bayou High School and the remaining high school students transferred to Robert E. Lee High School in Baytown. 
+  The former high school building became the new Cedar Bayou Junior High School. After the elementary school closed in 1956, grades 7-9 were the only classes taught on the campus. Goose Creek CISD desegregated in 1966, and separate education for black and white students was abolished. As Baytown’s population continued to increase, additional schools have been added.
+  Fewer than fifty students attended the first public school in Cedar Bayou on its opening in 1876. Since then, the school has grown to a twenty-four-acre campus providing a junior high school education to the more than one thousand enrolled students. (2023)]]></description>
+    <Point><coordinates>-94.936374,29.752189,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Seabrook Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 615 Pine Gully Road, Seabrook<br/><br/><b>Marker Text:</b> Seabrook Cemetery Established 1855 Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-94.993807,29.592196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Seal McDougle Cemetery</name>
+    <description><![CDATA[23110 1/2 Cypresswood Dr, north of intersection with Treaschwig Rd<br/><br/><b>Address:</b> 23110 1/2 Cypresswood Dr, Spring<br/><br/><b>Marker Text:</b> Seal McDougle Cemetery Established 1883 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-95.347298,30.04678,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sherman, Gen. Sidney, Home of</name>
+    <description><![CDATA[Old Harrisburg Cemetery, Magnolia Street off Broadway, Houston 77012<br/><br/><b>Address:</b> Houston<br/><br/><b>Marker Text:</b> Site of the Home of General Sidney Sherman 1805-1873 Commander of the left wing of the Army at the Battle of San Jacinto - Member of the Texas Congress, 1842-1843 - Builder of the first Texas railroad - This house was burned in 1853 Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-95.27532,29.720198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sloan Memorial United Methodist Church</name>
+    <description><![CDATA[<b>Address:</b> 712 Sydnor, Houston<br/><br/><b>Marker Text:</b> One of the oldest Black Methodist churches in Houston, this congregation was started in 1880 by the Rev. Ed Roscoe, who served as the first pastor, with the assistance of the Rev. George Davis and the Rev. James Smith. The organizational meeting was held under a tent at this site. In 1881, church trustees Wash Breed, Robert Swiley, and Dick Thomas purchased the property from J. E. Foster, a local realtor. Since the land was located on Sloan Street, later renamed Sydnor, the original congregational name was Sloan Street Methodist Episcopal Church. The first sanctuary and parsonage were destroyed by fire in 1912. During construction of a new chapel, worship services were held in a frame building at the corner of Meadow and Nance. Additional facilities were completed during a 1950 building program. A significance force in the development of the local neighborhood since the 1880s, Sloan Memorial United Methodist Church has been active in community action programs. Members here have included several prominent business, professional, religious, and civic leaders of the area.]]></description>
+    <Point><coordinates>-95.338423,29.768168,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smith v. Allwright</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 4902 Lyons Ave, Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.321017,29.776196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Peter Church</name>
+    <description><![CDATA[9022 Long Point Rd. at S. Campbell<br/><br/><b>Address:</b> 9022 Long Point Road, Houston<br/><br/><b>Marker Text:</b> Founded, 1848, by five German immigrant families. A log cabin erected in 1854 served as house of worship until 1864, when this building was dedicated. It is one of the oldest church buildings in continuous use in Harris County. Many of the descendants of the founders still worship here. Many original church artifacts are still in use. An early public school in west Harris County was located on this site. the cemetery which adjoins the church grounds dates from 1848 and contains graves of many pioneers of the area. Church building restored, 1967. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-95.512263,29.800565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Strack Cemetery</name>
+    <description><![CDATA[Just N of Cypresswood Dr, E of intersection with Kuykendahl Rd<br/><br/><b>Address:</b> Spring<br/><br/><b>Marker Text:</b> Brothers Herman and Heinrich Strack came to Texas from Feudingen, Germany in 1848 with their families. By the mid-1850s they were joined by their other brothers Johann Jost, Friedrich and Jakob, and their respective families. In 1863, Herman bought land at this site that included a pre-existing burial ground; Friedrich and Jakob later became owners of the cemetery property. The burial ground became known as the Strack Cemetery. Graves of military veterans here date to the Civil War. Today, Strack family descendants manage the site through an association. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-95.478942,30.032826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] The Brick Yards on Cedar Bayou</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 200 Roseland Dr., Baytown]]></description>
+    <Point><coordinates>-94.946544,29.723381,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Kinkaid School</name>
+    <description><![CDATA[201 Kinkaid Dr. at San Felipe<br/><br/><b>Address:</b> 201 Kinkaid Dr., Houston<br/><br/><b>Marker Text:</b> The oldest private non-parochial school in Houston, the Kinkaid School was started in 1906 by Margaret Hunter Kinkaid. Unable to teach in the public schools because of a regulation prohibiting married women instructors, Mrs. Kinkaid began teaching students in her home at the corner of San Jacinto and Elgin streets. The first pupils were seven kindergarten students who met in her dining room. As the school grew, the Kinkaid Cottage was raised and a new first floor was constructed to provide classroom space. In order to meet increased enrollment demands and administrative responsibilities, a school board was organized in 1924 and plans were begun for a new facility at the corner of Richmond and Graustark. A high school program was added soon after. With the continued leadership of Mrs. Kinkaid and the development of innovative educational programs adapted from her ideas and observations, the school became nationally known. Mrs. Kinkaid retired shortly before her death in 1951 and was succeeded by John H. Cooper, under who administration the present campus was developed. A leader in quality education, the Kinkaid School has been the alma mater of many prominent business and professional leaders.]]></description>
+    <Point><coordinates>-95.512188,29.75104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Sikh Center of the Gulf Coast Area, Inc.</name>
+    <description><![CDATA[8819 Prairie Dr. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 8819 Prairie Dr., Houston<br/><br/><b>Marker Text:</b> In the 1960s, changes in U.S. Immigration Policy resulted in many highly skilled immigrants settling in Houston, which was experiencing an energy sector boom. Several of these families were Sikhs from Punjab, India. The Sikh faith is a monotheistic religion that originated with Guru Nanak (1469-1539) and is among the world’s major religions. It is characterized by the equality of all people, service, honest work and humility. On August 1, 1971, about a dozen families held their first religious gathering in a member’s apartment. They continued to meet monthly for about two years. In August 1972, a decision was made to form an organization to serve the religious, social, cultural and educational needs of the Sikh community in Houston and beyond. 
+  By 1973, the Sikh community had grown to about two dozen families, including architects, engineers, builders, doctors and entrepreneurs. That year, they purchased two acres at 8819 Prairie Drive for a place of worship, called a Gurdwara. Community members, led by the engineers and architects among them, designed and built a small wood-frame building with their own hands. The Gurdwara features a traditional Nishan Sahib, a Sikh triangular flag. The Sikh Center of the Gulf Coast Area, Inc. was incorporated in October 1973. The opening ceremonies were held on November 25, 1973, on the anniversary of founder Guru Nanak’s birth. In summer 1974, a fire caused by lightning destroyed the building. Once again, the community came together to design and build a new Sikh center of brick, concrete and steel. The new structure was completed by December 1975. Since then, a school, residential building, library and kitchen have been added. The Sikh center has also acquired additional land for future development. From this center, the first Gurdwara in Texas, the ever-growing Sikh community continues its tradition of education and public service for humanity. (2022)]]></description>
+    <Point><coordinates>-95.531363,29.905875,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thomas J. and Mary Donoghue House</name>
+    <description><![CDATA[<b>Address:</b> 17 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Thomas J. Donoghue, a Texas company (Texaco) founder and executive, and his wife, Mary, built this house in 1915-16. Designed by noted New York architect Whitney Warren of the firm of Warren and Wetmore, it is an excellent example of Georgian revival architecture with wood and stone carvings by master artisan Peter Mansbendel. A part of the exclusive early 20th century Courtlandt Place neighborhood, the house remained in the Donoghue family until 1966. Recorded Texas Historic Landmark - 1994]]></description>
+    <Point><coordinates>-95.384831,29.743195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tod-Milby Home Site</name>
+    <description><![CDATA[corner of Elm and Broadway<br/><br/><b>Address:</b> Houston<br/><br/><b>Marker Text:</b> John Grant Tod (1808-1877), a Kentuckian, left home at 17 to go to sea. Served in Mexican, U. S. navies. Came to Texas, 1837; served in Republic navy, 1837-1845, as naval agent, supervising purchase and equipment of vessels of second Texas navy; commander, naval yard at Galveston; acting secretary of navy; commodore. Tod carried official notification of Texas' annexation from the Congress of the United States, presenting it to President Anson Jones, January 13, 1846. Served in U. S. Navy as agent of the Quartermaster's Department during Mexican War, 1846-1848. Assistant state engineer, 1857-1859. Was one of organizers and builders of Texas' first railroad, the Buffalo Bayou, brazos and Colorado; came to Harrisburg to serve as its treasurer. Purchased cottage here and moved into it with his family in November, 1866. This remained the family residence for seventy-six years. Additions made by son-in-law, C. H. Milby, resulted in a large brick house. This structure, known as the "Milby House," was an historic landmark until demolished in 1959. Captain Tod and his family are buried in Glendale Cemetery, five blocks southeast on Magnolia Street.]]></description>
+    <Point><coordinates>-95.277891,29.721895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Underwood and Clara Nazro House</name>
+    <description><![CDATA[Houston, 25 Courtlandt Place<br/><br/><b>Address:</b> 25 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> THIS HOUSE, THE ONLY ONE OF GEORGIAN REVIVAL STYLE IN COURTLANDT PLACE, IS AN EXAMPLE OF THE EARLY 20TH CENTURY RESIDENTIAL WORK OF FORT WORTH FIRM SANGUINET AND STAATS. THE RED BRICK VENEERED HOUSE FEATURES A FRONT ENTRY PORTICO WITH FULL ENTABLATURE SUPPORTED BY SLENDER COLUMNS WITH COMPOSITE CAPITALS. UNDERWOOD NAZRO, HIS WIFE CLARA, AND THEIR TWO CHILDREN LIVED HERE FROM 1916-28. NAZRO WAS VICE-PRESIDENT OF THE GULF OIL COMPANY AND ALSO DID BUSINESS IN FINANCE AND COMMUNITY INVESTMENT. BANKER IKE McFARLAND AND HIS WIFE, PRESERVATIONIST MAE WYNN McFARLAND, LIVED HERE FROM 1940-69.]]></description>
+    <Point><coordinates>-95.38286,29.743508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vollmer Cemetery</name>
+    <description><![CDATA[6618 Cindy Lane | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 6618 Cindy Lane, Houston<br/><br/><b>Marker Text:</b> VOLLMER CEMETERY, ESTABLISHED 1848, HISTORIC TEXAS CEMETERY – 2007]]></description>
+    <Point><coordinates>-95.434156,29.795562,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>W. T. Carter, Jr., House</name>
+    <description><![CDATA[<b>Address:</b> 18 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> W. T. CARTER, JR. HOUSE IN 1912, ARCHITECTS BIRDSALL BRISCOE AND OLLE LOREHN DESIGNED THIS HOME FOR W. T. CARTER, JR., (1887-1957) AND LILLIE AUGUSTE (NEUHAUS) CARTER (1890-1966). THE TWO-STORY PRAIRIE STYLE HOUSE HAS A HIPPED TERRA COTTA TILED ROOF WITH DORMERS, STUCCO VENEER, AND A WIDE FULL-WIDTH PORCH WHICH EXTENDS TO COVER A PORTE-COCHERE. A TWO-STORY GARAGE AND TWO CARRIAGE HITCHING POSTS AT THE FRONT CURB ARE ALSO HISTORIC. W. T., PROMINENT IN LUMBER AND REAL ESTATE, ALSO SERVED ON THE HOUSTON PORT COMMISSION AND CITY COUNCIL AND DEVELOPED HOUSTON’S FIRST PUBLIC AIRPORT (LATER WILLIAM P. HOBBY AIRPORT). THE CARTER FAMILY OWNED THE HOUSE UNTIL 1978. RECORDED TEXAS HISTORIC LANDMARK – 2011]]></description>
+    <Point><coordinates>-95.382553,29.743631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>W. T. Carter, Sr. House</name>
+    <description><![CDATA[14 Courtlandt Place<br/><br/><b>Address:</b> 14 Courtlandt Place, Houston<br/><br/><b>Marker Text:</b> Designed by Houston architect Birdsall Briscoe for William T. Carter, Sr. And his wife, Maude, this house was built in 1920. The Carters moved from a mansion on Main Street to be closer to three of their grown children, who lived in 16, 18 and 20 Courtlandt Place, forming a continuous row of family houses. Carter was an influential Houston businessman with a large timber operation based in Camden, Texas. The house’s Georgian revival style incorporates Tudor and Classical Revival elements, including the gabled dormers, the slate roof and the flemish bond pattern in the brick veneer.]]></description>
+    <Point><coordinates>-95.38406,29.743907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Waddell's House Furnishing Company Warehouse</name>
+    <description><![CDATA[On the exterior north façade at the west end of the building, centered on the crick wall immediately to the left (east) of the leasing office front doors<br/><br/><b>Address:</b> 806 Sampson Street, Houston]]></description>
+    <Point><coordinates>-95.343313,29.745959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Weingarten Residence</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1 Radney Cir, Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.518274,29.748491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Marsh Rice</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2525 Washington Avenue, Houston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.384271,29.768292,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,28 @@
+Leon unmapped markers with NO usable address (7):
+
+  THC 17415: Brushy Cemetery
+    https://atlas.thc.texas.gov/Details/5507017415
+
+  THC 14792: First Courthouse in County, Site of
+    addr: Leona
+    https://atlas.thc.texas.gov/Details/5507014792
+
+  THC 17416: Friendship Cemetery
+    https://atlas.thc.texas.gov/Details/5507017416
+
+  THC 14298: Little Flock Cemetery
+    addr: Jewett
+    https://atlas.thc.texas.gov/Details/5507014298
+
+  THC 20198: Parker Cemetery (HTC)
+    addr: FM 831 CR 2841, Buffalo
+    https://atlas.thc.texas.gov/Details/5000020198
+
+  THC 9627: R. Baxter King
+    addr: Middleton
+    https://atlas.thc.texas.gov/Details/5289009627
+
+  THC 23570: Taylor Cemetery
+    addr: CR 212, Buffalo
+    https://atlas.thc.texas.gov/Details/5000023570
+

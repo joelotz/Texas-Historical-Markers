@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Brown County — Unmapped Historical Markers</name>
+  <description>THC markers in Brown County without an HMDB id (isMissing excluded). 25 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>Adams-Shaw House</name>
+    <description><![CDATA[<b>Address:</b> 1100 NE Interstate 410 Loop, Brownwood<br/><br/><b>Marker Text:</b> This house was erected about 1876 for George H. Adams (1842-1920), a rancher and former Texas Ranger, whose cattle brand was carved into the front step. English-born stonemason William Frederick Morton (1851-1926) built it of sandstone quarried in nearby Willis Creek. The structure was purchased in 1908 by Laura (d. 1944) and Colin McKeever Shaw (1850-1944). It was restored and enlarged after 1945 by their son, Neil K. Shaw (1901-1969), and his wife, Maud Dabney Shaw. Recorded Texas Historic Landmark - 1975]]></description>
+    <Point><coordinates>-98.995114,31.694354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bangs Cemetery</name>
+    <description><![CDATA[SE part of city, bounded by 4th, 6th, and Goodwin streets<br/><br/><b>Address:</b> Bangs<br/><br/><b>Marker Text:</b> Bangs Cemetery Established 1905 Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-99.127246,31.707878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Blanket</name>
+    <description><![CDATA[<b>Address:</b> 719 Main, Blanket<br/><br/><b>Marker Text:</b> Local tradition states that Blanket Creek received its name in 1852, when a group of surveyors came upon a band of Tonkawa Indians who had been caught in a rainstorm while hunting buffalo. The Tonkawa spread their wet blankets on the sumac bushes to dry, and the surveyors named the stream Blanket Creek. Permanent settlement was sparse until Pinkney and Sarah Anderson bought land from Almonta Huling in 1873, opening a general store just southwest of the present town. Anderson’s store housed the first Blanket post office in 1875, and the town became a stop on the stagecoach route from Brownwood to Fort Worth. Robert Dickey was the first schoolteacher, beginning in a log building in 1878 before a permanent schoolhouse was built with lumber hauled from Fort Worth. The 1880 U.S. census documented people from 18 states and the countries of Jamaica, Norway and Prussia living here. In 1891, arrival of the Fort Worth and Rio Grande Railway led T.A. Wilkinson to develop the Blanket townsite company. W.T. Smith of Rockwell City, Iowa, became company president and laid out a new townsite into blocks and lots; Smith also served as immigration agent for the F.W. &amp; R.G., founded the Lone Star High School and College, and operated a mercantile store in Blanket. Residents of the former village moved their homes and businesses to the new townsite. Blanket continued to grow, with the first bank opening in 1903 and the town incorporating in 1912. During its peak of prosperity during the cotton era, three gins operated here. David P. Cobb was Blanket’s town doctor for more than 62 years, an example of the perseverance and tradition of a rural town that has survived droughts and economic downturns to remain a viable community.]]></description>
+    <Point><coordinates>-98.787428,31.824599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Blanket Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 8046 CR 619, Blanket]]></description>
+    <Point><coordinates>-98.795913,31.816839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Camp Bowie Enlisted Men's Recreation Hall</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 3210 Milam, Brownwood]]></description>
+    <Point><coordinates>-98.981628,31.665371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cross Cut Cemetery</name>
+    <description><![CDATA[SH 279, 24 miles northwest of Brownwood<br/><br/><b>Address:</b> Brownwood vicinity<br/><br/><b>Marker Text:</b> Settlement began in this area of Brown County after the Civil War when several families from southern states moved here. They formed a community, initially known as Cross Out. It became Cross Cut in 1897 when an error was made on a post office application. Caroline Pentecost Elsberry was the first person buried in this community cemetery in July 1879. The two-acre plot of land dedicated as a graveyard is believed to have been donated by Mark and Sarah Pentecost. Oil was discovered in 1923 in the Cross Cut sand formation. The small town quickly swelled to accommodate the increase in population and several new businesses were added. By 1940 the population of the town was exceeded by the number of burials in the cemetery. In 1954 the Cross Cut School consolidated with Cross Plains Schools, and the town declined thereafter. Only a few buildings and the cemetery remain. Among those buried here are early settlers and their descendants, and veterans of conflicts from the Civil War through the Vietnam War. A cemetery association was formed in 1976, and a perpetual care trust was established. The site continues to serve the area. (1997)]]></description>
+    <Point><coordinates>-99.131301,32.02313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elkins Cemetery</name>
+    <description><![CDATA[from Brownwood take FM 2524 to CR 267.  Follow CR 267 about 10 miles southeast; turn onto CR 264, and continue .2 miles to cemetery<br/><br/><b>Address:</b> Brownwood vicinity<br/><br/><b>Marker Text:</b> This cemetery traces its origin to 1876, when noted pioneer minister Noah T. Byars helped establish Live Oak Baptist Church. That year, Civil War veteran Silas H. Wood moved his extended family from Mississippi and settled on land which included this site. The first recorded burial was that of D.O. Melton in 1876. Wood donated about three acres including the graveyard to Live Oak Baptist Church in 1884. Known earlier as Gholson, a name it shared with an area school, it later was named Elkins for the town that developed here. The cemetery continued in use as a community graveyard until interments ceased when the construction of Camp Bowie here during World War II resulted in the temporary displacement of the Elkins community. Camp Bowie was discontinued in 1947, after which a rural community developed and the cemetery was again in use. Buried here are many of the area's pioneer families and their descendants; veterans of World War I; and at least three Civil War veterans, including Confederate Lieutenant Colonel Isaac A. Melton, whose funeral in 1910 was attended by fellow Confederate Civil War veterans and Masonic friends. The cemetery is maintained by the Elkins Cemetery Association and continues to serve the community. (1994)]]></description>
+    <Point><coordinates>-98.880107,31.595468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eureka Cemetery</name>
+    <description><![CDATA[from Blanket take CR 331 2 miles west, turn south on CR 327 .5 mile to cemetery<br/><br/><b>Address:</b> Blanket vicinity<br/><br/><b>Marker Text:</b> According to local tradition the settlers who established the town of Blanket (2 miles east) about 1870 named it for a Native American blanket they found on the banks of a nearby creek. The earliest marked grave in this cemetery, which served the rural community of Blanket, is that of Luperda Cox who died in 1876. The cemetery contains many of the area's earliest settlers and their descendants, including several teachers of the former Eureka School which was located just across the road from this site. The cemetery remains active and continues to serve the area. (1995)]]></description>
+    <Point><coordinates>-98.827711,31.81601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fairview Cemetery</name>
+    <description><![CDATA[from Brownwood take SH 279 north about 15.5 miles; turn west on FM 1850, cross FM 585 to CR 108/110 intersection - marker at back of cemetery<br/><br/><b>Address:</b> Brownwood vicinity<br/><br/><b>Marker Text:</b> This community cemetery has served the people of rural Brown County for more than a century. James Jackson Martin (1847-1898) and Daniel Hulse (1822-1880) each donated land for the cemetery after settling in this area prior to 1878. Later donations by A. A. Martin and F. B. Smiley enlarged the cemetery. The first person buried here was Mrs. M. C. Cain, who died in April 1878. Four months later James William Martin, two-year-old son of J. J. Martin, died and was interred here on land donated by his father. A combination school and church building was built on the west side of the cemetery in the 1870s, and later was replaced by another structure on the east side of the property. Both the Fairview Baptist Church and the Methodist Church met here. Among the more than five hundred graves in the Fairview Cemetery are those of many area pioneers. Also interred here are veterans of the Civil War, World War I, World War II, the Korean War, and the Vietnam War. In 1978, one hundred years after the first burial, a cemetery association was organized to maintain the historic graveyard. The Fairview Cemetery stands as a reminder of the area's early heritage. (1991)]]></description>
+    <Point><coordinates>-99.178308,31.874807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Bangs</name>
+    <description><![CDATA[Second and Goodwin Streets, Bangs (south of tracks)<br/><br/><b>Address:</b> Bangs<br/><br/><b>Marker Text:</b> This congregation traces its history to 1883, when the Rev. A R. Watson and a small group of worshipers formed a Baptist congregation in the community of Mukewater. The church moved to the new town of Bangs on the Santa Fe Railroad Line in 1890 and became known as First Baptist Church. By 1891 a sanctuary was built on land granted to the church by the railroad. It was replaced by a larger structure in 1923. Throughout its history, First Baptist Church has served the community with a variety of worship, educational, and outreach programs. (1991)]]></description>
+    <Point><coordinates>-99.131294,31.712232,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George Edward Smith</name>
+    <description><![CDATA[1004 Cordell St., Brownwood | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1004 Cordell St., Brownwood<br/><br/><b>Marker Text:</b> Born into slavery sometime between 1845-1852 in Stafford County, Virginia, George Edward Smith enlisted in the Army’s 9th Calvary in 1869. The Ninth Calvary, along with other units of African American soldiers, is popularly known as the “Buffalo Soldiers”. Smith came to Texas when his unit was dispatched to Fort Davis. While at Fort Davis, the Ninth Cavalry’s main concern was protecting travelers and the mail. There, the soldiers contended with the formidable Comanche and Apache peoples. He mustered out in 1874 and returned to Virginia, where he reenlisted in 1879. He was assigned to the Tenth Cavalry and stationed at Fort Concho in Tom Green County. While there, Smith became active in the African Methodist Episcopal (AME) Church, ordained as a deacon in 1883. After being discharged in 1881, Smith stayed in San Angelo. There, he began his first foray into public service.
+  In 1885, the AME Church chose Smith to establish a church in Brownwood. Upon arrival in Brownwood, he noticed there was no African American school, and thus started one. He served as teacher and principal. In 1888, he organized and led Lee Chapel AME Church. The Reverend Smith held services under a brush arbor at his home. That same year, he married Virginia Love (1875-1962). The couple would have fourteen children. He resigned as teacher and principal of the school in 1890. Six years later, the school would hire Rufus Hardin, after whom the school is now named.
+  Smith died in 1913. Because of his work to improve housing in the African American community, in 1951 the city housing authority named its newest public housing units “George Smith Apartments.” A Brownwood pioneer during his lifetime, the Reverend George Edward Smith contributed significantly to both the spheres of education and religion. (2022)]]></description>
+    <Point><coordinates>-98.992303,31.722955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Greenleaf Fisk House</name>
+    <description><![CDATA[418 Milton Ave. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 418 Milton Ave., Brownwood<br/><br/><b>Marker Text:</b> Battle of San Jacinto veteran Greenleaf Fisk (1807-1888) immigrated to Texas in 1834 from Milton, Kentucky. He and his wife, Mary Hawkins, moved to Brown County in 1860. Fisk served in numerous county positions including judge, clerk, treasurer and justice of the peace. He also taught in early Brown County schools. Later, he gave land to form the city of Brownwood. Built between 1878 and 1888, his home features beautiful rough sandstone. The quoins, window lintels and sills and door surrounds display the notable craftsmanship with which this house was built. The porch was added later. Other than a short time, the house has passed in and out of the extended Fisk family in the ensuing years.
+				
+RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
+    <Point><coordinates>-98.978355,31.720785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Wesley Malone Home</name>
+    <description><![CDATA[<b>Address:</b> 606 Coggin Ave., Brownwood<br/><br/><b>Marker Text:</b> Pioneer ranchers Modie J. and Samuel R. Coggin began this house after 1874. They sold it in 1888 to John Wesley Malone (1858-1932), who added the second floor in 1904. Malone ran a hardware store in partnership with his longtime friend Will H. Mayes, who became Texas' lieutenant governor, 1913-14. Also located here is Brownwood's first public swimming pool, built by Malone's father-in-law, John W. Lambeth. T. W. and Helen Waddill bought the residence in 1970. Recorded Texas Historic Landmark - 1976]]></description>
+    <Point><coordinates>-98.97405,31.712682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lost Creek Cemetery</name>
+    <description><![CDATA[May, 6 mi. W on CR 411<br/><br/><b>Address:</b> May<br/><br/><b>Marker Text:</b> The original Hog Creek Cemetery was established in the 1870s, about one-half mile southwest of this site; after only two burials, the community chose to relocate, reportedly because of the rocky soil there. J. W. Graves (d. 1874) was the first person buried at this location, then owned by H.C. Hancock. Area residents continued to use the site and, in 1892, J.C. Hensley (Henslee) and his wife, L.E., deeded it to Brown County for cemetery and church purposes. A chapel was constructed by 1932, and the Hog Creek Cemetery Association organized in 1949, later changing its name, and that of the cemetery, to Lost Creek. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-99.006942,31.961308,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mud Creek Cemetery</name>
+    <description><![CDATA[From Bangs take US 84 west one mile.  Turn north onto FM 585, continue 1/2 mile past FM 2492.  Turn west onto county road and continue one mile to cemetery.  On south of highway through cattle guard.<br/><br/><b>Address:</b> Bangs<br/><br/><b>Marker Text:</b> Named for nearby Mud Creek, this graveyard has served residents of the Thrifty and Fry communities for more than 100 years. The first person known to be buried at the site was infant Martha Blackwell, who died in 1864. However, a rock slab that bears an illegible name indicates the cemetery was used as early as 1862. Others buried in Mud Creek Cemetery include pioneer settler Charles Mullins (1790-1880) who brought his family to the area in 1858, victims of Indian attacks, and persons involved in the 1926-27 area oil boom. (1983)]]></description>
+    <Point><coordinates>-99.192099,31.820754,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mullins Heritage Park</name>
+    <description><![CDATA[1.4 mi N, CR 105 at Jim Ned Creek<br/><br/><b>Address:</b> Thrifty<br/><br/><b>Marker Text:</b> In 1894, Brown County commissioners built a public road from Bangs to Cross Cut in the western part of the county. The chief crossing of Jim Ned Creek came at Mullins Ranch, so the county bought eleven acres here for the project. Brothers John Charles and William Haven Mullins and their families settled in Brown County in 1857, helping establish nearby towns of Mullin and Thrifty. Mullins Ranch was a regular stop for Methodist circuit preachers, and remained popular for camp meetings and recreation. The unfenced site was also a favored watering hole for cattlemen and area residents. Many of the traditional activities continue today at this historic gathering place. (2007)]]></description>
+    <Point><coordinates>-99.129232,31.831191,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Presbyterians in Brownwood</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 700 Fisk, Brownwood<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.983098,31.717867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Salem Cemetery</name>
+    <description><![CDATA[On CR 139, 2 mi. W of int. with FM 585<br/><br/><b>Address:</b> Bangs<br/><br/><b>Marker Text:</b> Historic Texas Cemetery - 2005 (HTC medallion only)]]></description>
+    <Point><coordinates>-98.294104,29.375404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smith Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Brownwood<br/><br/><b>Marker Text:</b> SMITH CEMETERY ESTABLISHED 1879 HISTORIC TEXAS CEMETERY – 2010]]></description>
+    <Point><coordinates>-99.156728,31.967644,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. John's Episcopal Church</name>
+    <description><![CDATA[Main and Depot Streets, Brownwood.<br/><br/><b>Address:</b> 700 Main St, Brownwood<br/><br/><b>Marker Text:</b> ---]]></description>
+    <Point><coordinates>-98.98549,31.719564,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thrifty</name>
+    <description><![CDATA[10 miles northwest of Brownwood on SH 279, then 2.7 miles west on FM 2492 right-of-way at junction with county road 105<br/><br/><b>Address:</b> Brownwood vicinity<br/><br/><b>Marker Text:</b> Once a thriving agricultural area and regional trade center, the community of Thrifty was established after the U. S. Army relocated Camp Colorado, a frontier defense post, along nearby Jim Ned Creek in 1857. The first family to settle permanently in the area was that of Charles Mullins, whose three sons and one daughter and their families established ranches and homes in the Jim Ned Creek valley. Once federal troops were withdrawn from the area after Texas voters elected to secede from the Union in February 1861, settlers were on their own to provide for their defense, encountering many of the dangers of frontier life. Thrifty saw its greatest development in the period following the Civil War and Reconstruction, when a post office was established (first under the name Jim Ned, later named Thrifty). John Charles Mullins donated four acres of land for school and church purposes in 1881. At one time, Thrifty had a hotel, saloon, sawmill, sorghum press, cotton gin, blacksmith shop and physicians' offices. The mercantile store, operated by Dr. G. W. Allen and John Charles Mullins, served as a regional trading center for farmers and ranchers in the area. In 1886, the railroad bypassed Thrifty, and its life as a vital trade center diminished. This event, coupled with a severe drought between 1885 and 1888, triggered an exodus from the community, as residents sought viable employment elsewhere. The story of Thrifty remains as a lesson in the development of the Texas frontier and a part of Brown County's history. (2001)]]></description>
+    <Point><coordinates>-99.131462,31.80867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veda Wells Hodge</name>
+    <description><![CDATA[Center Avenue, Howard Payne University, Brownwood<br/><br/><b>Address:</b> Brownwood<br/><br/><b>Marker Text:</b> Alumna, trustee, benefactress of Howard Payne College. Born in Rising Star; daughter of a pioneer Baptist minister. Had teaching career before her marriage to J. Howard Hodge, a Midland theatre and oil magnate. President, Texas Federation of Women's Clubs, 1949-1951. Has held division chairmanships, General Federation of Women's Clubs, an international organization. Member of the Advisory Board, Japan International Christian University. Past member, Advisory Group, President's White House Committee for Traffic Safety. A leader in West Texas civic life. Outstanding Women of Texas Series, 1967.]]></description>
+    <Point><coordinates>-98.98743,31.715583,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Weakley-Watson Building</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 100 Fisk St., Brownwood]]></description>
+    <Point><coordinates>-98.979932,31.72072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Franklin Brown</name>
+    <description><![CDATA[Jones Chapel Cemetery, County Road 346 off US 377, Early<br/><br/><b>Address:</b> Early<br/><br/><b>Marker Text:</b> (Apr. 9, 1820 - Dec. 23, 1918) In 1857 Georgia native William Franklin Brown moved to this area, where he was a pioneer cotton farmer. The following year he led in the organization of Brown County and was elected to serve as district clerk and as justice of the peace. He also participated in early defenses against hostile Indians. Married three times, Brown was the father of 12 children, several of whom died as a result of frontier tragedies. (1982)]]></description>
+    <Point><coordinates>-98.909998,31.76253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Windham Cemetery</name>
+    <description><![CDATA[From Brownwood take US 183 15 miles north.  Turn west onto FM 2273, continue 9 miles, then go 1 mile south on FM 2559 to Fairview Cemetery.<br/><br/><b>Address:</b> Brownwood<br/><br/><b>Marker Text:</b> Named for early settler and cattle rancher S. R. Windham, this cemetery dates to 1879. The earliest documented grave is that of J. M. McPeeters, who died on July 18, 1879. Also buried here in that year was Martin Shelby Byrd, who operated a store and post office and for whom the Byrds community was named. Others interred in the Windham Cemetery include victims of the early 20th-century influenza epidemic and veterans of the Civil War, World War I, and World War II. In existence for over a century, the cemetery continues to serve area citizens. (1990)]]></description>
+    <Point><coordinates>-99.042245,31.914279,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

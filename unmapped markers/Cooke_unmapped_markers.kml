@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Cooke County — Unmapped Historical Markers</name>
+  <description>THC markers in Cooke County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Civil War Dissent In North Texas</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Georgia Davis Bass Park; intersection E. Main St and S. Schopmeyer St.<br/><br/><b>Address:</b> 729 E. Main St., Gainesville]]></description>
+    <Point><coordinates>-97.138935,33.623641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cooke County Poor Farm</name>
+    <description><![CDATA[2718 W. Hwy 82 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2718 W. Hwy 82, Gainesville<br/><br/><b>Marker Text:</b> As part of a county effort to improve the lives of its rapidly growing population, on April 23, 1880, Cooke County Judge J.P. Hall purchased 100 acres out of the Adam Dozier survey to establish a farm for the county’s indigent citizens. Living quarters were built soon after. Under the direction of overseers contracted by the county, an average of 12 residents managed production of cotton and consumable crops as well as raising livestock including hogs, chickens and cattle. In 1888, necessity dictated the creation of a cemetery. The poor farm site remained active until 1915, when the farm was relocated to a ten-acre tract of land on rice avenue, near Old Denton Road. (2023)]]></description>
+    <Point><coordinates>-97.114127,33.643306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Gainesville Railroads</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 605 E. California St., Gainesville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.139611,33.624348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Jewish Community of Gainesville</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 701 Fair Avenue, Gainesville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.127145,33.630588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Cooke County Surveyor Daniel Montague (1798-1876)</name>
+    <description><![CDATA[From Gainesville take US 82 west about 7.3 miles to roadside park on south side of road.<br/><br/><b>Marker Text:</b> Born in Massachusetts. Moved to Texas 1836. Accepted post of Surveyor, Fannin Land District, helping settlers locate claims and fight Indians. Joined Snively Expedition to capture Mexican traders trespassing in Republic of Texas, 1843. Captain of Company in Mexican War, 1846. When Cooke County was created, 1848, Montague was named County Surveyor. Like most surveyors, took land as pay for duty that called for constant risk of life. Rifles to stand off Indians were in field kits. Like Surveyor-Senator John H. Reagan, Montague was honored in having a county named for him. (1968)]]></description>
+    <Point><coordinates>-97.280215,33.639212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 401 S. Denton St., Gainesville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.142482,33.621623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>G. H. Ragsdale</name>
+    <description><![CDATA[front of Fairview Cemetery -- marker faces Fair Avenue, and is very close to the western fence<br/><br/><b>Address:</b> 710 Fair Avenue, Gainesville<br/><br/><b>Marker Text:</b> (April 1, 1846 - March 25, 1895) Tennessee native George Henry Ragsdale came to Cooke County in 1867. He was elected to three terms as county surveyor. By observations and a self-taught education, he became an expert naturalist, chiefly in ornithology, small mammals, fossils and geology. Ragsdale acquired hundreds of specimens and bird eggs, donating and selling many to the Smithsonian Institution. He published dozens of articles, contributed to major studies and was cited in other works. Ragsdale had a column in the Gainesville Hesperian with advice on fauna, flora, geology and weather. His legacy is also seen in a fossil oyster (ostrea franklini ragsdalei) and snail (rabdotus dealbatus ragsdalei) named by his contemporaries.]]></description>
+    <Point><coordinates>-97.127003,33.632775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. D. Ikard Sugg</name>
+    <description><![CDATA[Fairview Cemetery, 710 Fair Avenue<br/><br/><b>Address:</b> 710 Fair Ave, Gainesville<br/><br/><b>Marker Text:</b> J.D. “Ikard” Sugg (1854-1925) Joseph D. Sugg was born in Mississippi, the youngest of 13 children. After his mother’s death, he headed west, working on a cattle drive heading north from the Red River in 1868. Later a rancher in partnership with brother Cal, he leased lands in Indian Territory (Oklahoma) and Texas, and sold horses to the government of Mexico. He maintained close ties to Cooke County, where he got his start in ranching, and considered it home. Upon his death in Chickasha, Oklahoma, he left money to the Cooke County Poor Farm and to the maintenance of this cemetery. Recorded - 2006]]></description>
+    <Point><coordinates>-97.124493,33.630203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Menees Lindsay</name>
+    <description><![CDATA[in Fairview Cemetery<br/><br/><b>Address:</b> 710 Fair Ave., Gainesville<br/><br/><b>Marker Text:</b> (Dec. 31, 1835 - May 3, 1919) J. M. Lindsay graduated from Cumberland Law School in his native Tennessee in 1857 and arrived in Gainesville on his 22nd birthday. His political and legal career included the following offices: state legislator, member of Gainesville's first city council, delegate to the 1866 State Constitutional Convention, and judge of the 16th Judicial District. One of Gainesville's largest landowners in his day, Judge Lindsay helped bring the railroad to town, donated land for churches and schools, and developed numerous businesses, resulting in his legacy as a significant civic leader. Recorded - 2001]]></description>
+    <Point><coordinates>-97.126969,33.630711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lt. Col. Thadd Blanton</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Fairview Cemetery, at grave site. Marker pending.<br/><br/><b>Address:</b> 710 Fair Avenue, Gainesville]]></description>
+    <Point><coordinates>-97.126969,33.630711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nelson Grove Cemetery</name>
+    <description><![CDATA[9 miles east of Gainesville on US 82, then 1.5 miles south on FM 678<br/><br/><b>Address:</b> Gainesville<br/><br/><b>Marker Text:</b> In 1875 Mollie Nelson, the 14-year-old daughter of Robert Carroll and Mary Elizabeth Nelson, died of pneumonia and measles and was buried on her parents' property. Two years later, R C. Nelson and J. C. Stockton deeded land including Mollie's grave site to the Cooke County judge for use as a "school, church and burying ground." The Nelson Grove School provided an education for neighboring families until 1924, and funeral services often were held in the schoolhouse. A cemetery association founded in 1964 cares for the graveyard and has held an annual Memorial Day meeting since 1970. At the turn of the 21st century, there were more than 800 burials in the cemetery. (2000) Historic Texas Cemetery - 2008]]></description>
+    <Point><coordinates>-97.010196,33.633466,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oak Grove Community</name>
+    <description><![CDATA[7 mi. E on FM 678, 0.3 mi. S on CR 219<br/><br/><b>Address:</b> Gainesville<br/><br/><b>Marker Text:</b> In the 1860s, George Sanford Norrid left his Missouri home with his wife, Tabitha, and family and moved to Texas, settling in this area and offering their home for church services. In 1875, F.M. Dougherty and George Norrid deeded land for a Methodist Epsicopal church; Norrid's donation preserved land for a cemetery. When Tabitha Norrid died in January 1876, she was the first buried in what became the Oak Grove Cemetery. Area families used the church building for school and worship until 1884, when they moved the building, and with it the school and church, to nearby Woodbine. The Methodist church later deeded its land to the cemetery association, which maintains the burial ground. (2005)]]></description>
+    <Point><coordinates>-97.036622,33.60717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sivells Bend United Methodist Church</name>
+    <description><![CDATA[CR 437 at FM1201<br/><br/><b>Address:</b> Sivells Bend<br/><br/><b>Marker Text:</b> This congregation formed in 1868 as Sivells Bend Methodist Episcopal Church, South. Brothers William W. and Addison Y. Gunter conveyed two acres to church trustees E. L. Allen, WM. Midkiff and George Dillard in 1880. A large two-story church, school and masonic lodge burned in 1893. W. W. Gunter deeded the current site in 1910. The present frame church has had continuous services since its 1912 construction. During WWII, families taught Sunday school even without a supplied pastor. Later, Sivells Bend shared pastors with other Methodist churches, but has had its own pastors since 1950. Community involvement and regular worship shows a continuing focus on the true spirit of God.]]></description>
+    <Point><coordinates>-97.230401,33.843868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Van Slyke Cemetery</name>
+    <description><![CDATA[N on FM 1199, W on CR 446, N on CR 453, 5 mi. NW of Lindsay<br/><br/><b>Address:</b> Lindsay<br/><br/><b>Marker Text:</b> Van Slyke Cemetery Established 1883 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-97.277133,33.695378,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

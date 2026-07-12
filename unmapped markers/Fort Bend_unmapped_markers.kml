@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Fort Bend County — Unmapped Historical Markers</name>
+  <description>THC markers in Fort Bend County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Bullhead Convict Labor Camp Cemetery (HTC)</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 12300 University Blvd., Sugar Land]]></description>
+    <Point><coordinates>-95.647896,29.605659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cole Theatre</name>
+    <description><![CDATA[930 3rd St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 930 3rd St., Rosenberg<br/><br/><b>Marker Text:</b> On August 16, 1919, Czech immigrants Fred Felcman and Miles Podlipny opened the Liberty Theatre, showing silent and Czech films. Renamed Cole Theatre after new owner Mart Cole in 1935 and remodeled into an art deco façade, the theatre offered Saturday matinee cowboy pictures and hosted performers such as The Ink Spots, Shirley Temple and John Wayne. In the 1950s-60s, “Bank Nights” brought the community together. While the theater was a meeting place for all, patrons were racially segregated between the floor and balcony levels until 1968. After 63 years in operation, the theater closed in 1982. Later owners staged opries and a TV production studio. The theater has been a staple of Rosenberg for over a century.
+				
+RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
+    <Point><coordinates>-95.806766,29.559003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Friedens United Church of Christ Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1331 Isleib Road, Beasley<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.903953,29.488544,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Missouri City</name>
+    <description><![CDATA[Missouri City Junior High School, US 90A at Louisiana St.<br/><br/><b>Address:</b> 200 Louisiana St., Missouri City<br/><br/><b>Marker Text:</b> In 1890 Houston realtors R.M. Cash and L.E. Luckel began a real estate development here, promoted to attract settlers from Missouri and Illinois. The settlement was established on four sections of land purchased from the Buffalo Bayou, Brazos &amp; Colorado Railroad. In 1894 the townsite of Missouri City was platted on the property of W.R. McElroy of Houston. The early growth of the community was hindered by two major natural disasters that struck the area. In 1895 a severe snowstorm caused extensive damage. Many residents, attracted to the coastal region by the mild climate, were discouraged and left for other areas. In 1900 a destructive hurricane hit the town, leaving only three homes standing. Despite the early setbacks, the settlers rebuilt and Missouri City became a flourishing town. Oil was discovered here in 1920 and a salt mine opened a few years later. The economic development of the area, which included ranching and farming, helped make the town a major railroad shipping center. Missouri City incorporated in 1956 and Robert A. Stallings served as the first mayor. The community schools, established at this site in 1895, became part of the Fort Bend Independent School District in 1959. (1981)]]></description>
+    <Point><coordinates>-95.539012,29.61713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sugar Land</name>
+    <description><![CDATA[Sugar Land Heritage Foundation, Imperial Sugar Building, in storage<br/><br/><b>Address:</b> 198 Kempner Street, Sugar Land<br/><br/><b>Marker Text:</b> Founded 1853. Named by B. F. Terry and W. J. Kyle for sugar mill and plantation bought on their return with fortunes from California Gold Rush. The town's founders organized Terry's Texas Rangers at the start of the Civil War. Farming market. Site of Texas' only cane sugar refinery. Texas prison farms are located nearby.]]></description>
+    <Point><coordinates>-95.636049,29.620729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sugar Land Auditorium</name>
+    <description><![CDATA[<b>Address:</b> 226 Lakeview Drive, Sugar Land<br/><br/><b>Marker Text:</b> Built in 1917, this auditorium is the oldest public building still in use in Sugar Land. It was designed in the Mission Revival style by Imperial Sugar Company engineer M. R. Wood as the central structure in a crescent-shaped eleven-building school complex. A vital community asset, it has been used for cinema and stage productions, rooftop socials, graduation ceremonies, and once housed the superintendent's office downstairs and a janitor's apartment upstairs. Recorded Texas Historic Landmark - 1992]]></description>
+    <Point><coordinates>-95.629429,29.625179,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Sugar Land Refinery</name>
+    <description><![CDATA[Hwy. A-90 at Imperial Sugar, Marker reported damaged 5.15.18<br/><br/><b>Address:</b> Sugar Land<br/><br/><b>Marker Text:</b> Stephen F. Austin's colonists brought sugar cane to Fort Bend County in the 1820s. The Sugar Land area was once part of Oakland Plantation, where Nathaniel (1800-84) and Matthew Williams (1805-52) planted sugar cane about 1840. They began processing the cane in 1843 using a horse-powered mill and open-air cooking kettles. In 1853 the plantation and mill were purchased by William J. Kyle (1803-64) and Benjamin F. Terry (1821-61). They improved the mill and promoted a railroad for the area, which they named Sugar Land. Terry later helped organize the famed Confederate cavalry unit, Terry's Texas Rangers, and was killed in the Civil War (1861-65). After the war, the operation was sold to Edward H. Cunningham (1835-1912), who expanded the sugar mill into a refinery. W. T. Eldridge (1862-1932) and Galveston businessman I. H. Kempner, Sr. (1873-1967) purchased the refinery in 1907. They began importing raw sugar to operate the refinery year-round because local cane was available only seasonally and in decreasing quantities in the early 1900s. Named by Kempner for the Imperial Hotel in New York City, the Imperial Sugar Company and the City of Sugar Land have grown steadily. During the 1970s, the Imperial Sugar Company produced more than three million pounds of refined cane sugar daily.]]></description>
+    <Point><coordinates>-95.635663,29.619955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Town of Needville</name>
+    <description><![CDATA[SH 36, 250' north of junction w/FM 1236<br/><br/><b>Address:</b> Needville<br/><br/><b>Marker Text:</b> Had beginning in 1892 when settler August Schendel opened general store, here, on his land. Blacksmith shop, cotton gin, and room for post office had been added by 1894, when Schendel was appointed first postmaster. He suggested naming place "Needmore" because it needed more of everything, but another town already had that name. Slowly village became trade center. First church service was held 1891; school opened by 1897. Early economy, based on stockraising and farming, was altered radically with discovery of oil, natural gas, and sulphur, 1920s-30s.]]></description>
+    <Point><coordinates>-95.834893,29.402685,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

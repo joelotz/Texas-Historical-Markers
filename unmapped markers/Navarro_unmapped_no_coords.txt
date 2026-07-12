@@ -1,0 +1,38 @@
+Navarro unmapped markers with NO usable address (9):
+
+  THC 17202: Davidson Family Cemetery
+    addr: Vista Ridge Development on the left about 1300 feet from the road, Corsicana
+    https://atlas.thc.texas.gov/Details/5507017202
+
+  THC 17275: Dunn-Johnston Cemetery
+    addr: Eureka
+    https://atlas.thc.texas.gov/Details/5507017275
+
+  THC 23646: Meritt Drane
+    addr: 410 N. 45th St., Corsicana
+    https://atlas.thc.texas.gov/Details/5000023646
+
+  THC 24293: Park High School
+    addr: 201 SH 309, Kerens
+    https://atlas.thc.texas.gov/Details/5000024293
+
+  THC 12114: Rural Shade
+    addr: Kerens
+    https://atlas.thc.texas.gov/Details/5349012114
+
+  THC 12341: Site of Tuckertown
+    addr: Corsicana
+    https://atlas.thc.texas.gov/Details/5349012341
+
+  THC 12551: Squire Josiah Daniel Home
+    addr: Kerens vicinity
+    https://atlas.thc.texas.gov/Details/5349012551
+
+  THC 14383: Trading Post of Dr. G. W. Hill
+    addr: Dawson
+    https://atlas.thc.texas.gov/Details/5507014383
+
+  THC 23831: White Church Cemetery
+    addr: NW Co. Road 2250, Blooming Grove
+    https://atlas.thc.texas.gov/Details/5000023831
+

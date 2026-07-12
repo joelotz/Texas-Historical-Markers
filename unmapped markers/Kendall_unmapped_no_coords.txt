@@ -1,0 +1,37 @@
+Kendall unmapped markers with NO usable address (9):
+
+  THC 23492: Casper Sueltenfuss
+    addr: Edge Falls Rd., Bergheim
+    https://atlas.thc.texas.gov/Details/5000023492
+
+  THC 1268: Dr. Ferdinand Ludwig Von Herff
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5259001268
+
+  THC 14702: Lex Sanitarium
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014702
+
+  THC 14328: Ludwig von Herrf, Dr. Ferdinand
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014328
+
+  THC 22466: Pinta Trail Crossing of the Guadalupe River
+    addr: Sisterdale
+    https://atlas.thc.texas.gov/Details/5000022466
+
+  THC 16064: Post Oak Spring Ranch
+    https://atlas.thc.texas.gov/Details/5507016064
+
+  THC 14825: Potter, Chaplain A.J.
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014825
+
+  THC 5120: Stieler Ranch House
+    addr: Comfort
+    https://atlas.thc.texas.gov/Details/5259005120
+
+  THC 12370: Welfare School
+    addr: 217 Waring-Welfare Rd., Welfare
+    https://atlas.thc.texas.gov/Details/5259012370
+

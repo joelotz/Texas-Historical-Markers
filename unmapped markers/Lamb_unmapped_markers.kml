@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Lamb County — Unmapped Historical Markers</name>
+  <description>THC markers in Lamb County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Sudan Hotel</name>
+    <description><![CDATA[on 1st Street, between Main &amp; Commerce-Sudan<br/><br/><b>Address:</b> First Street, Sudan<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-102.523106,34.065787,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+Milam unmapped markers with NO usable address (10):
+
+  THC 18575: Bushdale Cemetery
+    addr: Rockdale
+    https://atlas.thc.texas.gov/Details/5507018575
+
+  THC 14715: Friendship School, Site of
+    addr: Davilla
+    https://atlas.thc.texas.gov/Details/5507014715
+
+  THC 17436: Friendship United Methodist Church Cemetery
+    addr: Davilla
+    https://atlas.thc.texas.gov/Details/5507017436
+
+  THC 7977: Green-Batte House
+    addr: Cameron
+    https://atlas.thc.texas.gov/Details/5331007977
+
+  THC 17437: Hope Lutheran Memorial Park
+    addr: Buckholts
+    https://atlas.thc.texas.gov/Details/5507017437
+
+  THC 12155: John Hobson
+    addr: Cameron
+    https://atlas.thc.texas.gov/Details/5331012155
+
+  THC 12314: Lilac Cemetery
+    addr: Davilla vicinity
+    https://atlas.thc.texas.gov/Details/5331012314
+
+  THC 17438: North Elm Cemetery
+    https://atlas.thc.texas.gov/Details/5507017438
+
+  THC 12457: Urban Cemetery
+    addr: Sharp vicinity
+    https://atlas.thc.texas.gov/Details/5331012457
+
+  THC 17666: Wilson-Ledbetter Park
+    addr: Cameron
+    https://atlas.thc.texas.gov/Details/5507017666
+

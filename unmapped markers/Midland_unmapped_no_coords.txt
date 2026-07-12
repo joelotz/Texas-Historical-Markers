@@ -1,0 +1,14 @@
+Midland unmapped markers with NO usable address (3):
+
+  THC 15318: Fairgrounds Road
+    addr: Midland
+    https://atlas.thc.texas.gov/Details/5507015318
+
+  THC 15613: Fairview Cemetery
+    addr: Midland
+    https://atlas.thc.texas.gov/Details/5507015613
+
+  THC 14438: Lawrence Home
+    addr: Midland
+    https://atlas.thc.texas.gov/Details/5507014438
+

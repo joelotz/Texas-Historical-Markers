@@ -1,0 +1,18 @@
+Kerr unmapped markers with NO usable address (4):
+
+  THC 11992: Cade House
+    addr: Ingram
+    https://atlas.thc.texas.gov/Details/5265011992
+
+  THC 23254: Gate of Heaven Cemetery
+    addr: Sheppard Rees Rd., Kerrville
+    https://atlas.thc.texas.gov/Details/5000023254
+
+  THC 22757: Live Oak Ranch
+    addr: 2798 Live Oak Road NW, Mountain Home
+    https://atlas.thc.texas.gov/Details/5000022757
+
+  THC 11994: Site of Reservation School
+    addr: Mountain Home
+    https://atlas.thc.texas.gov/Details/5265011994
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jackson County — Unmapped Historical Markers</name>
+  <description>THC markers in Jackson County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bennett and West Ranch</name>
+    <description><![CDATA[from La Salle, take CR 325 NW about 2.2 miles, go west at cattle guard and follow .6 miles gravel road<br/><br/><b>Address:</b> La Salle<br/><br/><b>Marker Text:</b> Cattlemen John M. Bennett (1831-1920) and George W. West (1851-196) began buying ranch land here in Jackson County in 1875. Bennett was born in Alabama, moved to Texas in 1837, and earned his capital by driving cattle herds up the Chisholm Trail to Kansas. West was also from Alabama and settled in the Sweet Home area of Lavaca County (about 50 miles NW) near Bennett's family. The partners acquired 35,375 acres between the Garcitas and Lavaca rivers, rich with prairie grasses before the invasion of brush thickets. In 1882 West sold his half interest to his brothers Ike and Sol. By 1902 the ranch was running 7,000 head of cattle, bred from longhorns and herefords. That year Ike withdrew from the partnership and sold off his one-fourth interest in the land and cattle herd. Neither Bennett nor the Wests lived at the ranch. The nearby frame house dates from 1902 as the ranch headquarters and foreman's residence. When Bennett and Sol West died in 1920, the land was divided between the Bennetts on the Garcitas River, and the Wests on the Lavaca River. From 1924 to 1978, three generations of the James family, beginning with Daniel Arthur James (1886-1943), served as foremen of the Bennett Ranch.]]></description>
+    <Point><coordinates>-96.69374,28.810864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dutart-McDowell Home</name>
+    <description><![CDATA[Texana Museum, 403 Wells St., Edna<br/><br/><b>Address:</b> Edna<br/><br/><b>Marker Text:</b> Built in Texana about 1860; later moved here. Housed many of Edna's first families. Typifies homes of that era. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-96.648127,28.980801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elijah Stapp</name>
+    <description><![CDATA[4.7 mi. NW of Edna, accessed by private road 0.5 mi S. of CR 124. Russell Ward Cemetery.<br/><br/><b>Address:</b> FM 822, Edna<br/><br/><b>Marker Text:</b> A signer of the Texas Declaration of Independence. Born in Virginia 1783. Died in Jackson County, Texas 1843.]]></description>
+    <Point><coordinates>-96.708443,29.033584,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Famous Lavaca-Navidad Meeting of 1835</name>
+    <description><![CDATA[Texana Museum, 403 Wells St., Edna<br/><br/><b>Address:</b> Edna<br/><br/><b>Marker Text:</b> At the cotton gin of William Millican, near here, on July 17, 1835, occurred the significant Lavaca-Navidad Meeting, held by pioneers living near the two rivers. James Kerr, the founder of Gonzales, was chairman and the Rev. S. C. A. Rogers, secretary. The meeting adopted resolutions protesting mistreatment of Texas colonists by the government of Mexico. This early formal public protest was a forerunner of the Declaration of Independence on March 2, 1836, and the constituting of the Republic of Texas.]]></description>
+    <Point><coordinates>-96.648127,28.98081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First United Methodist Church of Ganado</name>
+    <description><![CDATA[<b>Address:</b> 200 Twin Oaks Blvd., Ganado<br/><br/><b>Marker Text:</b> Although this church was formally organized in 1880 by the Reverend M. A. Black and the Reverend T. R. Stewart, Methodists, under the leadership of S. C. A. Rodgers, Had been meeting in this area for some time. Religious observances began with brush arbor meetings and early morning services held in the Ganado area. The congregation included both Anglo and African Americans. The first church building was a chapel constructed of hewn logs that also was used as a school-house. Circuit-riding ministers traveled on horseback to serve this community and others in the region. In May 1895 trustees for the church purchased land at East Devers and Second streets, and a white frame sanctuary was erected by the end of the year. An arbor was attached to the back of the church for outdoor services as weather permitted. By 1927 the membership had outgrown the frame church, and in 1928 they built a larger brick sanctuary at Third and Devers streets. A spacious new church building was completed here in 1959. The congregation provides traditional programs for it's members and outreach activities for the area. The church continues to be an integral part of the community as it has for more than a century. (1998)]]></description>
+    <Point><coordinates>-96.509957,29.034383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Francis Menefee White</name>
+    <description><![CDATA[Wells Family Cemetery, take FM 1822 SE of Edna 6.5, then go S on private road 7 miles in pasture.<br/><br/><b>Address:</b> Edna<br/><br/><b>Marker Text:</b> Participated in the capture of Bexar, 1835. Born in Tennessee August 11, 1811, died March 22, 1897. His wife Rosanna K. M. White, born in Louisiana died in 1845.]]></description>
+    <Point><coordinates>-96.603868,28.884333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Major James Kerr</name>
+    <description><![CDATA[from Edna, take FM 882 north about 7 miles<br/><br/><b>Address:</b> Edna<br/><br/><b>Marker Text:</b> Born in Danville, Ky.; served in War of 1812 and as sheriff, state representative, state senator in Missouri. Came to Texas as DeWitt Colony's surveyor-general; laid out town of Gonzales, July 1825. In 1827 moved to Jackson County, which he represented in 1832, 1833 conventions, serving in 1833 on committee to draft constitution for proposed state of Texas. On July 17, 1835, was chairman of the Lavaca-Navidad meeting, an early public protest against Mexican authorities' mistreatment of settlers. Served in Republic of Texas Congress in 1838-1839. He was also a practicing physician.]]></description>
+    <Point><coordinates>-96.732708,29.058148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Meriwether-Simons-Farquhar House</name>
+    <description><![CDATA[801 S. Allen ST., Edna<br/><br/><b>Address:</b> 801 S Allen St, Edna<br/><br/><b>Marker Text:</b> Erected 1883-1884 by George Meriwether, landowner. Has square nails, pine walls and floors. The residence, in Spanish provincial style, was one of the first two-story homes built in Edna. The original layout included a separate kitchen and servants' quarters. The 22-room house is still called "The Mott" because it is set among many live oaks. Purchased 1907 by E. P. Simons; willed 1946 to his daughters. Recorded Texas Historic Landmark, 1968.]]></description>
+    <Point><coordinates>-96.641613,28.969734,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old J. C. Traylor Place</name>
+    <description><![CDATA[Texana Museum, 403 Wells St.<br/><br/><b>Address:</b> 403 Wells St, Edna<br/><br/><b>Marker Text:</b> 1879. First home in Edna built of new lumber. Had spare room and an extra plate at table for neighbors in town to do yearly trading. Recorded Texas Historic Landmark, 1964.]]></description>
+    <Point><coordinates>-96.647674,28.980449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Morales Store</name>
+    <description><![CDATA[Hwy. 111, 1 mile S of Morales<br/><br/><b>Address:</b> Morales<br/><br/><b>Marker Text:</b> Originally built in early 1860s of rough pine. Local gathering place then-- as now. Exterior appearance is same. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-96.744661,29.108089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Samuel C. A. Rogers</name>
+    <description><![CDATA[Rogers family cemetery, from Ganado go 2 mile NW on Old US 59 (runs W of 59) to Fowler farm (private)<br/><br/><b>Address:</b> Ganado<br/><br/><b>Marker Text:</b> A soldier in the army of Texas who participated in the Siege of San Antonio in 1835. Born in Virginia, June 18, 1810; died February 13, 1892. His wife, Mary E. Rogers, born September 5, 1835; died May 2, 1912]]></description>
+    <Point><coordinates>-96.535953,29.036962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Texana Presbyterian Church</name>
+    <description><![CDATA[Texana community, Brackenridge Recreation Complex. Church was built in Texana, moved to Edna in 1884, and moved back to Texana in 2001.<br/><br/><b>Address:</b> 803 Brackenridge Parkway, Edna<br/><br/><b>Marker Text:</b> The earliest Presbyterian church in Jackson County, the Texana congregation was formed in 1855 under the leadership of John Adams Brackenridge. The fellowship was established in Texana (8 miles SE), now a ghost town, but once the county seat and a thriving riverport. In 1859 the members constructed this frame sanctuary. It was moved to Edna in 1884, two years after the town was founded along the New York, Texas &amp; Mexican Railroad. Later used as a warehouse, it now serves as a reminder of the pioneer area settlers of ante bellum Texas. Recorded Texas Historic Landmark - 1981]]></description>
+    <Point><coordinates>-96.53932,28.943407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ward-Coates Home</name>
+    <description><![CDATA[From La Ward, take US 172 S. about 6 miles, then go E over cattle guard about .3 miles - house is visible from road.<br/><br/><b>Address:</b> La Ward<br/><br/><b>Marker Text:</b> Built in 1860s by Lafayette Ward, Sr., a pioneer rancher who came from Missouri to Texas, 1836. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-96.454593,28.749972,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

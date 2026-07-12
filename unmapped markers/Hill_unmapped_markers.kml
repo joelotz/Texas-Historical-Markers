@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hill County — Unmapped Historical Markers</name>
+  <description>THC markers in Hill County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 13 omitted (no usable address).</description>
+  <Placemark>
+    <name>Abbott Cemetery</name>
+    <description><![CDATA[1 mile north of Abbott on HCR 3106, .4 mi. N of FM 1242<br/><br/><b>Address:</b> Abbott]]></description>
+    <Point><coordinates>-97.072466,31.892639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Abbott's Grove</name>
+    <description><![CDATA[Hillsboro City Park, N of int. of Old Brandon Rd (286) at IH-35/77, just south of Pecan Creek<br/><br/><b>Address:</b> Old Brandon Rd, IH35, Hillsboro<br/><br/><b>Marker Text:</b> In the early days of Hillsboro, a grove of pecan, hackberry, elm and other trees grew along the banks of Hackberry Creek. Hillsboro residents came to the grove for community celebrations and festivities. They called it Abbott's Grove in honor of one of the city's popular leaders, Joseph Abbott (1840-1908). He and his wife, Rowena (Sturgis), built their family home on the land south of the creek. Two of their five children owned adjacent property. Jo Abbott was a distinguished lawyer, judge, Texas legislator and U.S. Congressman. He and brother-in-law George F. Sturgis operated what would become the Sturgis National Bank. An avid anti-prohibitionist, Abbott was often a speaker at rallies and barbecues held in the 1880s and 1890s in the grove near his home. Other events at the grove included community and holiday picnics, concerts, ball games, and reunions for groups like the Old Settlers and Confederate Veterans Associations. At Abbott's death in 1908, prominent businessman and banker George Carmichael (1855-1924) purchased the Abbott home and property, and donated $1,000 in 1921 to designate the grove as a city park. The newly organized Hillsboro Rotary Club got behind the effort, and after a few months of raising funds the Rotarians were successful in their campaign. The new municipal park continued the name of Abbott's Grove. Use of the park at Abbott's Grove fluctuated over the years, but after a period of underutilization the park is once again a source of community pride, and a place for birthday parties, end-of-school events and other celebrations. Hillsboro citizens enjoy the scenic setting and the many amenities found in historic Abbott's Grove. (2004)]]></description>
+    <Point><coordinates>-97.094399,32.027038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brin House</name>
+    <description><![CDATA[109 Corsicana, Hillsboro<br/><br/><b>Address:</b> 109 Corsicana, Hillsboro<br/><br/><b>Marker Text:</b> Hillsboro attorney Robert T. Jones and his wife Mary (Abbott) commissioned William M. Keith to build this Victorian residence in 1896. In 1917 it was purchased by Louis and Rebecca (Watelsky) Brin. Born in Poland of Jewish descent, Louis Brin established a Hillsboro dry goods store at the age of sixteen and later became a prominent area merchant and civic leader. Members of the Brin family owned the home until 1980. Recorded Texas Historic Landmark - 1981]]></description>
+    <Point><coordinates>-97.125636,32.014473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Condor House</name>
+    <description><![CDATA[307 Bois D'Arc, Hubbard<br/><br/><b>Address:</b> 307 Bois D'Arc, Hubbard<br/><br/><b>Marker Text:</b> This house was built in 1906 for E. L. Condor (b. 1854), a saddle and harness maker and an early trustee of Hubbard's Methodist Episcopal Church, South. Constructed of cypress and long-leaf pine, the home features a wraparound porch, Doric columns, and a triangular pediment over the three windowed bay at the end of the porch. A good example of an early city home, it remained in the Condor family for almost fifty years. Recorded Texas Historic Landmark - 1984]]></description>
+    <Point><coordinates>-96.797585,31.846788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Frazierville Community and School</name>
+    <description><![CDATA[from Hillsboro take FM 3267 3 miles southeast; the marker is located on a gravel drive<br/><br/><b>Address:</b> Hillsboro<br/><br/><b>Marker Text:</b> Richard Cason Frazier (d. 1856) and his wife Agnes (Clark) (d. 1875) settled on a land grant here in 1852. The site was later enlarged with the addition of adjoining property from the B. M. Bryan Survey, which provided timber and spring water. A portion of the land was donated in 1883 by Richard's son John for the construction of a schoolhouse and nondenominational church building. The area surrounding the site became known as the Frazierville community. Family members have owned the site for over 125 years.]]></description>
+    <Point><coordinates>-97.087113,31.985357,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill County</name>
+    <description><![CDATA[at East side of Courthouse Waco Street and Franklin, Hillsboro<br/><br/><b>Address:</b> Hillsboro<br/><br/><b>Marker Text:</b> Created February 7, 1853. Organized May 14, 1853. Named in honor of Dr. George W. Hill, 1814-1860. Member of the Texas Congress and Legislature. Secretary of War of the Republic of Texas, 1843-1845. Lexington, first village 1853. Hillsboro, county seat since.]]></description>
+    <Point><coordinates>-97.130414,32.0116,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. T. Baker House</name>
+    <description><![CDATA[2 miles northeast of Blum, via caliche road from BJ Towing<br/><br/><b>Address:</b> Blum<br/><br/><b>Marker Text:</b> Built as a one-room cabin in the late 19th century, this vernacular dwelling was enlarged prior to 1900 by board-and-batten additions to the northwest and northeast. After John Thomas Baker acquired the house in 1900, he built a frame addition with porches to accommodate his large family. Although Baker died in 1914, his widow Harriet and their nine children continued to live here until the mid-1920s, and the house has remained in the Baker family. Recorded Texas Historic Landmark-1990]]></description>
+    <Point><coordinates>-97.389536,32.159342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. W. Freeland</name>
+    <description><![CDATA[Ridge Park Cemetery, Hillsboro on the east side of a driveway north of Loop road within cemetery<br/><br/><b>Marker Text:</b> Served as city marshal of Hubbard 1895-1907, a period of local option prohibition and great lawlessness. Moved to Hillsboro and became superintendent of county poor farm. Elected sheriff 1910. After serving 2 terms, was elected mayor. Elected sheriff a second time in 1928; served until 1933. In 1933, he tracked down and arrested notorious Raymond Hamilton, member of the famous Clyde Barrow Gang. Recorded, 1968]]></description>
+    <Point><coordinates>-97.124617,32.02177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. W. Park Home</name>
+    <description><![CDATA[206 North Wesley Street, Itasca<br/><br/><b>Address:</b> 206 North Wesley Street, Itasca<br/><br/><b>Marker Text:</b> John Wilkes Park (1869-1921) and his wife, Willie Clinkscales Park (1869-1935), built this classical revival style home about 1908. Its massive Corinthian columns and other milled details reflect a popular turn-of-the century embrace of classicism. A Mississippi native, Park served as mayor of Itasca from 1916 to 1920. After John's death, Willie Park rented parts of the house. The home remained in the Park family until 1945. Recorded Texas Historic Landmark - 1986]]></description>
+    <Point><coordinates>-97.147255,32.163325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jesse Walling</name>
+    <description><![CDATA[at Whitney Memorial Park, Whitney<br/><br/><b>Address:</b> Whitney<br/><br/><b>Marker Text:</b> Star and Wreath Participated in the Battle of San Jacinto. Erected by the State of Texas 1957]]></description>
+    <Point><coordinates>-97.314915,31.940013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John C. Walling</name>
+    <description><![CDATA[at Whitney Memorial Park, Whitney<br/><br/><b>Address:</b> Whitney<br/><br/><b>Marker Text:</b> Star and Wreath Served in the Texas Army, 1836. Erected by the State of Texas 1957]]></description>
+    <Point><coordinates>-97.314915,31.940013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John P. Cox</name>
+    <description><![CDATA[Ridge Park Cemetery, Hillsboro, just south of Loop Road in center of cemetery<br/><br/><b>Address:</b> Hillsboro<br/><br/><b>Marker Text:</b> Sheriff of Hill County for 16 years. The son of San Jacinto hero, Euclid M. Cox. Joined Parsons Brigade of the Confederate Army in 1861, then for 25 years after the Civil War was commander of Hillsboro's Confederate Camp. A Methodist and a Mason, this fearless and firm sheriff made every effort to bring offenders to justice and was particularly interested in the reformation of young law breakers. Cox also served 4 years as county clerk.]]></description>
+    <Point><coordinates>-97.124161,32.020284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lackawanna Ranch</name>
+    <description><![CDATA[from Hillsboro take SH 171 north about 6 miles on east side of highway. Marker reported in temporary storage Jul. 2016.<br/><br/><b>Address:</b> Hillsboro<br/><br/><b>Marker Text:</b> Dr. John S. Scofield (1826-1901) chose the Indian name "Lackawanna" for the 2500 acre tract of land he bought here in 1858. After moving with his family from Kentucky, he served Hill County as a doctor and county judge. Later he was a director and vice-president of Sturgis National Bank. Dr. Scofield introduced shorthorn cattle to this area. His son, Frank (1887-1974), who inherited this part of the ranch in 1901, raised prize-winning shorthorns. After the first house on this site burned, the present structure was built in 1917. The Lackawanna Ranch was purchased in 1945 by E. G. Murphree.]]></description>
+    <Point><coordinates>-97.178293,32.075787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McDaniel Family Home</name>
+    <description><![CDATA[Maple and North 3rd west, Hubbard. Marker reported missing Oct. 2008.<br/><br/><b>Address:</b> Maple and North 3rd west, Hubbard<br/><br/><b>Marker Text:</b> Late Victorian architecture. One of earliest fine houses in Hubbard, founded when the Cotton Belt railroad extended its line from Tyler to Waco in 1881. Structure is of walnut and pine. Ornamentation includes array of banisters on porches and stairs. Decorative columns and gables, tinted window glass. Built 1882 by Joe B. McDaniel, local merchant and banker, for his widowed mother, Elizabeth Bonner (Mrs. William M.) McDaniel. Recorded Texas Historic Landmark - 1969]]></description>
+    <Point><coordinates>-96.799465,31.845454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Peabody School</name>
+    <description><![CDATA[210 Francis St.<br/><br/><b>Address:</b> 210 Francis St., Hillsboro<br/><br/><b>Marker Text:</b> In 1885, a bond was issued for the construction of an African American School, which was built soon afterwards. The school, named for George Peabody, a banker who distributed funds to the southern states following the Civil War, educated students in the African-American neighborhood in Hillsboro known as Freetown. A brick building replaced the orginal frame structure in 1919, and was used until the school moved to here in 1950. Peabody School's last grraduating class was in 1966, with primary level classes held on the campus for several more years until full integration occurred. Although the buiding burned down in 2005, Peabody School remains a source of pride for Hillsboro residents. (2008)]]></description>
+    <Point><coordinates>-97.126493,32.001871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Peoria Cumberland Presbyterian Church</name>
+    <description><![CDATA[at Hill Co. Cell Block Museum 120 North Waco, Hillsboro<br/><br/><b>Address:</b> 120 North Waco, Hillsboro<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-97.130031,32.012032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prairie Valley Community</name>
+    <description><![CDATA[from Whitney take SH 22 south about 3.1 miles - head southeast on FM 2960 and continue 1.3 miles to Prairie Valley; marker is located at cemetery near Baptist Church on CR 2101<br/><br/><b>Address:</b> Prairie Valley<br/><br/><b>Marker Text:</b> In former Waco Indian region. First land grants were to Elisha Dennis, Manuel Madrigal, and Dr. Levi Jones, physician to Stephen F. Austin, the Father of Texas. First settlers (1850s) included Jesse Hayes, P. P. Whitehead, E. P. Wade. In 1857 Hill County's First Church of Christ congregation was organized here. Settlers by 1870 were families named Burks, Collins, Cranfil, Darden, Edwards, Harris, McIntosh, Page, Walling, and Wilson. Post office, Masonic lodge, school (Hill County Common District 1), and cemetery opened in 1870s. In 1872 the Missionary Baptist Church was organized.]]></description>
+    <Point><coordinates>-97.331744,31.876805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rigsby Home</name>
+    <description><![CDATA[Cactus Avenue and 7th, Hubbard<br/><br/><b>Address:</b> Cactus Avenue and 7th, Hubbard<br/><br/><b>Marker Text:</b> Built 1896 by Lee Onstott. Example of Victorian style. Has ornamental gables, tile hearths, ornate glass. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-96.801809,31.849553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Scott's Chapel Cemetery</name>
+    <description><![CDATA[2 mi S on I-35, 12 mi SW on FM 1304<br/><br/><b>Address:</b> 2 mi S on I-35, 12 mi SW on FM 1304, Hillsboro<br/><br/><b>Marker Text:</b> This cemetery served the former community of Scott's Chapel, named for the Scott family, who came here in 1852. James Williams Scott, a signer of the Goliad Declaration of Independence, migrated from Alabama in 1831 with wife Martha "Patsey" Bruce and family before eventually settling this area. Their son Palestine Gilliad Scott donated land for a school and church, while another son, John Coleman Burris Scott, gave property for cemetery use in 1860. The earliest burial, for Fannie E. Griffin, dates to 1859. Another notable burial is of Samuel McFall, a survivor of the Black Bean Episode of the 1842-43 Mier Expedition. The burial ground contains obelisks, Woodmen of the World markers, false crypts and interior fencing. Historic Texas Cemetery – 2003]]></description>
+    <Point><coordinates>-97.326197,22.81177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Early Cattle Trail</name>
+    <description><![CDATA[Near intersection of SH 174 and Owl Hollow Rd. Marker reported missing July 2013.<br/><br/><b>Address:</b> SH 174, Blum<br/><br/><b>Marker Text:</b> Often called Chisholm Trail, since it connected with that famous route lying to the north. At Kimball Crossing (1.3 mi. SW) this trail entered Hill County. Drovers rested and reshod horses at Towash and Fort Graham, and then forded the Nolan River into Johnson County. (1967)]]></description>
+    <Point><coordinates>-97.482424,32.128631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Town of Aquilla</name>
+    <description><![CDATA[just west of Intersection of FM 3370 and FM 1133<br/><br/><b>Address:</b> Aquilla<br/><br/><b>Marker Text:</b> Named for Aquilla (from the Spanish word for "Eagle") Creek. The townsite was surveyed, 1879, when the Texas Central Railroad was built through Hill County. As businessmen and citizens moved here, Aquilla grew to be a main shipping point. At one time, it had 13 retail stores, 3 hotels, a health spa, 4 churches, a school and other businesses. One of the earliest chartered state banks in Texas opened here in 1905. At the town's peak (1910-1920), ranchers, farmers, and drummers (traveling salesmen) filled the streets. Presently, a sound farming economy prevails.]]></description>
+    <Point><coordinates>-97.218738,31.851188,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,9 @@
+Menard unmapped markers with NO usable address (2):
+
+  THC 4674: Sheriff John L. Jones
+    https://atlas.thc.texas.gov/Details/5327004674
+
+  THC 23453: Waddell Cemetery
+    addr: Waddell Lane, Menard
+    https://atlas.thc.texas.gov/Details/5000023453
+

@@ -1,0 +1,26 @@
+Cooke unmapped markers with NO usable address (6):
+
+  THC 15979: Clark Cemetery
+    addr: Gainesville
+    https://atlas.thc.texas.gov/Details/5507015979
+
+  THC 16929: Indian Creek Cemetery
+    addr: Valley View
+    https://atlas.thc.texas.gov/Details/5507016929
+
+  THC 12484: Nelson Log House
+    addr: Gainesville vicinity
+    https://atlas.thc.texas.gov/Details/5097012484
+
+  THC 15295: Oak Grove Cemetery (Medallion only)
+    addr: Gainesville
+    https://atlas.thc.texas.gov/Details/5507015295
+
+  THC 14931: Sam Callis Cemetery
+    addr: Callisburg
+    https://atlas.thc.texas.gov/Details/5507014931
+
+  THC 11709: Spring Creek Cemetery
+    addr: Gainesville
+    https://atlas.thc.texas.gov/Details/5097011709
+

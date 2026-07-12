@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Tom Green County — Unmapped Historical Markers</name>
+  <description>THC markers in Tom Green County without an HMDB id (isMissing excluded). 12 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Administration Building</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, E side of parade ground.<br/><br/><b>Address:</b> San Angelo]]></description>
+    <Point><coordinates>-100.427814,31.454104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chapel and School House</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, S side of parade ground.<br/><br/><b>Address:</b> 630 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.430648,31.453495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>County Line Cemetery</name>
+    <description><![CDATA[Guinn Rd. (CR 113), 4 mi. SW of FM 2335, E side of the road.<br/><br/><b>Address:</b> Guinn Rd., Knickerbocker<br/><br/><b>Marker Text:</b> HTC medallion only]]></description>
+    <Point><coordinates>-100.68991,31.216071,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>De Long Cemetery</name>
+    <description><![CDATA[4100 West FM 2335<br/><br/><b>Address:</b> 4100 West FM 2335, Cristoval]]></description>
+    <Point><coordinates>-100.489935,31.232752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Enlisted Men's Barracks #1</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, N side of parade ground.<br/><br/><b>Address:</b> 603 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.431806,31.455757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Enlisted Men's Barracks #2</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, N side of parade ground.<br/><br/><b>Address:</b> 603 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.431806,31.455757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fred Beck Homestead</name>
+    <description><![CDATA[1231 Culberson, San Angelo<br/><br/><b>Address:</b> 1231 Culberson, San Angelo<br/><br/><b>Marker Text:</b> A native of Germany, Fred Beck (1864-1951) came to San Angelo in 1886 and bought this homesite in 1889. By 1892 he had opened his own butcher shop. Beck hired noted architect Oscar Ruffini to design this home in 1912, after a house built here in 1902 was destroyed by fire. An adaptation of a Queen Anne style cottage and built of locally-made brick, the house features a pyramidal roof, central entry, wraparound porch, and low gabled dormers. Recorded Texas Historic Landmark - 1989]]></description>
+    <Point><coordinates>-100.418414,31.462461,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Knickerbocker Catholic Community Cemetery</name>
+    <description><![CDATA[Knickerbocker Catholic Community Cemetery, FM 2335, W side, 0.2 mi. S of Guinn Rd.<br/><br/><b>Address:</b> FM 2335, Knickerbocker<br/><br/><b>Marker Text:</b> HTC medallion only]]></description>
+    <Point><coordinates>-100.624652,31.256524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mullins Cemetery</name>
+    <description><![CDATA[16 miles northeast of San Angelo off FM 380 from San Angelo, take FM 380 east about 8 miles, then go north on cemetery road about 2 miles go north again 1/2 mile, then go east on Cemetery road about 1/2 road then go north again 1.3 mile to cemetery<br/><br/><b>Address:</b> Off FM 380 about 16 miles NE of San Angelo, San Angelo<br/><br/><b>Marker Text:</b> Named for Isaac Mullins (1819-81), one of organizers of Tom Green County, member of first county commission, and state representative in 16th Texas Legislature. Born in Virginia, Mullins came to the Republic of Texas with his parents and their family in 1837. The family cattle brand, "IC", one of most famous in Texas, was registered in Bastrop, Fayette, Lampasas, Brown, Mills, Coleman, Runnels, and Tom Green counties. Mullins trailed herds to markets as far away as California. In the 1860's, he served as captain of a Texas Ranger company. Moving to this area, he bought land near San Angelo and became a leading citizen. He was foreman of noted "Ike Mullins Grand Jury" which indicted nine soldiers for rioting at Fort Concho in 1878. He gave land for a school, and selected this spot as his own last resting place, deeding cemetery site in 1881. Mullins and his wife, Susan Slack (d. 1854), had a son, Charles, and a daughter, Julia (who married H. D. Barron). Some members of his family are buried here, along with Civil War veterans, and many pioneers of former Mullins community, now called Veribest. George Jefferson Byrd, named by Mullins family as trustee, served until his death in 1951, bequeathing the trust to a son, Curtis Byrd, and Frank Johnson.]]></description>
+    <Point><coordinates>-100.220675,31.519938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Officers Quarters No. 2</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, S side of parade ground.<br/><br/><b>Address:</b> 630 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.430648,31.453495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Officers Quarters No. 4</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, S side of parade ground.<br/><br/><b>Address:</b> 630 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.430648,31.453495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Officers Quarters No. 8</name>
+    <description><![CDATA[Fort Concho National Historic Landmark, S side of parade ground.<br/><br/><b>Address:</b> 630 S. Oakes St., San Angelo]]></description>
+    <Point><coordinates>-100.430648,31.453495,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Schleicher County — Unmapped Historical Markers</name>
+  <description>THC markers in Schleicher County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Old Courthouse and Jail</name>
+    <description><![CDATA[On Courthouse grounds at US 190 &amp; 277 intersection , El Dorado<br/><br/><b>Address:</b> US 190 &amp; 277 Intersection, El Dorado, El Dorado]]></description>
+    <Point><coordinates>-100.60045,30.85935,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

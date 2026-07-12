@@ -1,0 +1,6 @@
+Scurry unmapped markers with NO usable address (1):
+
+  THC 14419: Harrell Ranch House
+    addr: Snyder
+    https://atlas.thc.texas.gov/Details/5507014419
+

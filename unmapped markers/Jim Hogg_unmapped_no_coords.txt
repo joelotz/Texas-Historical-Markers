@@ -1,0 +1,6 @@
+Jim Hogg unmapped markers with NO usable address (1):
+
+  THC 20140: El Colorado Ranch Cemetery (HTC)
+    addr: Guerra
+    https://atlas.thc.texas.gov/Details/5507020140
+

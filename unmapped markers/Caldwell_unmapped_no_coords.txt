@@ -1,0 +1,28 @@
+Caldwell unmapped markers with NO usable address (7):
+
+  THC 23233: Crayton-Spruill Cemetery
+    addr: CR 103, Martindale
+    https://atlas.thc.texas.gov/Details/5000023233
+
+  THC 14996: Gunkel Family Cemetery
+    addr: Luling
+    https://atlas.thc.texas.gov/Details/5507014996
+
+  THC 24330: James Knox Hardeman and the FIS
+    addr: 290 Coastal Lane, Luling
+    https://atlas.thc.texas.gov/Details/5000024330
+
+  THC 17461: Johnson Perry Cemetery
+    https://atlas.thc.texas.gov/Details/5507017461
+
+  THC 17462: Lytton Springs Cemetery
+    https://atlas.thc.texas.gov/Details/5507017462
+
+  THC 24467: St. John Colony Cemetery (N&D)
+    addr: 1200 Chamblin Lane, Dale
+    https://atlas.thc.texas.gov/Details/5000024467
+
+  THC 15225: Wells Cemetery
+    addr: Lockhart
+    https://atlas.thc.texas.gov/Details/5507015225
+

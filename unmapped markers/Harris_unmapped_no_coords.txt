@@ -1,0 +1,61 @@
+Harris unmapped markers with NO usable address (15):
+
+  THC 24099: Colored Carnegie Library
+    addr: Bob Smith Park, Houston
+    https://atlas.thc.texas.gov/Details/5000024099
+
+  THC 24219: Colt Stadium
+    addr: 1 Fannin St., Houston
+    https://atlas.thc.texas.gov/Details/5000024219
+
+  THC 24034: Evergreen Negro Cemetery
+    addr: Market Street, Houston
+    https://atlas.thc.texas.gov/Details/5000024034
+
+  THC 10795: First Attorney General of Texas David Thomas
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5201010795
+
+  THC 22720: Gaillard-Mitchell Cemetery
+    addr: Causeway Rd., Baytown
+    https://atlas.thc.texas.gov/Details/5000022720
+
+  THC 23535: Goose Creek Oil Field
+    addr: Evergreen Rd, Baytown
+    https://atlas.thc.texas.gov/Details/5000023535
+
+  THC 18499: Hammer-McFaddin-Harris Cemetery
+    addr: 12435 Redbluff Road, Pasadena
+    https://atlas.thc.texas.gov/Details/5507018499
+
+  THC 14921: Hollingsworth Family Cemetery
+    addr: Crosby
+    https://atlas.thc.texas.gov/Details/5507014921
+
+  THC 14692: Houston
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5507014692
+
+  THC 24033: Humble Black - Pipeyard Cemetery
+    addr: FM 1960 Bypass Road, Humble
+    https://atlas.thc.texas.gov/Details/5000024033
+
+  THC 14769: Moore, Jim
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5507014769
+
+  THC 10810: Sam Houston Crossed Buffalo Bayou
+    https://atlas.thc.texas.gov/Details/5201010810
+
+  THC 15799: Sam Houston High School
+    addr: 9400 Irvington Blvd., Houston
+    https://atlas.thc.texas.gov/Details/5507015799
+
+  THC 10588: Site of Academy of the Incarnate Word
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5201010588
+
+  THC 23593: Willis Wood Cemetery
+    addr: Saddlebend Dr., Houston
+    https://atlas.thc.texas.gov/Details/5000023593
+

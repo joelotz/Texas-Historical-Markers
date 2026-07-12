@@ -1,0 +1,14 @@
+Titus unmapped markers with NO usable address (3):
+
+  THC 12324: Bridges Chapel Cemetery
+    addr: Mount Pleasant vicinity
+    https://atlas.thc.texas.gov/Details/5449012324
+
+  THC 11182: Stonewall School
+    addr: Mt. Pleasant
+    https://atlas.thc.texas.gov/Details/5449011182
+
+  THC 11183: West New Hope United Methodist Church
+    addr: Mt. Pleasant
+    https://atlas.thc.texas.gov/Details/5449011183
+

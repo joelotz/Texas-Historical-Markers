@@ -1,0 +1,48 @@
+Angelina unmapped markers with NO usable address (12):
+
+  THC 6982: Angelina County Lumber Company
+    addr: Lufkin
+    https://atlas.thc.texas.gov/Details/5005006982
+
+  THC 11653: Beulah Congregational Methodist Church
+    addr: Lufkin vicinity
+    https://atlas.thc.texas.gov/Details/5005011653
+
+  THC 11654: Beulah School
+    addr: Lufkin vicinity
+    https://atlas.thc.texas.gov/Details/5005011654
+
+  THC 17886: Brown Cemetery
+    addr: Eugene Walker Rd., Huntington
+    https://atlas.thc.texas.gov/Details/5507017886
+
+  THC 6985: Cheeseland
+    addr: Lufkin vicinity
+    https://atlas.thc.texas.gov/Details/5005006985
+
+  THC 14796: Gann Memorial Cemetery
+    addr: Pollok
+    https://atlas.thc.texas.gov/Details/5507014796
+
+  THC 11713: Huntington
+    addr: Huntington
+    https://atlas.thc.texas.gov/Details/5005011713
+
+  THC 22857: Lang Cemetery
+    addr: Redland
+    https://atlas.thc.texas.gov/Details/5000022857
+
+  THC 8710: Lufkin CCC Camp
+    addr: Lufkin
+    https://atlas.thc.texas.gov/Details/5005008710
+
+  THC 11657: Lufkin Telephone Exchange
+    addr: Lufkin
+    https://atlas.thc.texas.gov/Details/5005011657
+
+  THC 17428: McCarty Cemetery
+    https://atlas.thc.texas.gov/Details/5507017428
+
+  THC 17441: Renfro Cemetery #1
+    https://atlas.thc.texas.gov/Details/5507017441
+

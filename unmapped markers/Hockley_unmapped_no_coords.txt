@@ -1,0 +1,6 @@
+Hockley unmapped markers with NO usable address (1):
+
+  THC 15612: Casas Amarillas
+    addr: Levelland
+    https://atlas.thc.texas.gov/Details/5507015612
+

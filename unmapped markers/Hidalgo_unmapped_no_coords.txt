@@ -1,0 +1,37 @@
+Hidalgo unmapped markers with NO usable address (9):
+
+  THC 24109: Colegio Jacinto Trevino
+    addr: S. Missouri Ave., Mercedes
+    https://atlas.thc.texas.gov/Details/5000024109
+
+  THC 23753: Falcon Records
+    addr: Rafael Ramirez St., Mission
+    https://atlas.thc.texas.gov/Details/5000023753
+
+  THC 12059: First Baptist Church of Edcouch
+    addr: 931 W. Santa Rosa Ave. (SH 107), Edcouch
+    https://atlas.thc.texas.gov/Details/5215012059
+
+  THC 18322: Gloria Evangelina Anzaldúa
+    addr: 11th St., Hargill
+    https://atlas.thc.texas.gov/Details/5507018322
+
+  THC 17101: Immaculate Conception Cemetery
+    addr: FM 2058, McCook
+    https://atlas.thc.texas.gov/Details/5507017101
+
+  THC 23252: John and Silvia Webber Ranch
+    addr: Military Hwy., Donna
+    https://atlas.thc.texas.gov/Details/5000023252
+
+  THC 12063: Laguna Seca Ranch
+    addr: Edinburg
+    https://atlas.thc.texas.gov/Details/5215012063
+
+  THC 22496: Peñitas Common School
+    addr: Penitas
+    https://atlas.thc.texas.gov/Details/5000022496
+
+  THC 17531: Station KRGV-TV5
+    https://atlas.thc.texas.gov/Details/5507017531
+

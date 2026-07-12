@@ -1,0 +1,65 @@
+Anderson unmapped markers with NO usable address (16):
+
+  THC 18718: Beulah Baptist Church
+    addr: 2265 ACR 140, Elkhart
+    https://atlas.thc.texas.gov/Details/5507018718
+
+  THC 8742: C. S. A. Iron Works
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5001008742
+
+  THC 17153: Crawford Cemetery
+    addr: Slocum
+    https://atlas.thc.texas.gov/Details/5507017153
+
+  THC 17206: Elkhart Myrtle Springs Cemetery
+    addr: Elkhart
+    https://atlas.thc.texas.gov/Details/5507017206
+
+  THC 8758: Freeman Farm
+    addr: Frankston
+    https://atlas.thc.texas.gov/Details/5001008758
+
+  THC 14421: Gilmore's Chapel
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5507014421
+
+  THC 7159: John and Laura Miller House
+    addr: Frankston
+    https://atlas.thc.texas.gov/Details/5001007159
+
+  THC 8776: John Byler Mallard, Judge
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5001008776
+
+  THC 8729: Judge William Alexander
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5001008729
+
+  THC 8773: Link Family Cemetery
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5001008773
+
+  THC 24215: Massey Lake School
+    addr: 130 County Road 2802, Tennessee Colony
+    https://atlas.thc.texas.gov/Details/5000024215
+
+  THC 17711: New Hope Baptist Church
+    addr: 13400 FM 321, Tennessee Colony
+    https://atlas.thc.texas.gov/Details/5507017711
+
+  THC 8800: Pine Lodge Club House
+    addr: 1740 FM 1817, Elkhart
+    https://atlas.thc.texas.gov/Details/5001008800
+
+  THC 15231: Sadler, William T.
+    addr: Slocum
+    https://atlas.thc.texas.gov/Details/5507015231
+
+  THC 24216: St. James Missionary Baptist Church
+    addr: 2533 County Road 1204, Elkhart
+    https://atlas.thc.texas.gov/Details/5000024216
+
+  THC 17427: Swanson Cemetery
+    https://atlas.thc.texas.gov/Details/5507017427
+

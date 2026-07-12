@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Fayette County — Unmapped Historical Markers</name>
+  <description>THC markers in Fayette County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bedstead Truss Bridge (Mulberry Creek Bridge)</name>
+    <description><![CDATA[Wolters Park, SW corner near Kallus St.<br/><br/><b>Address:</b> 1103 Bohlmann St., Schulenburg<br/><br/><b>Marker Text:</b> Built in 1888 by the King Iron Bridge Company of Cleveland, Ohio, and its sub-contractor, A. J. Tullock and Company of Leavenworth, Kansas, this bridge provided easy access to the developing community of Schulenburg. Located on the Old Praha Road, it was part of a major travel route during the late 19th and early 20th centuries. The 60-foot iron structure, described as a single span, box-chord, pin-connected modified Pratt low truss bridge with counters, cost $1,422 at the time of its construction. It is one of the few bridges of this style still standing. Recorded Texas Historic Landmark - 1990]]></description>
+    <Point><coordinates>-96.910674,29.674006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brandt Cemetery</name>
+    <description><![CDATA[8 mi. S off FM 155 and Brandt River Bottom Rd<br/><br/><b>Address:</b> La Grange<br/><br/><b>Marker Text:</b> Eilert Gerhard Brandt and his wife, Sophie Friedrich Wilhelmine Westing Brandt, immigrated from Oldenburg, Germany to this area in April 1888. They purchased nearly 400 acres of land near the community of Pecan (Holman). Just months later, in June 1888, they established this cemetery with the burial of Meta Wienken, who had cared for their sons H. Emil and George F. before the couple had arrived with four more of their children. Six others had been stillborn or died young and were buried in Germany. After her husband's death in 1919, Wilhelmine (d. 1924) sold the land to George and his wife, Julia, who built a home nearby. In the 1930s, George and Julia sold the property to their children. In 1952, family members formed the Brandt Cemetery Association, which holds annual decoration days for the burial ground. The cemetery features curbed burial plots and slab grave covers. It remains a link to the Brandt family and the many German immigrants who helped settle Fayette County. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-96.788987,29.823682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brookfield-Evans-Cremer House</name>
+    <description><![CDATA[From La Grange, take Hwy. 609 south about 5 miles, then go east on FM 2436 1.2 miles.  Take Kallus Road south about 0.2 mi. to house<br/><br/><b>Address:</b> Kallus Road, Hostyn<br/><br/><b>Marker Text:</b> Samuel bought the 1832 David Berry league, where this house stands, in 1835. Samuel died at the Alamo the following year. Musgrove Evans and Brookfield's son Francis served in the Texas Army at the Battle of San Jacinto. In 1838 The Republic of Texas Congress voted to buy this land and the adjoining Eblin league as a location for the new capital, to be named "Austin," but President Sam Houston vetoed the bill. Musgrove Evans later served as Auditor General of the Republic. Brookfield erected a two-story stone residence at this site. When Mexican troops seized San Antonio in 1842, Samuel Maverick's family fled the city and took refuge here. David Berry, the original landowner, and Francis Brookfield joined other local men to fight the Mexican invasion force. They were both killed in the Dawson Massacre, Sept. 18, 1842. William Brookfield's daughter Emma (1814-1877), later occupant of the house, married Evans' son Vincent. After he died, she married Julius Cremer (d. 1889). The J. C. Brown family, owners since 1893, rebuilt the structure after a fire in 1911 destroyed the second floor. (1977)]]></description>
+    <Point><coordinates>-96.926857,29.845045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Christian G. Wertzner</name>
+    <description><![CDATA[Gay Hill Cemetery, 7 mi. ESE on SH 71<br/><br/><b>Address:</b> La Grange<br/><br/><b>Marker Text:</b> A San Jacinto veteran; first permanent German settler of Fayette County. Born in Germany; died, 1852.]]></description>
+    <Point><coordinates>-96.762221,29.888203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Compton-Zapp House</name>
+    <description><![CDATA[Market &amp; Washington St., Fayetteville.<br/><br/><b>Address:</b> Fayetteville<br/><br/><b>Marker Text:</b> This property has been owned by a number of Fayetteville residents over the years, including William Compton, Dr. Jethro Jackson, Antone and Minnie Pohl, and Hugo Zapp, Sr. Dr. Jackson was a charter member of the Fayetteville Masonic Lodge, and Hugo Zapp was a prominent merchant. This home dates to the 19th century, and its central hall plan is typical of Texas vernacular homes of the time. It remained in the Zapp family from 1865 until 1945. Recorded Texas Historical Landmark-1985.]]></description>
+    <Point><coordinates>-96.677594,29.904935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. William P. Smith</name>
+    <description><![CDATA[Fayetteville Cemetery, FM 1291 South of Tracks, SE side of town, Fayetteville<br/><br/><b>Address:</b> Fayetteville<br/><br/><b>Marker Text:</b> A veteran of the Texas War for Independence and regimental surgeon at San Jacinto Erected by the State of Texas 1962]]></description>
+    <Point><coordinates>-96.669763,29.90597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Fayette County Poor House and Farm</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 841 S. Reynolds St., La Grange]]></description>
+    <Point><coordinates>-96.8588,29.906846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flatonia Baptist Church</name>
+    <description><![CDATA[S. Converse &amp; E. 6th St., Flatonia<br/><br/><b>Address:</b> Flatonia<br/><br/><b>Marker Text:</b> Pioneers organized this church in 1874, before incorporation of Flatonia, and erected a frame building in 1878. That was the town's first church, and it was shared with other faiths. The customs of early years included disciplining unruly members or "unsound" preachers, and holding annual "Protracted", or revival, meetings. Services in their own languages were held for German, Bohemian, and Spanish converts. This church has always supported missions and charities. Present sanctuary, second for the church, was dedicated in 1965.]]></description>
+    <Point><coordinates>-97.105728,29.686394,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flatonia City Hospital and Opera House</name>
+    <description><![CDATA[Marker reported missing June 2016.<br/><br/><b>Address:</b> Flatonia<br/><br/><b>Marker Text:</b> Dr. George Washington Allen (1849-1903) founded the Flatonia City Hospital in 1896, and this building was completed the following year to serve the medical needs of the growing railroad town. About 1910 the second floor hospital space became the site of the City's Opera House. In 1914 this Romanesque revival building was sold to H. E. Olle, who leased it for over 60 years. Businesses located here have included a drugstore, chicken hatchery, skating rink, and cafe. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-97.108641,29.687004,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gresser Family Cemetery</name>
+    <description><![CDATA[2513 State Hwy. 1291<br/><br/><b>Address:</b> 2513 State Hwy. 1291, Fayetteville]]></description>
+    <Point><coordinates>-96.639244,29.898273,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gus Cranz Mansion</name>
+    <description><![CDATA[710 W. Ave., Schulenburg.<br/><br/><b>Address:</b> 710 W. Ave., Schulenburg<br/><br/><b>Marker Text:</b> Built in strict German way (joints mitred and dowled) by immigrant carpenters from Austria. Facade styled after memory of Austrian villa. Birthplace of several Cranz heirs. Son-in-law, Hugh Roy Cullen, endowed the University of Houston.]]></description>
+    <Point><coordinates>-96.910811,29.68021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Oak</name>
+    <description><![CDATA[Corner of Washington &amp; Colorado Sr., La Grange<br/><br/><b>Address:</b> La Grange<br/><br/><b>Marker Text:</b> see]]></description>
+    <Point><coordinates>-96.877909,29.906038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Isaac Lafayette Hill</name>
+    <description><![CDATA[from Round Top, take FM 239 W about 3 miles then go northwest on Hill Rd. 1 mile to cemetery.<br/><br/><b>Address:</b> Round Top<br/><br/><b>Marker Text:</b> Born in Jasper County, Georgia. Moved to Texas in 1835. Taught school at Coles settlement. In Texas revolution served as 3rd corporal, Co. D, 1st regiment. Piloted ferry for Texas army at San Felipe during General San Houston's retreat, in 1836. Fought under Houston at the victorious Battle of San Jacinto same year. Later lived in San Felipe and on his land grant near Round Top. Was senator from Fayette County in State Legislature, 1853-1857.]]></description>
+    <Point><coordinates>-96.690981,30.10806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Rice Jones</name>
+    <description><![CDATA[Jones-Sheppard Cemetery, off FM 954 on private property. Map dot approximate.<br/><br/><b>Address:</b> FM 954, Fayetteville<br/><br/><b>Marker Text:</b> Born in Kaskaskia, Illinois January 8, 1792. Came to Texas in 1831. Served in the army in 1835 until he was chosen postmaster general of the provisional government of Texas, 1836. Appointed postmaster general of the Republic December 14, 1839. Died in Fayette County, Texas, 1845. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-96.634205,29.984765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kallus House</name>
+    <description><![CDATA[451 N. Franklin<br/><br/><b>Address:</b> 451 N. Franklin, La Grange<br/><br/><b>Marker Text:</b> Built in 1885-86, the house became the residence of the Kallus family in 1916. Moravian native Frank J. Kallus (1872-1951) came to Texas in 1890 and later taught school in nearby Ellinger. He married Elizabeth Weisner, and the couple had four children. Two years after her death in 1902, he moved his family to La Grange, where he was a county official and lawyer. The home transferred to daughter Anna Kallus (d. 1995) upon his death. It reflects Gothic Revival styling in projecting bays and ornate details. Features include a corner entry and a separate cellar house. Recorded Texas Historic Landmark - 2004]]></description>
+    <Point><coordinates>-96.877882,29.909362,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kaulbach Home</name>
+    <description><![CDATA[351 E. Colorado St., La Grange.<br/><br/><b>Address:</b> 351 E. Colorado St., La Grange<br/><br/><b>Marker Text:</b> Built 1885 by H. B. Kaulbach (1839-1919), insurance agent. The Victorian style exhibits two-story columnar gallery, graceful arches supported by thin, turned columns. This structure includes 5 rooms of house previously on site. Architect was C. Michaelis. Recorded Texas Historic Landmark, 1968.]]></description>
+    <Point><coordinates>-96.874649,29.907977,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Konrad Joh Log Cabin</name>
+    <description><![CDATA[From Round Top, take Hwy. 237 South 1 mile then go West on Hartfield Road 1 mile - house is on west side of street.<br/><br/><b>Address:</b> Round Top<br/><br/><b>Marker Text:</b> According to tradition, this cabin was erected about 1848 near the main Galveston to Bastrop Rd. The hand-hewn live oak logs were chinked with a mixture of mud, straw, and sand. Konrad (1830-1912) and Elisa (Zwernemann) Joh (1839-1901), who migrated to Texas from Germany, occupied the structure for many years. In 1875 they used oxen to move the cabin about 300 feet uphill from its original location. Later members of the Paetzold family lived here. Recorded Texas Historic Landmark - 1987]]></description>
+    <Point><coordinates>-96.722421,30.048214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lenert House</name>
+    <description><![CDATA[350 N. Madison, La Grange.<br/><br/><b>Address:</b> 350 N. Madison, La Grange<br/><br/><b>Marker Text:</b> Albert Charles Lenert (1841-1902) and his wife Amelia (1853-1952), both of whom immigrated to Fayette County from Germany as children, moved to La Grange in 1894 and built this home for their family. A fine example of high Victorian Italianate style, the frame structure features symmetrical front massing, an inset central porch, a side porch with Moorish arcade, and fine milled detail.. The home remained in the Lenert family until 1979. Recorded Texas Historic Landmark - 1987]]></description>
+    <Point><coordinates>-96.87603,29.909068,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ludwig and Caroline Giese House</name>
+    <description><![CDATA[1103 S. Nassau<br/><br/><b>Address:</b> 1103 S. Nassau, Round Top<br/><br/><b>Marker Text:</b> Ludwig and Caroline Giese House German immigrant Ludwig Giese arrived in Galveston in 1850 and made his way to Fayette County, where he became a teamster and farmer. Following service in the Confederacy during the Civil War, he settled in the Haw Creek community, where in the 1870s he purchased a farmstead that included this house. The German Vernacular structure features stone piers, a full-length front porch and an infilled dogtrot. Ludwig and his wife, Caroline (Naeglie), reared ten children here, and the house was still in the Giese family at the turn of the 21st century. Recorded Texas Historic Landmark - 2002]]></description>
+    <Point><coordinates>-96.646671,30.016353,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Meerscheidt House</name>
+    <description><![CDATA[458 N. Monroe St., La Grange.<br/><br/><b>Address:</b> 458 N. Monroe St., La Grange<br/><br/><b>Marker Text:</b> Tax records indicate this house was built in 1884, the same year the property was purchased by Paul Meerscheidt from his relative, attorney Axel Meercheidt. German immigrants and prominent local farmers John Speckels, Sr., and his wife Marguerite (Imken) acquired the property in 1890. The house is a fine local example of a late Victorian-era dwelling. Especially fine detailing is evident, including the gable end detail, dormer detail, and decorative geometrical balustrade on the porch. The house was moved slightly to the south of its original location about 1970. Recorded Texas Historic Landmark - 1995]]></description>
+    <Point><coordinates>-96.875588,29.91061,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pagel Cemetery</name>
+    <description><![CDATA[5 mi. NE of Fayetteville, off FM 159 on Darden Loop<br/><br/><b>Address:</b> Fayetteville<br/><br/><b>Marker Text:</b> Gottfried and Friedrike (Dickow) Pagel came to Texas from Pomerania in 1850 with eight children and purchased land in this vicinity in 1852. The following year, Friedrike died shortly after giving birth to her ninth child. In 1855, Gottfried wed widow Johanna "Anna" Zorn Fritsche. Her daughter Magdalena wed the eldest Pagel son, Friedrich Wilhelm, known as Wilhelm, in 1858. Gottfried moved his family to Lavaca County, but Wilhelm and Magdalena stayed in Fayette County. They bought more land at Willow Springs, where Wilhelm built a stone house, operated a store and served as the first postmaster for the community then known as Rock House. Wilhelm died in 1873 and was buried on the original Pagel land, where his mother may have been buried 20 years earlier. His is the first marked grave in what became Pagel Cemetery. Magdalena died in 1886, and hers is the second known burial. Many neighbors joined the Pagels in burying loved ones here, and there are numerous interments from the extended Henniger, Garlin, Kruse and Lincke families. The cemetery is maintained by descendants of the area's pioneers, many of whom were of German heritage. Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-96.613785,29.952968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Randolph School</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 653 E. Pearl St., La Grange<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.873033,29.913784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spacek House</name>
+    <description><![CDATA[Town Square, one house north of corner of Main &amp; Washington St., Fayetteville.<br/><br/><b>Address:</b> Fayetteville<br/><br/><b>Marker Text:</b> A good example of an evolutionary structure, this home was probably half its current size when it was built in the late 19th century for members of the Forres family. It was occupied by Otto and Laura Forres when a 1920s fire in a neighboring saloon spread to the south wall of the house, requiring replacement of siding and windows. The Forres' daughter, Minna Spacek, inherited the German vernacular home in 1933, and it remained in the family until 1978. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-96.676486,29.904492,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stephen's Chapel Methodist Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 104 Schulz Ave., Schulenburg]]></description>
+    <Point><coordinates>-96.918399,29.684211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stevens Chapel UMC</name>
+    <description><![CDATA[309 Wolters Ave | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 309 Wolters Ave., Schulenburg<br/><br/><b>Marker Text:</b> Meeting together for over a century, Stevens Chapel UMC is one of the oldest African American churches in Schulenburg. In 1893, during a time of segregation, the African American community created a place to worship on Eilers Street named Stephen Methodist Church. The Reverend Bank Stephen was the first pastor. The church moved to Wolters Avenue and was rebuilt in 1939 under the leadership of the Reverend T.H. Bryant. After a merger in 1968, the church became known as Stevens Chapel United Methodist Church. The front-gabled frame building features a modified rectangular floor plan with subsequent rear additions. The church, which is no longer segregated, continues to foster good relationships with the community in the surrounding area. (Recorded Texas Historic Landmark 2022)]]></description>
+    <Point><coordinates>-96.908054,29.684388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Dawson Expedition / Historic Oak</name>
+    <description><![CDATA[Corner of Washington &amp; Colorado, La Grange.<br/><br/><b>Marker Text:</b> It was under this historic oak when the men of Capt. Nicholas Mosby Dawson's company assembled on September 15, 1842 and went to the relief of San Antonio to repel the invasion of Texas by the Mexican Army under Gen. Adrian Woll. In the fight near Salado Creek, September 18, Dawson and 35 of his men were killed, 15 captured and imprisoned in Castle Perote in Mexico, and 3 escaped. Here on the courthouse square, the scarred remains of what was once a mighty oak marks the spot from which La Grange has on every occasion sent its sons to battle. In fights with the Indians, the struggle with Mexico, in the War between the States, the Spanish American War, and in two World Wars, sons of Fayette County were first marshalled under this tree. Wives, mothers, sweethearts here bade farewell and sent their men to battle, each time to win acclaim as true patriots.]]></description>
+    <Point><coordinates>-96.877889,29.906038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Menn House</name>
+    <description><![CDATA[N. city limits, FM 1457, Round Top.<br/><br/><b>Address:</b> Round Top<br/><br/><b>Marker Text:</b> Built near Winedale (4.5 Miles NE), probably by landowner Samuel K. Lewis (1807-67), ex-congressman, Texas Republic. Occupied 1860s by William and Carolina Menn and their 12 children, bought 1880 by Menn, this was home of their descendants until 1931. Recorded Texas Historic Landmark - 1973]]></description>
+    <Point><coordinates>-96.693039,30.068161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Old Masonic Building</name>
+    <description><![CDATA[E. Travis St.<br/><br/><b>Address:</b> La Grange<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-96.877381,29.905074,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Sladek-Hillman House</name>
+    <description><![CDATA[SW corner of N. Rusk St. (SH 159) and W. Market St. (FM 955).<br/><br/><b>Address:</b> 209 N. Rusk St., Fayetteville<br/><br/><b>Marker Text:</b> R. J. Sladek, a Bohemian immigrant, built this home about 1896. In 1899 ownership was transferred to Anna Hillman, the widow of Ludwig Hillman, one of the early settlers of the Fayetteville area. She lived in the house until her death in 1923. The interior of the Victorian cottage features 12-foot ceilings and millwork carvings of intricate detail. The front porch columns are bracketed and the bay window is decorated with fish scale siding. Recorded Texas Historic Landmark - 1979]]></description>
+    <Point><coordinates>-96.679353,29.905122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Townsend-Bremer House</name>
+    <description><![CDATA[From Warrenton, take FM 237 South about 1 mile.<br/><br/><b>Address:</b> Warrenton<br/><br/><b>Marker Text:</b> Nathaniel Townsend (1804-1864) came to Texas in 1830. He hired James Stephens to build this house, which was finally completed in the late 1830s, following the Texas Revolution and Townsend's service as Republic of Texas consul in New Orleans. German immigrant Heinrich Bremer purchased it in 1905, and it remained in his family until 1961. A rare example of Republic of Texas-era architecture, the house exhibits Greek revival influences. Recorded Texas Historic Landmark - 1990]]></description>
+    <Point><coordinates>-96.745583,30.000702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Waldeck Cemetery</name>
+    <description><![CDATA[from Fayetteville, take FM 1291 about 14 mile NW, then take Waldeck Cemetery Rd. about 0.8 miles east.<br/><br/><b>Address:</b> Fayetteville<br/><br/><b>Marker Text:</b> This cemetery has served the Waldeck community of German immigrants for over 100 years. Originally known as Long Prairie, the community met in 1866 to erect a school/church building and to establish a cemetery. Louis Tittel deeded six acres of land which became the cemetery. There were existing graves in the north corner, though the earliest marked grave is dated 1871. Burials include many German immigrants, and veterans of wars from the Civil War to the Vietnam War. This cemetery contains more than 530 graves, and continues to serve the Waldeck community.]]></description>
+    <Point><coordinates>-96.781396,30.058225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Winchester Area Civic Association</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 Memorial Hall Drive, Winchester<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.016304,30.011000,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

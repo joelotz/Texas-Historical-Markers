@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Caldwell County — Unmapped Historical Markers</name>
+  <description>THC markers in Caldwell County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cementerio Navarro Historico</name>
+    <description><![CDATA[Mulberry St, around about the 100 block<br/><br/><b>Address:</b> Lockhart<br/><br/><b>Marker Text:</b> Cementerio Navarro Historico Established 1901 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-97.673966,29.891173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cementerio Navarro Historico</name>
+    <description><![CDATA[<b>Address:</b> 100 Mulberry St, Lockhart<br/><br/><b>Marker Text:</b> Also known as the Mexican Cemetery, this burial ground has served the Mexican-American community of Lockhart since around 1900. The earliest dated burial here, of area settler Severiano Sanchez, dates to 1901. Since that time, the cemetery has served primarily Hispanic and Roman Catholic residents. A number of community leaders are interred here. Others, including business owners, farmers, laborers, ranchers, teachers and veterans of foreign conflicts dating to World War I, are also buried here. Several graves are marked by Woodmen of the World monuments, which led to the burial ground also being known as the Woodmen of the World cemetery or Panteón de los Hacheros. Other features in the cemetery include vertical stones, plot curbing and grave slabs. In 2005, descendants of the interred formed the Cementerio Navarro Association to restore and maintain the burial ground. The association named this site Cementerio Navarro Histórico after the noted Tejano statesman and signer of the Texas Declaration of Independence, José Antonio Navarro. The cemetery is also near the site of the Old Navarro Elementary School, which was known historically as the Mexican School. Today, Cementerio Navarro Histórico continues to serve descendants of those buried here. It remains a chronicle of the Mexican-American pioneers of Caldwell County and a testament to the difficult and laborious circumstances under which they settled and thrived.]]></description>
+    <Point><coordinates>-97.672854,29.891232,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Cemetery</name>
+    <description><![CDATA[Lockhart, 8.9 mi. E of US 183 and FM 20 intersection, then S 3.8 mi. on CR 158<br/><br/><b>Address:</b> Lockhart<br/><br/><b>Marker Text:</b> Clark Cemetery James E. Clark was born in North Carolina in 1826. He later moved to Texas, marrying Mary E. Roberts in Bastrop County in 1860. In January 1881, he bought land in this area. Here, he and Mary reared nine children. In 1884, James set aside land for a school and a family cemetery. He was buried here in 1898, and his grave is the first marked in the cemetery. The most recent burial dates to the 1950s. Today the family cemetery is adjacent to a community center established at the site of the former school. Both serve as reminders of the Clark family and their contributions to area history and growth. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-97.484623,29.887401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Clear Fork Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 461 Clear Fork Road, Lockhart]]></description>
+    <Point><coordinates>-97.595332,29.781266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Clear Fork Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 461 Clear Fork Road, Lockhart<br/><br/><b>Marker Text:</b> Clear Fork Cemetery Established 1850s Historic Texas Cemetery - 2008]]></description>
+    <Point><coordinates>-97.595332,29.781266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Martindale Motor Corporation Building</name>
+    <description><![CDATA[416 Main St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 416 Main St., Martindale<br/><br/><b>Marker Text:</b> This two-story commercial block structure was built in 1924 by the Martindale Motor Corporation as a new hupmobile automobile sales and dealership building. The second floor contained offices for the Martindale Telephone Company, living quarters for switchboard operators, public offices, a club room and the Masonic Lodge No. 1206. A post office operated in the northwest corner of the first floor from 1937 to 1975. The motor company lost profitability due in part to the Great Depression and closed in 1938. The building was later used as a Humble Oil gas station and apartments. The architecture is an example of a two-story load-bearing masonry structure with modest details and finishes. (Recorded Texas Historical Landmark 2022)]]></description>
+    <Point><coordinates>-97.844096,29.839902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Martindale School and Gymnasium</name>
+    <description><![CDATA[Southwest Corner of Lockhart Street and Main Street (River Road)<br/><br/><b>Address:</b> 101 Lockhart Street, Martindale]]></description>
+    <Point><coordinates>-97.84503,29.842804,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

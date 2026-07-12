@@ -1,0 +1,22 @@
+Williamson unmapped markers with NO usable address (5):
+
+  THC 17270: Machu Cemetery
+    addr: CR 348, Granger
+    https://atlas.thc.texas.gov/Details/5507017270
+
+  THC 24286: Oak Grove Cumberland Presbyterian Church and Tabernacle
+    addr: 12951 Ranch Road 2338, Andice
+    https://atlas.thc.texas.gov/Details/5000024286
+
+  THC 24148: Perry Cemetery
+    addr: CR 211, Liberty Hill
+    https://atlas.thc.texas.gov/Details/5000024148
+
+  THC 15385: Taylor, John McQueen
+    addr: Georgetown
+    https://atlas.thc.texas.gov/Details/5507015385
+
+  THC 23956: Welfare Workers Club
+    addr: 903 East MLK Jr. Blvd., Taylor
+    https://atlas.thc.texas.gov/Details/5000023956
+

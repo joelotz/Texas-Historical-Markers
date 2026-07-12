@@ -1,0 +1,18 @@
+Nueces unmapped markers with NO usable address (4):
+
+  THC 17184: Corpus Christi and the Gulf Intracoastal Waterway
+    addr: James Strong Pavilion, Corpus Christi
+    https://atlas.thc.texas.gov/Details/5507017184
+
+  THC 24297: Epworth-by-the-Sea
+    addr: 2921 N. Shoreline, Corpus Christi
+    https://atlas.thc.texas.gov/Details/5000024297
+
+  THC 24426: New Bayview Cemetery
+    addr: Corpus Christi
+    https://atlas.thc.texas.gov/Details/5000024426
+
+  THC 23812: Nueces County Junior Livestock Show
+    addr: 1213 Terry Shamsie Blvd, Robstown
+    https://atlas.thc.texas.gov/Details/5000023812
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Gray County — Unmapped Historical Markers</name>
+  <description>THC markers in Gray County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Gray County 50th Year Anniversary</name>
+    <description><![CDATA[200th Block of Kingsmill Street, Courthouse Square, Pampa<br/><br/><b>Address:</b> Pampa<br/><br/><b>Marker Text:</b> Lest We Forget; Gray County; 50th Year Anniversary; 1902-1952; Dedicated to our early day pioneers, through whose efforts Gray County was established. And who contributed so much to our 50 years of progress.]]></description>
+    <Point><coordinates>-100.964116,35.536303,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

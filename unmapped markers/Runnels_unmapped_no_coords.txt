@@ -1,0 +1,14 @@
+Runnels unmapped markers with NO usable address (3):
+
+  THC 23523: Fairview Cemetery
+    addr: Loop 438, Winters
+    https://atlas.thc.texas.gov/Details/5000023523
+
+  THC 15515: First United Presbyterian Church
+    addr: Ballinger
+    https://atlas.thc.texas.gov/Details/5507015515
+
+  THC 5412: The Rev. Thomas Wadlington Cotten
+    addr: Private Road off US 83 SE of Ballinger, Ballinger
+    https://atlas.thc.texas.gov/Details/5399005412
+

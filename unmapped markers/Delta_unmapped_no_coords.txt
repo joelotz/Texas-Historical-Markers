@@ -1,0 +1,24 @@
+Delta unmapped markers with NO usable address (6):
+
+  THC 6929: Brushy Mound
+    https://atlas.thc.texas.gov/Details/5119006929
+
+  THC 17330: Camp Shed Cemetery
+    addr: FM 1742, Cooper
+    https://atlas.thc.texas.gov/Details/5507017330
+
+  THC 6931: Chapman Family Home
+    addr: Cooper
+    https://atlas.thc.texas.gov/Details/5119006931
+
+  THC 14751: Methodist-Episcopal Church South
+    addr: Ben Franklin
+    https://atlas.thc.texas.gov/Details/5507014751
+
+  THC 17331: Mount Joy Cemetery
+    addr: C.R. 4730, Cooper
+    https://atlas.thc.texas.gov/Details/5507017331
+
+  THC 6930: Old Camp Rusk
+    https://atlas.thc.texas.gov/Details/5119006930
+

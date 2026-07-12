@@ -1,0 +1,62 @@
+Collin unmapped markers with NO usable address (15):
+
+  THC 14286: Buckner Cemetery
+    addr: McKinney
+    https://atlas.thc.texas.gov/Details/5507014286
+
+  THC 23435: Buckner Cemetery
+    addr: US 380, McKinney
+    https://atlas.thc.texas.gov/Details/5000023435
+
+  THC 17483: Collinsworth Cemetery
+    addr: Plano
+    https://atlas.thc.texas.gov/Details/5507017483
+
+  THC 24150: First Baptist Church of Copeville
+    addr: 15947 FM 1778, Copeville
+    https://atlas.thc.texas.gov/Details/5000024150
+
+  THC 23898: Glass-Chapman Cemetery
+    addr: CR 610, Farmersville
+    https://atlas.thc.texas.gov/Details/5000023898
+
+  THC 24246: Horn Cemetery
+    addr: CR 1006, McKinney
+    https://atlas.thc.texas.gov/Details/5000024246
+
+  THC 23603: Lair Cemetery
+    addr: 1114 Ferguson Pkwy., Anna
+    https://atlas.thc.texas.gov/Details/5000023603
+
+  THC 14689: Old Settlers Cemetery at Wilson Creek
+    addr: McKinney
+    https://atlas.thc.texas.gov/Details/5507014689
+
+  THC 18663: Old Union Cemetery
+    addr: Corner of Texas and W. FM 455, J.K. Rice Survery, Abst., 767, Tract 36, Celina
+    https://atlas.thc.texas.gov/Details/5507018663
+
+  THC 22847: Princeton Cemetery (HTC)
+    addr: Yorkshire Dr., Princeton
+    https://atlas.thc.texas.gov/Details/5000022847
+
+  THC 23506: Ross Cemetery
+    addr: 201 Harry McKillop Blvd., McKinney
+    https://atlas.thc.texas.gov/Details/5000023506
+
+  THC 24272: Simpson's Dairy Farm
+    addr: 2235 CR 338, New Hope
+    https://atlas.thc.texas.gov/Details/5000024272
+
+  THC 11687: Site of Collin McKinney Homestead
+    addr: Anna
+    https://atlas.thc.texas.gov/Details/5085011687
+
+  THC 23807: Sugar Hill
+    addr: Tatum/Jones-Yeary Cemetery, Farmersville
+    https://atlas.thc.texas.gov/Details/5000023807
+
+  THC 15179: Thompson Cemetery
+    addr: Copeville
+    https://atlas.thc.texas.gov/Details/5507015179
+

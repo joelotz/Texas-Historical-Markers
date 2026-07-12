@@ -1,0 +1,22 @@
+Gillespie unmapped markers with NO usable address (5):
+
+  THC 10058: H. C. Keese Home
+    addr: Welgehausen Road, Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010058
+
+  THC 10057: Homestead of Karl Itz
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010057
+
+  THC 16447: Ludwig Doebbler House
+    addr: 542 Doebbler Rd., Fredericksburg
+    https://atlas.thc.texas.gov/Details/5507016447
+
+  THC 10098: Rausch Ranch Home
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010098
+
+  THC 10060: The Christian Kraus Homestead
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010060
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Burnet County — Unmapped Historical Markers</name>
+  <description>THC markers in Burnet County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Granite Mountain</name>
+    <description><![CDATA[FM 1431, north side, west of CR 122 (Slaughter Mountain Road)<br/><br/><b>Address:</b> FM 1431, Marble Falls<br/><br/><b>Marker Text:</b> This 866-foot dome of solid pink granite, covering 180 acres, contains the largest quarry of its kind in the United States. This mountain, like all granite formations, was once melted rock similar to lava. As the molten rock cooled thousands of feet below the earth's surface, it hardened into large crystals of quartz, feldspar and several dark-colored minerals. Wherever strength, durability and beauty of finish are required, granite is a favored building stone. The mountain was part of a grant made to Texas colonist William Slaughter. The site became famous commercially when a dispute arose in the 1880s over the type of stone to be used in the Capitol in Austin. The issue was settled in 1885 when Governor John Ireland resisted demands to use non-native limestone. Following this decision, a special track was built to haul the granite to the rail line in Burnet. The stone was generously donated to the state by quarry owners G. W. Lacy, N. L. Norton, and W. H. Westfall. Today granite from the quarry here is shipped to all parts of Texas, the U.S. and foreign countries for use in monuments, shafts, jetties, and buildings. It has been used in the Galveston sea wall and in new state office buildings near the Capitol in Austin.]]></description>
+    <Point><coordinates>-98.299077,30.592587,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Masonic Hall</name>
+    <description><![CDATA[308 S Main St.<br/><br/><b>Address:</b> 308 S Main St., Burnet]]></description>
+    <Point><coordinates>-98.227345,30.756294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Thomas Ranch House</name>
+    <description><![CDATA[FM 2509 (Hoover's Valley Road), 1.2 mi. SW of SH 29<br/><br/><b>Address:</b> 1604 FM 3509, Burnet<br/><br/><b>Marker Text:</b> In 1864 a log home and a "spring house" (used to cool milk) were built on this site by Frank Thomas, rancher. Present rock house, built to catch breeze, was added 1880-1882; is of limestone quarried 3 miles northeast. Fire (1910) razed log house. Recorded Texas Historic Landmark - 1968]]></description>
+    <Point><coordinates>-98.278802,30.748479,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

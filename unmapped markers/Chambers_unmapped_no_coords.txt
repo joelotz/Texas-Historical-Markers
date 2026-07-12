@@ -1,0 +1,28 @@
+Chambers unmapped markers with NO usable address (7):
+
+  THC 16043: Anahuac's First Cemetery
+    https://atlas.thc.texas.gov/Details/5507016043
+
+  THC 9120: Cove
+    https://atlas.thc.texas.gov/Details/5071009120
+
+  THC 14707: Harmon Saddle Shop
+    addr: Hankamer
+    https://atlas.thc.texas.gov/Details/5507014707
+
+  THC 9082: Solomon Barrow
+    addr: Mont Belvieu
+    https://atlas.thc.texas.gov/Details/5071009082
+
+  THC 16247: Stowell Community
+    addr: East 1st Street, Stowell
+    https://atlas.thc.texas.gov/Details/5507016247
+
+  THC 15618: Taylor White Ranch
+    addr: Anahuac
+    https://atlas.thc.texas.gov/Details/5507015618
+
+  THC 22752: Victoria Taylor Walker
+    addr: Mount Olive Ln., Baytown
+    https://atlas.thc.texas.gov/Details/5000022752
+

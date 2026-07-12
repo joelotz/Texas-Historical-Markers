@@ -1,0 +1,6 @@
+Motley unmapped markers with NO usable address (1):
+
+  THC 24350: Whiteflat Cemetery
+    addr: CR 105, Matador
+    https://atlas.thc.texas.gov/Details/5000024350
+

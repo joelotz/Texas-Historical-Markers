@@ -1,0 +1,22 @@
+Parker unmapped markers with NO usable address (5):
+
+  THC 22518: Bear Creek Cemetery
+    addr: 9858 McDaniel Road, Cresson
+    https://atlas.thc.texas.gov/Details/5000022518
+
+  THC 24156: Dicey Cemetery
+    addr: 200 Cutter MC Ln., Weatherford
+    https://atlas.thc.texas.gov/Details/5000024156
+
+  THC 14853: First District Court in Parker County, Site
+    addr: Weatherford
+    https://atlas.thc.texas.gov/Details/5507014853
+
+  THC 23612: Martha Elizabeth Cockburn Tucker
+    addr: 6904 Tucker Dr., Weatherford
+    https://atlas.thc.texas.gov/Details/5000023612
+
+  THC 19998: Woody Cemetery
+    addr: 4421 Veal Station Rd., Springtown
+    https://atlas.thc.texas.gov/Details/5507019998
+

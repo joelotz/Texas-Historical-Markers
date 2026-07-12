@@ -1,0 +1,6 @@
+Lynn unmapped markers with NO usable address (1):
+
+  THC 15121: T Bar Ranch Headquarters
+    addr: Tahoka
+    https://atlas.thc.texas.gov/Details/5507015121
+

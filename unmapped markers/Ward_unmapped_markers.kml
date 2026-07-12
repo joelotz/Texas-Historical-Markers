@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Ward County — Unmapped Historical Markers</name>
+  <description>THC markers in Ward County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Holman House</name>
+    <description><![CDATA[Million Barrel Museum, 400 Museum Blvd off E. Sealy Avenue (US 80)<br/><br/><b>Address:</b> US 80, Monahans<br/><br/><b>Marker Text:</b> Built about 1910 by Mr. and Mrs. Jas. R. Holman, 1898 settlers in Monahans. "Dad" Holman had a lumber and coal business, dray, and livery stable; he met daily trains and took home seekers of salesmen to the family hotel. One of family's six children was Eugene Holman (1895-1962), petroleum industry leader who rose in 1944 to presidency of Standard Oil of New Jersey, the world's largest oil company. Outstanding in labor relations, he was an advisor to U. S. Dept. of Commerce; won (1960) American Petroleum Institute gold medal of distinguished achievement.]]></description>
+    <Point><coordinates>-102.878333,31.594809,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Million Barrel Tank</name>
+    <description><![CDATA[At the Million Barrel Museum, on US 80 at Eastern Edge of Monahans<br/><br/><b>Address:</b> US 80, Monahans<br/><br/><b>Marker Text:</b> A project of the Shell Oil Company, the construction of this oil storage tank in 1928 was the result of an oil boom in the area. Built to accommodate crude oil until it could be shipped to refineries, the tank was constructed by crews working on a 24-hour schedule using hand operated and horse-drawn equipment. Covering eight acres of land, the tank was able to hold over one million barrels of oil. It was filled to capacity only once. Efforts to convert it into a water-filled recreation center in the 1950s were unsuccessful, and it became a museum in 1986.]]></description>
+    <Point><coordinates>-102.878463,31.595578,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

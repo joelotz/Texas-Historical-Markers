@@ -1,0 +1,43 @@
+Coryell unmapped markers with NO usable address (11):
+
+  THC 13539: Fort Gates
+    addr: Gatesville
+    https://atlas.thc.texas.gov/Details/5507013539
+
+  THC 1983: Fort Gates, Site of
+    addr: Gatesville
+    https://atlas.thc.texas.gov/Details/5099001983
+
+  THC 24157: Greenbriar Cemetery
+    addr: 319 Burt Lane, Gatesville
+    https://atlas.thc.texas.gov/Details/5000024157
+
+  THC 18207: Lincolnville Community
+    https://atlas.thc.texas.gov/Details/5507018207
+
+  THC 12413: Pidcoke Cemetery
+    addr: Gatesville vicinity
+    https://atlas.thc.texas.gov/Details/5099012413
+
+  THC 17686: Pleasant Grove Cemetery
+    https://atlas.thc.texas.gov/Details/5507017686
+
+  THC 20068: Prairie View Cemetery
+    addr: Prairie View Road, Turnersville
+    https://atlas.thc.texas.gov/Details/5507020068
+
+  THC 17632: Ruth Cemetery
+    https://atlas.thc.texas.gov/Details/5507017632
+
+  THC 22456: Seaton Cemetery
+    addr: 333 Seaton Rd., Gatesville
+    https://atlas.thc.texas.gov/Details/5000022456
+
+  THC 18777: Station Creek Cemetery
+    addr: Oglesby
+    https://atlas.thc.texas.gov/Details/5507018777
+
+  THC 17086: Weaver Chapel Cemetery
+    addr: Gatesville
+    https://atlas.thc.texas.gov/Details/5507017086
+

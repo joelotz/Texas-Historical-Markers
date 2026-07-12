@@ -1,0 +1,14 @@
+Brewster unmapped markers with NO usable address (3):
+
+  THC 13328: Alpine
+    addr: Alpine
+    https://atlas.thc.texas.gov/Details/5507013328
+
+  THC 23935: First United Methodist Church
+    addr: 109 North 3rd St, Marathon
+    https://atlas.thc.texas.gov/Details/5000023935
+
+  THC 13381: Pioneer School House
+    addr: Marathon
+    https://atlas.thc.texas.gov/Details/5507013381
+

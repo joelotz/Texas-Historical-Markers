@@ -1,0 +1,29 @@
+Burnet unmapped markers with NO usable address (7):
+
+  THC 22511: Haynie Flat Cemetery
+    addr: Hidden Springs Court, Spicewood
+    https://atlas.thc.texas.gov/Details/5000022511
+
+  THC 22675: Haynie Flat Cemetery
+    addr: Hidden Springs Court, Spicewood
+    https://atlas.thc.texas.gov/Details/5000022675
+
+  THC 23740: Mt. Moriah Cemetery
+    addr: CR 218, Briggs
+    https://atlas.thc.texas.gov/Details/5000023740
+
+  THC 17460: Oatmeal Cemetery
+    https://atlas.thc.texas.gov/Details/5507017460
+
+  THC 9749: Stewart Pioneer Home
+    addr: Bertram
+    https://atlas.thc.texas.gov/Details/5053009749
+
+  THC 24042: Stringtown Cemetery
+    addr: CR 326A, Bertram
+    https://atlas.thc.texas.gov/Details/5000024042
+
+  THC 22483: Watson Cemetery
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5000022483
+

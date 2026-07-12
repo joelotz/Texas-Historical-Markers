@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Webb County — Unmapped Historical Markers</name>
+  <description>THC markers in Webb County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Benavides-Herrera House</name>
+    <description><![CDATA[<b>Address:</b> 802 Grant St., Laredo<br/><br/><b>Marker Text:</b> A fine example of the vernacular Mexican structures in Laredo's San Agustín historic district, this house was built about 1879. Rancher Natividad Herrera built the house for his wife, Ester Benavides de Herrera (daughter of Captain Refugio Benavides) on land she had inherited from her mother. The original cut sandstone house featured a distinctive line of pilasters and unusual capitals, fine stonework and wood panel double doors with transoms. By 1900 the house had two brick additions, the first with a corbelled parapet and slate roof and the second a simple gabled end building with shingle roof. Recorded Texas Historic Landmark-2000]]></description>
+    <Point><coordinates>-99.503798,27.50292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Biggio-Kowalski-De La Garza House</name>
+    <description><![CDATA[1620 Farragut, Laredo<br/><br/><b>Address:</b> 1620 Farragut, Laredo<br/><br/><b>Marker Text:</b> Chester C. Biggio, a railroad official and the city's first fire chief, had this home built in 1909 for his family. He died in 1923, and in 1938 his widow Laura Blossman Biggio sold the house to Louis and Dorothy Kowalski. They lived here with their six children until 1948. Leonor de La Garza bought the house in 1965; her sister Fidela inherited it in 1973. The house is a good example of the American foursquare form. Recorded Texas Historic Landmark - 1996]]></description>
+    <Point><coordinates>-99.499345,27.505593,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Vidaurri</name>
+    <description><![CDATA[202 Flores Street
+west side St. Augustine Sq.<br/><br/><b>Address:</b> 202 Flores Ave., Laredo<br/><br/><b>Marker Text:</b> On grant from Spain. Built 1874 by Texas military leader Santos Benavides. Sold 1883 to Eulalio Benavides. Still owned by descendants. Recorded Texas Historic Landmark, 1964.]]></description>
+    <Point><coordinates>-99.506609,27.502287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Zaragoza</name>
+    <description><![CDATA[<b>Address:</b> 702 Zaragoza St., Laredo]]></description>
+    <Point><coordinates>-99.503153,27.502083,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Paso de Jacinto</name>
+    <description><![CDATA[Taylor Rd, on campus of Laredo Community College, behind the Lamar Bruni Vergara Science Center<br/><br/><b>Address:</b> Taylor Rd, Laredo<br/><br/><b>Marker Text:</b> Throughout history, travelers sought natural fords that allowed safe passage across rivers and streams. Around 1746, Jacinto de Leon discovered such a crossing in this vicinity; it was probably used for centuries before that by indigenous cultures. The ford came to be known as Paso de Jacinto, and around it grew the Laredo community, which began as a ranch established by Tomas Tadeo Sanchez de la Barrera. In 1754, colonizer Jose de Escandon asked Sanchez to find a place for a settlement along the Nueces River. Sanchez failed to identify a suitable location on the Nueces, though, and instead settled in May 1755 along the Rio Grande downstream of Paso de Jacinto. Two years later, Agustin Lopez de la Camara Alta reported that the settlement at the crossing was important in sustaining what had become a major business and military route across the Rio Grande. He also stated that the settlers’ pursuits mainly involved breeding cattle and gathering salt from regional salt lakes. Most of the residents’ more than 10,000 animals recorded in a census that year were smaller livestock, such as sheep and goats. By the turn of the 19th century, maps indicated the crossing as “Paso de los Indios,” and 100 years later, the “Old Indian Crossing” was a well-known landmark near the northern edge of Fort McIntosh. A nearby ranch known as Rancho Paso de los Indios also indicates the significance of the crossing in the history of Laredo, which today features many reminders of the impact of and need for routes across the river. (2006)]]></description>
+    <Point><coordinates>-99.522987,27.509013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Juan Francisco Farías Residence</name>
+    <description><![CDATA[<b>Address:</b> 409 San Bernardo Ave., Laredo<br/><br/><b>Marker Text:</b> Soldier and Laredo alcalde Jose Andres Farias and his wife Guadalupe Sanchez married at San Agustin Church in 1803 and had seven children; the oldest, Juan Francisco Manuel de la Trinidad Farias, was born in January 1807. He followed the family tradition of civic duty, serving as alderman and mayor of Laredo. Juan Francisco was also named secretary to the Republic of the Rio Grande, formed in Laredo in January 1840. Juan Francisco married Maria de los Inocentes Benavides on June 15, 1832. His bride was a widow born in Parras, Coahuila in December 1810. Juan Francisco and Inocentes had eleven children. Family oral tradition states that their home on this site dates from July 1840. The earliest historical reference is an 1864 deed when the property, along with a stone building and water well, was sold by Juan Francisco Farias to his daughter, Encarnacion Farias de Herrera. The builder of the Farias residence is unknown. The modified rectangular plan house is built of locally fabricated brick clad with stucco. Rooms directly access the exterior, facing the street or patio area. The house has two-foot wide walls of brick and stone along with four fireplaces. A projecting cornice features distinctive rectangular, tooled stone projections, with similar craftsmanship seen on the lintels. Truncated Corinthian wooden columns support the south entrance porch. The site historically included stables and a cart house, water well and cistern. During the Civil War many strategic planning meetings were held in the house. Colonel Santos Benavides and select members of the Benavides Regiment along with then-mayor Juan Francisco Farias planned for the defense of Laredo against the Union Army. Five generations of the Farias family lived here continuously until 1974. Recorded Texas Historic Landmark - 2009]]></description>
+    <Point><coordinates>-99.504507,27.503654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Los Ojuelos</name>
+    <description><![CDATA[Los Ojuelos community, 2 mi. S of Mirando City on FM 649, east side of the road.<br/><br/><b>Address:</b> FM 649, Mirando City vicinity<br/><br/><b>Marker Text:</b> For thousands of years, Los Ojuelos (The Springs) were a source of the precious south Texas commodity of water. Eugenio Gutiérrez received a Spanish land grant in 1810 that included the springs, but attempts to settle here by Eugenio and his son, Isidro, were blocked by conflicts with Comanches. In 1850, a Texas Ranger outpost was set up under the leadership of John Salmon “Rip” Ford to regulate the trade road between Laredo and the port at Corpus Christi, and the Rangers’ presence enabled José María Guerra, a grandson of Eugenio Gutiérrez, to permanently settle at the site. During the 1860s, Guerra built several caliche structures, including a chapel and a small irrigation system, now among the best preserved Spanish-Mexican ranch architecture in the region. The springs drew travelers to the village from the 1870s until the 1940s. The indigenous peyote cactus, which had widespread ritualistic and medicinal use among American Indians, was the most lucrative crop for the settlers. In the 1920s, a Texas Ranger outpost near Los Ojuelos dealt with tequileros (liquor smugglers) crossing from Mexico. The discovery of oil greatly reduced the peyote trade due to overharvesting and clearing of peyote fields for drilling. Native Americans still purchase from licensed dealers every February peyote harvested from area ranches. The springs dried up following the development of Mirando City and oil and gas drilling, and the site was virtually abandoned in the 1930s. Oil and gas drilling continues to be an important economic activity in the Los Ojuelos area. (2010)]]></description>
+    <Point><coordinates>-98.996338,27.40296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pan American Courts and Cafe</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3301 San Bernardo Ave., Laredo<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-99.504331,27.529125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Augustin Cathedral</name>
+    <description><![CDATA[east side of St. Augustin Square - east side<br/><br/><b>Address:</b> 201 San Augustin Avenue, Laredo<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-99.505441,27.502478,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

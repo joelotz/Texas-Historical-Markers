@@ -1,0 +1,10 @@
+Gaines unmapped markers with NO usable address (2):
+
+  THC 12662: Historic Hackberry Grove
+    addr: Seminole
+    https://atlas.thc.texas.gov/Details/5165012662
+
+  THC 14137: Lake Mackenzie
+    addr: Seminole
+    https://atlas.thc.texas.gov/Details/5507014137
+

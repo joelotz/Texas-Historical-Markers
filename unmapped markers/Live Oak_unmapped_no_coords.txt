@@ -1,0 +1,20 @@
+Live Oak unmapped markers with NO usable address (5):
+
+  THC 6298: Jesse Robinson
+    addr: On Annarose County Road, off US 281, Latham
+    https://atlas.thc.texas.gov/Details/5297006298
+
+  THC 18272: Murphy Ranch House
+    https://atlas.thc.texas.gov/Details/5507018272
+
+  THC 20202: Oakville Cemetery (HTC)(Medallion only)
+    https://atlas.thc.texas.gov/Details/5507020202
+
+  THC 6294: Site of Fort Merrill
+    addr: 3.5 mi. NW of Dinero, off FM 534, Dinero
+    https://atlas.thc.texas.gov/Details/5297006294
+
+  THC 23398: Weston-Chapa Cemetery
+    addr: CR 164, George West
+    https://atlas.thc.texas.gov/Details/5000023398
+

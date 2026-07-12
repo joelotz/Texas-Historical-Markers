@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hudspeth County — Unmapped Historical Markers</name>
+  <description>THC markers in Hudspeth County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Eagle Springs Stage Stand</name>
+    <description><![CDATA[from Allamoore, about 8 miles southwest along Guest Ranch Road through Hot Wells, toward Eagle Springs<br/><br/><b>Address:</b> off I-10, Allamoore<br/><br/><b>Marker Text:</b> A station (1854-1882) for the stage coaches and wagon trains of the Overland-Chihuahua trails, which linked the East to the pioneer West, brought heartening mail and passengers, and supplies, and quickened the life of this remote region, then far out on the lonely fringes of frontier civilization. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-105.093434,30.997269,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Hancock Mercantile</name>
+    <description><![CDATA[Building is located on SH Spur 148 at railroad tracks Ft. Hancock<br/><br/><b>Address:</b> Fort Hancock<br/><br/><b>Marker Text:</b> Established when the town of Fort Hancock was founded in 1883, this general store is the oldest in Hudspeth County. Started by a Mr. Ross, later the first area postmaster, it was sold in 1916 to Q. A. Hare and his wife. In 1960 they transferred the business to their daughter Mrs. Bob Sims and her husband. It has remained in continuous operation, serving the Mexican border area with modern supplies as well as items like horse collars and coffee mills. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-105.844817,31.300097,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

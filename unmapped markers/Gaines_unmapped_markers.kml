@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Gaines County — Unmapped Historical Markers</name>
+  <description>THC markers in Gaines County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cedar Lake</name>
+    <description><![CDATA[FM 1067, W side 150 feet S of FM 1066. Marker reported damaged Feb. 2022 (bronze star and wreath missing, graffiti).<br/><br/><b>Address:</b> FM 1067, Loop<br/><br/><b>Marker Text:</b> Or Laguna Sabinas. Largest Alkali Lake on Plains; old Indian camp and burial site; birthplace of Quanah Parker. A skirmish between Indians and United States Cavalry under command of Lieutenant John L. Bullis took place here in October, 1875. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-102.255329,32.856401,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

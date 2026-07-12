@@ -1,0 +1,10 @@
+Irion unmapped markers with NO usable address (2):
+
+  THC 19960: Arden Cemetery (HTC)
+    addr: CR 420, Mertzon
+    https://atlas.thc.texas.gov/Details/5000019960
+
+  THC 3169: Mertzon Central School
+    addr: Juanita and Third, Mertzon
+    https://atlas.thc.texas.gov/Details/5235003169
+

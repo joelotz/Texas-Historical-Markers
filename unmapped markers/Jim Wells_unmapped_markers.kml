@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jim Wells County — Unmapped Historical Markers</name>
+  <description>THC markers in Jim Wells County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>St. John of the Cross Catholic Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 200 S. Metz St., Orange Grove<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.941060,27.957763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vicinity of Texas Rangers' Battle of May 29, 1850</name>
+    <description><![CDATA[From Alice, take Highway 281 north about 14.4 miles, near intersection with CR 230. Marker removed by TXDOT during work to highway.<br/><br/><b>Address:</b> US 281, Alice<br/><br/><b>Marker Text:</b> A gallant fight in era after Mexican War, while the Federals and Texans were ridding Nueces to Rio Grande area of marauders. Texas Rangers under Capt. John S. "Rip" Ford surprised camp of Comanches near this site on May 29, 1850. In numbers, Rangers and Indians were about equal. Seven Comanches were wounded, four slain; one Ranger was killed and two were wounded. Comanche Chief Otto Cuero was wounded by Capt. Ford and slain by a bullet from the gun of Ranger David Steele, who sent chief's regalia to Governor P. H. Bell, an ex-Texas Ranger. (1969)]]></description>
+    <Point><coordinates>-98.092887,27.981479,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

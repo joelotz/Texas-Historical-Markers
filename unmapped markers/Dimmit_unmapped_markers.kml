@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Dimmit County — Unmapped Historical Markers</name>
+  <description>THC markers in Dimmit County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Baptist Church</name>
+    <description><![CDATA[706 Houston St.<br/><br/><b>Address:</b> 706 Houston St., Carrizo Springs<br/><br/><b>Marker Text:</b> First church built by Texas Baptists west of Nueces River. Organized May 27, 1878. Building constructed 1888-1891 on land donated by Levi and Matilda English. Designed by pastor, Rev. R. H. Brown. Congregation and other citizens furnished labor to burn brick and lime, haul the lumber from Cotulla, and put up the building. Of the seven charter members, two were former Methodists and one man was an ex-slave. Recorded Texas Historic Landmark, 1966]]></description>
+    <Point><coordinates>-99.862054,28.523078,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

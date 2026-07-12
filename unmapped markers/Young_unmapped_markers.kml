@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Young County — Unmapped Historical Markers</name>
+  <description>THC markers in Young County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Britt Johnson</name>
+    <description><![CDATA[From Graham, take US 380 5 mi NW to FM 1769, then about 1 mi north<br/><br/><b>Address:</b> Graham<br/><br/><b>Marker Text:</b> (1823-1871) Cowboy, Indian scout, orderly at Fort Belknap in 1850s, who lost a son (Jim) as one of 12 persons killed in Elm Creek Indian raid, Oct. 12, 1864. His wife Mary and children, Jube and Cherry, were among 6 persons captured. Johnson traced his family and by stealth took them from Indian Territory. But the Indians took vengeance. On Jan. 24, 1871, Johnson's camp near here was attacked by Kiowas. Over 100 empty rifle shells at the site showed how valiantly he and companions Dennis Cureton and Paint Crawford fought before being killed and scalped. They were buried by U.S. cavalrymen. (1972)]]></description>
+    <Point><coordinates>-98.618643,33.188246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Carlton-Johnson-Proffitt Grave</name>
+    <description><![CDATA[US 380, 8 mi west of Newcastle, Roadside Area.<br/><br/><b>Address:</b> Newcastle<br/><br/><b>Marker Text:</b> In memory of Patrick Euell Proffitt, Rice Carlton, and Rueben Johnson, three 19 year old boys killed in one of the Elm Creek Indian raids, July 17, 1867.]]></description>
+    <Point><coordinates>-98.856539,33.181559,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Belknap</name>
+    <description><![CDATA[SH 251, from Newcastle, about 3 mi south<br/><br/><b>Address:</b> SH 251, S of Newcastle, Newcastle]]></description>
+    <Point><coordinates>-98.837629,33.169313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lewis Pinkney Brooks Home</name>
+    <description><![CDATA[From Graham, take Hwy. 209 west about 8 mi (Loc. near old McCambridge) to Local road (Pinkey Brooks Rd), Follow one mi. to house.<br/><br/><b>Address:</b> Pinkney Brooks Road, Graham<br/><br/><b>Marker Text:</b> Home of Lewis Pinkney Brooks, Civil War veteran. He rode mule, Georgia, to Texas, 1866. Stone for 1875 home quarried on place. (Recorded Texas Historic Landmark, 1965.)]]></description>
+    <Point><coordinates>-98.72851,33.071579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Medlan Chapel Primitive Baptist Church</name>
+    <description><![CDATA[From Graham, take SH 67 south about 3 mi then follow Canty Road west about 5 mi.<br/><br/><b>Address:</b> Cantry Road, SW of Graham, Graham<br/><br/><b>Marker Text:</b> Built 1882 of native sandstone quarried one mile from site with lime rock burned for mortar. Pews hauled by ox wagon from Sherman. One of earliest houses of worship in Young County. Church and land donated by A. B. (Uncle Archie) and Aunt Betty Medlan, 1888. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-98.684402,33.074867,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oak Grove Colored - Graham Colored - Johnston Cemetery</name>
+    <description><![CDATA[Oak Grove Colored - Graham Colored - Johnston Cemetery, SE corner 380 Bypass and Elm Street. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 701 US 380, Graham<br/><br/><b>Marker Text:</b> Established 1923     Historic Texas Cemetery - 2024]]></description>
+    <Point><coordinates>-98.587793,33.113108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Donnell Mill</name>
+    <description><![CDATA[From South Bend, take FM 1974 southwest about 7 mi.<br/><br/><b>Address:</b> FM 1974, SW of South Bend, South Bend<br/><br/><b>Marker Text:</b> After heartbreaking failures, James D. Donnell; his wife, Julia; and sons, Will and Tom, finished the dam and mill here in 1876. The mill withstood floods and began turning out meal and flour for a vast region. It operated almost half a century. The Donnells had migrated from Missouri to Texas, and Young County. Their mill yard was the community gathering place. Crossing river here was San Antonio to Austin to Fort Belknap Military Road of 1850s, used by famed 2nd U.S. Cavalry, under Albert S. Johnston and Robert E. Lee. Also nearby was site of 1850s community of Clear Fork, settled by George, William, and Jonathan Lee Dobbs, Rev. Pleasant Tackitt, and others. Indian marauders drove away most settlers. But in 1876 J. L Dobbs returned to claim his land. Also in 1876 Elias De Long opened a store that became the post office. (To his name the Post Office Department added "ville", titling the place Eliasville.) In 1893 a bridge was built here; the present bridge in 1957. Among other settlers were Captain Joseph Benedict and wife Adele, granddaughter of the colonizer W. S. Peters. Their son, Harry Yandell Benedict, became 10th president of the University of Texas. A successor in that office, Homer Price Rainey, also grew up here.]]></description>
+    <Point><coordinates>-98.76629,32.960534,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

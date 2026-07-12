@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Freestone County — Unmapped Historical Markers</name>
+  <description>THC markers in Freestone County without an HMDB id (isMissing excluded). 12 with THC coords; 0 geocoded from address; 10 omitted (no usable address).</description>
+  <Placemark>
+    <name>1919 Freestone County Courthouse</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 118 E. Commerce St, Fairfield<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.160318,31.725223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Antioch Cemetery</name>
+    <description><![CDATA[from Teague take FM 1451 about 6.7 mi. south to FM 80, cross over and veer left on CR 691, keep left on CR about 1.1 mi. to CR 692, go left, follow about .3 mi. to cemetery<br/><br/><b>Address:</b> Teague<br/><br/><b>Marker Text:</b> Shortly after the Civil War, Edward Ezell, Sr. (d. 1903) and his wife, Frankie (Howard), gave about two acres for this cemetery. It was later enlarged under the direction of the Antioch Cemetery Association. In 1905, residents of the Luna community began holding an annual memorial service here. The community, with a population of 250, was once the site of a church, grist mill, school, blacksmith shop, and general store, but in 1906 the railroad bypassed Luna, and the settlement began to decline. The pioneer burial ground is all that remains.]]></description>
+    <Point><coordinates>-96.200317,31.548795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Birthplace of Harvey Means</name>
+    <description><![CDATA[from Teague, take FM 1365 about 6 mi. west to marker on north side of road<br/><br/><b>Address:</b> Teague<br/><br/><b>Marker Text:</b> (1868-1943) Noted Negro civic leader and barber to two generations of prominent Texans. An adventurous youth, Means began work at age 18 as shoe-shine boy in a west Texas barber shop. When rowdy cowboys demanded haircuts one day, Means (though inexperienced) complied with their wishes, and thus began a 54-year career. His last 31 years were spent in Fort Worth, where he helped establish a hospital and city park for black citizens. He led in civic, religious, and fraternal affairs and worked continually to improve race relations. His 10 children all attended college.]]></description>
+    <Point><coordinates>-96.379058,31.626336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Booker T. Washington School</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>SE corner J.A. Brooks Dr. and Monroe St. Marker pending, in production as of Sep. 2021.<br/><br/><b>Address:</b> J.A. Brooks Dr., Teague]]></description>
+    <Point><coordinates>-94.175897,32.373442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chancellor Union Cemetery</name>
+    <description><![CDATA[1.7 mi. NE on FM 488, 1.3 mi. E on  FM 2570, 3.2 mi. E on PR 3285, near entrance to Fairfield Lake State Recreational Area.<br/><br/><b>Address:</b> PR 3285, Fairfield<br/><br/><b>Marker Text:</b> Reuben and Mary Chancellor moved to Texas from Wilcox County, Alabama in the 1850s with their ten children and eleven slaves. They settled on 576 acres in the rural community known as Brown's Creek. The Chancellor family donated four and one-half acres of land for church, education and burial purposes. The regular Predestinarian Primitive Baptist Church was organized in 1854. The church structure also served as a school and a community center, and was the site of many gatherings for area residents. The Chancellor Union Cemetery was established here. The earliest marked grave is that of an infant child of J. B. and Sarah Chancellor Lee in 1857. A separate section of the cemetery was dedicated to the former slaves. The earliest marked grave in that section is that of John E. Ingram in 1915. Among the 90 marked and unmarked graves are four generations of Chancellors, pioneer settlers to the area, many infant burials, and veterans of the Civil War and World War II. The Chancellor Union Cemetery continues to serve the vicinity as it has for more than 140 years and is maintained by an active association of descendants of people that are buried here. (1996) Historic Texas Cemetery - 2005 (medallion)]]></description>
+    <Point><coordinates>-96.072781,31.768196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Compton Cemetery</name>
+    <description><![CDATA[from US 75 &amp; FM 489 in Dew, go north on US 75 about .7 mi. to cemetery road, go west about .3 mi. to cemetery<br/><br/><b>Address:</b> Dew<br/><br/><b>Marker Text:</b> William Scott Compton (1805-1882), and his wife, Angelina Louisa Gunn Ward (1806-1880) purchased over 3000 acres here in the settlement of Avant Prairie (later Dew) in 1852. On this acreage the Comptons built a log home, barns and quarters for their slaves. An attorney and banker, William served as a county judge and state senator in Alabama before moving to Texas. This cemetery began in 1855 with the burial of the Comptons' eldest daughter, Elizabeth Blackmon Compton Johnson. Also buried here are the Comptons' sons, Joseph (Jodie) and Felix Richard, both Confederate veterans of the Civil War; and their granddaughter, Martha (Mattie) Jane, and her husband George Walton White, Texas State Legislator (1889 and 1891), Baptist minister, and charter member of the Corinth Baptist Church in Dew, Texas. George White's heirs formally set aside the cemetery property in 1943 and for the next 40 years the cemetery received modest care from family members residing in the original settlement home built by William and Angelina Compton. Descendants of the Compton and White families formed an association in 1983 for the purpose of maintaining the cemetery. Compton Cemetery represents a well-preserved example of a small family cemetery.]]></description>
+    <Point><coordinates>-96.147501,31.604715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Driver Cemetery</name>
+    <description><![CDATA[from Teague take US 84 about 3 mi. NE to CR 620, then go east about 1/4 mi. to cemetery<br/><br/><b>Address:</b> Teague<br/><br/><b>Marker Text:</b> Julius Driver (1795-1883) migrated from Georgia in 1852, buying some Faulkenberry headright land, and later giving 4.5 acres for this cemetery. A daughter-in-law, Mary Groover (Mrs. William G.) Driver, was first person buried here, in 1869. Driver also gave site in 1878 for nearby Hicks Spring Church and school. There the Confederate veterans of Freestone County had their first reunion in 1890. The recorded deed of cemetery to the public was made by a subsequent landowner, John Hays, in 1901. The Driver Cemetery Association has governed the property since 1915. There are now (1975) 673 graves.]]></description>
+    <Point><coordinates>-96.223892,31.66596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Furney Richardson High School</name>
+    <description><![CDATA[4 mi. W of Teague on FM 1365 @ intersection with CR 890<br/><br/><b>Address:</b> Teague<br/><br/><b>Marker Text:</b> In 1933, trustees of Busby and Grove Island Schools consolidated as a single district for African American children in western Freestone County. Trustees Wesley Madison, J.H. Clemons and Rufus Carter acquired land from the Albert Wright family, and the new campus, named for the first superindendent, opened here that fall with grades through high school. Several businesses opened near the school building to form a rural community. The school became a leading educational institution for African American students in the area. Attendance waned by 1958, when high school classes transferred to Teague; the entire school merged with Teague ten years later. The schoolhouse continued in use as a community center and reunion site. (2008)]]></description>
+    <Point><coordinates>-96.340254,31.628482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercury Astronaut Campsite and Hunting Grounds</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 171 FM 2547, Fairfield<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.184140,31.761707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moody-Bradley House</name>
+    <description><![CDATA[thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 318 Moody Street, Fairfield<br/><br/><b>Marker Text:</b> Built in 1860 by William Lewis Moody for his wife, Pherabe Elizabeth Bradley, after the birth of their son, W.L. Moody Jr., They moved to Galveston in 1866. This Greek Revival style house was sold to his father-in-law, Francis Meriwether Bradley, in 1869 for $2800 in gold. Moody, a Confederate colonel, became a major civic and business leader in Galveston. Bradley, also a notable county merchant, lived in this house with his second and third wives, Rebecca (d. 1870) and Martha (d. 1913) until his death. The Fairfield History Club purchased the house in 1967 and restored it to its original grandeur. Recorded Texas Historic Landmark - 1967.]]></description>
+    <Point><coordinates>-96.163286,31.731721,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Judge Allegre House</name>
+    <description><![CDATA[corner of N. 1st and Concho St.<br/><br/><b>Address:</b> 109 N. First St., Wortham<br/><br/><b>Marker Text:</b> Built about 1895 by Warren Allegre, who ran a drugstore nearby. Born in 1849, he came to this town in 1869. Here he gave music lessons and dispensed legal advice. Was later justice of the peace and mayor. This typical Victorian house has foundations and fireplaces of handmade brick. Stair rail and some woodwork are handcarved; 2 rooms are octagonal. Present owners, Mr. and Mrs. W. R. Beaver, restored home, 1968. Recorded Texas Historic Landmark - 1969]]></description>
+    <Point><coordinates>-96.461208,31.788323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rocky Branch Primitive Baptist Church of Christ and Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 171 CR 970, Wortham<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.402544,31.746374,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

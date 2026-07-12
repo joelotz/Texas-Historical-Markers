@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Bowie County — Unmapped Historical Markers</name>
+  <description>THC markers in Bowie County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <Placemark>
+    <name>Arkadelphia Rosenwald School</name>
+    <description><![CDATA[Arkadelphia community<br/><br/><b>Address:</b> 1988 CR 1102, New Boston<br/><br/><b>Marker Text:</b> Located ten miles south of New Boston and five miles northeast of Maud, the community of Arkadelphia formed in the mid- to late 1800s to serve the African American community following the Civil War. Arkadelphia became a thriving community for many years and grew in population in the early 1900s. In the 1920s, the Arkadelphia School was built as part of the Rosenwald Fund started by businessman Julius Rosenwald and Booker T. Washington. The program aimed to assist in the establishment of African American schools in the south, and as a matching grant, communities were required to contribute cash and in-kind service donation in the form of materials and labor. The donations were great sacrifices, but the community organized committees responsible for finding and buying a school site, cutting and hauling building materials, and providing labor to construct the school. Originally constructed with three rooms, more were added, and consisted of an auditorium, office, and two classrooms, all heated by wood-burning stoves until the 1950s. The school offered classes to the 12th grade until the late 1940s when the African American schools were consolidated and 9th through 12th grades were transferred to Central High School in New Boston. Around 1965 and 1966, schools in Texas integrated and students were sent to Maud schools. The Rosenwald School in Arkadelphia became a community center, providing an event center for area activities and a place for youth programs. Around 1993, the school was demolished for a new church. Although no longer standing, the Rosenwald School represented a commitment and determination to educate the Arkadelphia community and contributed to the heritage and culture of the area.]]></description>
+    <Point><coordinates>-94.465627,33.455904,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cervini House</name>
+    <description><![CDATA[<b>Address:</b> 524 Spruce St., Texarkana<br/><br/><b>Marker Text:</b> Joseph Cervini (1857-1922) came to Texarkana from Genoa, Italy in 1884 and opened a restaurant. With profits from downtown land investments, he had this home built for his family in 1914. Exhibiting influences of the bungalow and Prairie School styles, the home features a two-story wraparound gallery, brick piers, cast-stone heavy balusters, and a low-pitched tile hipped roof. The home remained in the Cervini family until 1981. Recorded Texas Historic Landmark - 1988]]></description>
+    <Point><coordinates>-94.048022,33.423119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dan LaFayette McDuffie</name>
+    <description><![CDATA[Rea Hill Cemetery, CR 4005, 1 mi. south of New Boston<br/><br/><b>Address:</b> New Boston<br/><br/><b>Marker Text:</b> (February 16, 1883 - July 7, 1931) Last Ranger killed on duty in East Texas oil boom of 1930's. A third generation enforcement officer; learned methods, skills from an uncle, Texarkana police chief. Held first office at 18. Won fame in 1923 amnesty, when 82 liquor stills were turned in. Spent 30 years as county peace officer, railroad special agent, and Texas Ranger. Known for his fearless courage, integrity. Met death on duty in a kidnapping case, when caught in gunfire. Recorded, 1967]]></description>
+    <Point><coordinates>-94.426764,33.432287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. A. H. A. and Ruby Jones House</name>
+    <description><![CDATA[1121 South Lake Dr<br/><br/><b>Address:</b> 1121 South Lake Dr, Texarkana<br/><br/><b>Marker Text:</b> Ruby Lee Williams (1900-1979) was born in Texarkana to George and Carrie Williams. In 1928, she wed Jamaica-born Austin Hervin Archibald Jones (1901-1962), a successful dentist with a degree from Howard University. Ruby designed this bungalow-style home, utilizing African American craftsmen to build it in 1938. The home features decorative brickwork and a unique cubical tower. The Jones family often opened its home to touring African American entertainers, including Louis Armstrong and Dinah Washington. Recorded Texas Historic Landmark - 2002]]></description>
+    <Point><coordinates>-94.060459,33.409879,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Earl-Rochelle House</name>
+    <description><![CDATA[<b>Address:</b> 1920 Magnolia St., Texarkana<br/><br/><b>Marker Text:</b> The last of three nearly identical homes built in Texarkana, the Earl-Rochelle house was constructed in 1899 for realtor and merchant John W. Earl (1861-1925) and his family. An excellent example of Queen Anne style with asymmetrical composition, the home features a complex roofscape incorporating gables and polygonal turrets. Eastlake detailing is evident in the decorative gable end treatment. James F. (1864-1938) and Ella Jo (McMickle) (1873-1966) Rochelle owned the home from 1929 to 1966. Recorded Texas Historic Landmark - 1997]]></description>
+    <Point><coordinates>-94.044035,33.43491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Protestant Preaching</name>
+    <description><![CDATA[IH-30 travel rest stop, between CR 1014 and CR 1016<br/><br/><b>Address:</b> New Boston<br/><br/><b>Marker Text:</b> The Rev. William Stevenson (Oct. 4, 1768 - March 5, 1857), a Missourian, friend of Stephen F. Austin, preached in 1815 at Pecan Point on the Red River, north of here. Records indicate that his were the first Protestant sermons ever given in Texas, then part of Catholic "New Spain." Many settlers also entered Texas through Red River County.]]></description>
+    <Point><coordinates>-95.286321,33.165416,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ellis House</name>
+    <description><![CDATA[<b>Address:</b> 716 Olive St., Texarkana<br/><br/><b>Marker Text:</b> Built in 1893 as the home of Gaither Booker Ellis, local realtor and loan agent, and his wife Mary (Bell), this house was designed and constructed by local builder Charles R. Korn. Erected on land owned by Mrs. Ellis, the two-story Victorian residence was built in an asymmetrical plan with a tower that was removed in the 1920s. The house includes porches on both the first and second floors with jigsawn porch brackets. Recorded Texas Historic Landmark - 1997]]></description>
+    <Point><coordinates>-94.044621,33.426831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hatchel/Barkman Caddo Indian Village</name>
+    <description><![CDATA[2 mi. north of Texarkana on US 59/71 ROW<br/><br/><b>Address:</b> Texarkana vicinity<br/><br/><b>Marker Text:</b> Near here for 1,000 years, 800-1800 A.D., lived civilized Caddoes, who thought they were the sole survivors of a prehistoric flood and ancestors of all Indians. Their ceremonial mounds stood high above Red River. They had a significant role in exchanges between Puebloan Indians and the Mound-Builders in the east. They domesticated food plants such as corn, squash and beans and manufactured fine pottery. Because of pressure from Euro-American settlers, they left this area, and descendants are found in Oklahoma. Their village site is now under state protection. (1981) Incise in base: Marker sponsored by the Hoblitzelle Foundation]]></description>
+    <Point><coordinates>-94.04279,33.492859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Home of Eli H. Moores</name>
+    <description><![CDATA[<b>Address:</b> 1609 New Boston Rd, Texarkana]]></description>
+    <Point><coordinates>-94.059989,33.434936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Howell W. Runnels Home</name>
+    <description><![CDATA[<b>Address:</b> 1402 W. 9th St., Texarkana<br/><br/><b>Marker Text:</b> Built about 1874 with open hall, wide verandas. Owner came to Texas Republic in 1842. Was in Legislature 1857-59. His wife, former Martha C. B. Adams, acted as first lady of Texas during term of brother-in-law, Governor Hardin R. Runnels, 1857-59. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.057068,33.425308,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John F. Floyd House</name>
+    <description><![CDATA[<b>Address:</b> 1203 Wood St., Texarkana<br/><br/><b>Marker Text:</b> A Confederate veteran of the Civil War, John F. Floyd (1846-1923) moved to Texarkana in 1881. The successful owner of a lumber business, he had this home built for his family in 1903. Reflecting the turn-of-the-century transition from Victorian influences toward more Classical Revival detailing in architecture, the Floyd home features Palladian windows in the gable ends, art glass transoms, and paired colonnettes on the porch. Recorded Texas Historic Landmark - 1989]]></description>
+    <Point><coordinates>-94.046351,33.431588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Maud United Methodist Church</name>
+    <description><![CDATA[Main and Flencher St.<br/><br/><b>Address:</b> 206 Main, Maud<br/><br/><b>Marker Text:</b> Organized as a mission by the Rev. Thomas Jefferson Milam of Old Boston, on farm of Jesse M. Ball, Three Springs community, Aug. 10, 1874. Original meetinghouse was built immediately on Ball's property. Samuel D. Knapp (1841?-1922), a charter member, founded town of Maud, and was its first postmaster. He donated present site, and the building was moved here in 1880. The mission became a church in 1897. A tornado razed second building in 1914. Present sanctuary, fourth for the church, was erected in 1940 with funds given by Miss Jennie Tapp, and was enlarged in 1956. (1974)]]></description>
+    <Point><coordinates>-94.341886,33.329455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moores-Burke-Ragland Home</name>
+    <description><![CDATA[<b>Address:</b> 802 Main St., Texarkana<br/><br/><b>Marker Text:</b> This residence was erected in 1895 for Rachel Perry Godbold Moores (1830-1904). Her husband David (1827-1892) was a member of the pioneer Moores family. Henry Koerner designed the Neo-Classical house with decorative fish scale shingling. The interior has elegant parquet flooring. Robert Emmett Burke bought the house in 1904. It was occupied from 1920 to 1965 by the S. M. Ragland family. Recorded Texas Historic Landmark - 1978]]></description>
+    <Point><coordinates>-94.0474,33.426695,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Boston</name>
+    <description><![CDATA[FM 2149 and SH 8 junction<br/><br/><b>Address:</b> Old Boston<br/><br/><b>Marker Text:</b> Established while part of Mexico; to serve plantations on Red River. Mail came horseback from Arkansas. Named for W. J. Boston, first storekeeper. A battalion was formed here to fight in Texas Revolution. First Bowie County Seat, 1841. Large stores surrounded square and two-story brick courthouse. Became educational center with 3 fine private schools. Texas governors Hardin R. Runnels and S. W. T. Lanham have lived here. New Boston (4 mi. N) founded on railroad, 1877. Boston (1 mi. S), exact county center, made county seat 1890, and this became "Old" Boston. (1966)]]></description>
+    <Point><coordinates>-94.415572,33.404828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Rialto Building</name>
+    <description><![CDATA[<b>Address:</b> 317 State Line Ave., Texarkana<br/><br/><b>Marker Text:</b> Erected 1902 by George Fouke (1843-1915), pioneer businessman, leader in lumbering, railroads, electric power, other ventures. Triangular style resembles New York's Flatiron Building, also erected 1902. One of the earliest Texarkana buildings with electricity. First used for offices, became apartment hotel. Was converted by Dr. E. L. Beck in 1934 to medical building. Later property of Dr. N. B. Daniel and Dr. William B. Harrell. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-94.043187,33.422755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Redwater</name>
+    <description><![CDATA[intersection of US 67 and FM 991<br/><br/><b>Address:</b> Redwater<br/><br/><b>Marker Text:</b> The first community in this area was Mooresville (2 mi. E), settled in 1840 by the Charles Moores (1776-1852) family. It had disappeared before this town grew up near the Daniels and Spence sawmill in 1875. Because of mill workers' disregard for religion, the village was first named Ingersoll for the famous agnostic of that day, Robert Green Ingersoll (1833-99). A branch of the St. Louis Southwestern (Cotton Belt) Railway arrived here in the late 1870s, attracting more upstanding citizens. William Thomas Fagan built two more sawmills in the early 1880s. English-born Earnest Thomas Page (1860-1937) opened a general store, which also housed the town's first post office (1881) Church-going townspeople objected to the name Ingersoll and suggested changing it to Redwater, for the color of spring and well water in the area. A town vote in 1894 made Redwater the official name. In 1914 a tornado destroyed many businesses here, but Redwater quickly rebuilt. The economy was based on farming and lumbering until 1941, when the Red River Army Ammunition Depot and Lone Star Ordnance plant were built just north of town. The opening of the International Paper Mill in the 1970s has created new interest in lumbering and tree farming. (1975)]]></description>
+    <Point><coordinates>-94.251592,33.362307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. James Episcopal Church</name>
+    <description><![CDATA[<b>Address:</b> 417 Olive St., Texarkana]]></description>
+    <Point><coordinates>-94.043248,33.424044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Town of Nash</name>
+    <description><![CDATA[US 82, corner of US 82 and S. Pecan<br/><br/><b>Address:</b> Nash<br/><br/><b>Marker Text:</b> Begun about 1873; first named "T. C. Junction" for its location on Transcontinental Division of Texas &amp; Pacific Railroad. In 1884 post office was established and named "Park", after Dr. J. N. Parker, the first postmaster. First school started 1885 in single room. New buildings have been erected in 1904, 1924, 1967. In 1906 the town was named in honor of Martin Manny Nash, division superintendent of Texas &amp; Pacific. Noted resident was Dr. Joseph Abner Dodd (1871-1944), who served 6 terms in Texas House of Representatives. Present town population stands at 2,000. (1970) Incise on back: Nash Chapter, Texas Senior citizens Association, Bowie County Historical Survey Committee]]></description>
+    <Point><coordinates>-94.122681,33.442647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trammel's Trace</name>
+    <description><![CDATA[2 mi. north of Texarkana on US 59/71. MARKER REPORTED DAMAGED AND UNDER REPAIR NOV. 2011.<br/><br/><b>Address:</b> Texarkana vicinity<br/><br/><b>Marker Text:</b> Entered Texas at this point. The 1813 road from St. Louis brought in great numbers of pioneers: Stephen F. Austin, his settlers, Sam Houston, James Bowie, David Crockett and others who died in the Texas Revolution. From here pointed southwest. Crossed the Sulphur at Epperson ferry, going south to Nacogdoches, linking "Southwest Trail" with the King's Highway to Mexico. Surveyed by Nicholas Trammel (born in Nashville, Tenn., 1780; died, LaGrange, Texas, 1852), one of a family of U. S. surveyors and scouts. Mapped many trails, but only this one bears his name. (1965)]]></description>
+    <Point><coordinates>-94.04279,33.492859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Whitaker House</name>
+    <description><![CDATA[<b>Address:</b> 517 Whitaker St., Texarkana<br/><br/><b>Marker Text:</b> Built before 1891 by Benjamin F. Whitaker (1845-1916), member of Texas Senate (1893-97), partner of his brother in lumber business and a railroad that became part of Kansas City Southern line. He handpicked materials for this residence for his own family. Ex-sheriff Bryant Hargett and family were living here by 1904 when a "souvenir" book featured the house as a Texarkana showplace. Mr. and Mrs. Kenneth Perkins now own and preserve the property. Recorded Texas Historic Landmark - 1973]]></description>
+    <Point><coordinates>-94.056945,33.421979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>World War I Memorial</name>
+    <description><![CDATA[6th and Olive St. in Sheppard Park<br/><br/><b>Address:</b> Texarkana<br/><br/><b>Marker Text:</b> In memory of the men from Bowie County, Texas and Miller County, Arkansas, who made the supreme sacrifice in the service of their country in the World War 1917-1918. They and their comrades fought not for selfish gain nor for one foot of added territory, but for the highest ideal ever upheld by man--the peace of the world. This monument is a symbol of the praise and gratitude which they so justly merit which will forever be accorded them by their countryment. Erected by the Texarkana Memorial Unit, an organization of women banded together to honor their loyalty, their service and the devotion. November 1936.]]></description>
+    <Point><coordinates>-94.043847,33.425667,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

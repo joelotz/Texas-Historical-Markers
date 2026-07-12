@@ -1,0 +1,26 @@
+Childress unmapped markers with NO usable address (6):
+
+  THC 23525: Childress Army Air Field
+    addr: 15716 FM 164, Childress
+    https://atlas.thc.texas.gov/Details/5000023525
+
+  THC 15174: Loco, Community of
+    addr: Childress
+    https://atlas.thc.texas.gov/Details/5507015174
+
+  THC 24232: Olympus-Lonie Cemetery
+    addr: County Road L, Childress
+    https://atlas.thc.texas.gov/Details/5000024232
+
+  THC 3860: On Old Shoenail Ranch Land, Community of Loco
+    addr: Childress
+    https://atlas.thc.texas.gov/Details/5075003860
+
+  THC 4736: Site of Buck Creek Stage Stand
+    addr: Childress
+    https://atlas.thc.texas.gov/Details/5075004736
+
+  THC 24270: Tell Methodist Cemetery
+    addr: 15206 FM 94, Tell
+    https://atlas.thc.texas.gov/Details/5000024270
+

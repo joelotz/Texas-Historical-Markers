@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Rockwall County — Unmapped Historical Markers</name>
+  <description>THC markers in Rockwall County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>First United Methodist Church of Rockwall</name>
+    <description><![CDATA[1408 S. Goliad (at the intersection of S. Goliad and Damascus Streets), Rockwall<br/><br/><b>Address:</b> 1408 S. Goliad, Rockwall<br/><br/><b>Marker Text:</b> This congregation developed from early worship services conducted by area pioneers in the home of Mrs. Hugh Shaw. The church was formally organized in 1856, several years prior to the formation of Rockwall County. Constituted with less than twenty members under the direction of the Rev. J. A. Scruggs, the small fellowship met in the local Masonic lodge building until the first sanctuary was constructed at 102 North Fannin Street in 1874. The one-room frame structure featured a belfry and a tall steeple. During its first three decades, the First Methodist Church of Rockwall shared its ministers with other pioneer area Methodist churches. By 1887, however, membership in the First Methodist Church had grown such that the Rev. James McDugald was appointed to serve as the congregation's first full-time pastor. To accommodate the membership's continued growth, additional facilities were later built, and the church relocated to this site in 1981. For more than 100 years, the First United Methodist Church of Rockwall has sponsored many active organizations in its congregation which have provided great service and leadership to the community of Rockwall. Many descendants of the original fellowship continue to worship here. (1983)]]></description>
+    <Point><coordinates>-96.455077,32.915371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Memorial Park</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 208 Woodpark Ln, Rockwall<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.462643,32.918003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Hope Baptist Church</name>
+    <description><![CDATA[801 Old Greenville Road | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 801 Old Greenville Rd., Royse City<br/><br/><b>Marker Text:</b> Before the founding of both the town and county in which it is located, this predominately African American congregation has worshipped together. In 1859, settlers from around Texas and Oklahoma organized the church, naming it “First Colored Missionary Baptist Church”. Such an early date means the church is among the oldest continuously operating churches in the State of Texas. At the church’s formation, the membership likely included enslaved persons. Descendants of these founding members continued for many generations to call New Hope home. The church received property at 801 Greenville Road on November 3, 1868, and has worshipped at the site ever since. Early Juneteenth celebrations were also held here. The church held services on the property prior to issuance of the deed and the first church building was a worker’s shack. Under the leadership of Pastor Louis Rice, a permanent structure was built in 1914. Significant remodels or new buildings occurred in 1953, 1974 and 1994.
+  The name was changed to New Hope Baptist Church in 1906. New Hope was a centerpiece of the Royse City community. The church building served as a gathering space when representation was not allowed elsewhere. The church’s daily duties included not only religious, but family and educational support to local families. The church has numerous times advocated for education, evident by the fact that Royse City ISD named an educational building after longtime New Hope member and former trailblazing City Councilman Ernest Epps (1926-2008). The church has continuously adapted and grown with the community’s needs. New Hope Baptist Church is a fellowship of significant historical and cultural importance. (2022)]]></description>
+    <Point><coordinates>-96.323553,32.971042,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,10 @@
+Refugio unmapped markers with NO usable address (2):
+
+  THC 6483: John White Bower
+    addr: Off US 77, along private road W of Vidauri, Vidauri
+    https://atlas.thc.texas.gov/Details/5391006483
+
+  THC 2817: Site of the Home of John White Bower
+    addr: Off US 77, W along private road from Vidauri, Vidauri
+    https://atlas.thc.texas.gov/Details/5391002817
+

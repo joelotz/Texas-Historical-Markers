@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Lee County — Unmapped Historical Markers</name>
+  <description>THC markers in Lee County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <Placemark>
+    <name>Antioch Missionary Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1298 CR 123, Ledbetter<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.775565,30.279278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Club 21 (Undertold)</name>
+    <description><![CDATA[thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2311 Highway 21, Lincoln]]></description>
+    <Point><coordinates>-96.908876,30.334170,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Chapel Cemetery</name>
+    <description><![CDATA[3.5 mi. east of Lexington on FM 696, then south on dirt road about .2 mile<br/><br/><b>Address:</b> Lexington<br/><br/><b>Marker Text:</b> Site bought by Methodist Episcopal Church South in 1850, although some burials had occurred here previously. Buried here are San Jacinto heroes Capt. Jas. Shaw (founder of Lexington) and Wm. Hawkins; Civil War veterans; Mrs. R. Y. King, wife of first Lee County judge. Contains special section for slaves. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-97.009401,30.411787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First National Bank</name>
+    <description><![CDATA[W. Austin (US 290) and Main St.<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> Lee County's oldest banking institution. An agent for progress in this area. Founded 1891 at merger of P. M. Cuney &amp; Co., private bank, with First National Bank of Elgin (founded in 1890 by 30 merchants and ranchers). The officers were Dr. J.A. Fields, president; Cuney, E. J. Archinard, I. J. Fariss, J. L. Rousseau, Ed R. Sinks and S. F. Wade, directors.]]></description>
+    <Point><coordinates>-96.947935,30.181892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Good Hope Cemetery</name>
+    <description><![CDATA[<b>Address:</b> CR 226, Giddings<br/><br/><b>Marker Text:</b> German and Wendish settlers founded Good Hope community in the 1880s and established a school by 1887. The earliest marked grave in the community cemetery, dated 1889, is for Dora Vick. George Kruse, also buried here, ran a rock quarry across the road that supplied fill stone for construction of the Galveston Seawall. A spur of the Houston &amp; Texas Central carried the rock to the coastal city. Good Hope Cemetery contains 12 known graves; several tombstones bear German inscriptions. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-90.851402,30.142393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Helen Knox</name>
+    <description><![CDATA[Giddings Cemetery<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> (1885-1959) Historian-financier. One of the few women given athletic letters (in tennis) at the University of Texas. Born in Giddings, daughter of bank president W. A. Knox, she became (1927) manager of women's accounts, Chase National Bank, New York. Known for her writings on banking, she was chairman of finance in restoration of home of Gen. Robert E. Lee; she belonged to Colonial Dames and D. A. R., and was president (1944-46), National Association of Bank Women.]]></description>
+    <Point><coordinates>-96.947698,30.181825,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Henry Prentice Redfield, Texas Soldier</name>
+    <description><![CDATA[Giddings Cemetery<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> (May 27, 1819 - February 27, 1900) Born Derry , N. H.; came to Texas, 1831. Joined army, 1835. Fought at Battle of Gonzales, 1835; Siege of Bexar, 1835; San Jacinto, 1836 (all in Texas Revolution). Fought in Indian wars: wounded at Battle of Plum Creek in 1840. In Battle of Salado Creek, 1842. In Mexican War he joined 1st Texas Cavalry, 1846-47. Fought at both Resaca de la Palma and the Siege of Monterrey. Married (first) Sarah Card and (second) Julia Kersting.]]></description>
+    <Point><coordinates>-96.947688,30.180779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Holy Cross Cemetery</name>
+    <description><![CDATA[7 mi. SE of Giddings on FM 448, then 2 mi. east on CR 214<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> At former site of Holy Cross Church, founded here in Rabb's Creek area in 1873. Opened at the death of Pastor Johann Zapf (1873), the cemetery has 53 graves. Parish sold church site, retained cemetery; built a new church near Warda (2.25 mi. S) in Fayette County, in 1882.]]></description>
+    <Point><coordinates>-96.944796,30.078384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Shaw</name>
+    <description><![CDATA[Early Chapel Cemetery, 3.5 mi. east of Lexington on FM 696, 40 yards from entrance<br/><br/><b>Address:</b> Lexington<br/><br/><b>Marker Text:</b> (Star and Wreath) Born August 6, 1808; served in the Texas War for Independence; soldier at San Jacinto. A Representative or Senator in five Congresses, Republic of Texas. Died February 10, 1880. His wife Nancy Ann Shaw, born May 13, 1811; died August 9, 1871.]]></description>
+    <Point><coordinates>-97.009401,30.411787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King's Highway - Camino Real - Old San Antonio Road</name>
+    <description><![CDATA[At bridge - Yegua Creek - Lee / Burleson counties; down in ditch on south side of SH 21. Pink granite marker 55 of 128 placed in 1918.<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> King's Highway - Camino Real - Old San Antonio Road. Marked by the Daughters of the American Revolution and the State of Texas A. D. 1918]]></description>
+    <Point><coordinates>-97.967334,29.813265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King's Highway - Camino Real - Old San Antonio Road</name>
+    <description><![CDATA[Northeast of Lincoln, CR 440 about 0.2 mi. W of SH 21. Marker 57 of 128 placed in 1918.<br/><br/><b>Address:</b> CR 440, Lincoln<br/><br/><b>Marker Text:</b> King's Highway - Camino Real - Old San Antonio Road. Marked by the Daughters of the American Revolution and the State of Texas A. D. 1918]]></description>
+    <Point><coordinates>-97.967334,29.813265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King's Highway - Camino Real - Old San Antonio Road</name>
+    <description><![CDATA[Manheim community, southwest corner of SH 21 and Manheim Road (FM 2440). Relocated from 250 feet northwest on north side of SH 21.<br/><br/><b>Address:</b> SH 21, Lincoln<br/><br/><b>Marker Text:</b> Marked by the Daughters of the American Revolution and the State of Texas A. D. 1918]]></description>
+    <Point><coordinates>-97.967334,29.813265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King's Highway - Camino Real - Old San Antonio Road</name>
+    <description><![CDATA[at Lee / Bastrop County border on east side of SH 21 at Presidential Corridor Marker<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> Marked by the Daughters of the American Revolution and the State of Texas A. D. 1918]]></description>
+    <Point><coordinates>-97.967334,29.813265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moab Community</name>
+    <description><![CDATA[<b>Address:</b> 1741 County Road 331, Lexington<br/><br/><b>Marker Text:</b> MOAB COMMUNITY SITUATED ABOUT TEN MILES SOUTHWEST OF LEXINGTON, THE COMMUNITY OF MOAB WAS A PREDOMINATELY AFRICAN-AMERICAN COMMUNITY. THERE ARE INDICATIONS THAT THE AREA WAS WELL POPULATED BEFORE THE CIVIL WAR BUT BECAME MORE SO FOLLOWING EMANCIPATION. MANY “FREEDOM COLONIES” FORMED IN LEE COUNTY AFTER THE CIVIL WAR AND BEGAN NEW BLACK LANDOWNER COMMUNITIES. MOAB WAS MOSTLY A COMMUNITY OF FARMERS WHO WERE DEPENDENT UPON INCOME FROM CROPS. TO SUPPLEMENT THEIR INCOME, FAMILIES WOULD GO ON “COTTON PICKS” AND FOLLOW COTTON HARVESTING THROUGHOUT TEXAS AND PARTS OF NEW MEXICO. FOR FOOD, FAMILIES HARVESTED PEANUTS, CORN AND OTHER VEGETABLES AND RAISED HOGS, CATTLE, CHICKENS AND TURKEYS. A COMMUNITY SCHOOL OPENED AROUND 1900 AND, BY THE 1930s, THE SETTLEMENT HAD THE SCHOOL, TWO CHURCHES, A CEMETERY, POST OFFICE AND A NUMBER OF SCATTERED DWELLINGS. ACCORDING TO A 1935 BOARD OF EDUCATION SURVEY, MOAB’S SCHOOL EMPLOYED TWO TEACHERS WITH FORTY-EIGHT STUDENTS ENROLLED IN GRADES ONE TO TEN. THE SCHOOL BURNED IN THE LATE 1930s BUT WAS REBUILT ONE YEAR LATER. DURING THE INTERIM, THE SCHOOL WAS HOUSED IN THE METHODIST CHURCH. TWO CHURCHES EXISTED IN THE MOAB COMMUNITY. MOUNT ZION BAPTIST CHURCH WAS LED BY REV. PERSON FROM THE 1930s TO THE 1960s AND THE CHURCH HAD OVER 50 MEMBERS AT ITS PEAK. THE BAPTIST CHURCH BURNED IN THE 1960s AND WAS NOT REBUILT. MT. NEBO AFRICAN METHODIST EPISCOPAL CHURCH IS THE ONLY CHURCH THAT REMAINS IN THE COMMUNITY. EACH YEAR, SPECIAL PROGRAMS BRING DESCENDANTS BACK INTO THE COMMUNITY. THIS ONCE-THRIVING COMMUNITY REPRESENTS A TRIUMPH IN KINSHIP AND PERSEVERANCE, AND THE BEGINNINGS OF A PEOPLE AFTER SLAVERY.]]></description>
+    <Point><coordinates>-97.119042,30.327676,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert Devlin McClellan and Sarah Lewis Rainey McClellan</name>
+    <description><![CDATA[Giddings Cemetery<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> First professional educators in Giddings, opening a private school in 1874. In 1883, start of Giddings public free schools saw the McClellans heading the first faculty. McClellan (January 19, 1837 - December 30, 1888), a noted mathematician, taught until his death; Mrs. McClellan (deceased February 2, 1914) remained at her post until 1895. Patterns they set still shape schools.]]></description>
+    <Point><coordinates>-96.947904,30.181883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Paul's Lutheran Church</name>
+    <description><![CDATA[6 miles south of Giddings on FM 448, 4.5 miles west on FM 2239, then south on CR 211, Serbin<br/><br/><b>Address:</b> 1572 CR 211, Serbin<br/><br/><b>Marker Text:</b> ---]]></description>
+    <Point><coordinates>-96.988118,30.114059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vick Cemetery</name>
+    <description><![CDATA[N. on Hwy 77 to FM 1624, cemetery is .75 mi. past intersection w/ Hwy 21<br/><br/><b>Address:</b> 2378 FM 1624, Giddings]]></description>
+    <Point><coordinates>-97.000781,30.275279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Washington Cemetery</name>
+    <description><![CDATA[From Giddings, Take Hwy. 77 South, turn right on FM 448, turn right on FM 2239, turn left on County Road 209, turn left on County Road 210, travel 2 miles.  The cemetery right of way  is on the left as denoted by a street sign. Enter a gate (which must be kept closed) and travel about .4 mile through a pasture to the cemetery entrance.<br/><br/><b>Address:</b> 1717 County Road 210, Giddings<br/><br/><b>Marker Text:</b> The land for Washington Cemetery and Bethany Colored Church was donated to former slave Charlie Washington by Henry Wenke Sr. after the Civil War. In addition to a Methodist Church and a Baptist Church, the cemetery and adjoining land was used by the growing Center Union Community. This community grew from former slaves seeking to purchase farmland. The earliest known burial was in 1882, while the last person was buried here in 1954. Much of the cemetery and many headstones were damaged by a nearby landowner’s development in 1975. More recently, through the Washington Cemetery project this sacred ground has been preserved and protected.]]></description>
+    <Point><coordinates>-97.023037,30.081759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Preston (Bill) Longley</name>
+    <description><![CDATA[Giddings Cemetery<br/><br/><b>Address:</b> Giddings<br/><br/><b>Marker Text:</b> (October 6, 1851 - October 11, 1878) Texas outlaw Bill Longley was from a respectable family, but his hot temper, his fondness for liquor, and unsettled conditions during Reconstruction led him to become one of the most daring gunslingers of his day. He was said to have killed 32 persons before his capture in 1877. Tried for a Lee County murder, he was hanged in Giddings in 1878. Before Longley died, he repented and urged others to avoid his example. His grave was once outside the cemetery bounds.]]></description>
+    <Point><coordinates>-96.947547,30.183086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William W. Hawkins</name>
+    <description><![CDATA[in Early Chapel Cemetery, 3.5 mi. east of Lexington on FM 696 (in far NW section, 3 markers from fence)<br/><br/><b>Address:</b> Lexington<br/><br/><b>Marker Text:</b> (Star and Wreath) Soldier at San Jacinto, 1836. Texas Ranger, Republic of Texas.]]></description>
+    <Point><coordinates>-97.009401,30.411787,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

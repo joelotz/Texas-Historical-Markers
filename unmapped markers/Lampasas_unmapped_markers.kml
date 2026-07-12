@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Lampasas County — Unmapped Historical Markers</name>
+  <description>THC markers in Lampasas County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>C.C. Abney House</name>
+    <description><![CDATA[402 South Broad Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built in 1883 by P. M. Hargraves. Methodist parsonage, 1913-27. Construction featured beaded wainscoting and carved beveled glass. Recorded Texas Historic Landmark, 1964]]></description>
+    <Point><coordinates>-98.186586,31.061176,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Public School in Lampasas</name>
+    <description><![CDATA[Boys and Girls Club of Lampasas, N. Main St., E side between E. Ave. A and E. North Ave, on stone base with bell and cornerstone near entrance. The 1895 school (a few feet southeast) was demolished and the marker was moved here.<br/><br/><b>Address:</b> 107 N. Main St., Lampasas<br/><br/><b>Marker Text:</b> Erected 1895 to replace rented sites and aid in raising standards. In constant use. (1965)]]></description>
+    <Point><coordinates>-98.181432,31.068117,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Huling Cottage</name>
+    <description><![CDATA[205 Second Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built 1860-1872. Native limestone and cedar. New England colonial architecture. Bought 1872 for $3,000 in gold by Mrs. Elizabeth Bullock Smith Huling, who as an orphan from Kentucky was in the group of Texas families fleeing toward the Sabine River just ahead of Santa Anna's army in the 1836 "Runaway Scrape". Her husband, Thomas B. Huling (1805-1865), was in the revolution, and was later a Republic of Texas Congressman.]]></description>
+    <Point><coordinates>-98.705277,31.068393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. A. Adkins House</name>
+    <description><![CDATA[1211 Taylor Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built 1868 by pioneer doctor, J. A. Adkins. House material came from patients paying in stone rather than cash. Recorded Texas Historic Landmark, 1966]]></description>
+    <Point><coordinates>-98.168267,31.068178,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lampasas City Hall</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 302 E. Third St., Lampasas]]></description>
+    <Point><coordinates>-98.180236,31.065248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lampasas County Courthouse Site</name>
+    <description><![CDATA[Courthouse Square, Western and 3rd, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-98.17783,31.065361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lampasas County Jail</name>
+    <description><![CDATA[In front of new jail, corner (southwest) of Live Oak Street and 4th Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> County jail, built 1883 of native stone with Romanesque trim. Later stuccoed. Supports of interior scaffold remain. Recorded Texas Historic Landmark, 1965]]></description>
+    <Point><coordinates>-98.17691,31.065111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lampasas Volunteer Fire Department</name>
+    <description><![CDATA[408 S. Main Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Beginning with two hose-reel companies and one hook and ladder company in late 1880's this department has been constantly on call. Has fought many serious blazes; assisted during several disastrous floods. On Christmas Eve, the big red trucks carry food and clothing to the needy.]]></description>
+    <Point><coordinates>-98.180306,31.065151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lee Straley House</name>
+    <description><![CDATA[from Adamsville, take Highway 281 north about 3 miles, house is on east side of road<br/><br/><b>Address:</b> Adamsville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-98.170518,31.312775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Long Cove Cemetery</name>
+    <description><![CDATA[From Lometa, N 7 mi. on FM 2942, then W 0.6 mi. on CR 2664<br/><br/><b>Address:</b> CR 2664, Lometa<br/><br/><b>Marker Text:</b> HTC medallion only]]></description>
+    <Point><coordinates>-98.419364,31.305371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Long Meadows Cemetery</name>
+    <description><![CDATA[Take Hwy 580 E. from Hwy. 183 N. Left on CR 3430. Cross Lucy Creek to Hal Harton's property at 6065 CR3430. Veer left after passing Harton property, and turn left through gate before reaching Groves Cemetery<br/><br/><b>Address:</b> 6065 CR 3430, Lampasas<br/><br/><b>Marker Text:</b> PLEASANT C. COX, WHO PATENTED THIS LAND, FIRST VISITED THE AREA IN THE 1830s. HE AND HIS WIFE, MARTHA JANE (BYBEE), CAME TO TEXAS BY WAGON TRAIN FROM MISSOURI IN 1851, SETTLING HERE IN 1855. PLEASANT COX WAS ONE OF THE PETITIONERS TO CREATE LAMPASAS COUNTY IN 1856. MOST OF THE DOZENS OF BURIALS HERE ARE UNMARKED, WITH SOME PREDATING THE EARLIEST MARKED BURIAL OF JOSEPH COX (1867-1872). THE LAST BURIAL WAS FOR MARTHA JANE COX, WHO DIED IN 1912. AFTER THE FAMILY SOLD THE PROPERTY IN 1922, THE CEMETERY FELL INTO DISREPAIR. DESCENDANTS BEGAN TO PRESERVE AND RESTORE THE SITE IN THE 1980s. THE CEMETERY, WHICH FEATURES LIMESTONE MARKERS AND FIELDSTONES AND INTERIOR FENCING, REMAINS A VALUABLE RECORD OF PIONEER LIFE IN LAMPASAS COUNTY.]]></description>
+    <Point><coordinates>-98.100158,31.153237,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moline School Site</name>
+    <description><![CDATA[from Lometa go northeast on FM 581 about 8.5 miles, then take FM 1047 north about 5 miles<br/><br/><b>Address:</b> Lometa<br/><br/><b>Marker Text:</b> The Moline community was settled on the north central boundary line of Lampasas County in the 1880s. Early families in the area were the Carswells, Cooks, Andersons, Woods, Bakers, O'Neals, Hairstons, Pattersons, Poes, Murphys, Adamses, and Woolseys. Children of the settlers attended school in Payne Gap (Mills County) or in the Gray community. Facilities at these schools grew too small to accommodate the number of children in the area. In 1916, Kenneth A. and Olive Patterson donated five acres of land for the Moline School. Prominently sited on a hill (100 yds. SE) overlooking the community, the original three-room building was constructed by G. C. O'Neal with the help of other citizens. From 1916 until 1949, Moline School grew to include five classrooms, a science lab, library, homemaking room, shop, lunchroom, and a four-room teacherage. During its peak enrollment in the early 1930s, Moline was the largest rural school in Lampasas County. Although the school closed in 1949 and Moline is now a ghost town, their history is an important part of the heritage of Lampasas County.]]></description>
+    <Point><coordinates>-98.306829,31.380195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moses Hughes Home, 1856</name>
+    <description><![CDATA[from Lampasas, take FM 580 west about 5 miles<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Family kept a mule tied to live oak in the yard, to bray and warn them of Indian attack. RTHL - 1966]]></description>
+    <Point><coordinates>-98.294385,31.09099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Cook Home, 1861</name>
+    <description><![CDATA[Behind Winn Dixie.  Driveway located on east side of S. Western Street about 1/10 mile north of Highway 190, Lampasas.<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Of white native stone and lumber hauled here by wagons. First cemetery in county is nearby. Recorded Texas Historic Landmark, 1966]]></description>
+    <Point><coordinates>-98.176429,31.057683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Philip Smith House</name>
+    <description><![CDATA[From Lampasas, take Highway 281 north about 8 miles, then go east about 4 miles on FM 1690; follow FM 2527 south about 1.3 miles to house (located just south of graveyard on east side of road).<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built 1856 by Texas War for Independence teamster, Philip Smith. 24" walls of native rock; cedar framework. Recorded Texas Historic Landmark, 1966]]></description>
+    <Point><coordinates>-98.112766,31.222508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>School Creek Baptist Church</name>
+    <description><![CDATA[NE of Lampasas on CR 3420, W of intersection with FM 2527<br/><br/><b>Address:</b> CR 3420, FM 2527, Lampasas<br/><br/><b>Marker Text:</b> Named for a nearby stream, this church organized in 1879 and held its first worship service on November 2 of that year. A small schoolhouse close to School Creek was the first building to house the church. The Rev. L.R. Millican served as primary organizer and first pastor of the church. Members of the congregation in 1879 included Brothers Philip Smith, John W. Moore, Solan Mace, W.M. Wren, and J.I. Scott, and Sisters C.L. Smith, S. F. Moore, D. Mace, S.E. Wren, Harriet Holly, Rebecca Wilson, Sallie Mitchell, F.E. Scott, Wilson H. Hurst and Sally Hawkins. In 1900, plans began for construction of a church building, which was completed the next year on land donated by the Philip Smith family. Members built a tabernacle by 1920 and in 1956 converted it to an education building. The church added more buildings to its campus through the years, including a parsonage in 1947 and a multipurpose fellowship hall in 2005. School Creek Baptist Church has a history of ministry to children through its involvement in orphan homes, Sunday schools and Vacation Bible Schools. Historically, the church has supported mission work with such activities as organizing outreach programs and sponsoring youth mission trips. Members of the church have become licensed and ordained ministers, with many entering full-time mission work. Over a century after its founding, the church continues to provide a positive influence on lives in the Central Texas area and beyond. (2006)]]></description>
+    <Point><coordinates>-98.115345,31.217239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shade Denson House</name>
+    <description><![CDATA[From Lampasas take 190 east about 1 mile, then go north on CR 7 about 1.3 mile.  House is on south side of road just past Sparks Crossing. (MARKER REPORTED MISSING 6/23/2009)<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built in Civil War era by Shadrick T. Denson, soldier of Forney's Brigade in the Confederate Army. Builder was Lampasas County sheriff, 1870-74, in time of deadly feuds. Shot in the line of duty, later died as result of wound. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-98.133354,31.069112,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stanley Chapel Cemetery</name>
+    <description><![CDATA[]]></description>
+    <Point><coordinates>-98.176203,31.2197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thomas Pratt</name>
+    <description><![CDATA[far northeast corner of Oak Hill Cemetery, #702, north end of Porter Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Thomas Pratt (1807-1878). Veteran of Army of Republic of Texas, he was Captain of 1st Regt., T. J. Green's Brigade, in 1836. In Civil War (1861-65), served in Texas Militia, Confederate Army. In private life, was farmer and rancher. Owned land in Coleman and Lampasas counties. His wife Susan (1795?-1878) was a member of first Anglo colony in Texas. A kindly man, Pratt left funds in his will to provide meat for "poor and reputable widows".]]></description>
+    <Point><coordinates>-98.195852,31.069923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Witcher House</name>
+    <description><![CDATA[407 S. Park Street<br/><br/><b>Address:</b> 407 S. Park Street, Lampasas<br/><br/><b>Marker Text:</b> THE LAMPASAS SPRINGS CO. PLATTED THEIR FIRST ADDITION TO THE CITY OF LAMPASAS IN JUNE 1882, INCLUDING THIS PARCEL BOUGHT BY BUSINESSMAN JAMES HARVEY GALBRAITH. HE OWNED THE c. 1883 HOUSE UNTIL 1899, BUT IT IS UNCLEAR IF HIS FAMILY LIVED HERE OR RENTED IT TO OTHERS. THE SINGLE-STORY FOLK VICTORIAN HOUSE IS L-SHAPED WITH A HIGH PITCHED ROOF, CLAPBOARD SIDING, DOUBLE HUNG WINDOWS WITH CROWNS, AND FULL-WIDTH PORCH WITH SQUARE COLUMNS. THE FAMILY OF CHARLES NEMAN WITCHER, CATTLEMAN AND ENTREPRENEUR (1911-44), AND KATIE MESECKE (1950-83) EACH LIVED HERE FOR MORE THAN THIRTY YEARS.]]></description>
+    <Point><coordinates>-98.186588,31.063316,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

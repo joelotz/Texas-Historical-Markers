@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Clay County — Unmapped Historical Markers</name>
+  <description>THC markers in Clay County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cambridge</name>
+    <description><![CDATA[at east entrance to Clay County Courthouse<br/><br/><b>Address:</b> 214 North Main Street, Henrietta<br/><br/><b>Marker Text:</b> (Early County Seat) Founded 1860, but abandoned to marauding Indians, 1863. Settlers returned in 1870 and installed a grist mill. Developers surveyed townsite in 1874; school, church, shops, and hotel were built. Post office was established and Fort Sill-Fort Richardson military telegraph line came through in 1876. First newspaper in county was founded there. Rapid growth halted when town was bypassed by Fort Worth and Denver Railroad in 1882. By then place was known as Henrietta -- the name retained when county seat was moved here. Cambridge Cemetery still exists (a mile north of historic townsite). (1971) Incise in base: Erected by Clay County Historic Survey Committee, 1971.]]></description>
+    <Point><coordinates>-98.196126,33.816747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cambridge Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Henrietta<br/><br/><b>Marker Text:</b> Cambridge Cemetery, established circa 1852]]></description>
+    <Point><coordinates>-98.141099,33.829399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Clay County Courthouse</name>
+    <description><![CDATA[On courthouse square<br/><br/><b>Address:</b> Henrietta<br/><br/><b>Marker Text:</b> ----]]></description>
+    <Point><coordinates>-98.196126,33.816747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old City Calaboose</name>
+    <description><![CDATA[Fifth and N. Bridge, Henrietta; at Clay County Pioneer Association<br/><br/><b>Address:</b> Henrietta<br/><br/><b>Marker Text:</b> ----]]></description>
+    <Point><coordinates>-98.193775,33.824316,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pleasant Valley Cemetery</name>
+    <description><![CDATA[From Buffalo Springs take FM 3077 2 miles south.  Continue straight on dirt road about one mile, take the next right turn and continue south about .7 miles.<br/><br/><b>Address:</b> Buffalo Springs vicinity<br/><br/><b>Marker Text:</b> The community of Pleasant Valley was begun following the Civil War. A one-room schoolhouse was built for the residents of the area and also served as a place of worship. This cemetery, located near the school site, was established in 1883 on land donated by pioneer settler Jim Draer. The earliest documented burial is that of Lydia Bowman (1873-1883). Many early settlers are interred in the cemetery, as are veterans of the Civil War, World War I, World War II, and Korea. A cemetery association maintains the historic graveyard. (1988)]]></description>
+    <Point><coordinates>-98.134775,33.504265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shannon Cemetery</name>
+    <description><![CDATA[.5 mi. E of Shannon on FM 175; .5 mi. S on local road<br/><br/><b>Address:</b> Shannon<br/><br/><b>Marker Text:</b> Established near a flourishing spring of water and a general store in 1878, the settlement around this site was known as Stampede Springs. The first burial in this cemetery was that of Mary W. Gibson (1824-1879). Trustees of the Stampede Springs School community purchased five acres including this site for a school, church and grayeyard in 1880. A post office opened in 1893, and the town was renamed Shannon, either by the U. S. Postal Service or by local settlers. In 1907 another acre was donated to the cemetery. The population of Shannon was 112 in the mid-1920s. A cemetery association was established in 1949. In 1990 the population was 23. There were 311 graves in the cemetery at the end of the 20th century, with 104 family names represented. (2000)]]></description>
+    <Point><coordinates>-98.250807,33.468555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Elmo Hotel</name>
+    <description><![CDATA[106 East Omega Street (US 82)<br/><br/><b>Address:</b> 106 E. Omega St., Henrietta<br/><br/><b>Marker Text:</b> ----]]></description>
+    <Point><coordinates>-98.196427,33.81462,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

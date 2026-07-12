@@ -1,0 +1,53 @@
+Trinity unmapped markers with NO usable address (13):
+
+  THC 23926: Baldwin Chapel Baptist Church
+    addr: 288 Martin Luther King Blvd., Groveton
+    https://atlas.thc.texas.gov/Details/5000023926
+
+  THC 16036: Boontown Cemetery
+    https://atlas.thc.texas.gov/Details/5507016036
+
+  THC 12445: Chita Cemetery
+    addr: Groveton vicinity
+    https://atlas.thc.texas.gov/Details/5455012445
+
+  THC 19971: Ellis Prairie Cemetery (HTC)
+    addr: Groveton
+    https://atlas.thc.texas.gov/Details/5000019971
+
+  THC 17144: Flat Prairie Congregational Methodist Church
+    addr: Groveton
+    https://atlas.thc.texas.gov/Details/5507017144
+
+  THC 12253: Glendale Cemetery
+    addr: Trinity
+    https://atlas.thc.texas.gov/Details/5455012253
+
+  THC 12578: Holly Cemetery
+    addr: Lovelady vicinity
+    https://atlas.thc.texas.gov/Details/5225012578
+
+  THC 12339: North Cedar Community
+    addr: Groveton vicinity
+    https://atlas.thc.texas.gov/Details/5455012339
+
+  THC 24127: Parker Ridge Cemetery
+    addr: FM 2912, Groveton
+    https://atlas.thc.texas.gov/Details/5000024127
+
+  THC 24238: Rice Cemetery
+    addr: 3886 FSR 527, Kennard
+    https://atlas.thc.texas.gov/Details/5000024238
+
+  THC 16101: Site of the Town of Sumpter
+    addr: Groveton
+    https://atlas.thc.texas.gov/Details/5507016101
+
+  THC 7966: The Reese Family of Friendship Community
+    addr: Pennington
+    https://atlas.thc.texas.gov/Details/5455007966
+
+  THC 22433: Zion Hill Cemetery
+    addr: Friday
+    https://atlas.thc.texas.gov/Details/5000022433
+

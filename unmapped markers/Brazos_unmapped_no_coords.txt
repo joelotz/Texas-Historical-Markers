@@ -1,0 +1,24 @@
+Brazos unmapped markers with NO usable address (6):
+
+  THC 17455: Alexander Methodist Church
+    https://atlas.thc.texas.gov/Details/5507017455
+
+  THC 8668: Brazos River
+    https://atlas.thc.texas.gov/Details/5041008668
+
+  THC 23658: City of College Station
+    addr: 1101 Texas Ave., College Station
+    https://atlas.thc.texas.gov/Details/5000023658
+
+  THC 24318: Della Love
+    addr: Della Love Rd., Kurten
+    https://atlas.thc.texas.gov/Details/5000024318
+
+  THC 22672: Grandview Cemetery
+    addr: Bryan
+    https://atlas.thc.texas.gov/Details/5000022672
+
+  THC 14268: Old Bethel Cemetery
+    addr: Bryan
+    https://atlas.thc.texas.gov/Details/5507014268
+

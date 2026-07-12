@@ -1,0 +1,6 @@
+Lipscomb unmapped markers with NO usable address (1):
+
+  THC 14795: Lipscomb County
+    addr: Higgins
+    https://atlas.thc.texas.gov/Details/5507014795
+

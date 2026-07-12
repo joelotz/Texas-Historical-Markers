@@ -1,0 +1,14 @@
+Victoria unmapped markers with NO usable address (3):
+
+  THC 15818: Crescent Valley Cemetery
+    addr: 6679 State Hwy 185, Victoria
+    https://atlas.thc.texas.gov/Details/5507015818
+
+  THC 15051: Garza, Carlos de la
+    addr: Victoria
+    https://atlas.thc.texas.gov/Details/5507015051
+
+  THC 14399: Mission Nuestra S. Del E. Santo De Zuniga
+    addr: Victoria
+    https://atlas.thc.texas.gov/Details/5507014399
+

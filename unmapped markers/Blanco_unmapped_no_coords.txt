@@ -1,0 +1,6 @@
+Blanco unmapped markers with NO usable address (1):
+
+  THC 19979: Brown Cemetery
+    addr: 149 Hye-Albert Road, Johnson City
+    https://atlas.thc.texas.gov/Details/5507019979
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Limestone County — Unmapped Historical Markers</name>
+  <description>THC markers in Limestone County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alfonso Steel</name>
+    <description><![CDATA[Mexia City Cemetery, Mexia. NOTE: Correct spelling of last name is Steele.<br/><br/><b>Address:</b> Mexia<br/><br/><b>Marker Text:</b> He was severely wounded in the Battle of San Jacinto and its last survivor. Erected by the State of Texas, 1962]]></description>
+    <Point><coordinates>-96.479579,31.693699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Allan Jefferson Rogers</name>
+    <description><![CDATA[Lost Prairie Cemetery FM 3371<br/><br/><b>Address:</b> FM 3371, Lost Prairie Cemetery, Lost Prairie<br/><br/><b>Marker Text:</b> Sergeant, Co. K, Bass' Regt., 20th Texas Cav. Served in Ark., Ind. Ter., La., Texas. Born in Ala. Came to Texas in 1856.]]></description>
+    <Point><coordinates>-96.371842,31.498978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Big Hill Cemetery</name>
+    <description><![CDATA[in community of Big Hill, located near Limestone/Falls county line; cemetery approx. 9 mi. W of Groesbeck on FM 2489 near the intersection of CR 628, reported  stolen 11.5.18<br/><br/><b>Address:</b> FM 2489, CR 628, Groesbeck<br/><br/><b>Marker Text:</b> Big Hill Cemetery Established 1888 Historic Texas Cemetery - 2006]]></description>
+    <Point><coordinates>-96.672141,31.467872,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Billington Cemetery</name>
+    <description><![CDATA[2.5 mi. N on FM 339, 2.5 mi. E on CR 114<br/><br/><b>Address:</b> CR 114, Prairie Hill<br/><br/><b>Marker Text:</b> Tennessee native E. J. Billington settled in this area with his family in 1854. In 1890 he sold one-half acre of land to John Ellison and Gus Haney on which a church and cemetery were established. The first recorded burial was that of John Sanders in 1890. Named for Billington, the nearby town was once a thriving community with a school, post office, and several stores. In 1900 additional land was purchased from the Billington estate for the cemetery, which contains 115 marked graves and 12-15 unmarked graves. The Billington Cemetery continues to serve the area. (1997)]]></description>
+    <Point><coordinates>-96.788566,31.693554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Dr. Josiah T. Sloan</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 202 Main St., Tehuacana]]></description>
+    <Point><coordinates>-96.547394,31.742193,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Parker</name>
+    <description><![CDATA[Fort Parker Historical Park, off SH 1245 on park rd. 35, N of Groesbeck<br/><br/><b>Address:</b> Of FM 1245, in Fort Parker Historical Park, Groesbeck<br/><br/><b>Marker Text:</b> Built 1834 for protection from Indians. Named for leaders who bought first Predestinarian Baptist church body to Texas: Elder Daniel Parker; his father, Elder John; brothers Jas. W., Benjamin, Silas, John. Also here were Kellogg, Frost, Nixon, Duty and Plummer families on May 18, 1836, raiding Comanches killed Benjamin, John and Silas Parker, Samuel and Robert Frost and others; captured Elizabeth Kellogg, Rachel Plummer and son James, and Sila's children, John and Cynthia Ann in captivity, Cynthia Ann married Chief Peta Nacona; her son, Quanah, was last Comanche Chief. With her baby, Prairie Flower, in 1860 she was captured by Texas Rangers. She, the baby and Quanah are buried at Fort Sill.]]></description>
+    <Point><coordinates>-96.549969,31.547139,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Karner</name>
+    <description><![CDATA[Mexia City Cemetery, Mexia<br/><br/><b>Address:</b> Mexia City Cemetery, Mexia<br/><br/><b>Marker Text:</b> Came to Texas 1835, served in Texas War of Independence at San Jacinto. Erected by the State of Texas, 1962]]></description>
+    <Point><coordinates>-96.480139,31.692105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kirk</name>
+    <description><![CDATA[FM 339, 6 miles south of Prairie Hill<br/><br/><b>Address:</b> FM 339, 6 mi. S of Prairie Hill, Kirk<br/><br/><b>Marker Text:</b> Settlement began in this area in the 1870s-1880s. A community here, originally called Elm Grove, became known as Kirk when a post office established in 1887 was named for local merchant Jepitha N. Kirk. The first postmaster was William Hume McKnight. In 1884 G. W. and M. J. Swafford donated land for a school and cemetery. William M. and Annie J. Jacobs sold adjoining land in 1887 for the graveyard, a school, and for churches in Kirk. At its peak, Kirk was a thriving community of several hundred people and included homes, businesses, churches, and a post office. It also contained cotton gins, fraternal organizations and a telephone exchange. A two-story school containing six classrooms was built in 1911 at this site. In 1927 the community, led by school board president W.C. Curry and school principals Vernon Evans and J. B. Brown, Jr., built a large gymnasium/community hall (known locally as the Community House) just north of the school. Kirk's decline began with the great depression of the 1930s. In 1942 the last class graduated from Kirk High School, and the Kirk School consolidated with schools in Mart in 1952. Only a few homes and the cemetery remain in the area. (1997)]]></description>
+    <Point><coordinates>-96.729049,31.587435,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Leonard Williams</name>
+    <description><![CDATA[Pitts Cemetery on private land (no access)<br/><br/><b>Address:</b> Prairie Hill<br/><br/><b>Marker Text:</b> Served in the Army of Texas; participated in the storming of Bexar; a trader and interpreter among Indian tribes. Erected by the State of Texas 1956]]></description>
+    <Point><coordinates>-96.871605,31.729097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mrs. Martha Rogers</name>
+    <description><![CDATA[Lost Prairie Cemetery, FM 3371<br/><br/><b>Address:</b> FM 3371, Lost Prairie<br/><br/><b>Marker Text:</b> (about 1795 to about 1865) According to family tradition, Martha Rogers was the daugther of United States Army General James Wilkinson (1757-1825) and his wife Ann Biddle of Philadelphia. When she married Benjamin Rogers (b. 1781) in Perry County, Ala., in 1809, Martha was disinherited. She and her husband had ten children. As a widow she moved to TX in 1847 with sons Allen Jefferson, M.C. ("Lum"), and James Rogers. A true Southwestern pioneer, she lived in Lost Prairie community. Recorded - 1978]]></description>
+    <Point><coordinates>-96.371786,31.498346,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Sandy Creek Cemetery</name>
+    <description><![CDATA[near Echols, approx 8 mi. W of Mexia, on CR 191, near intersection of FM 2310 and CR 180<br/><br/><b>Address:</b> FM 2310, CR 180, Mexia<br/><br/><b>Marker Text:</b> Following Emancipation in 1865, many former Limestone County slaves established their own homes. Those settling in this area included Sawney Henry and Davey Medlock, founders of Sandy M.E. Church and Sandy community. This site served as the early burial ground for the agricultural settlement, also known as Oak Grove. By 1900, the Sandy Creek Graveyard, Church and School Land Association maintained the site. Most of the graves here are those of former slaves, with the last known burial made in 1943. By that time, residents had established a newer burial ground. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-96.642025,31.685372,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sion Roberts</name>
+    <description><![CDATA[19 miles S of Groesbeck on SH 14 to LCR 745, 1.5 mile in Roberts Cemetery<br/><br/><b>Address:</b> Off SH 14, on Cr 745, S of Groesbeck, Groesbeck<br/><br/><b>Marker Text:</b> Served in the Texas War for Independence; Veteran of San Jacinto. Erected by the State of Texas, 1962]]></description>
+    <Point><coordinates>-96.426098,31.419836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vinson Cemetery</name>
+    <description><![CDATA[4 mile SE of Thornton Via FM 1246 to FM 2749 and King-Vinson Cemetery<br/><br/><b>Address:</b> Of FM 1246 &amp; FM 2749, SE of Thornton, Thornton<br/><br/><b>Marker Text:</b> Wiley and Phebe Vinson and their children came to Texas from Alabama in 1851. Settling in Limestone County in 1859, the family farmed and operate a gristmill and tanning yard. When Vinson bought additional land in 1870, he set aside one-half acre for this cemetery. He died in 1871, and was the first to be buried here. Other graves include those of his wife, Phebe, who died in 1873, and relatives who lived nearby. Vinson Cemetery was restored in 1962 by members of the Fox Family Association, descendants of Wiley Vinson, who maintain it today. 1974]]></description>
+    <Point><coordinates>-96.5368,31.379462,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

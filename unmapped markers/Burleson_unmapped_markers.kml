@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Burleson County — Unmapped Historical Markers</name>
+  <description>THC markers in Burleson County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Black Jack Baptist Church</name>
+    <description><![CDATA[12 mi. NW of Caldwell via SH 21 W, then FM 908 NW, church is on CR 301, 0.1 mi E of FM 908<br/><br/><b>Address:</b> Caldwell<br/><br/><b>Marker Text:</b> The founding of this congregation was sponsored by the neighboring Liberty Baptist Church. Organized in May 1885 with 17 charter members, the church called James G. Cooper to serve as its first pastor. The community schoolhouse served as a meeting place until 1894, when a sanctuary was constructed at this site. Black Jack Baptist Church began a Sunday School program in 1909. Although the membership disbanded during the World War II years and again in the late 1960s it is an important part of the religious heritage of Burleson County. (1985)]]></description>
+    <Point><coordinates>-96.884823,30.547136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Caldwell Volunteer Fire Department</name>
+    <description><![CDATA[206 S. Hill St. @ Mustang St. Caldwell<br/><br/><b>Address:</b> 206 S. Hill St, Caldwell<br/><br/><b>Marker Text:</b> Caldwell's volunteer fire department was organized as the Caldwell Hook &amp; Ladder Co. No.1 on July 22, 1886, five years before the city of Caldwell was incorporated. The original 22 members of the association obtained their first pieces of equipment--a four-wheel truck (pulled by manpower) complete with extension ladders, axes, and leather buckets for holding water-through membership dues and donations from citizens. Reorganization as the Caldwell Fire Company took place in 1907, providing for election of officers and directors and limiting membership to 40 persons. Membership over the years has averaged 20 to 25. After its incorporation in 1891, the city of Caldwell gradually took over supervision of the fire company, giving its first $250 for the purchase of a new fire truck in 1916. The volunteer fire department has historically answered calls for assistance both inside the city limits and in the neighboring rural areas. Throughout its history, the Caldwell Volunteer Fire Department has been a community service-oriented organization, sponsoring circuses, maifests, first aid classes and safety programs, and maintaining Fireman's Park from 1889 to 1910. The company's 1937 fire truck was restored as a city preservation project, Texas Sesquicentennial 1836-1986.]]></description>
+    <Point><coordinates>-96.693957,30.530455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Citizens State Bank</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 155 8th Street, Somerville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.529742,30.345572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cooks Point United Methodist Church</name>
+    <description><![CDATA[from Caldwell, take SH 21 E about 5 mi to Church on S. side of road<br/><br/><b>Address:</b> Cooks Point<br/><br/><b>Marker Text:</b> This congregation began in 1881 to serve the German speaking population in the area. Organized largely through the efforts of Anna Duewall, who had come to Burleson County with her family in 1880, the fellowship originally was known as the German Methodist Church, Caldwell. The Rev. Jacob Ott served as first pastor. Worship services were held in the members' homes until a sanctuary was built in 1883. The congregation adopted the name Cooks Point in the 1940s and continues to play an important role in the surrounding rural area. (1984)]]></description>
+    <Point><coordinates>-96.637618,30.579498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Oldham</name>
+    <description><![CDATA[On FM 1362 near intersection with CR 226 about 2.5 miles SW of Cooks Point<br/><br/><b>Address:</b> Cooks Point<br/><br/><b>Marker Text:</b> Built 1836-37 by pioneers who took refuge with William Oldham (1798?-1868), Infantry major in Texas War for Independence. The fort stabilized the area, as dozens lived there in seasons of Indian raids, and eventually preachers who helped found early church. By 1838, Fort Oldham had a post office and was a stopping place on Independence-Tenoxtitlan Road. Maj. Oldham joined Somervell and Mier Expeditions (1842) to counter Mexican raids into Texas. Captured by the foe, he escaped, fought way through perils, and returned home. He amassed fortune in land surrounding fort site.]]></description>
+    <Point><coordinates>-96.587533,30.566582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Tenoxtitlan</name>
+    <description><![CDATA[from Caldwell take SH 21 E about 6 miles to FM 1362, go N about 8 miles to CR 338, go E about 1.5 miles to double gate - marker is about 1/2 mile S across creek<br/><br/><b>Address:</b> Caldwell<br/><br/><b>Marker Text:</b> 2000 feet south, site of Fort Tenoxtitlan established by the Mexican government in July, 1830, in an attempt to stem Anglo-American settlement. Named in honor of the Aztec capital, now Mexico City. Abandoned by Mexican troops in 1832. In the town which grew up after 1834 many prominent Texans lived. The place passed from the map after 1860]]></description>
+    <Point><coordinates>-96.586269,30.692683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Josef Masik</name>
+    <description><![CDATA[From Caldwell, take SH 21 E about 2 1/2 miles to CR 208, go South (right) about 9/10 mile to bridge over RR tracks, turn West (right) on trail just past bridge - follow trail to marker in northwest corner of pasture on S side of RR. Chain link fence now surrounds graves.<br/><br/><b>Address:</b> Caldwell<br/><br/><b>Marker Text:</b> (March 30, 1810 - July 1, 1881) First Czech teacher in Texas. Born in Moravia (now Czechoslovakia). Certified to teach at age 16. Came to Texas 1855, seeking freedom from oppression. Following much hardship, he resumed teaching, 1859, with up to 50 pupils yearly. Retired, 1872.]]></description>
+    <Point><coordinates>-96.667527,30.549504,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lee W. Henslee</name>
+    <description><![CDATA[Masonic Cemetery, 11th and Hall St. (marker is in block 4 off main road through cemetery), Caldwell<br/><br/><b>Address:</b> Caldwell<br/><br/><b>Marker Text:</b> (1872 - 1927) Native of Burleson County; was named county sheriff in 1902; served in era when law and order were challenged. "Mr. Lee" seldom used a gun, commanding respect through quiet persuasion. His family lived in the county jail. He became tax collector, 1916.]]></description>
+    <Point><coordinates>-96.705105,30.516896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>New Hope - Teals Prairie Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 10395 FM 1362 N., Caldwell<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.624204,30.707690,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Providence Baptist Church</name>
+    <description><![CDATA[7 miles SE of Caldwell on FM 166, then S 1/2 mile on CR 243<br/><br/><b>Address:</b> Caldwell<br/><br/><b>Marker Text:</b> Organized 1841 in Republic of Texas by James A. Prewitt, first deacon. Until calling of pastor, 32 members met 3 or 4 times a year, with planters from Brazos bottoms and their households (including slaves) in attendance. By 1875 this was one of most influential churches in area, known for its 2-weeks brush arbor or tabernacle meetings. It has had 25 pastors. Original church was of split logs. Present building is the fourth. Centennial observance in 1941 was attended by the Lieutenant Governor and other officials.]]></description>
+    <Point><coordinates>-96.578095,30.535748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reeves-Womack House</name>
+    <description><![CDATA[405 W. Fox St. at Harvey St., Caldwell<br/><br/><b>Address:</b> 405 W. Fox St., Caldwell<br/><br/><b>Marker Text:</b> Caldwell native William Reeves (1858-1921), a prominent merchant and banker in the town, built this residence before the turn of the century. In 1907 it was sold to Civil War veteran Capt. Mansell Lewis Womack (b. 1846), a local business and civic leader who had served as Sheriff of Burleson County. Members of his family owned the house until 1957. The home's elaborate late Victorian style features intricate Eastlake detailing.]]></description>
+    <Point><coordinates>-96.695808,30.529926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Missionary Baptist Church</name>
+    <description><![CDATA[2487 CR 168 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2487 CR 168, Caldwell<br/><br/><b>Marker Text:</b> In the years after the Civil War, formerly enslaved men and women formed congregations to serve their spiritual needs. The Reverend Riley (Rielly) Williams (1812-1912) organized Shiloh Missionary Baptist Church. The first structure was built in the Chriesman community. Around 1870, the church moved to the Shiloh community. Rev. Williams, his wife Harriet, and six children lived next door. On June 27, 1871, Rebecca White conveyed land to Rufus Coleman, John (Merida) Meredith and George Williams. George and his wife, Leavy, donated land to the church and a structure was built. Additional early leaders of the church included Rev. Coleman, Rev. J.B. Jackson, Rev. L. Gates, Rev. Dudley Rice and Rev. E.W. Williams. 
+  In the 1910s, under the leadership of Rev. William L. Kemple (1879-1965), the original church structure was torn down and a new structure built. In the 1920s, electric lighting was added to the building. In 1926, Rev. R.G. Gaines led Shiloh. Under his leadership, the church grew in membership. Between the years 1926-1964, the church took up a special offering for its students who graduated high school and were heading to college. The church congregation made care boxes of food and other items for those students. The congregation also assisted those students who joined the military after high school. Shiloh students served in the army, navy, air force and marines. Deacons during this time were Sellie Butler, Henry Townsend, Rufus Jones, L.D. Moore and Elijah Merian. Nettie Townsend, Willie Butler and Ella Moore led mission activities. From 1966-1984, Rev. Lee B. Groce Sr. served as pastor. During this time, membership grew and the church facilities expanded. For over a century, Shiloh has faithfully served the community. (2023)]]></description>
+    <Point><coordinates>-96.781885,30.505845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Smith High School (UNDERTOLD)</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 10395 FM 1362 N, Caldwell]]></description>
+    <Point><coordinates>-96.624204,30.70769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Mary's Catholic Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 500 W. Old San Antonio Road, Caldwell<br/><br/><b>Marker Text:</b> Early area priests served Caldwell’s Catholic residents in the early 1890s, meeting in various locations, including the home of the Windhausen family. The community built a church dedicated to St. Mary’s Our Lady of Lourdes in 1895, and four years later bought this adjacent land for use as the Caldwell Catholic Cemetery. The first burial, that of Jacob Svejda (Schweda), dates to September 1899. The burial ground is the final resting place of military veterans, local leaders, church founders and families from the area’s Catholic community, with a strong link to the numerous settlers of Czech and Hispanic heritage. Historic texas cemetery - 2005]]></description>
+    <Point><coordinates>-96.701365,30.534023,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Mary's Our Lady of Lourdes Catholic Church</name>
+    <description><![CDATA[500 W. Old San Antonio Rd.<br/><br/><b>Address:</b> 500 W. Old San Antonio Rd, Caldwell<br/><br/><b>Marker Text:</b> A number of eastern European immigrants of the Catholic faith came to Burleson County in the late 1800s. Priests from nearby towns led worship services; the first recorded mass was in August 1893, with the Rev. Jacob Lauth presiding. In 1895, residents and trustees bought land and built a sanctuary dedicated to the Blessed Virgin Mary of Lourdes. Four years later, the church, which came to be called St. Mary's Our Lady of Lourdes, bought adjacent land for use as a cemetery. The congregation has grown over the years with new facilities and programs, and, since 1908, full-time priests. (2005)]]></description>
+    <Point><coordinates>-96.697847,30.537285,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Matthew Missionary Baptist Church</name>
+    <description><![CDATA[6017 FM 2000 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 6017 FM 2000, Caldwell<br/><br/><b>Marker Text:</b> Founded by freed African American men and women after the Civil War, Saint Matthew Colored Baptist Church was organized in the 1870s-1880s under the leadership of the Reverend Riley Williams (1812-1912). The church supported the upliftment of the community, including local education efforts. In 1893, M.J. Phegley conveyed one acre of land for a church site. Around 1918, the Rev. Benjamin Harris led the church to build a new sanctuary northeast of Cedar Creek. The Rev. Horace Nunn undertook major building upgrades. Annual traditions include homecoming and family day the fourth Sunday in August. For over 130 years, St. Matthew has served the spiritual needs of the surrounding community.  (2023)]]></description>
+    <Point><coordinates>-96.682830,30.635379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thomas Kraitchar, Jr. House</name>
+    <description><![CDATA[200 E. Buck St. at Porter St., Caldwell<br/><br/><b>Address:</b> 200 E. Buck St., Caldwell<br/><br/><b>Marker Text:</b> A fine example of a Victorian cottage-style residence, this home was built in 1891 for Thomas Kraitchar, Jr. (1870-1946). A merchant by profession, Kraitchar also served terms as the Burleson County Tax Collector and as a Caldwell City Alderman. His house, of cypress construction, features a five-bay symmetrical facade with a central gable. It remained in the Kraitchar family until 1982.]]></description>
+    <Point><coordinates>-96.691452,30.532812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Woodson Lumber Company</name>
+    <description><![CDATA[<b>Address:</b> 702 W. Buck St., Caldwell<br/><br/><b>Marker Text:</b> Brothers James R. (Jim) (1884-1940) and Harrie P. Woodson, Jr. (1892-1974) left their home in Richmond, Missouri after their mother died in 1912. In California they worked in a lumberyard, with Harrie as a laborer and Jim in the office. Jim made his way to texas in late 1912 and Harrie arrived in 1913. When they learned that Reeves-Slliman Lumber Company was for sale, they partnered with D.E. Reeves. Area population growth and a booming east Texas timber market made Caldwell an ideal location for the retail lumber industry. The Reeves-Woodson Lumber Company opened on December 1, 1913, and soon became the area’s primary source for building materials. In 1916 the name changed to Woodson Lumber Company. The company’s building materials, household items and supplies equipped a majority of homes and other buildings in the area. The business helped families establish homes as the area grew, particularly in the 1910s and again during the post-war boom of the late 1940s to 1950s. Proximity to the railroad depot made unloading and delivering materials convenient. The company also expanded to more than a dozen retail locations throughout the region and across Texas beginning in 1924. In 1946, after Harrie’s two sons-in-law returned from World War II service, the company’s second generation joined the family business. The Woodson brothers were also active in their community, with Jim serving as an alderman and acting chamber of commerce president and Harrie serving as First United Methodist Church trustee and building committee chairman. In 1974, the city’s Harrie P. Woodson Memorial Library was dedicated in his honor. Woodson Lumber Company has had the privilege of serving multiple generations of neighbors over more than 100 years in the same family.]]></description>
+    <Point><coordinates>-96.697263,30.527793,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

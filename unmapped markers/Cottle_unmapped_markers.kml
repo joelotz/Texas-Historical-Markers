@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Cottle County — Unmapped Historical Markers</name>
+  <description>THC markers in Cottle County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cottle County</name>
+    <description><![CDATA[From Paducah, take US 70 about 7 miles east to Roadside Park<br/><br/><b>Address:</b> Paducah<br/><br/><b>Marker Text:</b> Formed From Young and Bexar territories created August 21, 1876, organized January 11, 1892. Named in honor of George Washington Cottle a private who died at the Alamo. Paducah, the County Seat.]]></description>
+    <Point><coordinates>-100.201855,34.052846,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

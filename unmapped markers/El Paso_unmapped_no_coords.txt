@@ -1,0 +1,62 @@
+El Paso unmapped markers with NO usable address (15):
+
+  THC 18606: Bailey Cemetery
+    addr: Canutillo
+    https://atlas.thc.texas.gov/Details/5507018606
+
+  THC 14233: El Paso Salt War
+    addr: San Elizario
+    https://atlas.thc.texas.gov/Details/5507014233
+
+  THC 17382: Fort Bliss Enemy Alien Detention Site, WWII
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507017382
+
+  THC 18737: La Isla Cemetery
+    addr: Wingo Reserve Road, Fabens
+    https://atlas.thc.texas.gov/Details/5507018737
+
+  THC 22664: Marcelino Serna
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5000022664
+
+  THC 14954: Mission de Nuestra Senora del Perpetua
+    addr: Socorro
+    https://atlas.thc.texas.gov/Details/5507014954
+
+  THC 14760: Old County Jail
+    addr: San Elizario
+    https://atlas.thc.texas.gov/Details/5507014760
+
+  THC 16824: Olivas Villanueva Aoy
+    addr: 1 Civic Center Plaza, El Paso
+    https://atlas.thc.texas.gov/Details/5507016824
+
+  THC 15058: Presidio de San Elizario
+    addr: San Elizario
+    https://atlas.thc.texas.gov/Details/5507015058
+
+  THC 15193: Presidio Nuestra Senora del Pilar y Glo. S.J.
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507015193
+
+  THC 18738: San Elizario Cemetery
+    addr: Socorro at Thompson Roads, San Elizario
+    https://atlas.thc.texas.gov/Details/5507018738
+
+  THC 24006: San Elizario Church Cemetery
+    addr: Socorro Rd., San Elizario
+    https://atlas.thc.texas.gov/Details/5000024006
+
+  THC 18739: Smelter Cemetery
+    addr: San Marcos Drive from Executive Center Blvd, El Paso
+    https://atlas.thc.texas.gov/Details/5507018739
+
+  THC 16609: The Architecture of Henry C. Trost in El Paso
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507016609
+
+  THC 15485: Ysleta Mission
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507015485
+

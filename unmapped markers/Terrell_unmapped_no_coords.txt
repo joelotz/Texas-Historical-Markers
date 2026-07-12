@@ -1,0 +1,6 @@
+Terrell unmapped markers with NO usable address (1):
+
+  THC 19988: Chandler Ranch
+    addr: 535 Independence Creek Rd., Dryden
+    https://atlas.thc.texas.gov/Details/5000019988
+

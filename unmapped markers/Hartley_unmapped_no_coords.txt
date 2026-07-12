@@ -1,0 +1,6 @@
+Hartley unmapped markers with NO usable address (1):
+
+  THC 14556: XIT Ranch Headquarters
+    addr: Channing
+    https://atlas.thc.texas.gov/Details/5507014556
+

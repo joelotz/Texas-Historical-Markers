@@ -1,0 +1,46 @@
+Wharton unmapped markers with NO usable address (11):
+
+  THC 24261: "Sea of Mud"
+    addr: Hwy 90A, East Bernard
+    https://atlas.thc.texas.gov/Details/5000024261
+
+  THC 14496: Boling United Methodist Church
+    addr: Boling
+    https://atlas.thc.texas.gov/Details/5507014496
+
+  THC 14843: Egypt Plantation
+    addr: Egypt
+    https://atlas.thc.texas.gov/Details/5507014843
+
+  THC 15077: Garrett, John and Sophie, House
+    addr: Wharton
+    https://atlas.thc.texas.gov/Details/5507015077
+
+  THC 20137: Irrigation and the Development of Agriculture in Lane City, Texas
+    addr: County Road 116, Lane City
+    https://atlas.thc.texas.gov/Details/5507020137
+
+  THC 24253: Louise Community Cemetery
+    addr: Louise
+    https://atlas.thc.texas.gov/Details/5000024253
+
+  THC 22749: Newgulf Campo Santo (HTC)
+    addr: CR 101, Newgulf
+    https://atlas.thc.texas.gov/Details/5000022749
+
+  THC 22745: Old Jerusalem Cemetery (HTC)
+    addr: 5611 FM 1161 West, Glen Flora
+    https://atlas.thc.texas.gov/Details/5000022745
+
+  THC 23638: Roberts Family Cemetery
+    addr: CR 125, Burr
+    https://atlas.thc.texas.gov/Details/5000023638
+
+  THC 14686: Webb, Mack Hardware Store
+    addr: El Campo
+    https://atlas.thc.texas.gov/Details/5507014686
+
+  THC 22748: Wharton Hispanic Cemetery
+    addr: Grove St., Wharton
+    https://atlas.thc.texas.gov/Details/5000022748
+

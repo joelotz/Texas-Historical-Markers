@@ -1,0 +1,10 @@
+Madison unmapped markers with NO usable address (2):
+
+  THC 23823: Albert Lee School
+    addr: 6017 FM 247, Midway
+    https://atlas.thc.texas.gov/Details/5000023823
+
+  THC 22558: Ten Mile Cemetery
+    addr: 7546 FM 2289, Normangee
+    https://atlas.thc.texas.gov/Details/5000022558
+

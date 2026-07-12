@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wood County — Unmapped Historical Markers</name>
+  <description>THC markers in Wood County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Big Sandy Creek Bridge</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1860 CR 2724, Mineola]]></description>
+    <Point><coordinates>-95.459352,32.635687,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Captain Henry Stout</name>
+    <description><![CDATA[FM 2088, 9 miles east of Quitman<br/><br/><b>Address:</b> FM 2088, 9 mi. E, Quitman<br/><br/><b>Marker Text:</b> Henry Stout came to Texas in 1818 from Tennessee. Reported to have helped David Crockett plan his route to the Alamo, he served in the Republic of Texas Army in 1836, and from 1839 to 1845 was Captain of a Texas Ranger company. He moved here in 1847 and operated a grist mill and freight hauling business. He served on the commission to create Wood County in 1850, and was the first sheriff. He represented Van Zandt and Wood counties in the State Legislature in 1855-56, and was a Confederate officer during the Civil War. He is buried in a family cemetery adjacent to this site. (1992)]]></description>
+    <Point><coordinates>-95.285425,32.831228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Clover Hill Cemetery</name>
+    <description><![CDATA[FM 69, 5 mi. N of Quitman<br/><br/><b>Address:</b> FM 69, 5 mi. N, Quitman<br/><br/><b>Marker Text:</b> Families from Georgia and Alabama settled this land in 1856. The next year they chose this hill which was covered with yellow clover for construction of the Clover Hill Baptist Church. In 1868 "Little Buddy," son of G. H. and Sallie Pogue, was the first burial in this community cemetery. Soon a stranger died of smallpox and was interred here. The oldest marked gravestone is that of Martha Benton (1840-1862). She was buried, according to custom, near her home and later the family moved the headstone here. In 1926 the cemetery association was organized. (1979)]]></description>
+    <Point><coordinates>-95.422681,32.862956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Col. James A. Stinson Home</name>
+    <description><![CDATA[In Gov. Jim Hogg City Park<br/><br/><b>Address:</b> Park Rd. 45, off SH 37 S, Quitman<br/><br/><b>Marker Text:</b> Constructed in 1869 of virgin pine and oak by James A. Stinson, a widower who came to Texas in 1868 from Georgia after having served as a colonel in the Confederate Army. He brought with him his daughter Sallie. He bought extensive timber and farm lands in the eastern area of Wood County; operated a large sawmill which sent lumber throughout the state. Was also known as an early-day scientific farmer. Mrs. Nathan Jones, a widow with one daughter, Mary, became the second wife of Col. Stinson. The had two daughters, Lily and Cliffie, and one son, James F. In the parlor of the house, on April 22, 1874, Sallie Stinson married James Stephen Hogg, who later became the first native-born governor of the state. Col. Stinson was a southern aristocrat, a progressive thinker and a great scholar of government. He probably had great influence on James S. Hogg's ideas on good government. Was a leader in the county and state Grange, an organization which strove to protect rural interests. He was also instrumental in getting enacted into law the bill creating experimental farm, Texas Agricultural and Mechanical College. Stinson's home was always open to young and old. (1968)]]></description>
+    <Point><coordinates>-95.454968,32.790757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Collins-Haines Home</name>
+    <description><![CDATA[1/2 mile SE of Quitman on FM 778 (Horton Street)<br/><br/><b>Address:</b> 1/2 mi. SE on FM 778 (Horton Street), Quitman<br/><br/><b>Marker Text:</b> 1860 - First brick structure in Wood County. Erected by James A. and Harriet C. Collins, 1859 settlers from Mississippi. Bricks were molded and burned nearby; furniture crafted in plantation shop by Collins and slaves. They also planted fine gardens and landscapes. Past this home, 1861-1865, marched Confederate units, to Civil War. Since 1870 owned by family of George W. Haines. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-95.441485,32.786079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Concord Cemetery</name>
+    <description><![CDATA[Quitman, 6 mi. SE, FM 778 at CR 2590<br/><br/><b>Address:</b> Quitman<br/><br/><b>Marker Text:</b> Settlers established the Concord Community in the 1870s. Early resident Hubbard Moseley donated land for a community burial ground, a school and Hubbard Chapel Baptist Church. The earliest marked grave in Concord Cemetery is for Velinda Wood, dated July 31, 1875. An unknown number of unmarked, earlier graves are also present. About 1,000 settlers of Concord, Hainesville and other areas are buried here, including dozens of military veterans. Through the years there have been a number of formal caretakers, who along with relatives, residents and the Concord Cemetery Association have maintained this final resting place for generations of family and neighbors.]]></description>
+    <Point><coordinates>-95.385683,32.736765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>East Point Missionary Baptist Church</name>
+    <description><![CDATA[9 mi. S of Winnsboro on FM 312, then 1/4 mi. E on FM 2088<br/><br/><b>Address:</b> 9 mi. S on FM 312, then 1/4 mi. E on FM 2088, Winnsboro<br/><br/><b>Marker Text:</b> East Point settlers took steps to establish a local church and school when I. F. Taylor donated land for those purposes in 1878. In 1893 East Point Missionary Baptist Church was established by 12 charter members with the help of the Little Hope Baptist Church (4 miles Southeast). Services were held in a schoolhouse and brush arbor until a sanctuary was built in 1909. A new church building was erected in 1928. East Point School shared this location until 1953. A new sanctuary was built in 1956 and a fellowship hall added in 1979. The church continues to serve the area. (1995)]]></description>
+    <Point><coordinates>-95.295303,32.831543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hopewell Church and Cemetery</name>
+    <description><![CDATA[5.4 mi. W of Winnsboro on CR 4870<br/><br/><b>Address:</b> 5.4 mi. W on CR 4870, Winnsboro<br/><br/><b>Marker Text:</b> The Hopewell Primitive Baptist Church was established in 1855 and met in a brush arbor and log house. As membership increased, a larger church building was erected. In 1876 John R. Moore donated three acres of land for church and cemetery purposes. The first recorded burial was that of Henry Nixon in 1879. State Representative George Turner Hinson is also buried here, as are veterans of several wars. A new church was erected in 1947 and a fellowship hall was added in 1977. The church and cemetery continue to serve the community as they have more more than a century. (1997)]]></description>
+    <Point><coordinates>-95.373809,32.920161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Indian Cemetery and Villages</name>
+    <description><![CDATA[5 mi. NE of Quitman on SH 37 to CR 1416, near east end of Lake Quitman Dam<br/><br/><b>Address:</b> CR 1416, Quitman<br/><br/><b>Marker Text:</b> Found during road-building operations and reported Nov. 1966. In Jan. 1967, eight graves were studied, but the bone fragments unearthed were so old that they crumbled upon exposure to air. Pieces of pottery were also found in the cemetery and in six villages in the vicinity. Grindstones, a jar with red paint, water jugs, and skinning stones suggest that the area may have been inhabited about 1200 to 1500 A.D., and possibly at an earlier time, by the Caddo Indians, an agricultural people with a highly advanced culture. Other cemeteries exist nearby. (1968)]]></description>
+    <Point><coordinates>-95.450114,32.859283,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lankford-Stinson House</name>
+    <description><![CDATA[307 W. Elm Street, Winnsboro<br/><br/><b>Address:</b> 307 W. Elm Street, Winnsboro<br/><br/><b>Marker Text:</b> Probably built in the early 1890s for merchant and civic leader J. M. Lankford, this home was originally a one-and-one-half-story structure. It was remodeled into its current configuration in 1906, soon after it was purchased by J. A. Stinson, a Civil War veteran and father-in-law of Texas Governor James S. Hogg. The house, which remained in the Stinson family until 1956, exhibits influences of the colonial revival style in its stately columns and front portico. Recorded Texas Historic Landmark - 1988]]></description>
+    <Point><coordinates>-95.292545,32.958908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Little Hope Missionary Baptist Church</name>
+    <description><![CDATA[12 mi. E of Winnsboro on FM 312, 1/4 mi. E in Little Hope community<br/><br/><b>Address:</b> E of FM 312 in Little Hope community, Winnsboro<br/><br/><b>Marker Text:</b> Led by Elder Jacob Ziegler and Deacon P. M. Gunstream, the five charter members of this congregation held their organizational meeting in 1881 under a nearby arbor. Legend holds that the church was given its name because there was little hope the church would survive more than a year. In spite of the skepticism, the fellowship began to grow steadily. Early members were received into the congregation following baptisms held in J. A. Stinson's mill pond. A portion of the land on which the church is located was donated in 1881 by J. D. Cox. Near the end of the nineteenth century, Little Hope Missionary Baptist Church purchased three additional acres. In later years other small tracts of land, including the site of an old schoolyard, were added to the church property. For more than one hundred years Little Hope Missionary Baptist Church has provided service and leadership to this area of Wood County. Soon after its own organization, the congregation helped establish the nearby East Point Missionary Baptist congregation. The growth of Little Hope Missionary Baptist Church reflects the ideals and religious dedication of its founders, while the historic congregation is a reminder of the area's rich heritage. (1983)]]></description>
+    <Point><coordinates>-95.249228,32.796516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Macedonia School</name>
+    <description><![CDATA[FM 778, 11 miles northwest of Hawkins and just north of FM 3056 intersection<br/><br/><b>Address:</b> FM 778, 11 mi. NW, Hawkins<br/><br/><b>Marker Text:</b> One of first one-teacher schools in Wood County. Served the county's earliest community -- Macedonia, which was renamed Redland in 1900. Land for school was donated by W. M. McCarroll in 1885. W. M. Harris was one of first teachers. The school consolidated with the Hawkins Independent District in 1944. (1969)]]></description>
+    <Point><coordinates>-95.323731,32.669124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Martin Varner</name>
+    <description><![CDATA[off FM 3056, 10.6 miles east of Mineola<br/><br/><b>Address:</b> off FM 3056, 10.6 mi. E, Mineola<br/><br/><b>Marker Text:</b> A volunteer soldier in the Texas War for Independence at San Jacinto, 1836 Erected by the State of Texas, 1962]]></description>
+    <Point><coordinates>-95.34644,32.654841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mountain Home</name>
+    <description><![CDATA[SH 37 S of Quitman, in Gov. Hogg Park<br/><br/><b>Address:</b> Gov. Hogg Park, SH 37 South, Quitman<br/><br/><b>Marker Text:</b> Birthplace of James Stephen Hogg, son of Lucanda McMath Hogg and Joseph Lewis Hogg. Born March 24, 1851, died March 3, 1906. First native Texan to serve as governor. Inspirer of the passage of the Railroad Commission law, stock and bond law, alien land law. (1936)]]></description>
+    <Point><coordinates>-95.452641,32.788809,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Pisgah Baptist Church</name>
+    <description><![CDATA[14 mi. NE of Mineola on FM 49 at CR 3275<br/><br/><b>Address:</b> FM 49 &amp; CR 3275, 14 mi. NE, Mineola<br/><br/><b>Marker Text:</b> Started as the Holly Springs Baptist Church of Christ, this fellowship is one of the oldest in Wood County. The first meeting was held on November 18, 1853, at the residence of J. D. J. Davis, who served as pastor. Charter members were Samuel Davis, Peter Magnus Gunstream, and Mary Alitia Gunstream. Early worship services were held in a log building and later in a chapel at Liberty Hill, now Pine Mills (1.5 mi. E). A new sanctuary was built here by 1860 and the church name was changed in 1865. The membership has included many early county leaders. (1981)]]></description>
+    <Point><coordinates>-95.313424,32.737408,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Perryville Baptist Church</name>
+    <description><![CDATA[10 mi. SE of Winnsboro on FM 852 to FM 2088 intersection<br/><br/><b>Address:</b> FM 852/FM 2088 intersection, 10 mi. SE, Winnsboro<br/><br/><b>Marker Text:</b> In June 1884 five neighbors gathered to organize the County Line Missionary Baptist Church of Wood County. One month later charter members W. F. Bailey, J. M. Richards, S. M. Lindsey, Mrs. L. T. Bailey, and Mrs. Martha Cartwright chose J. O. Carnes as their first pastor. Services were held in the local school building for several years, until a church building was erected. In June 1908 the church was called the Missionary Baptist Church of Christ at Perryville. The name became Perryville Baptist Church in 1925. Descendants of charter members remain active in the church. (1986)]]></description>
+    <Point><coordinates>-95.160093,32.865631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Perryville Methodist Church</name>
+    <description><![CDATA[10 mi. SE of Winnsboro on FM 852<br/><br/><b>Address:</b> FM 852, 10 mi. SE, Winnsboro<br/><br/><b>Marker Text:</b> This rural congregation was organized in 1879 by 38 charter members as the Marvin Chapel Methodist Episcopal Church. The Reverend A. K. Hughes served as the first pastor. J. D. Hallonquist donated land to the church in 1887, and church buildings were erected here in 1887 and 1915. The church building became a focal point for the area and the site of many revival meetings, Sunday "singings" and community gatherings. Descendants of charter members continue a long history of service to the area of Perryville. (1997)]]></description>
+    <Point><coordinates>-95.158716,32.867016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reneau Building</name>
+    <description><![CDATA[<b>Address:</b> 703 FM 1799, Golden<br/><br/><b>Marker Text:</b> In 1913, Golden School trustees conveyed this property to Ella T. (Greer) Reneau. E. L. Foster contracted to build a home for Golden Masonic Lodge #1093, A.F. &amp; A.M., who met here until merging with the Mineola Lodge in 1938. Ella’s husband, I. N. Reneau, opened a general merchandise store on the first floor in 1916. He was also the Golden postmaster, and the post office was housed here from about 1925 until his death in 1941. Ella died two months later. This two-story brick building with arched windows, expansive storefront glass and a cantilevered canopy entry is important in the commercial and social history of Golden.]]></description>
+    <Point><coordinates>-95.56196,32.729097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Hill Baptist Church</name>
+    <description><![CDATA[10 miles north of Quitman<br/><br/><b>Address:</b> 10 mi. N, Quitman<br/><br/><b>Marker Text:</b> Organized in 1870 in school on Coke Road. First church was built in 1892. Charter members: Joe Bird, John Corley, W. W. Grice, and R. H. Galloway. First pastor: the Rev. Jeff Warlick. L. F. Banks, earliest ordained minister (in 1888). Since turn of century average membership has been 170. (1970)]]></description>
+    <Point><coordinates>-95.468107,32.898271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shady Grove Cemetery</name>
+    <description><![CDATA[8 mi. S of Winnsboro on FM 312, then E on CR 4645 for 1.5 mi.<br/><br/><b>Address:</b> FM 312, CR 4645, Winnsboro<br/><br/><b>Marker Text:</b> This open landscape cemetery, one of the oldest burial grounds in Wood County, first served pioneer settlers of the Shady Grove community. One of the earliest area settlers was Reuben Elledge, who brought his family here c. 1845. Elledge figured prominently in the development of Wood County as a commissioner and chief justice (county judge). In 1850, he donated land to the community for a school and Methodist Episcopal Church, South. One acre of the Elledge land was later set aside for this cemetery. The earliest known gravesite, unmarked except for a tree for many years, was for young Bobby Scoggins, who drowned in 1855. Also buried here are Elledge, three-term county sheriff John Boyd and veterans of military conflicts dating to the Civil War. Expanded through the years, Shady Grove Cemetery is a reminder of early settlement in the area. Features include rock cairns, decorative fencing, ornate stone carvings, curbed plots, obelisks and Woodmen of the World monuments. The Methodist church disbanded in 1993, and its chapel is now used for funerals and for annual memorial events. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-95.272771,32.857294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Smyrna Baptist Church</name>
+    <description><![CDATA[on CR 4420, off SH 11, 5.7 mi. SE of Winnsboro<br/><br/><b>Address:</b> CR 4420, off SH 11, 5.7 mi. SE, Winnsboro<br/><br/><b>Marker Text:</b> Organized first Sunday in June 1869 under a pine tree, by the Rev. Jacob Ziegler, aided by elders. There were 18 constituting members. A Sabbath school was organized in November 1878. Original 2-story building housed church, lodge and school. (1969)]]></description>
+    <Point><coordinates>-95.21972,32.937684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] The Episcopal Church of St. Dunstan</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 800 N. Johnson St., Mineola]]></description>
+    <Point><coordinates>-95.490422,32.656528,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

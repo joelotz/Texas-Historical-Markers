@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Gregg County — Unmapped Historical Markers</name>
+  <description>THC markers in Gregg County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] 1919 Longview Race Riot</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>At the intersection of East Methvin St. and N. Sixth St.<br/><br/><b>Address:</b> 202 N. Sixth St., Longview]]></description>
+    <Point><coordinates>-94.729053,32.494655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Alpine Presbyterian Church</name>
+    <description><![CDATA[<b>Address:</b> 4102 Tryon Rd., Longview<br/><br/><b>Marker Text:</b> (Affiliated with Presbyterian Church, U.S.) Founded Dec. 2, 1881, by the Rev. J. DeWitt Burkhead, evangelist. Elders: L. P. and S. F. Henderson and Curtis Mackey. Deacon: J. L. Henderson. Other organizers: C. N. and Mmes. T. C. and Mary Henderson; Miss Mattie and Mrs. R. J. Mackey; Mrs. R. J. williams, all from Longview church. Also Miss Alice, W. M., R. T., and W. H. Henderson, H. G. Lampkin, R. O. Mackey, Miss L. J. Mattox, by professions of faith. Services were held in Tyron School. Members built church in 1885. The new church adjacent was dedicated in 1964. Reached largest membership (122) in 1967.]]></description>
+    <Point><coordinates>-94.71688,32.529459,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bethel Baptist Church</name>
+    <description><![CDATA[<b>Address:</b> 323 S. Court St., Longview<br/><br/><b>Marker Text:</b> The Rev. Richard Perry and nine deacons organized this church in 1874. Services were held under a brush arbor on land donated by the Rev. Perry and his wife Betty until a sanctuary was erected later that year. A Sunday School was formed in 1875. A new church building was erected in 1884 and in 1890 a women's missionary society and a youth association were formed. A new sanctuary, built in 1906, was replaced by a fourth sanctuary erected here in 1956. A junior missionary society was organized in 1958. The church continues to serve the area's african American community. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
+    <Point><coordinates>-94.744657,32.492576,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown-Birdsong House</name>
+    <description><![CDATA[Moved in May 2011 from 104 W. Whaley Street. Marker reported missing Oct. 2014.<br/><br/><b>Address:</b> 3406 Morrison Street, Longview<br/><br/><b>Marker Text:</b> Victorian home built 1879 by early settler, Rev. B. W. Brown, Methodist lay minister, who as a member of the Texas Legislature helped to create Gregg County in 1873. Only minor changes such as porch lattice. Residence of Mrs. Lawrence Birdsong. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-94.721374,32.45166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bumpus House</name>
+    <description><![CDATA[The Gladewater Museum, on exhibit inside the building. The c. 1900 house (at 201 E. Upshur Ave.) burned Aug. 16, 2013, and the marker was moved here.<br/><br/><b>Address:</b> 116 W. Pacific Ave., Gladewater<br/><br/><b>Marker Text:</b> This house is believed to have been built about the turn of the century. Area sawmill owner and road builder William E. Bumpus and his wife Catherine (Harris) purchased the property in 1927. The Bumpus House is a well-preserved example of a large dwelling with colonial revival details (dormers, gable ends) and craftsman influences (tapered box supports on brick piers). A local landmark, the house remained in the Bumpus family until 1987. (1994)]]></description>
+    <Point><coordinates>-94.94468,32.535447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dean-Keener-Crim House</name>
+    <description><![CDATA[<b>Address:</b> 101 E. Lantrip St., Kilgore<br/><br/><b>Marker Text:</b> The one-story east wing of this house, considered the oldest still standing in Kilgore, was built by S. G. Dean about 1876. After buying the structure in 1881, L. J. Keener (1840-88) attached the two-story west wing. Wiley N. Crim (1865-1937) a cotton ginner and grocer, added porches and enclosed the well when he purchased the house in 1902. His family still owns and occupies it. Oil was discovered on this and nearby Crim property during the boom of the 1930s. Recorded Texas Historic Landmark - 1975]]></description>
+    <Point><coordinates>-94.872816,32.390242,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Driller Park</name>
+    <description><![CDATA[S. Commerce, south of Harris Street<br/><br/><b>Address:</b> 1800 S. Commerce St., Kilgore<br/><br/><b>Marker Text:</b> On April 24, 1947, more than 3,100 fans celebrated the postwar return of baseball as the Kilgore Drillers played the Henderson Oilers on Driller Park's opening day. Erected by the Kilgore Baseball Club for $100,000 on land deeded to the city of Kilgore by S. S. Laird, the park straddles the line between Gregg and Rusk counties. An excellent example of small stadium engineering, the ballpark was constructed of oil field pipe, tank steel, and concrete with an infield underground drainage system. Though the Drillers disbanded in 1950, Driller Park continues to be a haven for baseball in the city of Kilgore. (1998)]]></description>
+    <Point><coordinates>-94.881017,32.373732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dundee Angus Ranch Home, 1859</name>
+    <description><![CDATA[<b>Address:</b> 3401 Dundee Rd., Longview<br/><br/><b>Marker Text:</b> Built by a pioneer physician, Dr. J. N. Allison, who brought some materials from Virginia. Bricks made by slave labor from clay on building site. Located nearby is Lathrop Discovery Oil Well, extending famous East Texas field. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.801207,32.546805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Teague Home</name>
+    <description><![CDATA[<b>Address:</b> 322 Teague St., Longview<br/><br/><b>Marker Text:</b> One of few remaining houses of Earpville (early Longview). North boundary of tract on Wm. t. Brooks' stagecoach line from Monroe, La. to Tyler, Texas. Built before 1882, when it was purchased by Latimus and Mary Teague, natives of Alabama. Two daughters, Misses Molly and Sarah Teague, held school sessions and taught music here beginning 1890. Classes moved to separate building where they continued until 1905. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-94.723978,32.502095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elmira Chapel Cumberland Presbyterian Church</name>
+    <description><![CDATA[<b>Address:</b> 3501 Elmira Drive, Longview<br/><br/><b>Marker Text:</b> Pine Tree Cumberland Presbyterian Church began sponsoring Sunday School classes in the Spring Hill Schoolhouse after 1887. The Rev. W. M. Allen began to preach there on Sunday afternoons in 1891. The Rev. J. M. Robinson became the first resident pastor after the division of the two churches. The new congregation was named for Elmira Castleberry, matriarch of a prominent pioneer family. Her sons, James R. and Richard Castleberry, were founding elders of the church. James R. gave 35 acres of land and material for a school/church building in 1897-98. Always active with other denominations and in youth, community and missionary outreach programs, the church continues to serve the area. (1998)]]></description>
+    <Point><coordinates>-94.799772,32.563152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Judson</name>
+    <description><![CDATA[6.4 mi. N of Longview on Spur 502, then 0.8 mi. W on FM 1844<br/><br/><b>Address:</b> 2038 FM 1844, Longview<br/><br/><b>Marker Text:</b> In the 1870s the people of this community met in the Lawrenceville School for Christian worship services. Thirteen local Baptists organized their own church in 1883, continuing to meet in the school building. Founding member Georgia Whatley suggested the name Judson Missionary Baptist Church for a church she had attended in Lawrenceville, Alabama which was named in honor of Adoniram Judson (1788-1850), America's first foreign missionary. In 1886, the Judson Missionary Baptist Church began to support mission work. Members began to plan for their own house of worship in 1891. Georgia and Hiram Whatley donated a plot of land, and the structure was erected in 1894. Baptismal services were conducted in the creek east of the church after the yearly summer revival had taken place. The baptisms later were held on a member's property and then at nearby Whitehurst Lake. In the late 1890s H. A. Whatley gave one acre for a cemetery. Sunday School began in 1901, a Ladies' Auxiliary was formed in 1902, and the Baptist Young People's Union was organized at the Judson Church in 1924. A new church building was erected in 1935, and the church was able to hire its first full-time pastor in 1941. By 1900 Public School District No. 2, Gregg County, was known as Judson. In 1952, a U. S. Post Office opened in the community, taking the name Judson. The membership, many of them descendants of the pioneers of this part of Gregg County, numbered more than 260 in 1998. The congregation continues to be active in mission work and in service to the community of Judson. (1998)]]></description>
+    <Point><coordinates>-94.770921,32.589735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Former Site of Longview High School</name>
+    <description><![CDATA[<b>Address:</b> 410 S. Green St., Longview<br/><br/><b>Marker Text:</b> The first public school offering high school classes in Longview was built in 1880. A larger school building was erected in 1884 to accommodate an expanded student enrollment. The Longview Senior High School Complex, constructed at this location in 1929, was converted to a junior high school in 1932 after an area-wide oil boom contributed to a doubling of the student enrollment and the decision to build a new high school structure on East Whaley Street. successful bond elections in 1972 and 1986 led to the construction of the Longview High School Complex at Airline Road and Loop 281.]]></description>
+    <Point><coordinates>-94.737837,32.489624,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gregg County Discovery Oil Well, F. K. Lathrop A-1, Aransas Fuel Oil Co.</name>
+    <description><![CDATA[on Brent Rd., .2 mi. north of FM 2605, Tennyville Rd.<br/><br/><b>Address:</b> Longview<br/><br/><b>Marker Text:</b> After years of undaunted faith in discovery of oil in East Texas, B. A. Skipper, Sr., assembled an 8300-acre block under lease; made a deal with J. E. Farrell, W. A. Moncrief and E. A. Showers; had the well drilled to 3500 feet. At this point Arkansas Fuel Oil Co. (now Cities Service Oil Co.) bought a half interest and assumed operations. Drillers were W. A. Andrews, B. A. Ferrell and James H. Lowery. Crew members were C. R. Kaylor, r. T. Crisp, C. Spruill, A. W. Owens, C. O. Croley, D. V. Chidester, Geo. Jones, J. V. Huckaboy, R. E. Roe, E. E. Houchin and R. H. Summers. The F. K. Lathrop A-1 was spudded in on Dec. 3, 1930; hit caprock at 3569 feet; was completed on Jan. 26, 1931, at total depth of 3587 feet. With an initial potential of 18,000 barrels of oil daily, it has produced over 527,000 barrels in its first 35 years. Oil fever ran high with the completion of the Joiner No. 3-Daisy Bradford at Turnertown, Oct. 1930; the E. W. Bateman No. 1 - L. D. Crim at Kilgore, Dec. 1930; and climaxed here with the F. K. Lathrop A-1. However, few could imagine that soon these three would be linked and extended to form the great East Texas field, which covers some 200 square miles and has made a world record as the largest of its time.]]></description>
+    <Point><coordinates>-94.8188,32.542655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Judge J. N. Campbell Home</name>
+    <description><![CDATA[Marker in storage as of Oct. 2014.<br/><br/><b>Address:</b> 433 S. Center St., Longview<br/><br/><b>Marker Text:</b> Built 1872. Owned since 1885 by Judge J. N. Campbell and family. Kept open house for Texas judiciary, clery and young people. Negro string band played for dances. The judge's brother, Governor Thomas M. Campbell, was a frequent visitor. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-94.743248,32.489028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kilgore Public Library</name>
+    <description><![CDATA[<b>Address:</b> 301 N. Henderson Blvd., Kilgore<br/><br/><b>Marker Text:</b> Kilgore's first public library opened in 1933 under the direction of two local women's clubs. With funding from the Federal Public Works Administration, support from the city, and labor from the Works Progress Administration, this structure was completed in 1939. Designed in a style reminiscent of cottages in the French province of Normandy, it stands as a visible reminder of Kilgore's depression-era progressivism and continues to serve local citizens. Recorded Texas Historic Landmark - 1990]]></description>
+    <Point><coordinates>-94.869474,32.3834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lewis-Bivins House</name>
+    <description><![CDATA[208 E. College St., Longview<br/><br/><b>Address:</b> 208 E. College St., Longview<br/><br/><b>Marker Text:</b> This house was constructed in 1885 or 1895 for local merchant B. F. Lewis and his wife, E. A. Lewis. In 1905 the Lewises sold their home to James Knox Bivins, a Confederate veteran and lumberman, who presented the deed to his wife Viola (Cobb) as a gift. The Bivins family moved to Longview to be close to his sawmill in the nearby Talley community. Viola Bivins restored the structure in 1941 with an inheritance from her father. The Lewis-Bivins house is among the last Victorian dwellings in Longview. The structure exhibits mixed folk Victorian elements with cornice returns, spindlework porch balusters and decorative porch post brackets. A simple folk form with Queen Anne accents, the design remains largely intact. Recorded Texas Historic Landmark-1999]]></description>
+    <Point><coordinates>-94.739605,32.49095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Northcutt House</name>
+    <description><![CDATA[<b>Address:</b> 313 S. Fredonia St., Longview<br/><br/><b>Marker Text:</b> This residence was constructed in 1902 by the Rev. W. B. Allen for Dr. William Davis Northcutt (1861-1931). A prominent Longview physician and mayor of the city for four terms, Dr. Northcutt played a vital role in the development of the area through his active civic leadership. The Queen Anne style of his home features an elaborate two-level wraparound veranda and fishscale shingling. After Dr. Northcutt's death, the residence remained in the family. Recorded Texas Historic Landmark - 1982]]></description>
+    <Point><coordinates>-94.740545,32.491564,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noted Texas Leader, Developer, Conservationist, Carl L. Estes</name>
+    <description><![CDATA[foyer of the "Longview News"<br/><br/><b>Address:</b> 314 E. Methvin St., Longview<br/><br/><b>Marker Text:</b> (1896-1967) One of America's giants of journalism. Newsboy, reporter, advertising manager, foreign correspondent, editor-publisher. Born in New Market, Tenn.; came to Texas in youth. Founded Commerce "East Texan", 1919. Worked for Denison "Herald" and Tyler "Courier-Times" before his 1934 founding of "Texas Oil Journal" and purchase, Longview "Daily News" and "Morning Journal". Erected this building, 1935. Published annual special editions of 314 to 624 pages. Estes soon became the most powerful voice for East Texas. Dynamic, forceful, philanthropic-- firm but fair-- he devoted his keen abilities and showman's talents to conserving for human betterment the vast wealth of the East Texas oil field (largest in the world when it was discovered in the 1930's). He fought "hot oil" runners who risked future of entire great field for sake of immediate profits. He promoted highway and air travel facilities, expanded educational and medical resources, and land and water conservation. His work attracted into East Texas manufacturers whose payrolls and investments poured into economy of the area hundreds of millions of dollars. He was internationally known and respected. Fought in World Wars I and II. Married Margaret McLeod. Outstanding Texas Newspaper Publishers Series, 1967]]></description>
+    <Point><coordinates>-94.736389,32.495153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noyes House</name>
+    <description><![CDATA[1201 Brook Dr. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1201 Brook Dr., Kilgore<br/><br/><b>Marker Text:</b> This Meadowbrook Addition home, designed by architect Charles T. Freelove, was built in 1939. The first residents were Alvin Peter “A.P.” (1899-1965) and Jane (Branch) Noyes (1906-1992) and their two children. A.P. served Kilgore as a city engineering consultant, designing several civic improvements.  He also was active in professional associations and boards. A.P. and Jane remained in the home the rest of their lives, after which the home was sold to new owners. The Tudor revival structure features a travertine exterior with oak and plaster gables and tile shingle roof, as well as original interior details.
+
+RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
+    <Point><coordinates>-94.866872,32.378329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Peatown Christian Church</name>
+    <description><![CDATA[take IH-20 west for 10 mi., then 4 mi. south on FM 2011<br/><br/><b>Address:</b> Longview<br/><br/><b>Marker Text:</b> This church traces its history to a Disciples of Christ congregation (Christian Union Church) organized near Camden in 1852. When that church disbanded during the early 1870s, its members formed new congregations in other places. The Peatown Christian Church was organized in 1871 with twelve charter members. It drew families from the ante bellum settlement of Edwardsville, commonly known as Peatown, and neighboring rural communities. Its members worshiped in the old Christian Union Church building for over 50 years and held baptisms in the nearby spring.]]></description>
+    <Point><coordinates>-94.753203,32.386515,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pine Tree Cumberland Presbyterian Church</name>
+    <description><![CDATA[<b>Address:</b> 1850 Pine Tree Rd. (FM 1845), Longview<br/><br/><b>Marker Text:</b> Organized in 1847. First church in Gregg County; one of oldest in Texas in continuous service. Named for large pine tree (now removed) under which services were held and where Mrs. A. T. Castleberry taught the first Sunday School class. Charter members were Rev. Mr. and Mrs. Soloman Awalt; Messrs. and Mmes. A. T. Castleberry, J. T. Echols, Jesse Freeze, Benj. Fuller, John Rodden and Milton Starnes; J. W. Barnes and James R. White. First church was a log house; present structure built 1932; the educational building, 1950.]]></description>
+    <Point><coordinates>-94.806106,32.525043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Preachers Hill</name>
+    <description><![CDATA[southeast corner of N. Fredonia and Conway streets<br/><br/><b>Address:</b> N. Fredonia St., Longview<br/><br/><b>Marker Text:</b> Known to its residents as Preachers Hill and named when Bethel Temple Church was founded in 1920, this African American neighborhood was established near Longview's original townsite in the 1880s. Ella Jacob Cotton Loyd (1870-1957) came to Texas with planters William Cunyus and the Prothro family and settled in Longview. Family legend states that Ella built the home at 219 Clark Street in 1889 and became the matriarch of the neighborhood of around thirty families. Open fields were used for farming and a nearby creek provided fresh water. A commercial and social center emerged along with strong religious associations. Many local pastors, male and female, lived in the area. (2015)]]></description>
+    <Point><coordinates>-94.737679,32.503748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Springs Schoolhouse</name>
+    <description><![CDATA[4.5 mi. south of Gladewater on Old Kilgore Rd. (Old 135) by Rock Springs Cemetery<br/><br/><b>Address:</b> Gladewater<br/><br/><b>Marker Text:</b> Built 1849, with donated labor and lumber. One-teacher school was taught here until 1930's. First teacher was J. C. Vernon. First trustees: Thomas G. Chisum, James "Squire" Dillingham, Joel Smith. (Smith donated the site.) Building was also used for church, Grange, socials, fraternal meetings, and political rallies. Community named for nearby springs. Settled by pioneers from Tennessee. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-94.971769,32.49898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sabine River Off Shore Wells</name>
+    <description><![CDATA[From White Oak, South on SH 42, then right on Gregg County River Road just after Sabine River Bridge<br/><br/><b>Address:</b> White Oak<br/><br/><b>Marker Text:</b> The vast East Texas oilfield was discovered in October 1930, and wells were soon located across the field in five Texas counties. Drilling was expanded to include the Sabine River bed, which was owned by the state of Texas, in late summer 1932. The riverbed was divided into tracts and leased to drilling companies. The first well was drilled by the U-Tex Oil Company, which was made up of investors from Texas and Utah. The well was drilled to a depth of 3,466 feet and continues to produce today. The derricks that remain in the Sabine River near this site are the last standing of the approximately 200 wells drilled in the riverbed, and are a testament to the engineering ingenuity of an important Texas industry.]]></description>
+    <Point><coordinates>-94.85254,32.476089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiloh Baptist Church</name>
+    <description><![CDATA[3.5 mi. north of White Oak on FM 3272 to Jamerson Rd., .5 mi. north to church<br/><br/><b>Address:</b> White Oak<br/><br/><b>Marker Text:</b> According to local tradition former slave Butcher Christian, and noted post-Civil War church organizer the Rev. John Baptist established this church in 1871. Services began in a log sanctuary located on 3 acres donated by Butcher Christian. A school for African Americans operated there until about the 1890s. An adjacent cemetery, with marked graves dating to 1882, is still active. revenues from oil discovered on church land were used to build a new sanctuary here in 1936. Shiloh Baptist serves the community with a variety of programs.]]></description>
+    <Point><coordinates>-96.38285,30.988769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Summerfield Methodist Church</name>
+    <description><![CDATA[Longview, 7078 Tryon Rd.<br/><br/><b>Address:</b> 7078 Tryon Rd, Longview<br/><br/><b>Marker Text:</b> SUMMERFIELD METHODIST CHURCH WAS BUILT IN 1869 ON LAND DONATED BY PARSON B.W. BROWN WHO WAS ALSO LARGELY RESPONSIBLE FOR THE FORMATION OF GREGG COUNTY. NAMED AFTER A CHURCH THE BROWN FAMILY HAD ATTENDED IN ALABAMA, THE CHURCH STANDS AS THE ONLY REMAINING NAMESAKE OF THE PIONEER COMMUNITY KNOWN AS SUMMERFIELD. CONSTRUCTION BEGAN ON A NEW CHURCH WING IN 1952, AND A NEW CHURCH SANCTUARY, EDUCATION WING, AND PARSONAGE WERE BUILT ON THE ORIGINAL SITE BY 1975. THE ORIGINAL BELL REMAINS IN FRONT OF THE PRESENT SANCTUARY. THE CHURCH FORMED ONE OF THE FIRST OFFICIAL WOMAN’S CHURCH SOCIETIES IN THE AREA IN 1937 AND HAS BEEN THE ANCHOR OF THE COMMUNITY SINCE THE MID-19TH CENTURY.]]></description>
+    <Point><coordinates>-94.744473,32.581938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trinity Episcopal Church of Longview</name>
+    <description><![CDATA[906 Padon Street | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 906 Padon St., Longview<br/><br/><b>Marker Text:</b> WHEN LONGVIEW WAS ESTABLISHED IN 1871, THE FEW EPISCOPALIANS WHO MOVED TO THE CITY NEEDED SPIRITUAL DIRECTION, AND THE DIOCESE DESIGNATED THE AREA AS A MISSION FIELD DUE TO SPARSE POPULATION. HOWEVER, THE LONGVIEW CONGREGATION QUICKLY GREW. IN 1932, THE CHURCH ACHIEVED PARISH STATUS. TWO YEARS LATER, THEY PURCHASED LAND ON PADON STREET ADJACENT TO THE NEW NUGGETT HILL NEIGHBORHOOD. IN THE 1950s, THE CHURCH ASSUMED MANAGEMENT OF GOOD SHEPHERD HOSPITAL AND ESTABLISHED TRINITY SCHOOL OF TEXAS. A NEW SANCTUARY AND EDUCATION CLASSROOMS WERE BUILT IN 1985. TRINITY EPISCOPAL CHURCH OF LONGVIEW CONTINUES ITS LEGACY OF SERVICE TO THE COMMUNITY. (2022)]]></description>
+    <Point><coordinates>-94.729081,32.499289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Turner Home</name>
+    <description><![CDATA[<b>Address:</b> 503 E. Methvin St., Longview<br/><br/><b>Marker Text:</b> Built in 1874, two years after town was established. A fireplace in each room, a stairway of carved walnut. Builder J. C. Turner, Sr., was first East Texan to import jersey cattle. Skilled horseman, thoroughbred owner. Old well and dairy house nearby.]]></description>
+    <Point><coordinates>-106.481165,31.770745,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Utzman Farm House</name>
+    <description><![CDATA[602 W. South St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 602 W. South St., Longview<br/><br/><b>Marker Text:</b> This 1938 house in the American minimal traditional style is one of the few extant homes of this type in Gregg County. It was built by Marvin (1894-1977) and Lois (1899-1985) Utzman. Marvin was the first registered dairyman in Texas. In 1949, he became the Gregg County milk inspector. The home contains classic hallmarks of the minimal traditional style, such as small porches and asymmetrical design with the front door set off center. The arts-and-crafts style exterior doors and all interior trim are original to the house. The home has never included air conditioning or a fireplace. The distinctive Utzman house was saved from demolition and lovingly restored for future generations to admire.
+				
+RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
+    <Point><coordinates>-94.752685,32.492728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wartime Home Industry</name>
+    <description><![CDATA[on SH 300 (2700 Gilmer Rd.) at Green Oak<br/><br/><b>Address:</b> Longview<br/><br/><b>Marker Text:</b> At this site, 1861-65, settler Joseph M. sparkman manufactured shoes for the Confederate Army. A victim of arthritis, he lay on his cot and ran the shop, while "Uncle Ben," a skilled slave shoemaker who had come with him from Georgia, supervised and taught young boys and old men who made the shoes. Both Joseph M. Sparkman and "Uncle Ben" are buried in the family plot on the estate, near here. Their work during the Civil War typifies the gallant spirit of volunteers who mined salt, made cloth and clothing, hunted the woods for medicinal herbs.]]></description>
+    <Point><coordinates>-94.789915,32.535864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Weldon School</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 314 E. Saunders St., Gladewater<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.946143,32.526500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White's Drive-In and Motel</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3211 S. MLK Jr. Blvd., Longview<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.716547,32.453727,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

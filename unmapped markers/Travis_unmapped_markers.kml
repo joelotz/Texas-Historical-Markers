@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Travis County — Unmapped Historical Markers</name>
+  <description>THC markers in Travis County without an HMDB id (isMissing excluded). 67 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <Placemark>
+    <name>Adams-Ziller House</name>
+    <description><![CDATA[SW corner Guadalupe and W. 14th streets. RTHL medallion displayed, marker in storage.<br/><br/><b>Address:</b> 1306 Guadalupe, Austin<br/><br/><b>Marker Text:</b> Augusta Adams (ca. 1817-1907), a widow and native of Mecklenberg, Germany, immigrated to Texas and purchased land at this site in 1857. This modest structure was constructed circa 1868. Augusta later married Herman Hertel. Her two daughters, Mary and Theresa Adams, married brothers August and William Ziller, sons of one of Austin’s earliest settlers, Michael Ziller. The home remained in the Ziller family until 1955, and was saved from demolition during the 1990s. The one-story residence features a center-passage plan with chimneys on the gable ends, and buff brick laid in a common bond pattern.]]></description>
+    <Point><coordinates>-97.74359,30.276757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Austin Lodge No. 12, A.F. &amp; A.M.</name>
+    <description><![CDATA[Scottish Rite Temple, on exhibit in library. Marker reported in storage Nov. 2016.<br/><br/><b>Address:</b> 207 W. 18th St., Austin<br/><br/><b>Marker Text:</b> Master masons gathered at the home of Edwin Waller, surveyor of the townsite of Austin, on Oct. 11, 1839, one week before President Mirabeau B. Lamar arrived to set up government in the new Republic of Texas capital. Grand Master branch archer authorize the organization of Austin Lodge No. 12 on Nov. 7, 1839. Alexander Russell was the first Worshipful Master. Many prominent Texans have been members of this body. Edward Burleson, who served as vice president of the Republic of Texas, was a Lodge officer. His burial with Masonic honors in 1851 was the 1st interment in the state cemetery. 2 Texas governors, Edward Clark, and Harden R. Runnels, were members of the Lodge. In the early years, meetings were held at various sites. A fire in 1866 destroyed the lodges, quarters, and burned some of its records. In 1883 members moved into the new Masonic Temple at 7th and Colorado. The Scottish Rite Temple at 18th and Lavaca served as the meeting place from 1923 to 1968, when the Lodge moved to a new facility on Bull Creek Rd. During its history, Austin Lodge No. 12 has responded to human need in times of natural disaster. Members have participated in the dedications of a number of Austin's public buildings and church structures. (1979)]]></description>
+    <Point><coordinates>-97.740667,30.279948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Baker Family Cemetery</name>
+    <description><![CDATA[Located 3.9 miles west of Cedar Park at 12308 Lime Creek Road.  From Cedar Park take Hwy 1431 west for 1.5 miles; turn left on Lime Creek Road and go 2.4 miles; the cemetery is behind a gate on the north side of Lake Creek Road.<br/><br/><b>Address:</b> Lago Vista<br/><br/><b>Marker Text:</b> Baker Family Cemetery Established 1903 Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-97.868838,30.483222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Beriah Graham House</name>
+    <description><![CDATA[<b>Address:</b> 2605 Salado, Austin<br/><br/><b>Marker Text:</b> Recorded Texas Historic Landmark - 1962 (medallion only)]]></description>
+    <Point><coordinates>-97.745095,30.291205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown Building</name>
+    <description><![CDATA[<b>Address:</b> 710 Colorado Street, Austin<br/><br/><b>Marker Text:</b> BROWN BUILDING In 1938, architects C.H. Page and Son designed the Brown Building for legendary businessman Herman Brown on a prominent site at the southwest corner of Colorado and eighth streets in downtown Austin. Built of concrete reinforced with structural steel, the eight-story office tower exemplified the tenets of Art Moderne design. Its flush piers, recessed metal spandrels, vertically arranged casement windows and stylized granite entry provide the hallmarks of the style. Additions of a ninth story in 1949 and a tenth story in 1952 matched the scale and materials of the original composition. Surviving virtually unchanged since this period of significance, the building retains a high degree of its historic integrity. The building’s interior also reflects the Art Moderne design with panels of pink tinged marble gracing the ceiling and walls, contrasting with a pink, green and yellow terrazzo floor. Elaborate geometric aluminum and glass lighting panels sweep from the center of the ceiling to the top of each elevator. The building housed many significant companies throughout the 20th century, including construction firm Brown &amp; Root, offices for U.S. congressman and future president Lyndon Baines Johnson, and the Texas Broadcasting Corporation, which operated from the building for many years with humorist Cactus Pryor and future governor John Connally. The building was listed in the National Register of Historic Places in 1994. In the early 2000s, the building was converted to include high-end lofts. RECORDED TEXAS HISTORIC LANDMARK – 2013]]></description>
+    <Point><coordinates>-97.743801,30.270103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brueggemann-Sandbo House</name>
+    <description><![CDATA[<b>Address:</b> 200 E. 30th Street, Austin<br/><br/><b>Marker Text:</b> Julius Brueggemann (1851-1922), a German stone and cement mason who had worked on the State Capitol, built this house with the help of his two sons about 1907. Constructed of molded concrete blocks, it served as a residence for his son Max. In 1913 the home was sold to Anders and Anna Sandbo. A civic leader, Anna (d. 1964) was the first woman graduate of the University of Texas Law School and the first woman attorney in Austin. Recorded Texas Historic Landmark - 1981]]></description>
+    <Point><coordinates>-97.736433,30.293846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Catherine Robinson House</name>
+    <description><![CDATA[<b>Address:</b> 705 San Antonio St., Austin<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-97.746612,30.270813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Christianson-Leberman Building</name>
+    <description><![CDATA[Texas Historical Commission offices, W side Colorado St. between 13th and 14th, west of the Texas State Capitol. Sometimes previously called Old John Hancock House.<br/><br/><b>Address:</b> 1304 Colorado St., Austin<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.742121,30.275945,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cranfill Apartments</name>
+    <description><![CDATA[<b>Address:</b> 1909 Cliff Street, Building B, Austin<br/><br/><b>Marker Text:</b> Dr. Thomas Cranfill (1913-1995), English professor at the University of Texas, commissioned this three-unit apartment building as a residence and studio for his partner, photographer and author Hans Beacham (1925-2004). Completed in 1960, Harwell Hamilton Harris (1903-1990), Director of the University’s School of Architecture from 1951-55, designed the apartments in his distinctive regional modern style. Harris combined an open interior layout with board-and-batten redwood siding and exposed concrete block, emphasizing natural light, honesty of the materials and the connection between building and landscape. Harris also designed the nearby Cranfill House, built in 1955.]]></description>
+    <Point><coordinates>-97.751332,30.285159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dessau Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 13300 Dessau Road, Austin<br/><br/><b>Marker Text:</b> Established ca. 1874 Historic texas cemetery – 2009]]></description>
+    <Point><coordinates>-97.641648,30.40305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>DeWitt Clinton Baker Home Site</name>
+    <description><![CDATA[<b>Address:</b> 2620 Rio Grande, Austin]]></description>
+    <Point><coordinates>-97.744726,30.292352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Donley-Goode-Walton House and Walton's Beauty Shop and Salon</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1605 Leona St., Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.722474,30.276558,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Sidney and Helen White House</name>
+    <description><![CDATA[8601 Azalea Trail | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 8601 Azalea Trail, Austin<br/><br/><b>Marker Text:</b> Walter Carrington, a prominent central Texas homebuilder, constructed this 1968 house for African American dentist Dr. Sidney White Jr. (1928-2002) and his wife, Helen (1932-2015). Dr. White had settled in Austin in 1958 unexpectedly, as it was his intention to establish a dentistry practice in San Antonio. A chance encounter with Hobart and Venolia Gaines convinced him to stay. In 1960, he entered general practice. Two years later, he married Helen Marie Fields. As one of the only African American dentists in Austin at the time, Dr. White co-developed the medical plaza complex at 2113 E. MLK Jr. Blvd. He was the first African American member and later president of the Austin Dental Society and later taught at Howard University College of Dentistry in Washington D.C. Helen, a graduate of Samuel Huston College, taught elementary school in the still-segregated Austin ISD, including at the prestigious Highland Park Elementary School. As a socialite, she influenced black professionals to settle in Austin. The couple was committed to racial equality and uplifting African Americans in Austin. In addition to hiring a diverse staff and serving a diverse clientele, he assisted in the establishment of St. James Episcopal Church and Phases, a popular nightclub. 
+  Their sprawling mid-century modern home served as the site of lavish parties, events, meetings and ceremonies, often benefiting charitable or civic causes with key leaders and politicians in attendance. The home features vertical wood siding and arched columns. The front and side gabled roof is a low-pitched L-shape with a weeping mortar brick chimney. The house showcases a unique, upgraded ground-level brick ledge to camouflage the underpinnings of the house. Within its historic walls, Dr. Sidney and Helen White changed the social dynamic of Austin. (Recorded Texas Historic Landmark 2022)]]></description>
+    <Point><coordinates>-97.742638,30.375207,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Driskill Hotel</name>
+    <description><![CDATA[6th and Brazos<br/><br/><b>Address:</b> Austin<br/><br/><b>Marker Text:</b> Host to famous Texans since 1886. Scene of inaugural ball for Gov. L.S. "Sul" Ross, Jan. 1887; inaugural balls for later governors, as well as many other state and civic social affairs. Entertains Presidents, other national figures, foreign diplomats, artists, leaders in business and professions. (1966)]]></description>
+    <Point><coordinates>-97.741346,30.266025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>E. H. Carrington Grocery Store and Lyons Hall</name>
+    <description><![CDATA[<b>Address:</b> 522 E. 6th, Austin]]></description>
+    <Point><coordinates>-97.737305,30.266805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elisabet Ney Home</name>
+    <description><![CDATA[Elisabet Ney Museum<br/><br/><b>Address:</b> 304 E. 44th St, Austin<br/><br/><b>Marker Text:</b> (Recorded Texas Historic Landmark 1962 - medallion only)]]></description>
+    <Point><coordinates>-97.72627,30.306661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elrose Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 W. 16th Street, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.739308,30.277968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elton and Lucy Perry House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 610 Baylor Street, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.754954,30.272128,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eugene Bremond House</name>
+    <description><![CDATA[<b>Address:</b> 404 W. 7th St., Austin]]></description>
+    <Point><coordinates>-97.746644,30.270571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Felts-Moss House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2311 Woodlawn Blvd., Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.758090,30.289952,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George H. Kinsolving Crypt</name>
+    <description><![CDATA[<b>Address:</b> 209 W. 27th Street, Austin]]></description>
+    <Point><coordinates>-97.739335,30.291463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hale Houston Home</name>
+    <description><![CDATA[<b>Address:</b> 706 Guadalupe Ave., Austin]]></description>
+    <Point><coordinates>-97.741869,30.275531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Helena and Robert Ziller House</name>
+    <description><![CDATA[<b>Address:</b> 800 Edgecliff Terrace, Austin<br/><br/><b>Marker Text:</b> HELENA AND ROBERT ZILLER HOUSE ROBERT ZILLER, DESCENDANT OF A PROMINENT PIONEER AUSTIN FAMILY, AND HIS WIFE, HELENA, CONSTRUCTED THIS MEDITERRANEAN REVIVAL STYLE HOME IN 1937. THE ZILLERS CALLED THE PROPERTY EDGECLIFF GARDENS WHERE THEY PRACTICED ORGANIC GARDENING AND CREATED A HAVEN FOR ANIMALS. SITUATED ON A BLUFF ABOVE BLUNN CREEK AND THE COLORADO RIVER AND DESIGNED BY LEE M. SMITH, THIS HOME FEATURES AN ASYMMETRICAL STUCCO FAÇADE, PROMINENT FRONT GABLE, CANTILEVERED WINDOW AND A DRAMATIC ENTRY OF ORNAMENTAL IRONWORK, SOME OF WHICH IS ATTRIBUTED TO WEIGL IRONWORKS.]]></description>
+    <Point><coordinates>-97.740481,30.25142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Holy Cross Hospital</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Austin Cancer Center<br/><br/><b>Address:</b> 2600 E. Martin Luther King Jr. Blvd., Austin]]></description>
+    <Point><coordinates>-97.714006,30.281685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hornsby Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 10696 FM 969, then 3.3 miles to cemetery, Austin]]></description>
+    <Point><coordinates>-97.621895,30.255898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Houston Family Cemetery</name>
+    <description><![CDATA[3906 Houston Lane<br/><br/><b>Address:</b> 3906 Houston Lane, Del Valle<br/><br/><b>Marker Text:</b> Houston Family Cemetery Established ca. 1835 Historic Texas Cemetery-2007]]></description>
+    <Point><coordinates>-97.925326,30.396752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>In Memory of Thomas Christian, William Strother and Josiah Wilbarger</name>
+    <description><![CDATA[3 mi. SE of Austin on State Hwy 20; near corner of 51st &amp; Manor Rd.?<br/><br/><b>Address:</b> 5201 Berkman Drive, Austin<br/><br/><b>Marker Text:</b> In Memory of Thomas Christian, William Strother and Josiah Wilbarger, members of a party of five who were attacked near here by Indians in August, 1833. Christian and Strother were killed, Wilbarger was scalped and eventually died of his wounds. The other two escaped.]]></description>
+    <Point><coordinates>-97.69763,30.304854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. L. Foster Gravesite</name>
+    <description><![CDATA[7315 E Ben White Blvd (single gravesite)<br/><br/><b>Address:</b> 7315 E Ben White Blvd, Austin<br/><br/><b>Marker Text:</b> J.L. Foster Gravesite Interred December 1900 Historic Texas Cemetery - 2001]]></description>
+    <Point><coordinates>-97.693624,30.217956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jeremiah Hamilton House</name>
+    <description><![CDATA[<b>Address:</b> 1101 Red River, Austin<br/><br/><b>Marker Text:</b> Born about 1839 in Tennessee, Jeremiah Hamilton was one of nine black representatives in the 12th Texas legislature, 1869-71. He bought this lot on Waller Creek in 1871 and began building this oddly shaped stone structure to house his grocery store. Italian-born Michael Paggi owned the property from 1873 to 1881. He was involved in several unusual business ventures, including the manufacture of ice. (1978)]]></description>
+    <Point><coordinates>-97.735017,30.271431,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Bremond, Jr. House</name>
+    <description><![CDATA[<b>Address:</b> 700 Guadalupe St., Austin<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-97.746127,30.270399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Keith House</name>
+    <description><![CDATA[<b>Address:</b> 2400 Harris Blvd, Austin]]></description>
+    <Point><coordinates>-97.756528,30.291808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kuempel Home</name>
+    <description><![CDATA[<b>Address:</b> 16422 Cameron Road, Pflugerville]]></description>
+    <Point><coordinates>-97.563762,30.411161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Longview Cemetery (HTC Medallion)</name>
+    <description><![CDATA[Longview Neighborhood Park. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 7609 Longview Rd, Austin<br/><br/><b>Marker Text:</b> -- (HTC medallion)]]></description>
+    <Point><coordinates>-97.826435,30.204465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Luther Hall</name>
+    <description><![CDATA[Texas Historical Commission offices, W. 16th Street, S side between Colorado and Congress streets | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 105 W. 16th St., Austin<br/><br/><b>Marker Text:</b> In 1934, Gethsemane Lutheran Church pastor J.E. Chester called for a new Sunday School and Luther League facility. Dedicated on July 28, 1940, the design of contractor and church member Anton Edburg has a stepped parapet and rooflines, polychromatic brick, polished Cordova limestone and a cast stone Luther Rose. The second floor held classrooms while a large open area on the first floor hosted WWII servicemen gatherings, rehearsals, concerts, dinners and other events. When the congregation moved in 1961, the State of Texas acquired the church and hall for state agency offices.     Recorded Texas Historic Landmark - 2023]]></description>
+    <Point><coordinates>-97.739302,30.277845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lydia Street Fire Station</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1005 Lydia St., Austin]]></description>
+    <Point><coordinates>-97.727841,30.268089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Most Worshipful Mount Carmel Grand Lodge A.F.&amp; A.M.</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1704 E. 12th Street, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.721864,30.273565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Most Worshipful St. Joseph Grand Lodge Masonic Temple</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1017 E.11th St, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.730152,30.269458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mrs. Alfred Robinson, Sr. Home</name>
+    <description><![CDATA[<b>Address:</b> 404 W. 7th, Austin<br/><br/><b>Marker Text:</b> (no text - medallion only)]]></description>
+    <Point><coordinates>-97.74646,30.268501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Neill-Cochran House</name>
+    <description><![CDATA[Neill-Cochran House Museum. Marker reported missing Dec. 2003.<br/><br/><b>Address:</b> 2310 San Gabriel, Austin<br/><br/><b>Marker Text:</b> Greek Revival architecture, typical of the South. Erected about 1853 for Washington L. Hill by master builder Abner Cook. The hand-cut limestone walls were cemented with a mortar containing pig bristles. First Institute for the Blind in State of Texas, 1856. Hospital for Civil War soldiers, 1865. Home in 1880 of Republic of Texas patriot, Col. Andrew Neill; 1893-1913, Judge Thos. B. Cochran, Bar President, Masonic leader. Recorded Texas Historical Landmark - 1966]]></description>
+    <Point><coordinates>-97.748273,30.287484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Depot Hotel</name>
+    <description><![CDATA[(Carmelo's, formerly Mi Casa es Su Casa)<br/><br/><b>Address:</b> 504 E. 5th, Austin]]></description>
+    <Point><coordinates>-97.738465,30.265869,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Land Office Building</name>
+    <description><![CDATA[Capitol Visitors Center, Texas State Capitol grounds, NW corner E. 11th St. and San Jacinto Blvd. Marker reported missing Jul. 2021.<br/><br/><b>Address:</b> 108 E.11th St., Austin<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.740949,30.272789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oliver Cemetery</name>
+    <description><![CDATA[Oliver Cemetery Rd off US 290 W of Oak Hill<br/><br/><b>Address:</b> Austin]]></description>
+    <Point><coordinates>-97.94291,30.231758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Olivet Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1179 San Bernard St., Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.725974,30.270626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oswaldo A.B. Cantu/Pan American Recreation Center</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2100 E. 3rd St, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.720786,30.257902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paggi Carriage Shop</name>
+    <description><![CDATA[<b>Address:</b> 421 E. 6th, Austin]]></description>
+    <Point><coordinates>-97.739095,30.266943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pennybacker - Alexander House</name>
+    <description><![CDATA[South side of East 38th Street, third house east of Greenway Street, across from Hancock Golf Course<br/><br/><b>Address:</b> 811 East 38th Street, Austin]]></description>
+    <Point><coordinates>-97.726005,30.296827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Peter and Clotilde Mansbendel House</name>
+    <description><![CDATA[<b>Address:</b> 3824 Avenue F, Austin<br/><br/><b>Marker Text:</b> In 1925, renowned Swiss woodcarver Peter Mansbendel (1883-1940) transformed a late 19th century wooden structure into this romanticized Tudor Style house. An asymmetrical plan, steeply pitched gable roofs and stucco walls relieved by decorative half-timbering reference his native homeland. A master carver, his commissions for private houses and public institutions ranged from major architectural carvings to finely carved portraits, objects and furniture. Studying voice in New York, Clotilde Shipe (1881-1963), daughter of Monroe M. Shipe, Hyde Park developer, met and married Mansbendel, who moved to Austin in 1911. Recorded Texas Historic Landmark - 2013]]></description>
+    <Point><coordinates>-97.732447,30.300479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pierre Bremond Home</name>
+    <description><![CDATA[<b>Address:</b> 402 W 7th St., Austin]]></description>
+    <Point><coordinates>-97.746413,30.270499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Richard Moya</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1102 E. Cesar Chavez St, Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.733507,30.260269,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sampson Building</name>
+    <description><![CDATA[<b>Address:</b> 618-622 Congress Ave, Austin]]></description>
+    <Point><coordinates>-97.742789,30.268316,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schneider Flour House &amp; Vault</name>
+    <description><![CDATA[NW Cor 2nd and Guadalupe, inside the building<br/><br/><b>Address:</b> 400a W. 2nd St., Austin<br/><br/><b>Marker Text:</b> Jean Schneider built a structure at the northwest corner of Guadalupe and Live Oak (later 2nd) streets circa 1860, with the intention of establishing a brewery. His death in 1862 prevented the opening of the business. Jean’s son, Jacob Peter, and his widow, Margarita, opened a store circa 1870 at the same location, and a stone “vault” built by Jean as part of the foundation was used for storage. The Schneider’s built a new store across the street in 1873, and the old store became known as the “Flour House” and was used for storage. A tunnel was later built under 2nd Street, connecting the two buildings. Although the original Schneider store no longer exists, the underground “Vault” remains. (2009)]]></description>
+    <Point><coordinates>-97.755004,30.267224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of the Official Residence of Mirabeau B. Lamar</name>
+    <description><![CDATA[7th &amp; Brazos<br/><br/><b>Address:</b> 7th &amp; Brazos, Austin<br/><br/><b>Marker Text:</b> Site of the Official Residence of Mirabeau B. Lamar, 1798-1859 President of the Republic of Texas, 1838-1841. The building was constructed in 1840 and destroyed by fire in March, 1847. Since 1882 the site has been occcupied by Saint Mary's Academy.]]></description>
+    <Point><coordinates>-96.047029,29.75417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Charles House</name>
+    <description><![CDATA[<b>Address:</b> 316 E 6th, Austin]]></description>
+    <Point><coordinates>-97.740141,30.267379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. David's Rectory</name>
+    <description><![CDATA[<b>Address:</b> 1603 Pearl Street, Austin<br/><br/><b>Marker Text:</b> This home was built in 1910 for Annie (Watt) and James McClendon. St. David’s Episcopal Church owned the house from 1914-1975 as a rectory. The church gave the house as a retirement gift to the Rev. Charles sumners and his wife, Virginia. The couple first moved in after marrying in 1940. Sumners was a noted minister and community leader. After his 1977 death, Virginia continued to live here until she died in 2007. The modified four-square house was designed facing south, with a dormer over the porch, later replaced by an upper-level library. Features include leaded glass pane windows, a south, side entry porch with square wooden rails and corner posts, a stacked rock chimney, decorative brackets, and a side-gabled and hipped roofline.]]></description>
+    <Point><coordinates>-97.748164,30.280519,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] The Children's Haven Association</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1908 Chicon St., Austin]]></description>
+    <Point><coordinates>-97.721328,30.279924,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Governor's Mansion</name>
+    <description><![CDATA[Texas Governor's Mansion, SW corner 11th and Colorado streets<br/><br/><b>Address:</b> 1010 Colorado St., Austin<br/><br/><b>Marker Text:</b> Official residence of the Governor of Texas. By law, each chief executive must live here during his term of office. Before the erection of this building in 1855-1856, the only official executive home had been the rough, two-story frame "President's House" at present Seventh and San Jacinto streets. Within these walls, many decisions of statewide import have taken place. Here in 1861, Gov. Sam Houston decided not to support the Confederacy. Also, like numerous 19th-century houses, the mansion acquired a ghost story after the nephew of Gov. Pendleton Murrah (1863-1865) committed suicide here. Built some thirty years before the pink granite capitol, this structure was first occupied by Gov. Elisha M. Pease, who selected the site and design. Pioneer architect-contractor Abner Cook supervised the construction of the stately residence, in Greek Revival style. Austin-made bricks were used, and huge pine logs were hauled from Bastrop, then adzed to form the six massive pillars with Ionic capitals. Distinguished visitors have included U.S. Presidents and heads of state from other countries. More than perhaps any other residence in Texas, the Governor's Mansion is a repository of Texas history. (1969) (Recorded Texas Historic Landmark - 1962)]]></description>
+    <Point><coordinates>-97.743099,30.272761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Herrera Family</name>
+    <description><![CDATA[S side E. 3rd St. between Salina and Chicon streets. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1805 E. 3rd St., Austin<br/><br/><b>Marker Text:</b> Since their arrival in east Austin, generations of the Herrera family dedicated their lives to education. In 1911, Valentin (1859-1942) and Josefa (1898-1963) Herrera, originally from Mexico, and their seven children moved into a house near the corner of 3rd and Chicon Streets. The house became the center of both a bakery run by Josefa and a Spanish-language school taught by Valentin. 
+  Their daughters, Consuelo Herrera Méndez and Mary Grace Herrera, were some of the first Tejana women to teach in a major Texas school system. Consuelo began teaching in Austin Independent School District (AISD) at Comal Street School, a segregated escuelita from 1927-1935, located here at the current site of Comal Park, and Zavala Elementary from 1936-1956. After earning her bachelor’s degree from the University of Texas, Consuelo taught at Brooke Elementary School from 1956-1972. Mary Grace taught first at Fulmore Junior High, then at Palm School for over 35 years. Mary Grace also was the second generation to occupy the family home. Consuelo and her husband, Patricio J. Méndez, founded the Zavala Parent-Teacher Association and were active in local politics. In 1961, Consuelo became president of Ladies League of United Latin American Citizens (LULAC) Council No. 202 and served as chair of the state LULAC convention the same year. Mary Grace advocated on behalf of her students and was a key witness in a 1973 federal desegregation trial. Two years after Consuelo’s passing, AISD named the new Mendez Middle School in her honor.
+  From the family home, third generation Diana Herrera Castañeda continued the Herrera’s legacy of education and advocacy until her death. She was elected to the AISD school board in 1992 and was active in LULAC. For three generations, the Herrera family tirelessly advocated on behalf of the students and residents of east Austin.  (2022)]]></description>
+    <Point><coordinates>-97.724749,30.259220,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] The Manhattan Club</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 911 Congress Ave., Austin]]></description>
+    <Point><coordinates>-97.741646,30.27098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Railroad Commission of Texas</name>
+    <description><![CDATA[William B. Travis Office Building, first floor, south corridor facing 17th Street. Marker not accessible as of Jul. 2021 pending construction.<br/><br/><b>Address:</b> 1701 N. Congress Ave., Austin<br/><br/><b>Marker Text:</b> (75th Anniversary) Created in 1891, as result of years of political controversy, to regulate shipping rates, practices. Considered so important that Governor James S. Hogg persuaded John H. Reagan to resign from the United States Senate to head the original commission. Oil and gas regulation, a major responsibility, began in 1917 with jurisdiction over pipelines. The Legislature made the commission responsible in 1919 for oil and gas conservation, and drilling rules were made. In the 1920's proration began. Complete regulation came in the 1930's with the 1,700,000-barrel-a-day production in east Texas. Backed by Texas Rangers, the commission closed the field until conservation rules could be revised. Commission policies were acclaimed when in World War II Texas was able to supply the Allies with great stores of oil necessary for victory. The commission's goal is to prevent waste and protect oil and gas reserves by orderly regulation of exploration, production and transportation. Members have set high ethical standards that continue in the commission, causing it to merit the confidence of the people and of the petroleum industry.]]></description>
+    <Point><coordinates>-97.738002,30.278779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Walter Tips Company Building</name>
+    <description><![CDATA[710-712 Congress Ave.<br/><br/><b>Address:</b> 710-712 Congress Ave., Austin<br/><br/><b>Marker Text:</b> German native Walter Tips (1841-1911) migrated to the United States with his family in 1849 and served in the Confederate Army during the Civil War. In 1872 he and his partners, Williams Clemens and Joseph Faust of New Braunfels, purchased the Austin hardware business of Tips' brother Edward who had died earlier that year. Walter later became sole proprietor. Located on the site of Edward's store, this company building was constructed in 1876-77. Designed by the noted Austin architect Jasper N. Preston, it features Victorian Italiante styling with Gothic details, an ornate cornice, carvings by local stonemasons, and side walls of limestone rubble. Interior cast iron columns on the ground fllor provided a large open commercial area. The third floor included a room for Masonic Lodge meetings and a 400-seat auditorium for use by the library association. Tips later served in the Texas Senate, 1893-96, and in other state government positions. An active civic leader, he also helped found the Austin National Bank. The Walter Tips Company remained here until 1927 and the building later housed other businesses. In 1978 Franklin Savings Association bought the structure and restored it for use as their home office. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-97.74368,30.265738,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Walter Bremond Home</name>
+    <description><![CDATA[711 San Antonio (409 W. 8th Street) (Texas Classroom Teachers Association executive offices)<br/><br/><b>Address:</b> 711 San Antonio St., Austin]]></description>
+    <Point><coordinates>-97.746505,30.270992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Pfluger Home</name>
+    <description><![CDATA[N of  E. Pflugerville Pkwy, between Mammoth Cave Blvd. and Dessau Rd.<br/><br/><b>Address:</b> 1512 E Pflugerville Pkwy, Pflugerville<br/><br/><b>Marker Text:</b> A native of Germany and Confederate veteran, William Pfluger (1842-1923) bought this land in 1871, just before he married Franziska Sternberg (1851-1931). The limestone house was built in 1875 and the frame section added later. A rancher, Pfluger and also built a cotton gin, Pflugerville's first bank, and other commercial structures. He deeded land for the railroad and Lutheran Church. In 1931 his son Martin (1880-1945) inherited the residence, home to five generations of the family. Recorded Texas Historic Landmark-1985.]]></description>
+    <Point><coordinates>-97.60757,30.456741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William T. and Valerie Mansbendel Williams House</name>
+    <description><![CDATA[in front of home at 3820 Avenue F<br/><br/><b>Address:</b> 3820 Avenue F, Austin<br/><br/><b>Marker Text:</b> This historic home was constructed in 1933-34 by William Kutalek and Peter Mansbendel for William T. Williams, Jr. and Clotilde Valerie (Mansbendel) Williams. With motifs drawn from the Tudor Revival Style, the house features a u-shaped plan surrounding an enclosed courtyard. Wood and stone carvings by noted local artisan, Peter Mansbendel, Valerie’s father, adorn the home’s interior and exterior. William was a successful city leader and attorney who was a leading contributor to Austin’s growth and development. Valerie was active in many civic, church and school organizations.]]></description>
+    <Point><coordinates>-97.732478,30.300429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Williamson Creek Cemetery</name>
+    <description><![CDATA[Little Texas Ln., N side between Mira Dr. and I-35 South frontage road. HTC medallion on post is near southeast corner of the cemetery near entrance.<br/><br/><b>Address:</b> 1000 Little Texas Ln., Austin]]></description>
+    <Point><coordinates>-97.767517,30.198189,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Willie Wells Home</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1705 Newton St., Austin]]></description>
+    <Point><coordinates>-97.752882,30.247417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Woodlawn</name>
+    <description><![CDATA[<b>Address:</b> 6 Niles Road, Austin]]></description>
+    <Point><coordinates>-97.758008,30.286179,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Yellow Jacket Stadium</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 900 Thompson St., Austin]]></description>
+    <Point><coordinates>-97.708549,30.270148,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

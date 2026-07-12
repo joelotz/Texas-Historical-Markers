@@ -1,0 +1,5 @@
+Gray unmapped markers with NO usable address (1):
+
+  THC 2259: Gray County
+    https://atlas.thc.texas.gov/Details/5179002259
+

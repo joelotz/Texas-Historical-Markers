@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Concho County — Unmapped Historical Markers</name>
+  <description>THC markers in Concho County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Paint Rock Methodist Church</name>
+    <description><![CDATA[2 blocks west of US 83, southwest of courthouse square<br/><br/><b>Address:</b> 327 S. Hall St., Paint Rock<br/><br/><b>Marker Text:</b> -----]]></description>
+    <Point><coordinates>-99.922307,31.509252,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rich Coffey House</name>
+    <description><![CDATA[15 mi. NE of Paint Rock, north shore of O.H. Ivie Lake. On private land.<br/><br/><b>Address:</b> Paint Rock<br/><br/><b>Marker Text:</b> Rich Coffey (1823-1897) was a prominent pioneer and settler in the part of the state that now encompasses Runnels and Concho counties. In 1862 Coffey moved his family, cattle, and cowboys to a site near present day Ballinger. Several years later he established a settlement at the confluence of the Colorado and Concho rivers. In addition to raising cattle, freighting, and trading in salt, Coffey served as a Coleman County commissioner, participated in the first county grand jury, and started a post office in 1879. Jonathan Cook, an Irish stonemason, was hired to build a rock house for Coffey in 1880. The house was completed in 1881 as a one-and-a-half-story dogrun structure with exterior chimneys and a staircase in the dogrun that led to a loft. Outstanding features included the quality of the masonry construction and the particular dogrun configuration which was a form common to wooden structures in Coffey's home state of Georgia, but unusual for masonry buildings in central and west Texas. In 1989 the Rich Coffey house was moved to this site to avoid inundation by the construction of nearby Lake Ivie. (1992)]]></description>
+    <Point><coordinates>-99.72245,31.57218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Mission San Clemente</name>
+    <description><![CDATA[12 miles north of Millersview off FM 2134 and off FM 1929<br/><br/><b>Address:</b> Millersview vicinity<br/><br/><b>Marker Text:</b> At the juncture of the Concho and Colorado rivers. Established March 16, 1684, by the Mendoza Expedition for the purpose of civilizing and Christianizing the Indians of the region.]]></description>
+    <Point><coordinates>-99.734797,31.559741,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+Tyler unmapped markers with NO usable address (10):
+
+  THC 11355: Alabama-Coushattas of Texas
+    addr: Woodville
+    https://atlas.thc.texas.gov/Details/5457011355
+
+  THC 22404: Davis Cemetery
+    addr: CR 3840, Colmesneil
+    https://atlas.thc.texas.gov/Details/5000022404
+
+  THC 11364: Early Law Office
+    addr: Beaver Street, Woodville
+    https://atlas.thc.texas.gov/Details/5457011364
+
+  THC 19973: Fellowship Cemetery
+    addr: Warren
+    https://atlas.thc.texas.gov/Details/5507019973
+
+  THC 18471: Ferrell Cemetery
+    addr: 200 County Rd 3770, Colmesneil
+    https://atlas.thc.texas.gov/Details/5507018471
+
+  THC 11367: Fort Teran Park
+    addr: Colmesneil
+    https://atlas.thc.texas.gov/Details/5457011367
+
+  THC 11368: Fort Teran, Site of
+    addr: Chester
+    https://atlas.thc.texas.gov/Details/5457011368
+
+  THC 18374: Mount Hope Methodist Church
+    addr: CR 2615, Chester
+    https://atlas.thc.texas.gov/Details/5507018374
+
+  THC 11454: Sturrock Cemetery
+    addr: Rockland
+    https://atlas.thc.texas.gov/Details/5457011454
+
+  THC 11457: Town Bluff
+    addr: Woodville
+    https://atlas.thc.texas.gov/Details/5457011457
+

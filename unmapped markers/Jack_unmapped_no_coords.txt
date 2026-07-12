@@ -1,0 +1,26 @@
+Jack unmapped markers with NO usable address (6):
+
+  THC 14138: Cundiff Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507014138
+
+  THC 16612: Joplin Fairview Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507016612
+
+  THC 14437: Lynn Creek Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507014437
+
+  THC 16730: Salt Creek Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507016730
+
+  THC 11939: Squaw Mountain Community
+    addr: Jacksboro vicinity
+    https://atlas.thc.texas.gov/Details/5237011939
+
+  THC 14603: Truce Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507014603
+

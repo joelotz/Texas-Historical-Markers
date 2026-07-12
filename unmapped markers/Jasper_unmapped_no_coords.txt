@@ -1,0 +1,57 @@
+Jasper unmapped markers with NO usable address (14):
+
+  THC 10464: Andrew F. Smyth Home
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010464
+
+  THC 22673: Bishop Cemetery
+    addr: Private Road 8001, Jasper
+    https://atlas.thc.texas.gov/Details/5000022673
+
+  THC 18539: Campground Cemetery
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507018539
+
+  THC 14466: Everett, Dr. Stephen, Home of
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507014466
+
+  THC 10461: Hardy Pace Home
+    https://atlas.thc.texas.gov/Details/5241010461
+
+  THC 15707: Ivory Joe Hunter
+    addr: South of Magnolia Springs on FM 1005 (east side) before intersection of FM 1005 with County Road 520, Magnolia Springs
+    https://atlas.thc.texas.gov/Details/5507015707
+
+  THC 10454: Jasper News-Boy
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010454
+
+  THC 10472: Original Town Site of Zavala
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010472
+
+  THC 14504: Smyth, George W., Home of
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507014504
+
+  THC 10465: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010465
+
+  THC 11944: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241011944
+
+  THC 15070: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507015070
+
+  THC 10449: Thomas Holmes
+    addr: Call Junction
+    https://atlas.thc.texas.gov/Details/5241010449
+
+  THC 10470: William J. Withers Home
+    addr: Buna
+    https://atlas.thc.texas.gov/Details/5241010470
+

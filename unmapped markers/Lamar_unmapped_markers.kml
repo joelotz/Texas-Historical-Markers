@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Lamar County — Unmapped Historical Markers</name>
+  <description>THC markers in Lamar County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <Placemark>
+    <name>Capt. Wm. E. Moore Home</name>
+    <description><![CDATA[<b>Address:</b> 950 Moore St., Blossom<br/><br/><b>Marker Text:</b> Old Southern style homestead, 1871. 1 1/2 stories. Built by soldier, statesman, citizen, Capt. Wm. E. Moore and his wife, Sarah Elizabeth Neal. During Civil War, Capt. Moore commanded "Shreveport Grays." In 1872, won race for state senator, after campaign when he shared buggy with rival. Held office in administration of Governor Richard Coke, which marked end of Reconstruction in Texas. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-95.373641,33.654723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Emberson-Brown Funeral Home</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 308 S. Main St., Paris<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.556377,33.658664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ewing House</name>
+    <description><![CDATA[<b>Address:</b> 135 4th St. NW, Paris<br/><br/><b>Marker Text:</b> Originated as a log cabin, built 1852 by Robert Glass. Later extended to 10 rooms; is called "House of Seven Gables," or old home of Mrs. Sallie Ewing, purchaser in 1882. Log cabin is now the living room. Two fireplaces are of old, handmade brick. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-95.560244,33.662402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hayes House</name>
+    <description><![CDATA[<b>Address:</b> 901 S. Main, Paris<br/><br/><b>Marker Text:</b> John M. Hayes (1869-1918) constructed this three-story frame residence soon after he purchased the property in 1906. A businessman, Hayes managed the substantial financial holdings of his family. After his death, his widow, Jo Elizabeth (d. 1961), continued to reside here. The home, which features restrained classical detailing on the exterior and intricate interior ornamentation, reflects the status of a prominent Paris family at the turn of the century. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-95.556179,33.653488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hickory Grove Cemetery</name>
+    <description><![CDATA[SH 137 about 5 mi. west of Roxton<br/><br/><b>Address:</b> Roxton<br/><br/><b>Marker Text:</b> Widespread settlement of this area of Lamar County began in the late 1840s and early 1850s. By 1852 the Hickory Grove Methodist Episcopal Church, South, was established and this cemetery was in use. The earliest documented grave here is that of Mary Isabella Alexander (1832-1852). Also interred that year were Franklin Day (1827-1852) and Nancy Smith (1842-1852). By the 1870s the Hickory Grove Cemetery was fully established as a community burial ground. The Methodist Church was relocated in 1881, providing more space for grave sites where the sanctuary had once stood. Additional land acquisitions, including property deeded by Sam and Dicie Swan in 1889 and F. E. and M. E. Simpson in 1907, enlarged the cemetery grounds. A building referred to as "the shed" was built in the 1920s for funeral services, but it burned in 1949. The Hickory Grove Cemetery contains over 1,000 graves. The tombstones, diverse in style and size, serve as reminders of the area's pioneer heritage. Many mark the graves of infants and children and are a testament to the often harsh conditions of pioneer life. Others interred here include veterans of the Civil War, World War I, World War II, and Korea. A cemetery association maintains the historic graveyard.]]></description>
+    <Point><coordinates>-95.814789,33.552513,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. W. Harrison &amp; Son</name>
+    <description><![CDATA[Restricted access/ inside office off S. Church St.<br/><br/><b>Address:</b> 2510 S. Church St., Paris<br/><br/><b>Marker Text:</b> John Winn Harrison (1865-1940) came to Paris from Alabama in 1886. Working as a carpenter for several years, he formed a construction company in partnership with Cornelius G. Caviness in the 1890s. Becoming an independent contractor about 1913, he played a major part in rebuilding the city after a disastrous fire in 1916. Barney Harrison (1898-1954) joined his father in business in 1917, and the firm of J. W. Harrison &amp; Son was formed in 1919. The company built many public and private structures in Paris, including homes, schools, the city hall, and the public library. (1987)]]></description>
+    <Point><coordinates>-95.560624,33.634436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jefferies Wagon Yard</name>
+    <description><![CDATA[North end of Lamar County Courthouse Parking Lot which is bounded by North Main Street, Graham Street and NW 1st Street<br/><br/><b>Address:</b> 35 Graham Street, Paris]]></description>
+    <Point><coordinates>-95.556555,33.663949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lamar County Fair</name>
+    <description><![CDATA[<b>Address:</b> Fairgrounds, NE 6th St., Paris<br/><br/><b>Marker Text:</b> Five Paris businessmen founded the Lamar County Fair Association in 1911: Guy S. Caldwell (1875-1937), C. J. Musselman (1884-1951), John C. Gibbons (1895-1936), Rube Wells (1859-1951), and Dr. M. L. Maxwell (1865-1939). Each of the men invested one hundred dollars to begin the venture, and Henry Clement loaned them property on which to erect fair buildings. The fair property served as an emergency relief camp and shelter following a major fire in Paris in 1916. The coliseum, designed by architect J. L. Wees, was completed in 1921 and has been the site of many activities. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-95.55036,33.676699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lee Cemetery</name>
+    <description><![CDATA[2.5 mi SW of Roxton on FM 38; W on CR 26320; N on CR 26310; E on CR 26300 to dead end; N to cemetery entrance<br/><br/><b>Address:</b> Roxton<br/><br/><b>Marker Text:</b> Herbert J. Lee of Virginia moved to this area by 1859. One-year-old Georgiannia W. Derrick died in 1860 and was buried on the Lee property. Herbert Lee designated the land for a cemetery in his 1865 will. At some time after May 1908, two stones were erected bearing the names of George W. and William B. Derrick, who died in 1831. Whether or not the two pioneers are interred on this site remains unknow. Most graves are dated between 1870 and 1890. Money was tight during the Reconstruction era, which may explain the lack of ornate stones. An underground vault in the center of the graveyard filled with dirt and the markers within the vault deteriorated. At least one grave on this site it that of a citizen of The Republic of Texas. Others were veterans of the Civil War. The last burial took place in 1913. (2000)]]></description>
+    <Point><coordinates>-95.768329,33.533331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lee Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Roxton]]></description>
+    <Point><coordinates>-95.768329,33.533331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Pleasant Cemetery</name>
+    <description><![CDATA[between Pattonville and Deport off of US 271, about .5 mi. S of CR 153000 that leads to cemetery<br/><br/><b>Marker Text:</b> The trustees of the Mt. Pleasant Church purchased this property from the McGill Community School for one dollar in 1895. Many burials here pre-date that purchase but the earliest marked grave is that of 4-year-old Sammie Bryan who died in 1874. There are 449 marked graves within the cemetery's two acres. The history of the area is reflected on these stones, from the victims of a tornado in 1908 and the influenza epidemic of 1918 to the veterans of our nation's wars and several generations of families who contributed to the development of the farming community of Deport and its environs. Historic Texas Cemetery-2000]]></description>
+    <Point><coordinates>-95.341065,33.538156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paris Grocer Company</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1221 S. Church St., Paris<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.554552,33.650983,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Paris Junior College</name>
+    <description><![CDATA[<b>Address:</b> 2400 Clarksville Street, Paris<br/><br/><b>Marker Text:</b> Henry P. Mayer, a member of the Paris Independent School District Board of Education, proposed the establishment of a junior college in Paris in 1992. He quickly gained the support of the community, as many leading citizens and local civic organizations, including the Chamber of Commerce, the Lions Club, and the Rotary Club, promoted the junior college movement in Paris. The PARIS MORNING NEWS published favorable ads and editorials, and citizen support was overwhelming. On June 6, 1924, the board of education passed a resolution formally establishing Paris Junior College and approved six areas of study: english, math, history, and foreign languages, education and science. Plans called for the college to be housed in the renovated post office building downtown, but because work on that structure was delayed, the new institution was housed in a wing of the high school for it's first year. Ninety-one students registered for the first session in september 1924, and the college quickly attained accreditation. Enrollment grew to 424 within a decade. By 1940 Paris Junior College occupied a new campus on the east side of the city, made possible by a bond election, federal works progress administration funds and financial gifts form local citizens. Many students left to serve in the military during World War ll, and the college instituted a number of programs for returning veterans after the war. The school continued to grow in the second half of the 20th Century. With expanded facilities in Paris and satellite campuses in several surrounding counties. Enrollment Topped the 3,000 mark in 1998. As Paris Junior College prepared to enter a new century with service to its students and community.]]></description>
+    <Point><coordinates>-95.529727,33.652853,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Theatre</name>
+    <description><![CDATA[36 North Plaza | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 36 North Plaza, Paris<br/><br/><b>Marker Text:</b> Built in 1916, the Parisian Theatre was remodeled and renamed the Plaza Theatre in 1926. The exterior was a modern American adaptation of the Spanish-Moorish style with rounded cream-colored brick arches, glittering mirror insets, multi-paned windows, wrought iron fixtures, a red-tiled roof and an ornate marquee complete with a huge electric sign bearing the name of the theater in scarlet chasing letters. On Dec. 13, 1928, the first “talkie” in Paris was shown. For the next fifty years, the theatre hosted many movies and performances. On Feb. 25, 1981, the Plaza Theatre became the home of the Paris Community Theatre. It continues to provide entertainment for the citizens of Paris.
+				
+RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
+    <Point><coordinates>-95.556615,33.661528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pleasant Grove</name>
+    <description><![CDATA[FM 1184 abvout 1.5 mi. east of Howland<br/><br/><b>Address:</b> Howland<br/><br/><b>Marker Text:</b> Built 1857 by settler from Kentucky, Jas. Shelby (Sheb) Williams, and wife Mary. Lumber was dressed on site. Sills and studs, hand-hewn of heart oak, where joined with bois d'arc pegs. Porch steps and heath are of native stone, quarried nearby Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-95.487948,28.705952,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>R.F. Scott Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1 Lamar Avenue, Paris<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.556213,33.661518,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reno Historic African-American Cemetery</name>
+    <description><![CDATA[behind Dale's Transmission<br/><br/><b>Address:</b> 6555 Lamar Rd., Paris]]></description>
+    <Point><coordinates>-95.463144,33.663377,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rockford Church and Cemetery</name>
+    <description><![CDATA[5 mi. SE of Biardstown<br/><br/><b>Address:</b> FM 1497, Biardstown<br/><br/><b>Marker Text:</b> Before April 1864 church was founded by Cumberland Presbyterians, with the Rev. W. W. Havanaugh as pastor. Congregation affiliated in 1925 with Presbyterian Church, U.S.A.; and in 1958 was dissolved. Cemetery was opened as early as 1874; has more than 1,000 graves. (1972)]]></description>
+    <Point><coordinates>-95.483575,33.492948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Scott Mansion</name>
+    <description><![CDATA[<b>Address:</b> 425 S. Church St., Paris<br/><br/><b>Marker Text:</b> This Paris landmark was built between 1908 and 1910 for the family of prominent businessman Rufus Fenner Scott, Sr. (1848-1932). Designed by German-born architect J. L. Wees, who is responsible for many of the town's civic and commercial buildings, the Scott Mansion exhibits a combination of art nouveau and Dutch renaissance styling. A survivor of the Paris fire of 1916, it stands as a significant reminder of the area's growth in the early twentieth century. Recorded Texas Historic Landmark - 1984]]></description>
+    <Point><coordinates>-95.554465,33.656905,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Shelton's Fort</name>
+    <description><![CDATA[CR 24050 off FM 2675, about 4 mi. SE of Roxton<br/><br/><b>Address:</b> Roxton<br/><br/><b>Marker Text:</b> In 1837 Jesse Shelton (1782-1855) built a log house and stockade at this site. It served as a way station for pioneer travelers and a stronghold for settlers fleeing Indian raids. Shelton's Fort was designated a Republic of Texas Post Office in 1840. It was also the site of Methodist worship services. Shelton served on the committee to select the first Lamar County Seat and was one of the county's first justices of the peace. In 1851 George McGlasson bought the property. The settlement that grew up in this vicinity became known as McGlasson community.]]></description>
+    <Point><coordinates>-95.685394,33.516297,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Historic Persimmon Grove and Capt. Hill's Military Camp</name>
+    <description><![CDATA[6 mi. north of Petty via US 82 and FM 38<br/><br/><b>Address:</b> Petty<br/><br/><b>Marker Text:</b> Up to 1860, pioneers found here a grand 100-square-mile prairie overgrown with high grass. The grove of persimmons 100 yards west of this spot formed an island on the north-central edge of the prairie. The locality's only trees, the persimmon grove was a gathering place where settlers swapped news or livestock and followed other casual pursuits. When Texas and other states seceded from the Union and prepared for war, Lamar Cavalry Company No. 2 was organized here on June 10, 1861, by Methodist lay minister and Mexican war veteran James Hill (1827-90). Capt. Hill drilled his men for several months on the prairie beside the grove. Then it became known that militia laws would forbid such cavalry units to leave the state of Texas. Disbanding, Hill's men formed Company E, 9th Regiment, Texas Infantry, and were mustered into Confederate service on Nov. 26, 1861. In Ector's Brigade, French's Division, army of Lieutenant General Polk, they fought at Shiloh, Murfreesboro, Chickamauga, and other actions. Farmers later plowed up the prairie and planted trees that obscured the persimmon grove. Yet is has become a landmark of pioneer days.]]></description>
+    <Point><coordinates>-95.816912,33.682293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Huddle Home</name>
+    <description><![CDATA[on FM 2820 in Hopewell, across from VFW<br/><br/><b>Address:</b> Hopewell<br/><br/><b>Marker Text:</b> Built by William Huddle, owner-operator of cotton gin and grist mill. He came to Texas from Virginia in 1855. First house, built in 1870s, was destroyed by fire. This one built in 1880s has same floor plan-- the ell-shape typical of farm houses in mid-19th century. Has 7 doors opening onto galleries on 3 sides. Heat is from 3 fireplaces on ground floor. Contains no closets. Water supply was cistern at rear. Recorded Texas Historic Landmark - 1968]]></description>
+    <Point><coordinates>-95.6436,33.702209,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

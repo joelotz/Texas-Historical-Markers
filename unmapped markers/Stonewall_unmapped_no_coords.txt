@@ -1,0 +1,10 @@
+Stonewall unmapped markers with NO usable address (2):
+
+  THC 18924: Old Glory Cemetery
+    addr: CR 137, Old Glory
+    https://atlas.thc.texas.gov/Details/5000018924
+
+  THC 16092: Stonewall County
+    addr: Aspermont
+    https://atlas.thc.texas.gov/Details/5507016092
+

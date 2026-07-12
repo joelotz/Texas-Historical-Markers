@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Madison County — Unmapped Historical Markers</name>
+  <description>THC markers in Madison County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bozeman Cemetery</name>
+    <description><![CDATA[Midway, 1.5 mi. W of Antioch, just W of intersection of Antioch Rd and Bozeman Ferry Rd<br/><br/><b>Address:</b> Midway<br/><br/><b>Marker Text:</b> Bozeman Cemetery Established 1852 Historic Texas Cemetery-2008]]></description>
+    <Point><coordinates>-95.744323,31.079933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elwood Cemetery</name>
+    <description><![CDATA[From Midway take OSR about 4 mi. W to FM 1119, go N about 3 mi. to cemetery<br/><br/><b>Address:</b> Midway<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-95.805393,31.072603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elwood Methodist Church</name>
+    <description><![CDATA[Ellwood United Methodist Church. From Midway, take OSR 4 mi. W to FM 1119, 1.2 mi. N to church and marker, E side of the road, 0.3 mi. S of Bozeman Ferry Rd.<br/><br/><b>Address:</b> 18937 FM 1119, Midway<br/><br/><b>Marker Text:</b> Begun in the 1840s, when the community of Elwood was known as French, this church first met in a log cabin built by James Blair Durham. Services were later held in a frame building near the cemetery before the present sanctuary was completed at the turn of the century. The cemetery and the nearby lone grave of a young girl are reminders of the area's early settlers, many of whom were members here. Through its leadership, the Elwood Methodist Church developed as a focal point for the surrounding rural area. (1983)]]></description>
+    <Point><coordinates>-95.803403,31.06765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hayes Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Midway<br/><br/><b>Marker Text:</b> HAYES CEMETERY IRISH NATIVE PATRICK HAYES ARRIVED IN TEXAS CA. 1836 BY WAY OF NEW YORK AND MARYLAND. SHORTLY AFTER HIS ARRIVAL HE ENLISTED IN THE TEXAS ARMY AND FOUGHT IN THE WAR FOR TEXAS INDEPENDENCE. AFTER BEING HONORABLY DISCHARGED FOR HIS SERVICE, HE MOVED TO THIS AREA. IN THE FOLLOWING YEARS HAYES AMASSED LARGE TRACTS OF LAND THAT HE USED FOR COTTON FARMING AND HORSE BREEDING. HE ESTABLISHED THREE PLANTATIONS—SEVEN OAKS, CAIRO AND BOGGY CREEK—ALONG THE TRINITY RIVER. HAYES WAS KNOWN AS “DR. HAYES” AND PRACTICED HERBAL MEDICINE AS A RESPECTED RURAL DOCTOR. THE CEMETERY AT THIS SITE BEGAN IN 1857 AS A PRIVATE FAMILY BURIAL GROUND ON THE SEVEN OAKS PLANTATION. THE FIRST BURIAL OCCURRED CA. 1857, WHEN HAYES’ SON, JAMES FRANK, DIED. APPROXIMATELY TWO YEARS LATER, PATRICK HAYES’ WIFE, AMANDA MELISSA JOHNSTON, DIED AT OLD WAVERLY. HAYES LATER REQUESTED IN HIS WILL THAT SHE BE REINTERED AT THIS SITE; HE DIED IN 1863 AND IS ALSO BELIEVED TO BE BURIED HERE. THE CEMETERY’S ONLY MARKED GRAVE IS THAT OF PATRICK AND AMANDA’S DAUGHTER, MELISSA ELIZABETH HAYES GOREE, AND HER INFANT CHILD, WHO DIED DURING CHILDBIRTH IN 1865 AT THE GOREE FAMILY PLANTATION, RAVEN HILL, AND WERE LATER REINTERRED HERE. IT IS ALSO BELIEVED THAT HAYES FAMILY SLAVES AND SERVANTS WERE BURIED AT THE SITE, ALTHOUGH WRITTEN DOCUMENTATION HAS NOT BEEN FOUND. PATRICK HAYES’ REMAINING CHILDREN AND LATER DESCENDANTS CHOSE TO BE BURIED IN THE NEARBY MIDWAY CEMETERY, AND THE HAYES CEMETERY BECAME INACTIVE, BUT REMAINS TODAY AS A SYMBOL OF AN EARLY PIONEERING TEXAS FAMILY. HISTORIC TEXAS CEMETERY – 2005]]></description>
+    <Point><coordinates>-95.716075,31.061927,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Thomas Beck</name>
+    <description><![CDATA[Madison County Courthouse Square (SW Corner, at the intersection of S Elm and W Trinity). | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 101 W Main St, Madisonville<br/><br/><b>Marker Text:</b> [Part of the special series of 23 markers produced to fulfill SB667 The Texas Black Reconstruction Legislators Recognition Act]]]></description>
+    <Point><coordinates>-95.913795,30.949101,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

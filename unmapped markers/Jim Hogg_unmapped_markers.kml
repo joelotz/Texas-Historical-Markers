@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jim Hogg County — Unmapped Historical Markers</name>
+  <description>THC markers in Jim Hogg County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Agua Nueva Cemetery</name>
+    <description><![CDATA[Agua Nueva community, FM 1017 at Jones Ranch, about 20 mi. south of Hebbronville<br/><br/><b>Address:</b> FM 1017, Hebbronville<br/><br/><b>Marker Text:</b> Located in southeastern Jim Hogg County, the Agua Nueva Cemetery was established in the mid-19th century by the Ramírez family. Until the 1880s, members of the Ramírez family lived in Ciudad Mier, Tamaulipas, but for generations had worked the land in and around Agua Nueva. As threats from Native Americans diminished, the men and vaqueros stayed longer and families began to stay permanently. Jesús Ramírez García (1851-1922), heir to the Agua Nueva de Arriba land grant, and his wife, Ricardita Ramírez de Ramírez (1849-1920), heir to the Agua Nueva de Abajo land grant, lived permanently on this land beginning in the 1880s. The cemetery is located on the northern boundary of the Agua Nueva de Abajo land grant on the central side of the lagunas cuatas or twin lakes that form in heavy rain. Ancestral records indicate that the first people buried in the cemetery were cowboys and young children. Their graves were marked with mesquite crosses. The oldest marked grave is that of Mrs. Celedonia Leyva Narváez (d. 1900) whose above-ground bóveda or vault is made of local stone. The other existing bóvedas are those of Ricardita’s father, José María Ramírez (1818-1902) and Jesús’ mother, Conception Garcia de Ramírez (1820-1904). Many generations of descendants of families in the area are buried at Agua Nueva Cemetery, including six generations of the Gregorio Perez Martinez family. Surprisingly, Jesús and Ricardita are not buried here but in Rio Grande City. The Agua Nueva Cemetery is a reminder of the generations of Spanish and Mexican land owners who worked and settled this land and provides a glimpse into the culture of the Texas border. Historic Texas Cemetery – 2012]]></description>
+    <Point><coordinates>-98.604237,26.898801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Franciscan Friars in Hebbronville</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 504 E. Santa Clara, Hebbronville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.673542,27.308440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lino Ramirez Family Cemetery</name>
+    <description><![CDATA[Drive Highway 16 south about 30 miles to FM 649 and turn left, travel about 5 miles to entrance of East Ranch, travel east about 4 miles on private paved road, turn right at caliche road and travel south about 4 miles to Ramirez Windmill. Cemetery lies about 1000 feet south in field surrounded by grove of trees.<br/><br/><b>Address:</b> 474 East Ranch Road, Hebbronville]]></description>
+    <Point><coordinates>-98.833077,26.957344,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

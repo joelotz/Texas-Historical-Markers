@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Jack County — Unmapped Historical Markers</name>
+  <description>THC markers in Jack County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <Placemark>
+    <name>Antelope Cemetery</name>
+    <description><![CDATA[From Antelope take FM 175 east to cemetery on northeast side of town.<br/><br/><b>Address:</b> Antelope<br/><br/><b>Marker Text:</b> Established as early as 1882 (date of the oldest tombstone). Site was sold to Antelope Methodist Church in 1890 by Texas Land &amp; Mortgage Company. The church deeded tract to the Antelope Cemetery Association in 1954. W. R. Hill gave an additional 2-acre tract in 1955. (1969)]]></description>
+    <Point><coordinates>-98.360273,33.443986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Antelope United Methodist Church</name>
+    <description><![CDATA[1 mile east of US 281 on West Antelope Rd.<br/><br/><b>Address:</b> Antelope<br/><br/><b>Marker Text:</b> The Rev. Isaac Newton Crutchfield organized this congregation in 1879 as the Antelope Methodist Episcopal Church, South. Charter members were Mollie Edwards, James and Sarah Nicholas, and W. L. Eliza, and Emma Patton. A Sunday School program was established as early as 1887. Materials for the church building were hauled by wagon from the nearest railheads in Graham and Henrietta. The structure was shared with the local Baptist congregation until their own sanctuary was completed. (1985)]]></description>
+    <Point><coordinates>-98.371125,33.441498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gibtown Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 7790 Hwy 2210 East, Perrin<br/><br/><b>Marker Text:</b> This area was originally called New Hope City but was later renamed Gibtown in honor of Burdett Levi Gibbins, a local merchant. According to oral tradition, the first cemetery burial was that of a stranger. The first marked grave belongs to Mary C. Stults who died in 1876 at the age of 30, leaving behind a husband and six young daughters. The Methodist Church acquired the property in 1881. Burials include pioneer families, veterans, ministers, county officials, doctors and other influential community members. Tombstone detailing reflects fraternal associations including the woodmen of the world and masons. This historic cemetery reflects the history of this once thriving community.]]></description>
+    <Point><coordinates>-97.948673,33.03324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hicks Cemetery</name>
+    <description><![CDATA[8 mi. N on SH 148, 1 mi. E on Jamison Rd<br/><br/><b>Address:</b> Jacksboro<br/><br/><b>Marker Text:</b> Settlers in the 1880s established a community here known as Hicks (also spelled Hix), named for a pioneer family. Cooper School served the area beginning in 1885, with J.F. Middlebrooks, P. Paxton and J.H. Gregory as first trustees. George Washington and Levicia (Morton) Jamison bought land from the William Ratliff Survey at this site in 1889 and buried their infant daughter Anna here in September 1893. The surrounding land developed as a burial ground for the original settler families of the Hicks community. The Cooper School was on adjacent land until closing in 1941. Today, shaded by cedar and live oak trees, the cemetery contains more than 40 marked graves and several that are unmarked. Historic Texas Cemetery - 2006]]></description>
+    <Point><coordinates>-98.18035,33.317386,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lost Valley</name>
+    <description><![CDATA[from Jacksboro, take US 281 about 12 miles north to roadside park<br/><br/><b>Address:</b> Jacksboro vicinity<br/><br/><b>Marker Text:</b> Marked by "Seven Blue Hills" in distance. To right is Spy Knob -- a lookout during pioneer days. Noted atrocity site: In 1857, the Cambren and Mason families, settlers, were victims of white renegades and Indians. On May 18, 1871, on western rim, teamsters of Warren Wagon Train were killed soon after General W. T. Sherman of the U.S. Army had traveled safely through this valley. On July 12, 1874, the escort part of Major John B. Jones, Commander of the Frontier Battalion, Texas Rangers, was ambushed here, with two men killed. In later years, this has been peaceful farm-ranch area. (1970)]]></description>
+    <Point><coordinates>-98.333451,33.311591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Roberts Branch Cemetery</name>
+    <description><![CDATA[Jacksboro, 1437 Roberts Branch Road<br/><br/><b>Address:</b> 1437 Roberts Branch Rd., Jacksboro<br/><br/><b>Marker Text:</b> DURING THE EARLY 1870s, A SMALL SETTLEMENT BEGAN TO GROW IN THIS AREA, ALONG THE ROBERTS BRANCH, A TRIBUTARY OF THE WEST FORK OF THE TRINITY RIVER. THE CREEK HAD BEEN NAMED BY SETTLERS AFTER TEXAS SUPREME COURT CHIEF JUSTICE AND FUTURE GOVERNOR ORAN MILO ROBERTS VISITED THE AREA ON A GUBERNATORIAL CAMPAIGN STOP PRIOR TO HIS 1878 ELECTION. MOST OF THE EARLY FAMILIES ASSOCIATED WITH THE ROBERTS BRANCH COMMUNITY WERE RANCHERS OR SHARECROPPERS, WHILE A FEW WORKED AT THE NEARBY BRANUM COAL MINE. THE OLDEST PORTION OF ROBERTS BRANCH CEMETERY CONSISTS OF A CLUSTER OF GRAVES AROUND THE FIRST KNOWN BURIAL—AN UNKNOWN COWBOY WHO DIED DRIVING CATTLE THROUGH THE AREA DURING THE EARLY 1870s. THESE ORIGINAL GRAVEMARKERS WERE MADE OF UNMARKED SANDSTONE. THE EARLIEST MARKED GRAVE IS DATED 1881, AND BELONGS TO THE INFANT GRANDDAUGHTER OF MEDDIE AND PINEY WHITE. THE BURIAL GROUND IS ALSO THE FINAL RESTING PLACE FOR OVER TWENTY U.S. SERVICE MEMBERS, INCLUDING VETERANS OF THE CIVIL WAR, WORLD WAR II, THE KOREAN WAR, AND THE VIETNAM WAR. AN ANNUAL CEMETERY CLEAN UP DAY HAS TAKEN PLACE EACH SPRING SINCE THE LATE 1890s, AND A FALL WORK DAY WAS ADDED DURING THE 1930s. IN 1950, ADDIE (MRS. W.H.) SMITH OFFICIALLY DEEDED THE CEMETERY PROPERTY TO THE ROBERTS BRANCH CEMETERY ASSOCIATION. AN ADDITIONAL .53 ACRE WAS DONATED BY SMITH FAMILY DESCENDANTS IN 2003. TODAY, ROBERTS BRANCH CEMETERY STANDS AS A REMINDER OF THE EARLY SETTLERS OF THE ROBERTS BRANCH COMMUNITY, WHILE ALSO CONTINUING TO SERVE THE NEEDS OF THEIR DESCENDANTS.]]></description>
+    <Point><coordinates>-98.260278,33.368298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Town of Antelope</name>
+    <description><![CDATA[US 187 - Antelope Business District<br/><br/><b>Address:</b> Antelope<br/><br/><b>Marker Text:</b> Named for springs where herds of antelope watered and Kiowa Indians had a campsite. In 1875, Walter S. Jones platted townsite on Henrietta-Graham mail route. By 1887, place had 400 people, a general store, post office, a school, doctors, hotel, and spa built around its mineral wells. Town was overnight stop and supply point for cattle trails leading north. The G. R. Christian Camp No. 703, United Confederate Veterans, active 1895-1941, served as city's park association. Economy is based on ranch and oil income; area is known for its churches and hospitality. (1970)]]></description>
+    <Point><coordinates>-98.369678,33.44076,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Winn Hill Cemetery</name>
+    <description><![CDATA[from Jacksboro, take US 281 to "Y", continue on SH 114 .5 mile; then south on county road for 2.5 miles, turn west onto county road about 2.75 miles to cemetery.<br/><br/><b>Address:</b> Jacksboro vicinity<br/><br/><b>Marker Text:</b> Located on the historic Butterfield Stage/Overland Mail Route which traversed this area from 1858-61, this graveyard is named for William H. Wynne, who was killed by Indians in this vicinity in 1863. The Winn Hill community grew up around a rural school in the 1870s. The settlement soon included homes and a church, and by the 1880s this cemetery had been established. The earliest documented burial is that of Callie A. Beauchamp, who died in 1884. The county purchased the cemetery property in 1904. It is the last physical reminder of the Winn Hill community. (1991)]]></description>
+    <Point><coordinates>-98.322472,33.229605,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

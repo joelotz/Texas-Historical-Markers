@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Grimes County — Unmapped Historical Markers</name>
+  <description>THC markers in Grimes County without an HMDB id (isMissing excluded). 28 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
+  <Placemark>
+    <name>Apolonia Cemetery</name>
+    <description><![CDATA[from Anderson take FM 2819 E approx. 6 miles to CR 215; then on CR 215 approx. .6 miles to cemetery.<br/><br/><b>Address:</b> Anderson<br/><br/><b>Marker Text:</b> Known as Pine Grove for the Baptist church that was focus for community in the area, this burial ground was in use in 1860s. Tombstone of Mrs. Harriet Hobdy Kelley is dated 1869, but there may be earlier, unmarked graves. Land donors were (1886) J. L. and Eveline Mansfield. War veterans here: the Confederates Richard Butler, Henderson Green, and W. T. Wasson; also Wasson's son, Brosig T. Wasson, Grimes County's first fatality of World War I. When the church disbanded in 1929, the cemetery was renamed for area's defunct post office. At least one family has 3 generations here.]]></description>
+    <Point><coordinates>-95.894039,30.488827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>B. B. Goodrich House</name>
+    <description><![CDATA[200 block of Fanthorp St., Anderson.<br/><br/><b>Address:</b> Anderson<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-95.984759,30.485807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Craig House</name>
+    <description><![CDATA[<b>Address:</b> 508 Holland St., Navasota]]></description>
+    <Point><coordinates>-96.084919,30.388047,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Benjamin Briggs Goodrich</name>
+    <description><![CDATA[<b>Marker Text:</b> Dr. Benjamin Briggs Goodrich Born in Brunswick Co. VA February 24, 1799, Died at Anderson, Texas, November 16, 1860 His wife Serena Corothers Born in Barren County, KY May 11, 1807 Died April 27, 1884 Erected by the State of Texas Dr. Goodrich was a member of the Consultation at San Felipe in 1835 and a signer of the Texas Declaration of Independence at Washington March 2, 1836]]></description>
+    <Point><coordinates>-96.004947,30.487708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Education in Plantersville</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 11317 Old Schoolhouse Rd., Plantersville]]></description>
+    <Point><coordinates>-95.861669,30.333803,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Evans House</name>
+    <description><![CDATA[<b>Address:</b> 412 Manley St., Navasota<br/><br/><b>Marker Text:</b> Newlyweds John Thomas and Maude Martin Evans built this house in 1894 on land given to them by his mother. A ticket agent for the International and Great Northern Railway Company, Evans also served the city of Navasota as alderman and city treasurer. The typical 19th-century vernacular house features a gable roof, and a three-bay porch with elaborate balustrade, turned wood posts, spindlework frieze, and jig-sawn brackets. Recorded Texas Historic Landmark - 1991]]></description>
+    <Point><coordinates>-96.084364,30.384974,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First National Bank of Anderson</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 101 S. Main St., Anderson<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.986189,30.487488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grimes County Bethel Cemetery</name>
+    <description><![CDATA[4 mi. NW of Bedias, but must be accessed through Madison County, via FM 1372 and CR 410 (Bethel Cemetery Rd.)<br/><br/><b>Address:</b> Bedias<br/><br/><b>Marker Text:</b> During the Republic of Texas era, settlers in this area came together to form the Bethel community. In 1843, a visitor died of smallpox and was buried at this site, which became Bethel Cemetery. Among those buried here is Sarah Bradley Dodson, known as the “Betsy Ross of Texas.” Part of an “Old 300” family from Stephen F. Austin’s first Texas colony, Dodson created a Lone Star flag in 1835 to send with her husband, Archelaus, during the Texas Revolution. The flag was one of two that flew over Washington-on-the-Brazos at the signing of the Texas Declaration of Independence on march 2, 1836. In 1852, four years after his wife died of pneumonia, Archelaus Dodson gave this burial ground to trustees of Bethel Presbyterian Church, who built a chapel next to the cemetery circa 1844. in 1904, trustees of the burial ground opened an adjacent section for local African Americans. That section of Bethel is sometimes known as Salem Cemetery. Today, a link to a community long gone, Old Bethel Cemetery is the final resting place for generations of Texas pioneers and area residents. Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-96.000497,30.842786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harmony Baptist Church and Cemetery</name>
+    <description><![CDATA[from Navasota, take SH 105 E approximately ? miles to CR then take CR N approximately 1.6 miles to CR 407; then take CR 407 W approximately .1 mile to cemetery and church.<br/><br/><b>Address:</b> Navasota<br/><br/><b>Marker Text:</b> Soon after John Moore McGinty (1823-1888) and his wife Mary Loretta Brown settled in Stoneham in 1853, they organized the Grimes Prairie Baptist Church. About 1859 the congregation moved to a schoolhouse in this area and changed the name to "Harmony". This property was acquired from Blake and Peggy Brantley, and the first church house erected in 1870. Upon the death of McGinty, his wife and son deeded the cemetery land which had been in use for years. About 1924 this building was completed. Services were held here until the 1930s.]]></description>
+    <Point><coordinates>-95.989368,30.37487,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haynie-Sanders Farm Home</name>
+    <description><![CDATA[2.5 mi. W of Richards, S side of FM 149, 0.1 mi. W of CR 217. Marker reported missing Oct. 1993.<br/><br/><b>Address:</b> FM 149, Richards<br/><br/><b>Marker Text:</b> Thomas Jefferson Haynie and his wife Sarah Jane migrated to this area from Georgia in 1855. With the aid of slaves, they constructed their two-story Texas style home at this site, using native pine, post oak, and rock. Haynie was influential in area politics and provided land for the establishment of the Fairview School. In 1923 the farm was purchased by Dr. Guy Cecil Sanders, a prominent Richards physician. During his ownership it was the scene of community gatherings, Fourth of July celebrations, and political rallies. (1981)]]></description>
+    <Point><coordinates>-95.890523,30.541338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hughey Chapel Cemetery</name>
+    <description><![CDATA[CR 307 SW of Stoneham, on private land<br/><br/><b>Address:</b> Stoneham<br/><br/><b>Marker Text:</b> The family of Jefferson Edmond Hughey lived in this area by 1859, settling on a 260-acre homestead. Family members established a cemetery at this site, where the earliest marked burial, that of Mary Ann Garmany Boozer, Hughey's mother-in-law, dates to 1876. In the vicinity of the burial ground, the Hugheys built a chapel that also served area families as a schoolhouse. The property remained in the Hughey family until 1989. Today, the burial ground, which includes graves of Confederate veterans, remains a link to the area's early settlers. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-95.948762,30.308986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Independence Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>FM 2620 &amp; CR 229<br/><br/><b>Address:</b> CR 229, Shiro]]></description>
+    <Point><coordinates>-95.881717,30.655677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Isham Davis Home</name>
+    <description><![CDATA[From Iola take FM 244 S approximately 4.3 miles to CR 162 (Lake Grove Cemetery Rd.) then E on CR 162 approximately 2 miles to CR 157; then N on CR 157 approximately .8 miles (structure is on a hilltop approximately 200 yards from road).<br/><br/><b>Address:</b> Iola<br/><br/><b>Marker Text:</b> Built 1848. Has hand-hewn cedar in log foundation, ceilings and beams. For 115 years in family of Isham D. Davis, whose wife, Martha, was a daughter of Mathew Caldwell, one of the signers of Texas Declaration of Independence. Recorded Texas Historic Landmark, 1965]]></description>
+    <Point><coordinates>-96.059945,30.694788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James and Missouri Hurry House</name>
+    <description><![CDATA[from Richards, take FM 149 NE approx. 1 mi. to CR 216; then N on CR 216 approx. 1 mile.<br/><br/><b>Address:</b> Richards<br/><br/><b>Marker Text:</b> Alabama native James Monroe Hurry (1857-1941) and his wife Missouri Valunia Woodcock, a native of Georgia, built this house with the assistance of several of their neighbors about 1904 to support their growing family. Typical of early 20th century vernacular architecture, the Hurry House retains a high level of integrity and features bungalow detailing and a full porch in its L-plan design. The house remained in the Hurry family until 1962. Recorded Texas Historic Landmark - 1992]]></description>
+    <Point><coordinates>-95.826986,30.558534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James H. Washington</name>
+    <description><![CDATA[Navasota Adult Learning Center [Former George Washington Carver High School], 1602 S Lasalle St, Navasota, TX 77868 | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1602 S Lasalle St, Navasota<br/><br/><b>Marker Text:</b> [Part of the special series of 23 markers produced to fulfill SB667 The Texas Black Reconstruction Legislators Recognition Act]]]></description>
+    <Point><coordinates>-96.081796,30.375767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jesse Youens Home</name>
+    <description><![CDATA[708 Holland Street, Navasota<br/><br/><b>Address:</b> 708 Holland Street, Navasota<br/><br/><b>Marker Text:</b> Jesse Youens home built 1871 in style of Youens' home, "Tower Cottage", Dartford, Kent, England, occupied by his family continuously. Recorded Texas Historic Landmark, 1967]]></description>
+    <Point><coordinates>-96.083178,30.389073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John and Julia Hill House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 216 McNair Street, Navasota<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.081523,30.393730,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lake Grove Community</name>
+    <description><![CDATA[from Iola take FM 244 south approx. 4 miles to CR 162; then east on CR 162 approx. 2 miles to CR 128; then south on CR 128 approx. 4 miles to Lake Grove Cemetery (marker is at cemetery entrance).<br/><br/><b>Address:</b> Iola<br/><br/><b>Marker Text:</b> Grimes County law partners Ben Goodrich and H. H. Boone (Texas Attorney General 1876-78), donated four acres of land at this location to trustees of the Methodist Episcopal Church in 1874 for church, school, and cemetery use by the surrounding loosely-knit farm community of Lake Grove. The community promptly built a church structure that they used for religious and school purposes. 100 students attended the Lake Grove School in 1900. The still active Lake Grove Cemetery, with gravestones dating to 1874, contains the grave of a veteran of the American Civil War.]]></description>
+    <Point><coordinates>-96.050765,30.701902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lynn Grove United Methodist Church</name>
+    <description><![CDATA[<b>Address:</b> 16402 CR 319, Navasota<br/><br/><b>Marker Text:</b> THIS HISTORIC CHURCH DATES BACK TO THE LATE 1880s. IN 1888, ZACHARIAH SHELTON WEAVER, JOHN LANE SHINE AND CHARLES G. VICKERS, RESIDENTS OF THE COMMUNITY OF LYNN GROVE, FELT THE NEED FOR A PLACE OF WORSHIP FOR THEIR FAMILIES AND OTHERS LIVING IN THE AREA. JAMES H. MULDROW AGREED TO SELL ACREAGE FOR A CHURCH IN 1889. THE FIRST CHURCH SERVICES FOR THE METHODIST EPISCOPAL CHURCH, SOUTH, WERE HELD UNDER A BRUSH ARBOR AND WERE CONDUCTED BY TRAVELING CIRCUIT RIDERS. A SIMPLE WOOD CHURCH BUILDING WAS COMPLETED IN 1893. THE PEWS, LECTERN, COMMUNION TABLE AND ALTAR RAILS WERE CONSTRUCTED BY THE MEMBERS OF THE CHURCH. PASTOR ROBERT W. ADAMS FROM THE COURTNEY-PLANTERSVILLE CIRCUIT GAVE THE FIRST SERMON. THE CHURCH CONTINUED TO PROSPER AS A PLACE OF WORSHIP AND FELLOWSHIP FOR THE COMMUNITY OF FARMERS TO COME TOGETHER. THE ORIGINAL BUILDING WAS USED FOR OVER FIFTY YEARS UNTIL THE DECISION WAS MADE TO BUILD A NEW CHURCH. THE OLD BUILDING WAS DISMANTLED IN 1947 AND THE MATERIALS WERE USED TO BUILD THE NEW STONE AND WOOD CHURCH. DURING CONSTRUCTION, THE CONGREGATION MET AT THE LYNN GROVE SCHOOL. IN 1948, THE BUILDING WAS COMPLETE WITH THE FIRST SERVICES HELD ON MOTHER’S DAY. MANY OF THE ORIGINAL PIECES FROM THE OLD CHURCH ARE STILL USED IN THE SANCTUARY, INCLUDING THE COMMUNION TABLE AND LECTERN. THE NAME OF THE CHURCH CHANGED IN 1939 TO THE METHODIST CHURCH AND IN 1968, IT CHANGED TO LYNN GROVE UNITED METHODIST CHURCH. OVER THE YEARS, THE CHURCH MADE IMPROVEMENTS TO THE BUILDING AND THE CONGREGATION CONTINUED TO HELP EACH OTHER AND THOSE IN NEED.]]></description>
+    <Point><coordinates>-96.030878,30.285621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McAlpine Cemetery</name>
+    <description><![CDATA[from the intersection of FM 362 and CR 305 in White Hall, take CR 305 E approx. .4 miles to White Hall-Fairview Cemetery Rd., then S on cemetery road approx. .2 miles to cemetery.<br/><br/><b>Address:</b> White Hall<br/><br/><b>Marker Text:</b> About 1851 North Carolina native Dugald McAlpine (1795-1876) moved here to the pioneer community of Wallace's Prairie and purchased a large tract of land. Adjacent to his property and at this location were four burial sites associated with his neighbor's nearby "Alta Vista" (Spanish for Fair View) farm and farmhouse. McAlpine eventually bought Alta Vista and in 1866 his relative, Malcomb McAlpine, was the first of many McAlpines to be buried here. In 1873 the community's name was changed to Whitehall for George White, the postmaster at that time. Before his burial here in 1876, McAlpine fenced an area around the grave sites for use as a family graveyard. In 1886 descendants of McAlpine deeded three acres containing the graveyard for cemetery purposes. Eventually community burials began outside of the fenced McAlpine section on land donated by a Mr. Johnson. Descendants of people buried here organized and formed the Fairview Cemetery Association in 1949; the name of the association was later changed to the Whitehall-Fairview Cemetery Association. Burials here include former slaves, McAlpine family members, area civic leaders, and veterans of wars ranging from the Civil War to the Vietnam Conflict.]]></description>
+    <Point><coordinates>-95.966537,30.297645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miss Sally Thompson School Building</name>
+    <description><![CDATA[440 Fanthorp Street, Anderson<br/><br/><b>Address:</b> 440 Fanthorp Street, Anderson<br/><br/><b>Marker Text:</b> Miss Sally Thompson School Building, about 1840. Blue-back speller taught here. Fee: $3 a month. Now Allen Home. Recorded Historic Landmark, 1965]]></description>
+    <Point><coordinates>-95.984857,30.484912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Norwood House</name>
+    <description><![CDATA[207 Ketchum, Navasota.<br/><br/><b>Address:</b> 207 Ketchum, Navasota<br/><br/><b>Marker Text:</b> Built to serve as the first residence of Ewing and Mattie (Brosig) Norwood, this house was completed in 1898, while Ewing Norwood was president of the First National Bank of Navasota. Designed and built by local architect Ernest Lord, the home exhibits Queen Anne influences in the entry and porch detailing and features a depressed arch and a balustrade over the entryway. The house remained in the Norwood family for more than sixty years. Recorded Texas Historic Landmark - 1984]]></description>
+    <Point><coordinates>-96.081254,30.391262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Orphans Friend Lodge No. 17 Ancient Free &amp; Accepted Masons</name>
+    <description><![CDATA[151 Main; Anderson.<br/><br/><b>Address:</b> 151 Main, Anderson<br/><br/><b>Marker Text:</b> Organized April 8, chartered June 30, 1842. Pioneered in education. Operated Masonic Collegiate Institute, 1846-1851. Reserving lodge room, gave school to St. Paul's Episcopal College, which was in operation until 1856. Later plant was used by various schools. In 1905 it was sold, and lodge relocated here.]]></description>
+    <Point><coordinates>-95.98654,30.487858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Richards Colored School</name>
+    <description><![CDATA[<b>Address:</b> 9849 Sand St., Richards<br/><br/><b>Marker Text:</b> In the mid-1800s, area African-American children attended school in nearby Longstreet. The first school in Richards began in St. Thomas Methodist Episcopal Church circa 1913. School moved to the Masonic Lodge Hall before a two-story schoolhouse with auditorium was built near the railroad tracks. Basketball was the primary sporting activity, and county fairs featured competition in agriculture, poetry recital and spelling bees. Fire destroyed three separate schoolhouses from 1920 to 1937. In the 1930s, Richards Colored School absorbed schools from Longstreet and Pineywoods. A new school was built in 1938 and renamed in 1962 for longtime principal, teacher and coach W. E. Hall. It closed in 1966 when schools in Richards integrated. 175 years of Texas Independence * 1836-2011]]></description>
+    <Point><coordinates>-95.84082,30.54259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sarah Bradley Dodson</name>
+    <description><![CDATA[from Bedias take SH 90 N approximately 4 miles to roadside park.<br/><br/><b>Address:</b> Bedias<br/><br/><b>Marker Text:</b> Born in Kentucky in 1812, eleven-year-old Sarah Bradley and her parents arrived in Texas in 1823 with Stephen F. Austin's old three hundred colonists, settling near Brazoria. Sarah married Archelaus Bynum Dodson of nearby Harrisburg on May 17, 1835. As tensions mounted between Mexico and the Texian colonists, a call for military volunteers was circulated in September 1835, and Archelaus Dodson became First Lt. in Captain Andrew Robinson's Harrisburg Volunteers. Sarah offered to design and make a flag for her husband's company. Using blue, white, and red calico, she fashioned a flag of three equal squares, with a five pointed white star in the center of the blue square. Reportedly the first Lone Star flag, the banner was displayed in the town of Gonzales in October 1835, and in December flew during the Siege of Bexar. When the Declaration of Independence was signed, two flags were seen flying over Convention Hall. One was described as a Lone Star flag and is believed to have been the one made by Sarah Dodson. Following the Texan victory at San Jacinto, the Dodsons lived in Fort Bend County, then moved in 1844 to Grimes County. They donated the land for Bethel Cemetery (5 mi. N) where Sarah was buried in 1848. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-95.946896,30.830279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sarah Bradley Dodson</name>
+    <description><![CDATA[Old Bethel Cemetery. From Bedias take SH 90 N approximately 6.5 miles to CR 408; take CR 408 W NW approximately 2.3 miles to CR 1372; take CR 1372 SW approximately 2.9 miles to CR 410; take CR 410 S approximately .4 miles to gravel road; then E on gravel road approximately .4 miles to T in the road; then right at T approximately 2 miles to Old Bethel Cemetery.<br/><br/><b>Address:</b> Bedias<br/><br/><b>Marker Text:</b> (January 8, 1812-October 9, 1848) Kentucky native Sarah Bradley came to Texas with Stephen F. Austin's Old 300 Colony in 1823. She married Archelaus B. Dodson in 1835, and made a blue, white, and red flag with a single white star for her husband's army company during the Texas Revolution. Her flag is believed to be one of two which flew as the Texas Declaration of Independence was signed and is considered Texas' first tri-color Lone Star flag. The Dodsons donated land for this cemetery.]]></description>
+    <Point><coordinates>-95.99928,30.842674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Steele House</name>
+    <description><![CDATA[at the NE corner of Holland St. and Brewer St.<br/><br/><b>Address:</b> Navasota<br/><br/><b>Marker Text:</b> In the late 1800s, two brothers named Steele had large cotton operations near Navasota, at Allen Farm, and residences diagonally across this corner from each other. A. G. Steele (1853-1900) and wife Etta had this late Victorian home built in 1896 by contractor J. E. Watkins. Eastlake architectural features embellish the porches and entrances. Descendants lived here until 1970. the house now (1974) is owned and preserved by Syd and Margaret Van Wagner. Recorded Texas Historic Landmark - 1974]]></description>
+    <Point><coordinates>-96.084143,30.388229,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Templeman House</name>
+    <description><![CDATA[1403 E. Washington Ave., Navasota.<br/><br/><b>Address:</b> 1403 E. Washington Ave, Navasota<br/><br/><b>Marker Text:</b> Built in the mid-1890s for newlyweds Ward B. and Annie Foster Templeman, this home is reminiscent of Navasota's early cotton boom era. Originally a Queen Anne design, the house was bricked and modified in the early twentieth century to reflect elements of the Prairie School style of architecture. Prominent features include its wraparound porch, multi-light windows and doors, and copper-clad dome over a projecting corner turret. Incise on base: Spnsored by Capt. and Mrs. W. T. Urquhart Recorded Texas Historic Landmark - 1987]]></description>
+    <Point><coordinates>-96.077444,30.394689,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

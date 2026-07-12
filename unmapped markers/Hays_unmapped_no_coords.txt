@@ -1,0 +1,69 @@
+Hays unmapped markers with NO usable address (17):
+
+  THC 22506: Antioch Cemetery
+    addr: Old Black Colony Rd., Buda
+    https://atlas.thc.texas.gov/Details/5000022506
+
+  THC 10234: Barton Cemetery
+    addr: Buda
+    https://atlas.thc.texas.gov/Details/5209010234
+
+  THC 17342: Bunton Branch Bridge
+    addr: Kyle
+    https://atlas.thc.texas.gov/Details/5507017342
+
+  THC 15576: Butler Cemetery
+    addr: Driftwood
+    https://atlas.thc.texas.gov/Details/5507015576
+
+  THC 18248: Calhoun Ranch
+    addr: Wimberley
+    https://atlas.thc.texas.gov/Details/5507018248
+
+  THC 18952: Cocke Cemetery
+    addr: Buda
+    https://atlas.thc.texas.gov/Details/5000018952
+
+  THC 14273: Harper's Hall, Site of
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507014273
+
+  THC 14249: Hector Family Cemetery
+    https://atlas.thc.texas.gov/Details/5507014249
+
+  THC 10278: Isham Jones Good
+    addr: Dripping Springs
+    https://atlas.thc.texas.gov/Details/5209010278
+
+  THC 14069: Kuykendall 101 Ranch Mausoleum
+    addr: Buda
+    https://atlas.thc.texas.gov/Details/5507014069
+
+  THC 10307: Old Main
+    addr: Old Main Drive, SWTSU, San Marcos
+    https://atlas.thc.texas.gov/Details/5209010307
+
+  THC 23550: Peal-Pleasant Valley Cemetery
+    addr: G.W. Haschke Ln., Wimberley
+    https://atlas.thc.texas.gov/Details/5000023550
+
+  THC 15498: Rogers' Spring Lake Park Hotel
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507015498
+
+  THC 14235: Talbot, P.T.,  & Sons Building
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507014235
+
+  THC 23772: The East Guadalupe Neighborhood
+    addr: Cheatham St., San Marcos
+    https://atlas.thc.texas.gov/Details/5000023772
+
+  THC 10333: Thompson Plantations
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5209010333
+
+  THC 22750: William B. Travis League
+    addr: 13551 RM 150, Driftwood
+    https://atlas.thc.texas.gov/Details/5000022750
+

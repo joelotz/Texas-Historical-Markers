@@ -1,0 +1,50 @@
+Comanche unmapped markers with NO usable address (12):
+
+  THC 23539: Bibb Community
+    addr: SH 36, Sidney
+    https://atlas.thc.texas.gov/Details/5000023539
+
+  THC 23583: Board Church Cemetery
+    addr: 2870 CR 304, Gustine
+    https://atlas.thc.texas.gov/Details/5000023583
+
+  THC 838: Choctaw Robinson Tree
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5093000838
+
+  THC 24154: Downing Cemetery
+    addr: Hasse
+    https://atlas.thc.texas.gov/Details/5000024154
+
+  THC 18948: Energy Cemetery
+    addr: FM 2486, Energy
+    https://atlas.thc.texas.gov/Details/5000018948
+
+  THC 2845: Jones Crossing
+    addr: DeLeon vicinity
+    https://atlas.thc.texas.gov/Details/5093002845
+
+  THC 6015: Mary Isham
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5093006015
+
+  THC 23273: Sand Hill Cemetery
+    addr: CR 160, DeLeon
+    https://atlas.thc.texas.gov/Details/5000023273
+
+  THC 4714: Sipe Springs Cemetery
+    addr: Sipe Springs vicinity
+    https://atlas.thc.texas.gov/Details/5093004714
+
+  THC 24160: Stag Creek Cemetery
+    addr: FM 1477, Sidney
+    https://atlas.thc.texas.gov/Details/5000024160
+
+  THC 12358: Taylor's Chapel (Concord) Cemetery
+    addr: Comanche vicinity
+    https://atlas.thc.texas.gov/Details/5093012358
+
+  THC 24155: Zion Hill Cemetery
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5000024155
+

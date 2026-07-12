@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Armstrong County — Unmapped Historical Markers</name>
+  <description>THC markers in Armstrong County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Battle of the Palo Duro</name>
+    <description><![CDATA[from Wayside, take SH 207 8 miles north to roadside park<br/><br/><b>Address:</b> Wayside]]></description>
+    <Point><coordinates>-101.443605,34.791474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Warner Building</name>
+    <description><![CDATA[101 North Trice Street, Claude.<br/><br/><b>Address:</b> 101 N. Trice, Claude<br/><br/><b>Marker Text:</b> Erected at this site in 1909 by civic leaders Dr. William A. (1864-1934) and Phebe K. (1866-1935) Warner, the Warner Building played an important role in Claude's development. Designed by the Amarillo architectural firm of Heckman and Hartley, the building housed Dr. Warner's medical office, the Warners' Gate City Drugstore, public rest rooms, a barber shop, the "Claude News" newspaper office, a public reading room, a lodge hall, and rental office space. After a fire destroyed the building in 1915, the Warners reopened their drugstore at another location.]]></description>
+    <Point><coordinates>-101.359172,35.110617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Warner Memorial Community Center</name>
+    <description><![CDATA[400 Vine Street, Claude.<br/><br/><b>Address:</b> 400 Vine Street, Claude<br/><br/><b>Marker Text:</b> Frame structure, built about 1912 as Llano School (15 mi. SW of Claude), was vacated in 1930, used as rural community center, then moved 1939 to this site donated by Mr. and Mrs. J.T. Christian. Volunteers applied stucco and remodeled interior, using funds raised by the Armstrong County Federation of Women's Clubs. The center name honors Dr. and Mrs. Wm. A. Warner, pioneer leaders in social progress and culture. Recorded Texas Historic Landmark - 1962]]></description>
+    <Point><coordinates>-101.364255,35.106191,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

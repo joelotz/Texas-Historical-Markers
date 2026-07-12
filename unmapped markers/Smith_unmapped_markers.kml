@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Smith County — Unmapped Historical Markers</name>
+  <description>THC markers in Smith County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 10 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bascom Cemetery</name>
+    <description><![CDATA[from Loop 323 in Tyler go 3.1 mi. east on SH 64, then 1.85 mi. south on FM 848 to cemetery<br/><br/><b>Address:</b> Tyler<br/><br/><b>Marker Text:</b> Bascom was settled in the mid-1840s and named for a Tennessee Methodist bishop by early settler Lazariah Smith. Burials took place just north of this site until 1857 when one acre west of the Tyler to Henderson Road (present-day FM 848) and two acres east of the road were set aside for cemetery purposes. Graves from the early site were reinterred in Bascom Cemetery. The first recorded burial was that of John Pinkerton in 1851. Included among the more than 2,000 interments are those of the area's earliest settlers and their descendants and at least one veteran of the War of 1812.]]></description>
+    <Point><coordinates>-95.20916,32.296919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bascom United Methodist Church</name>
+    <description><![CDATA[in front of church, located on the east side of FM 848, just north of the intersection of CR 262 and FM 848<br/><br/><b>Address:</b> 12565 FM 848, Tyler]]></description>
+    <Point><coordinates>-95.374848,32.419986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bullard Cemetery</name>
+    <description><![CDATA[FM 344 West<br/><br/><b>Address:</b> Bullard<br/><br/><b>Marker Text:</b> Established c. 1870. Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-95.331806,32.134079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedar Street United Methodist Church</name>
+    <description><![CDATA[<b>Address:</b> 1420 N. Church at Cedar St., Tyler<br/><br/><b>Marker Text:</b> This congregation traces its history to a Sunday School organized in 1887 in one of the new suburban neighborhoods north of Tyler. Created to serve people living away from the town's central Methodist Church (now Marvin United Methodist Church), the Sunday School classes met in homes until September 1888, when a new congregation was organized under the leadership of the Rev. Lacy Boone. First known as Tyler City Mission, the congregation met for worship services in private homes until this property was acquired and construction was begun on a sanctuary in early 1889. The church was renamed Cedar Street Methodist Church in the 1890s. As the congregation continued to grow, it became an integral part of its neighborhood. A new sanctuary was completed in 1916, and additional facilities were built in succeeding years. Continued growth resulted in the construction of a larger auditorium in 1948. Throughout its history, Cedar Street United Methodist Church has been closely associated with the neighborhood. Its membership has fluctuated in response to economic and physical changes in the surrounding area. It continues to serve a diverse membership and remains an important part of the city of Tyler.]]></description>
+    <Point><coordinates>-95.296753,32.363596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Bethel Missionary Baptist Church</name>
+    <description><![CDATA[23871 CR 244<br/><br/><b>Address:</b> 23871 CR 244, Overton<br/><br/><b>Marker Text:</b> Local tradition holds that the Rev. J.D. James arrived in this area circa 1840, bringing with him his family, household goods and about 300 slaves. The community that grew around his plantation became known as Jamestown. James led a local church where white residents worshiped in the morning and black slaves worshiped later in the day. Initially meeting under a brush arbor, the congregation became known as El Bethel, and from it several other area congregations formed, including two Missionary Baptist churches also called El Bethel. The first of these was formed following the Civil War. Members of El Bethel Missionary Baptist Church No. 1 built their first sanctuary at this site circa 1872. Although its first ministers were white, early African American pastors included the Revs. Jessie Rowe, Reuben Wright, Dr. S.S. Stephens, S.L. Thomas, A.H. Whitfield, T.W. Hickman and R.B. Brantley. The church continued to grow, building new facilities and adding new programs over the years. Auxiliary groups have included the Usher Board, Benevolent Fund, Junior and Senior Choirs, Ruth Circle and Branch Sunday at Douglas School. The Jamestown population began to decline in the 1870s when the I&amp;GN Railroad went through nearby Overton. In the 1940s, during World War II, numerous area residents left to serve in wartime industries and the Armed Forces. Over the years, many dedicated deacons and other staff have strengthened the church, which has inspired many members to become ministers and continues to support area residents in worship and services. (2005)]]></description>
+    <Point><coordinates>-95.005788,32.341234,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Erasmus M. Hanna House</name>
+    <description><![CDATA[<b>Address:</b> 118 N Georgia, Troup<br/><br/><b>Marker Text:</b> Built about 1872 by Dr. Hanna, one of founders of Troup, and an investor in East Texas railroads and clay industries. Besides his medical practice, his interests included first hotel in Troup. Wife, Virginia Morris Hanna, was daughter of East Texas pioneers, Judge and Mrs. Stephen Decatur Morris. Five generations of Hanna descendants have lived here. Victorian architecture. Beaded bay windows; high-arched gables. Of cypress, pine, cedar woods. Recorded Texas Historic Landmark - 1968]]></description>
+    <Point><coordinates>-95.12067,32.144799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church, U. S. of Troup</name>
+    <description><![CDATA[<b>Address:</b> S. Carolina at E. Calvert St., Troup<br/><br/><b>Marker Text:</b> The Rev. W. W. Brimm of Tyler began conducting Presbyterian worship services in this area in 1873, soon after the town of Troup was platted along a line of the Houston and Great Northern Railroad. Under his direction, this church was organized that same year with eight charter members. The first ruling elder was Colonel Thomas W. Bell (1802-1876), who moved to Texas from Tennessee in 1849. After settling in Canton, now Omen, where he owned a hotel, he moved to Troup. A charter member of the First Presbyterian Church, he was instrumental in the early development of the congregation. Services were moved to this site from a temporary sanctuary in 1876, when trustees acquired the land from the railroad company. A building here served the congregation until 1908-09, when a new structure was completed. During construction of the facility, services were held in the local Masonic Lodge Hall. For over a century the First Presbyterian Church, U. S. of Troup has been active in the development of the community. Many pioneer area settlers and early civic leaders were members here. Part-time pastors have included several seminary students who later became prominent Presbyterian leaders.]]></description>
+    <Point><coordinates>-95.118369,32.143442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Francis Heritage House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1501 South Lyons, Tyler]]></description>
+    <Point><coordinates>-95.326207,32.333725,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hawthorne Cemetery</name>
+    <description><![CDATA[W of Noonday on CR 1261, then N on FM 2661, then W on CR 1194 to end of road<br/><br/><b>Address:</b> CR 1194, Noonday<br/><br/><b>Marker Text:</b> Mississippi natives William and Emily Hawthorne moved to this area with their family in 1867. In the 1870 census, they were recorded as having ten children. This cemetery takes its name from the Hawthornes, although their name does not appear on any of the gravestones. Several, however, are only marked with initials. The first documented burial at the site is that of J.W. Adams (1879-1882), son of T.T. and M.J. Adams. Others from the area were interred here, with family names including Cone, Gandy, Glaze, Lewis, Jones, McCoy, Oldham, Templeton, Thedford, Turman and Williams. William Turman bought the property surrounding the burial ground in 1914, and the Turman family cared for the cemetery for many years, holding an annual cleaning and dinner; that was discontinued in 1957 as the Turman family began holding annual reunions. The family deeded the site in 1982 to the Noonday Cemetery Association, which continues to maintain the grounds and oversee the cemetery's operations. Known also as Turman Cemetery, the burial ground is a link to the area's pioneers and their families. Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-95.458519,32.238092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Head of Navigation on the Sabine River: Belzora Landing</name>
+    <description><![CDATA[FM 14, N side 0.2 mi. SW of Sabine River. Marker reported missing Jan. 1999. Map dot approximate.<br/><br/><b>Address:</b> FM 14, Winona<br/><br/><b>Marker Text:</b> A thriving port for Tyler and East Texas, from 1850s until arrival of railroads in 1870s. One of many ports established when settlers (as in eastern states) turned to rivers for transportation. In Texas, river-freighting proved rather disappointing. The long, winding rivers were difficult for even small, shallow-draft steamers to navigate. Boats on the Sabine fared very well, however, because of abundant rainfall and favorable terrain. For several months each year, light steamboats could ascend the river to Belzora. The "Galveston News" for that period included Belzora in listings of ports. In dry seasons it was local practice to load goods on barges, flatboats and other craft and wait for a freshet to send them downstream. In addition to the boat landing, Belzora had a ferry used by travel on the Dallas-to-Shreveport Post Road. The town had a dozen businesses, a post office and a combination church-schoolhouse. Ambitious plans for greater inland navigation, deepening of river channel, and building of locks and dams never materialized. Belzora, like many sister ports, became an historic relic-- a ghost town. (1970)]]></description>
+    <Point><coordinates>-95.211762,32.558224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hebron Baptist Church</name>
+    <description><![CDATA[11151 CR 384 (Old Longview Rd.<br/><br/><b>Address:</b> 11151 CR 384 (Old Longview Rd.), Tyler<br/><br/><b>Marker Text:</b> Although it may have been established earlier, Hebron Baptist Church petitioned to join the Cherokee Baptist Association in 1859. One of the congregation's petitioners, Reverend William H. Ray, helped to organize many area Baptist churches, including First Bpatist Church of Tyler, First Baptist Church of Winona and Harris Creek Baptist Church. Prior to 1891, two acres had been acquired by the congregation and another acre was added in 1901 when W.H. Cousins sold the property to trustees elected to represent the people of the Hebron community. This new property and the original two acres with an existing building were designated for use by the church and also as a school. In 1936, after the closing of the school, the three acres were sold to church trustees for exclusive use by the Hebron Baptist congregation. Community outreach has always been an important part of church activities. Many social events such as fish fries, hamburger and hot dog suppers and fall festivals have been hosted by the church for the community. The church has also established a food pantry and a clothes pantry for those in need. Active youth programs and a vacation Bible school have been established. Mission work is also important to the church. The congregation supports and orphanage in Monterrey, Mexico, and also supports a mission in the Philippines. Today, Hebron Baptist Church continues as a vital religious center to those in the surrounding community.]]></description>
+    <Point><coordinates>-95.223659,32.381383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Mason Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 21820 CR 252, Arp]]></description>
+    <Point><coordinates>-95.041253,32.241655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Murphey the Jeweler</name>
+    <description><![CDATA[<b>Address:</b> Tyler<br/><br/><b>Marker Text:</b> A native of North Carolina, Archibald Michael Murphey (1836-1886) married Elizabeth Findley in Rusk, Texas, in 1853. By 1868, they had moved to Tyler. Murphey opened his jewelry business on Ferguson and Broadway in January of that year. Murphey later indicated he had begun as a watchmaker as early as 1851, possibly as an apprentice to his father, who was a native of Ireland. Murphey's sons, Arch (1866-1888), Orville (b. 1868), and Pinkney H. (1870-1925), succeeded their father as jewelers and continued to operate his business. A younger son, George Reaves Murphey (1874-1939), had taken over the jewelry store by the early years of the twentieth century. He moved the business to this site in 1919. Murphey the Jeweler has operated as a family business throughout its history. The store has always offered selections of American and Swiss watches, clocks, and diamonds. Advertisements from the early years also boasted selections of sterling silver flatware, as well as a full line of pianos and organs. As one of the oldest retail establishments in East Texas, Murphey the Jeweler has played an important role in Tyler's commercial history. (1985)]]></description>
+    <Point><coordinates>-95.303807,32.292728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Neches Saline, C. S. A.</name>
+    <description><![CDATA[SH 155 in Dogwood City about 13 mi. SW of Tyler. Marker reported missing Mar. 2016.<br/><br/><b>Address:</b> Tyler<br/><br/><b>Marker Text:</b> Now covered by the waters of Lake Palestine, the Neches Saline was the source of salt for early settlers from over a wide area of East Texas. As early as 1765, the Spanish missionary Calahorra recorded the presence of salines in the area. An early manufacturing process for extracting salt from the saline involved drawing water from shallow wells and boiling it to the evaporation point, leaving the salt behind. The possibilities for commercial development of the Neches Saline became evident to the early settlers, and a small isolated settlement developed here before the Texas revolution. Local salt making declined throughout the South between 1850 and 1861 as salt began to be imported from England. With the Federal embargo during the Civil War, salt began to be made locally again. It was reported that James S. O. Brooks, who had come to Texas from West Virginia, had twelve furnaces operating at the Neches Saline during the war and manufactured 100 bushels of salt per day to meet the needs of the Confederacy. Brooks leased the salt works to his son, William Bradford, in 1865. W. B. Brooks, who purchased the operation in 1871, apparently was the last owner and operator of the salt works at the Neches Saline.]]></description>
+    <Point><coordinates>-95.456545,32.157609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nicholas Wren</name>
+    <description><![CDATA[Harris Creek Cemetery<br/><br/><b>Address:</b> 13720 Harris Creek Church Road, Winona<br/><br/><b>Marker Text:</b> (1807-1859) Came to Texas, 1833. Became a soldier in the Texas army, 1836. Was commissioned Lieutenant of Rangers by Sam Houston, President of Texas. Fought for Texas during the Vasquez and Woll invasions. Had horse shot from under him in Battle of the Hondo. Resided in Smith County at its organization, 1846. His wife Mariah was a charter member of Harris Creek Baptist Church. Wren died here in Mount Carmel community August 28, 1859. Incise on back: Erected by grandsons of Nicholas Wren]]></description>
+    <Point><coordinates>-95.216902,32.466635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Noonday Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Noonday<br/><br/><b>Marker Text:</b> Established ca. 1890 Historic Texas cemetery – 2009]]></description>
+    <Point><coordinates>-95.394089,32.24364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Seven League Cemetery</name>
+    <description><![CDATA[from Tyler, SW on 155, W on CR 196/Rushing Rd., W on CR 198, N on CR 1100/Turtle Creek Rd., W on CR 199/7 League Rd., cemetery is on W side of rd, right at the 90 degree turn S.<br/><br/><b>Address:</b> Noonday<br/><br/><b>Marker Text:</b> Established ca. 1871 Historic Texas cemetery – 2009]]></description>
+    <Point><coordinates>-95.426145,32.254003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Starrville Cemetery (HTC)</name>
+    <description><![CDATA[<b>Address:</b> 13992 FM 757, Winona]]></description>
+    <Point><coordinates>-95.116327,32.464627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Troup City Cemetery</name>
+    <description><![CDATA[<b>Address:</b> N. Georgia at McKay St., Troup<br/><br/><b>Marker Text:</b> This community burial ground originally served the early settlers of Zavala, later known as Troup, a town established along a line of the International &amp; Great Northern Railroad in 1873. Since no land was set aside for a public cemetery when the town was platted, efforts were made to secure a tract from the railroad. As a result of the influence of city leaders, prominent local residents, and Judge William Wright Morris, the area representative to the Texas Legislature, the railroad provided 1.67 acres of land at this site in 1875 for a burial ground, known then as Zavala City Cemetery. The earliest known grave is that of South Carolina native William A. Arms. Originally buried in New Orleans, he was reinterred here in the 1870s by his widow Martha Ann (Walker) Arms and his son Marion Francis Arms. Also buried here are three early mayors of the city, Dr. Erasmus Manley Hanna, William Clark Spruce, and Judge Stephen Decatur Morris. Leaders in securing the first rail line to the area, they were instrumental in having this site set aside for use as a public cemetery. Other graves here include those of prominent local residents and community leaders who contributed to the development of the area.]]></description>
+    <Point><coordinates>-95.120625,32.14749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Union Grove Cemetery</name>
+    <description><![CDATA[2.4 mi. E on FM 15 at CR 2161, behind Union Grove Church<br/><br/><b>Address:</b> 20550 FM 15, Troup<br/><br/><b>Marker Text:</b> On Sept. 25, 1887, local residents met in the Old Stone Schoolhouse to organize Union Grove Missionary Baptist Church with 12 charter members. In 1905, T.W. and Laura Marshall, and J.J. and Mattie Suber donated land to trustees Arthur O' Neal and L.C. Shuttlesworth for the church and cemetery. The oldest marked graves, for Jesse Richard Thompson and Mary Ann (Worley) Richardson, date to 1904. Other burials include those of Confederate veteran Albert Green Pullium (d. 1918) and veterans of World Wars I and II, and the Korean Conflict. The present church building dates to 1924.A cemetery association formed in 1972 oversees maintenance and homecoming activities on the Sunday of Memorial Day weekends. Recent changes to the historic cemetery include a pavilion and enlargement of the property with an additional donation of land.For more than a century, families and local residents have gathered here to remember, to worship, to pay respects to those of the past and to visit with loved ones. Union Grove Cemetery serves as an important historical reminder of the role churches and burial grounds play as centers of rural communities.Historic Texas Cemetery-2004]]></description>
+    <Point><coordinates>-95.111689,32.146681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Willie Lee Campbell Glass</name>
+    <description><![CDATA[Option 1: Corner of Grand &amp; 24th St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> Grand and 24th St., Lindale]]></description>
+    <Point><coordinates>-95.310906,32.373021,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

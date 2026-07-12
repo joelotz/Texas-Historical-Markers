@@ -1,0 +1,10 @@
+Armstrong unmapped markers with NO usable address (2):
+
+  THC 3749: Old Home Ranch
+    addr: Claude
+    https://atlas.thc.texas.gov/Details/5011003749
+
+  THC 17440: The Battle of Red River
+    addr: Wayside
+    https://atlas.thc.texas.gov/Details/5507017440
+

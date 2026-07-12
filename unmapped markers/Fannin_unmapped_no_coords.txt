@@ -1,0 +1,34 @@
+Fannin unmapped markers with NO usable address (8):
+
+  THC 18914: Bank of Windom
+    addr: 501 Main Street, Windom
+    https://atlas.thc.texas.gov/Details/5507018914
+
+  THC 14934: Coontown Cemetery (Medallion only)
+    addr: Savoy
+    https://atlas.thc.texas.gov/Details/5507014934
+
+  THC 23720: F.I.S. College
+    addr: SH 34, Ladonia
+    https://atlas.thc.texas.gov/Details/5000023720
+
+  THC 23476: Flat Prairie
+    addr: FM 2990, Bonham
+    https://atlas.thc.texas.gov/Details/5000023476
+
+  THC 11875: Gober Cemetery
+    addr: Bonham
+    https://atlas.thc.texas.gov/Details/5147011875
+
+  THC 14967: McFarland Cemetery
+    addr: Ladonia
+    https://atlas.thc.texas.gov/Details/5507014967
+
+  THC 20004: Oak Ridge Cemetery
+    addr: 10368 E FM 1550, Ladonia
+    https://atlas.thc.texas.gov/Details/5507020004
+
+  THC 15619: Trinity Episcopal Church
+    addr: Bonham
+    https://atlas.thc.texas.gov/Details/5507015619
+

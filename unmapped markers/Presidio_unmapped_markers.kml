@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Presidio County — Unmapped Historical Markers</name>
+  <description>THC markers in Presidio County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>Ruidosa Church / La Corazon Sagrado de la Iglesia de Jesus</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 12931 FM 170, Marfa<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-104.674779,29.970278,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

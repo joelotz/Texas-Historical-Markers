@@ -1,0 +1,34 @@
+Wise unmapped markers with NO usable address (8):
+
+  THC 13754: Babb Cemetery
+    addr: Chico
+    https://atlas.thc.texas.gov/Details/5507013754
+
+  THC 24206: Harding-Gregg Log Cabin
+    addr: 575 CR 4226, Decatur
+    https://atlas.thc.texas.gov/Details/5000024206
+
+  THC 17119: New Salem Freewill Baptist Church
+    addr: 4455 South FM 51, Decatur
+    https://atlas.thc.texas.gov/Details/5507017119
+
+  THC 20061: Pleasant Grove Cemetery #1
+    addr: 4791 S. FM 730, Decatur
+    https://atlas.thc.texas.gov/Details/5507020061
+
+  THC 12332: Preskitt Cemetery
+    addr: Decatur
+    https://atlas.thc.texas.gov/Details/5497012332
+
+  THC 12834: Rhoads Family Cemetery
+    addr: Northeast of Alvord, surrounded by the LBJ National Grasslands., Alvord
+    https://atlas.thc.texas.gov/Details/5497012834
+
+  THC 4290: Robert Calvin Mount
+    addr: Mount Street, N. of Chico, Chico
+    https://atlas.thc.texas.gov/Details/5497004290
+
+  THC 23739: Sweetwater Cemetery
+    addr: Decatur
+    https://atlas.thc.texas.gov/Details/5000023739
+

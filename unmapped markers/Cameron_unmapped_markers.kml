@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Cameron County — Unmapped Historical Markers</name>
+  <description>THC markers in Cameron County without an HMDB id (isMissing excluded). 33 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Casimiro Tamayo Building (RTHL)</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 947 E. 15th St., Brownsville]]></description>
+    <Point><coordinates>-97.492833,25.90177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Dean and Gladys Porter Home</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 2030 Palm Boulevard, Brownsville]]></description>
+    <Point><coordinates>-97.493762,25.920299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dunlap House</name>
+    <description><![CDATA[212 E. Magnolia, La Feria. (former address 140 E. Magnolia)<br/><br/><b>Address:</b> 212 East Magnolia, La Feria<br/><br/><b>Marker Text:</b> Rio Grande Valley developer W.E. Stewart began construction of this adobe brick and stucco residence in 1912. Before it was completed, he sold the house to his employee Bailey H. Dunlap (1886-1957), a native of Illinois. Dunlap started La Feria's first bank, the Cameron County Bank, and was involved in real estate dealings throughout the valley. He served as La Feria's first mayor in 1915 and participated in numerous civic and religious organizations. In the 1920 and 1930s, the structure was enlarged and remodeled by W.E. Strickland, the original contractor.]]></description>
+    <Point><coordinates>-97.822162,26.155893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Alamo Grocery Store Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 901 E. Adams, Brownsville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.498770,25.904257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Rancho Granjeno (Vasquez) Cemetery</name>
+    <description><![CDATA[Laguna Atascosa National Wildlife Refuge<br/><br/><b>Address:</b> 22817 Ocelot Road, Los Fresnos<br/><br/><b>Marker Text:</b> Established 1870 Historic Texas Cemetery – 2015]]></description>
+    <Point><coordinates>-97.349258,26.229323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] El Rancho Granjeno Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Laguna Atascosa National Wildlife Refuge<br/><br/><b>Address:</b> 22817 Ocelot Rd., Los Fresnos]]></description>
+    <Point><coordinates>-97.349258,26.229323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Esperanza Plantation Bridge</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1373 La Posada Drive, Brownsville]]></description>
+    <Point><coordinates>-97.446465,25.887132,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fernandez-Laiseca Building</name>
+    <description><![CDATA[<b>Address:</b> 1142 East Madison Street, Brownsville]]></description>
+    <Point><coordinates>-97.495801,25.903863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Fernández-Champion-García-Warburton House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 135 E. Adams St., Brownsville]]></description>
+    <Point><coordinates>-97.504298,25.90951,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of La Feria</name>
+    <description><![CDATA[South Main Street at West Magnolia Ave<br/><br/><b>Address:</b> La Feria<br/><br/><b>Marker Text:</b> Organized in 1912 with eleven charter members under the leadership of the Rev. Mr. Roberts of Ohio, the First Baptist Church of La Feria originally shared facilities and services with other local religious groups. The Women's Missionary Society was founded in 1923; a full graded Sunday School was organized in 1924, as was the Baptist Youth Union. In June 1925 the Baptist congregation held its first service in a new domed structure on this site. Additions and renovations to the facility were made as needed. Always strong in missionary activity, the First Baptist Church of La Feria continues a proud tradition of worship and community service. (1998)]]></description>
+    <Point><coordinates>-97.824735,26.156026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Brown, Texas</name>
+    <description><![CDATA[Fort Brown - Southmost College Golf Course - east end of Elizabeth, Brownsville.<br/><br/><b>Marker Text:</b> Fort Taylor, renamed Fort Brown, May 17, 1846, in honor of Major Jacob Brown, 7th Infantry, who died here May 9, 1846, in its defense; Garrisoned by the 7th Infantry with Companies "I" 2nd Art. and "E" 3rd Artillery. Original dimensions: Earthwork of 800 yards perimeter, 6 bastion walls 9 1/2 ft. high, parapet 15 ft. wide, ditch 8 1/2 feet deep, 15 to 20 feet wide. Lieut. Thomas Barlow Chapter, D.A.R. 1938 (Marble slab mounted on concrete foundation. Erected by Fort Brown, U.S. Government.) (Said to have been in use somewhat, supplemented by barracks where Zachary Taylor Library is.)]]></description>
+    <Point><coordinates>-97.494463,25.899818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Friedman-Hollowell House</name>
+    <description><![CDATA[<b>Address:</b> 622 E. Saint Charles St., Brownsville]]></description>
+    <Point><coordinates>-97.503711,25.903685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hanson House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 647 E. St. Charles St., Brownsville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.503475,25.903659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harlingen Hospital</name>
+    <description><![CDATA[Harlingen Arts and Heritage Museum<br/><br/><b>Address:</b> 2425 Boxwood St., Harlingen<br/><br/><b>Marker Text:</b> This building, originally located on "F" Street, housed the first hospital in Harlingen. The institution was started by local businesswoman Ida Gilbert and Marie Yeager, a nurse. Built in 1923, the structure was comprised of an original center section with two buildings added as wings. The 7-bed facility closed four years later after the opening of the Valley Baptist Hospital. The structure, later used as a rooming house and private residence, was moved here in 1978. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-97.667945,26.217769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hebrew Cemetery (HTC)</name>
+    <description><![CDATA[<b>Address:</b> 209 E. Madison St., Brownsville<br/><br/><b>Marker Text:</b> (HTC medallion only)]]></description>
+    <Point><coordinates>-97.50234,25.910155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Incarnate Word Convent, Site of</name>
+    <description><![CDATA[<b>Address:</b> 714 E. St. Charles St., Brownsville]]></description>
+    <Point><coordinates>-97.503049,25.903038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] J.L. Putegnat &amp; Brother Building</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1141 E. Elizabeth St., Brownsville]]></description>
+    <Point><coordinates>-97.498526,25.901535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kowalski-Dennett Home</name>
+    <description><![CDATA[507 Southeast Elizabeth Street, Brownsville<br/><br/><b>Address:</b> 507 SE Elizabeth St., Brownsville<br/><br/><b>Marker Text:</b> French mansard house built 1893 for Louis and Amelia Kowalski by S.W. Brooks, designer of many public structures. Kowalski, a customhouse broker, was Cameron County treasurer, then district clerk for more than 40 years. Also prominent in the area were Jesse and Mary Dennett, who bought the house in 1926. Dennett's maternal grandfather came here 1846 in Mexican war; paternal grandfather came 1866 with U.S. Army of observation.]]></description>
+    <Point><coordinates>-97.502042,25.904766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>L. E. Snavely House</name>
+    <description><![CDATA[From intersection of US 77 and FM 2994, Wilson Road, in Harlingen, take FM 2994, west about .7 mile to Harlingen city limit.<br/><br/><b>Address:</b> Harlingen<br/><br/><b>Marker Text:</b> This land was a dense chaparral of mesquite and ebony trees when it was bought by Levi Elmer (1869-1939) and Lenna Edmondson (1872-1938) Snavely in 1919. They had moved to Harlingen from Oklahoma in 1909 to grow citrus and market the fruit under the label "La Bonita." In 1928, architect Birger A. Elwing designed for them this picturesque, Norman Style house, which they called La Bonita. The hollow-tile structure is faced with brick and accented with occasional rough boulders.]]></description>
+    <Point><coordinates>-97.733597,26.210723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Landrum House</name>
+    <description><![CDATA[From San Benito, take FM 2520 South about 8 miles to SH 281<br/><br/><b>Address:</b> San Benito<br/><br/><b>Marker Text:</b> This house stands on the 1781 Concepcion de Carricitos grant from the king of Spain to Eugenio and Bartolome Fernandez. Acquiring a part of the grant as fee for his legal services to the heirs, col. Stephen Powers of Brownsville gave the site to his daughter Frances and her husband, James Lambert Landrum. The landrums, who completed the house in 1902, had daughters: Martha, Pauline and Frances. In 1978 Frances owns and lives in the house.]]></description>
+    <Point><coordinates>-97.695175,26.044142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lily (Spivey) and William A. Rasco House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 110 Hibiscus Ct., Brownsville]]></description>
+    <Point><coordinates>-97.493616,25.918542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lon C. Hill Home</name>
+    <description><![CDATA[Harlingen Arts and Heritage Museum<br/><br/><b>Address:</b> 2425 Boxwood St., Harlingen<br/><br/><b>Marker Text:</b> City's first home, built 1904, by the founder, Lon C. Hill, promoter of railroads and irrigation to the lower Rio Grande Valley. Climate-adapted Victorian house. Here valley pioneers met and planned important developments. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-97.667945,26.217769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>M. E. and Estela Garcia House</name>
+    <description><![CDATA[<b>Address:</b> 155 Calle Anacua, Brownsville]]></description>
+    <Point><coordinates>-97.503248,25.916138,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McDavitt Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1018 E. Washington, Brownsville<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.498746,25.902871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pan American Airways Blind Flying School</name>
+    <description><![CDATA[At terminal, S. Minnesota Avenue and Billy Mitchell Blvd., Brownsville.<br/><br/><b>Address:</b> Brownsville<br/><br/><b>Marker Text:</b> The development of Mexican oil fields by North American corporations during the 1920s led to a need for reliable transportation into Mexico's interior. As a result, Brownsville soon became a pioneer training center for the now highly technical craft of blind flying, or piloting an aircraft by the use of navigation instruments. In 1929, the Mexican division of Pan American Airways opened a school for instrumentation flying at the Brownsville Airport. The training course was later extended to all divisions of the company.]]></description>
+    <Point><coordinates>-97.432187,25.906705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Port Isabel (Old Point Isabel)</name>
+    <description><![CDATA[SE corner of P100 and S. Garcia Street, Port Isabel.<br/><br/><b>Address:</b> Port Isabel<br/><br/><b>Marker Text:</b> Site of a ranch settlement, owned by Don Rafael Garcia, called "El Fronton de Santa Ysabel" (Bluff of Saint Isabel) about the year 1828. The Mexican custom station was located here in 1844, after the villages of Brazos Santiago and Boca Del Rio were swept away by storms. Goods landed here were at once freighted inland to Matamoros. After the Mexican War (1846-1848), the United States Post Office of "Point Isabel" was created on April 9, 1849. Efforts to build a railroad line to Brownsville in the 1850s did not succeed, but after the Civil War, in 1866, public demands for a rail line to Brownsville were met by Rio Grande steamboat interests, who chartered but refrained from building the road. In 1871, competitors formed the Rio Grande Railroad Company, obtained a charter, and put the line into service in 1873 from Brownsville to a terminus here (450 feet south of this marker). The line served until 1933 when a deep water channel was built to Brownsville.]]></description>
+    <Point><coordinates>-97.206073,26.077594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rancho de Santa Maria</name>
+    <description><![CDATA[US 281, south side of road west of La Avenida Iglesia<br/><br/><b>Address:</b> US 281 (Military Highway), Santa Maria<br/><br/><b>Marker Text:</b> Part of Spain's 1777 La Feria Grant (12.5 leagues), partitioned into 6 units 1843. Here in 1850's was a sub-post of Fort Brown (28 mi. SE) and Fort Ringgold (65 mi. NW). This was proposed site in 1860's for "Homeville", this locality's first small-acreage promotion. Present compound, built 1870 by L.J. Hynes, has buildings for dairy, kitchen, ammunition. Hynes, first Postmaster (1876), had stage depot, general store, telegraph office, shipping wharf on river. Chapel was built 1880. In 1892, Frank Rabb bought the ranch. In 1916 border troubles, U.S. Army established headquarters here.]]></description>
+    <Point><coordinates>-97.835606,26.073665,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosalio Longoria House</name>
+    <description><![CDATA[<b>Address:</b> 401 West Magnolia Ave, La Feria<br/><br/><b>Marker Text:</b> The oldest residence in La Feria. Built in 1909 by local carpenter Felipe Perez for Rosalio Ponce Longoria (1872-1965), a contractor who cleared land for developers to build railroads and other Rio Grande Valley improvements. His board and batten house originally had two main rooms, two small bedrooms, the long front porch and a kitchen with brick chimney for a wood burning stove. The bathroom, a small porch, and the little family room were added about 1950.]]></description>
+    <Point><coordinates>-97.8286,26.156084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santos Lozano Building</name>
+    <description><![CDATA[Pioneer Building, W. Jackson Street, Harlingen.<br/><br/><b>Address:</b> Harlingen<br/><br/><b>Marker Text:</b> Built in 1915, this commercial structure is the oldest existing brick building in Harlingen. It was designed and constructed by Baltazar Torres of Brownsville for the mercantile business of Santos Lozano. It also served as a community center, providing upstairs space for bilingual school classes and special events. A post office was included on the ground floor. Continuously owned by Lozano descendants, the structure has housed various businesses.]]></description>
+    <Point><coordinates>-97.69633,26.192342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Solomon Ashheim Store and Residence</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1244 E. Washington St., Brownsville]]></description>
+    <Point><coordinates>-97.497103,25.901314,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stonewall Jackson Hotel</name>
+    <description><![CDATA[SE corner E. Stenger and N. Reagan streets. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 220 E. Stenger St., San Benito<br/><br/><b>Marker Text:</b> In the mid-1920s, the city of San Benito, which had been founded just 18 years earlier, was experiencing rapid growth. The influx of visitors overwhelmed the current hospitality infrastructure, so a group of prominent San Benito businessmen proposed a new, modern hotel to satisfy the needs of the community. The group brought in Hockenberry Systems, Inc. to assist the city in a public fundraising effort to build the hotel. From December 7-14, 1925, local volunteers traveled door-to-door selling subscriptions for stock. At the end of the fundraising effort, $152,000 in subscriptions had been sold. With the capital raised, the group of businessmen reorganized as trustees of San Benito Community Hotel Inc. The trustees purchased land at the corner of Stenger and Reagan streets. Architect Harvey P. Smith of San Antonio designed a three-story L-shaped hotel in the Spanish Revival style with tile roof and steel casement windows. H.P. Hansen and Sons of Brownsville provided general contracting services. The cost of building totaled $250,000.
+  The Stonewall Jackson Hotel, named for the Civil War general, opened October 8, 1927 with a large gala. Staff was led by Fred Scheer, the general manager, and Jim Bowie, general sales manager. The hotel featured 83 rooms with modern comforts such as an elevator, electric-equipped kitchen, indirect lighting, showers and baths. Texas artist Royston Nave was commissioned to paint a portrait of Stonewall Jackson which hung in the lobby for many years. Communal areas included a ladies' parlor, news shops, smoking room, and "stag" section. The hotel became a gathering place for the community, hosting weddings, high school dances, holiday events, Junior Service League parties, socials, banquets, and celebrations honoring public figures. The hotel operated for several decades until closing.     Recorded Texas Historic Landmark - 2022]]></description>
+    <Point><coordinates>-97.630057,26.131704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Yturria Bank</name>
+    <description><![CDATA[1255 E. Elizabeth Street, Brownsville.<br/><br/><b>Address:</b> 1255 E. Elizabeth Street, Brownsville]]></description>
+    <Point><coordinates>-97.497645,25.900712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zepeda Cemetery</name>
+    <description><![CDATA[South side of the Military Highway (US 281), about 0.3 mi. W of FM 1577<br/><br/><b>Address:</b> Rancho<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-97.635188,26.026948,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

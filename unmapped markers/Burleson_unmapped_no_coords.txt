@@ -1,0 +1,29 @@
+Burleson unmapped markers with NO usable address (7):
+
+  THC 23733: African American Community in Clay (UNDERTOLD)
+    addr: FM 50, Clay
+    https://atlas.thc.texas.gov/Details/5000023733
+
+  THC 17458: Caldwell Masonic Cemetery
+    https://atlas.thc.texas.gov/Details/5507017458
+
+  THC 24142: Carr Cemetery
+    addr: CR 217, Caldwell
+    https://atlas.thc.texas.gov/Details/5000024142
+
+  THC 15182: City of Caldwell
+    addr: Caldwell
+    https://atlas.thc.texas.gov/Details/5507015182
+
+  THC 23224: Draper-Moseley Cemetery
+    addr: CR 221, Caldwell
+    https://atlas.thc.texas.gov/Details/5000023224
+
+  THC 15418: S.P.J.S.T. San Antonio Prairie Cemetery
+    addr: Caldwell
+    https://atlas.thc.texas.gov/Details/5507015418
+
+  THC 24458: Sandy Grove Cemetery
+    addr: 10901 FM 111, Deanville
+    https://atlas.thc.texas.gov/Details/5000024458
+

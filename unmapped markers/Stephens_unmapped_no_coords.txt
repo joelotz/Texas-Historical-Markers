@@ -1,0 +1,14 @@
+Stephens unmapped markers with NO usable address (3):
+
+  THC 18733: Fort Davis Cemetery
+    addr: Breckenridge
+    https://atlas.thc.texas.gov/Details/5507018733
+
+  THC 23736: Harpersville Cemetery
+    addr: Breckenridge
+    https://atlas.thc.texas.gov/Details/5000023736
+
+  THC 5109: Stephens County
+    addr: US 80, about 5 miles east of Breckenridge, Breckenridge
+    https://atlas.thc.texas.gov/Details/5429005109
+

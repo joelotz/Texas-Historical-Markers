@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Williamson County — Unmapped Historical Markers</name>
+  <description>THC markers in Williamson County without an HMDB id (isMissing excluded). 24 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Barbette</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Sam Bass Cemetery. Marker pending. Map dot approximate.<br/><br/><b>Address:</b> Sam Bass Rd., Round Rock]]></description>
+    <Point><coordinates>-97.69678,30.517157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Christ Lutheran Church</name>
+    <description><![CDATA[Noack community<br/><br/><b>Address:</b> 6730 FM 112, Taylor<br/><br/><b>Marker Text:</b> In the mid-1880s, Lutheran families living at the Wendish settlement, Hochkirk, met in homes for church services. Local Pastor Gotthilf Birkmann began to officiate these meetings. Peter Zieschang, founder of Hochkirk, donated three acres of land for the site of a church. In 1891, at the cost of $200, the community dedicated a newly built church. In 1902, Hochkirk was renamed Noack, after postmaster John Ernest Noack. A parochial school was established at the church that taught separate German and English classes. Church services were in German until 1922, when English was gradually introduced. By the mid-1940s, all services were held in English. The present church building was completed in 1916 and is still in use. (2016)]]></description>
+    <Point><coordinates>-97.385148,30.560636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Citizens Memorial Cemetery</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>CR 265, S side between Wolf Ranch Pkwy. and Wolf Lakes Dr. Marker pending. Map dot approximate.<br/><br/><b>Address:</b> CR 265, Georgetown]]></description>
+    <Point><coordinates>-97.696965,30.634336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>David Hutcheson McFadin</name>
+    <description><![CDATA[McFadin Cemetery (a.k.a. Comanche Peak Cemetery), off Comanche Bluff Road, off FM 1331<br/><br/><b>Address:</b> 401-805 Comanche Bluff, Circleville<br/><br/><b>Marker Text:</b> Served in the Texas War for Independence. Soldier at San Jacinto. Erected by the State of Texas 1962]]></description>
+    <Point><coordinates>-97.417547,30.644101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dog Run Log Cabin</name>
+    <description><![CDATA[<b>Address:</b> 675 CR 202 East, Liberty Hill<br/><br/><b>Marker Text:</b> Built 1851 by Wm. Williams, settler from Arkansas. Owned 1901-1956 by family of A. Buck, also from Arkansas. Wood -- cypress, oak, cedar -- and stone were cut by hand; logs are joined by wooden pegs. Solidly built rooms are separated by a "dog run." Recorded Texas Historic Landmark - 1968]]></description>
+    <Point><coordinates>-97.907076,30.731888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Easley-Sloan Cemetery</name>
+    <description><![CDATA[<b>Address:</b> southwest of intersection of SH 29 and CR 366, Taylor<br/><br/><b>Marker Text:</b> Easley-Sloan Cemetery Established 1852 Historic Texas Cemetery – 2007]]></description>
+    <Point><coordinates>-97.483596,30.625482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>El Milagro</name>
+    <description><![CDATA[Heritage Center Circle, W side, 0.1 mi. S of US 79. Also known as the Washington Anderson House.<br/><br/><b>Address:</b> 910 Heritage Center Cir., Round Rock]]></description>
+    <Point><coordinates>-97.676546,30.516409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Presbyterian Church (Georgetown)</name>
+    <description><![CDATA[(see marker 12517 for interpretive text)<br/><br/><b>Address:</b> 703 S. Church Street, Georgetown<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.675565,30.637225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grace Episcopal Church</name>
+    <description><![CDATA[was 1965 RTHL, designation removed in 1991. Marker displayed inside building.<br/><br/><b>Address:</b> 811 S. Main St., Georgetown]]></description>
+    <Point><coordinates>-97.676933,30.636418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hall Named for Laura L. Kuykendall</name>
+    <description><![CDATA[Southwestern University. Marker was placed at Laura Kuykendall Hall (building later razed), near present Laura Kuykendall Garden. Marker reported in storage Apr. 2017. Map dot approximate.<br/><br/><b>Address:</b> 1000 E. University Ave., Georgetown<br/><br/><b>Marker Text:</b> (1883-1935) Southwestern University dean of women, 1918-1935. Descendant of pre-1820 Texas settlers. An artist and teacher of dramatic interpretation. In tribute to her exemplary Christian life, her influence on students, and her love for Southwestern, the board of trustees in 1935 named this women's building in her honor. (1968)]]></description>
+    <Point><coordinates>-97.667874,30.633266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Home of A. J. Nelson</name>
+    <description><![CDATA[FM 1460, SE of Chandler Road (University)<br/><br/><b>Address:</b> Round Rock<br/><br/><b>Marker Text:</b> Home of A. J. Nelson, rancher-banker from Sweden. Swedish masons, paying voyage costs, built this house, 1860. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-97.645449,30.56707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>M.B. Norman House</name>
+    <description><![CDATA[Norman Crossing (Norman's Crossing) community, S side FM 1660 0.3 mi. W of FM 3349<br/><br/><b>Address:</b> 12500 FM 1660, Taylor, TX, Hutto<br/><br/><b>Marker Text:</b> In 1873, Mart B. Norman (1856 – 1921) came to this area, which would later be called Norman’s Crossing. M.B. Norman farmed, ran a general store and co-owned a cotton gin in the community later named for him. In 1906, he purchased this property and soon afterward built a two-story cross-gabled house with octagonal-shaped projections, including a wrap-around porch, designed in the Queen Anne style. The second story features a decorative balcony and dormers; other notable elements include a double door and transom, squared columns, fishscale shingles, decorative glass and lapped siding. After M.B. Norman’s death in 1921, his wife, Nettie (Mayhall), continued to own the property, which has remained in the family for more than 100 years. Recorded Texas Historic Landmark - 2010]]></description>
+    <Point><coordinates>-97.499754,30.495522,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>MacNabb Home</name>
+    <description><![CDATA[Also known as MacNabb-Quick House, Harrell-Sheppard House, Mary Harrell House, or "Stillbrook."<br/><br/><b>Address:</b> 603 Chisholm Trail, Round Rock<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-97.689052,30.511225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Dimmitt Home</name>
+    <description><![CDATA[921 W. University (SH 29)<br/><br/><b>Address:</b> 921 W. University, Georgetown<br/><br/><b>Marker Text:</b> Built in 1866 by John Jones Dimmitt; of native limestone hauled by ox-drawn wagons. Home of prominent citizens in Georgetown over 100 years. Dimmitt -- a surveyor, lawyer, mathematician, linguist, one time county attorney, and partner in building of Georgetown Railroad -- was civic leader; instrumental in getting Southwestern University moved to Georgetown. Preserved since 1948 by Dr. and Mrs. R.W. Gamble. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-97.686425,30.632886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneers' House</name>
+    <description><![CDATA[(Bryson Home)<br/><br/><b>Address:</b> 183.0A, Leander<br/><br/><b>Marker Text:</b> Antedating town of Leander, this place was a 3-day wagon distance from Austin. First two rooms were built (1872) by J. C. and Nancy Bryson, of rock from San Gabriel River and Jenks Branch; hewn cedar logs and shingles from Bastrop area. Had several additions, for family of eight children. Recorded Texas Historic Landmark - 1970]]></description>
+    <Point><coordinates>-97.837911,30.585352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Post Oak Island</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Type Cemetery, E side CR 466, 400 feet NE of CR 484. Marker installation pending.<br/><br/><b>Address:</b> 1300 CR 466, Coupland]]></description>
+    <Point><coordinates>-97.331295,30.435805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Salyer Cemetery at Strickland Grove</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1654 CR 234, Georgetown<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.663076,30.752310,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Taylor City Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1101 E. 4th St, Taylor<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.421250,30.569642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Taylor-Cooper House</name>
+    <description><![CDATA[NE corner of E. 5th and S. Main streets<br/><br/><b>Address:</b> 105 E. 5th Street, Georgetown<br/><br/><b>Marker Text:</b> Founded in 1848, interim county commissioners chose Georgetown, Texas, as the seat of Williamson County. Soon after, the Taylor family moved to Georgetown. Josiah Taylor opened one of the earliest businesses in the new city, a store on the courthouse square. Taylor's son, Emzy Taylor (1841-1895), worked at his father's store until he enlisted in the Confederate army around 1861. After the war, Emzy Taylor settled in Georgetown with his wife, Margaret Corinna (Henderson) Taylor (1842-1922). In May 1869, Taylor purchased eight empty lots at this location to construct a new home for his growing family. Built with ashlar limestone, the original construction was a single-story, central-passage house. Common in the National Folk style, this design contained a central hall that divided the rooms in the house. An upstairs addition was added around 1880. Taylor and his son-in-law, R.T. Cooper (1862-1950), enlisted the services of the Belford Lumber Company, which built many of the historic houses in Georgetown. After Taylor's death, Cooper primarily oversaw these updates. Construction began in 1889 and added many elements of the Greek Revival style. The construction company added a portico that wrapped around the south and east sides of the house, columns, a formal dining room and many other elements typical of the Greek Revival style. While different from the limestone of the original construction, the 1900 additions to the house have a white wood exterior, characteristic of Greek Revival. The Taylor-Cooper House not only represents the success of one of the earliest Georgetown families, but also the city's early economic development. Recorded Texas Historic Landmark - 2018]]></description>
+    <Point><coordinates>-97.676695,30.63947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Turkey Creek School</name>
+    <description><![CDATA[3900 block CR 417, west side, between CR 419 and CR 412, south of Wuthrich Hill / Prince of Peace church and cemetery<br/><br/><b>Address:</b> Taylor<br/><br/><b>Marker Text:</b> Site of Turkey Creek School (1893-1949) An 8-grade school held in frame building on site given 1898 by Mr. and Mrs. Henry Henkes; had 3 or 4 months' terms until 1910; only one teacher for all grades until 1919. After finishing here, and after this school closed, students went to Taylor or Thrall schools. (1972)]]></description>
+    <Point><coordinates>-97.356223,30.614596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>United Methodist Church</name>
+    <description><![CDATA[<b>Address:</b> 201 S. Granger St., Granger]]></description>
+    <Point><coordinates>-97.441893,30.7165,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Washington Bower</name>
+    <description><![CDATA[15 mi. SE of Taylor on FM 112 to CR 479<br/><br/><b>Address:</b> 15 mi. SE on FM 112 to CR 479, Taylor<br/><br/><b>Marker Text:</b> "Washington Bower" - built 1853, first frame house in this area. Site, an 1838 Republic of Texas land grant to Simon Miller, was inherited by Lucinda Lawrence, wife of Henry Inlo Layne -- farmer, rancher, mason, builder of this house. Layne was host here (1857) to military hero Robert E. Lee; in 1868, was a victor in Civil War Battle of Galveston. Texas Revolution veteran Adam Lawrence died here in 1878. Placed passed in 1890 to Adella Layne and her husband, William Russell Landers. Recorded Texas Historic Landmark - 1971]]></description>
+    <Point><coordinates>-97.231276,30.499319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wessels, T. F., Home</name>
+    <description><![CDATA[on campus of First United Methodist Church<br/><br/><b>Address:</b> 1002 N. Mays Street, Round Rock]]></description>
+    <Point><coordinates>-97.682624,30.51753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Williamson County</name>
+    <description><![CDATA[Was at roadside park in Round Rock until it was closed. Marker reported in storage at TxDOT offices as of Sep. 2021. Map dot approximate.<br/><br/><b>Address:</b> IH-35, Round Rock<br/><br/><b>Marker Text:</b> Formed from Milam County. Created March 12, 1848; organized August 7, 1848. Named in honor of Robert McAlpin Williamson, 1806-1859, pioneer editor, lawyer, patriot and statesman, veteran of San Jacinto. Georgetown, the county seat.]]></description>
+    <Point><coordinates>-97.691987,30.549753,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

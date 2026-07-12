@@ -1,0 +1,10 @@
+Fisher unmapped markers with NO usable address (2):
+
+  THC 12586: First United Methodist Church of Roby
+    addr: Roby
+    https://atlas.thc.texas.gov/Details/5151012586
+
+  THC 17092: Willingham Land and Cattle Company
+    addr: 14427 East Hwy 180, Roby
+    https://atlas.thc.texas.gov/Details/5507017092
+

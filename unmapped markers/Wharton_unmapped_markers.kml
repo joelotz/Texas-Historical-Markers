@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wharton County — Unmapped Historical Markers</name>
+  <description>THC markers in Wharton County without an HMDB id (isMissing excluded). 29 with THC coords; 0 geocoded from address; 11 omitted (no usable address).</description>
+  <Placemark>
+    <name>Boling</name>
+    <description><![CDATA[100 Texas Ave. at FM 442, Boling<br/><br/><b>Address:</b> 100 Texas Ave., Boling<br/><br/><b>Marker Text:</b> This area was called Floyd's Lane prior to the advent of the New York, Texas &amp; Mexican Railway in 1900. Named for the Bolling family of Virginia, the town name was misspelled when citizens applied for a U. S. Post Office. The economy was based on farming and the railroad until sulphur, oil, and gas were discovered on the Boling dome in 1925. Boling became a boom town; the population grew from 20 in 1920 to 450 in 1930. Many streets and subdivisions were named for the companies that flocked here. Mineral production was the dominant industry in the area for 70 years.]]></description>
+    <Point><coordinates>-95.939816,29.2628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Captain W. E. Heard Home</name>
+    <description><![CDATA[4/10 mile E. of Egypt (and FM 102) on FM 1161, Egypt<br/><br/><b>Address:</b> FM 1161, off FM 102, Egypt]]></description>
+    <Point><coordinates>-96.234471,29.402313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chesterville Cemetery</name>
+    <description><![CDATA[From East Bernard, W on Alt 90, NE on CR 279, NW on CR 262 to the cemetery<br/><br/><b>Address:</b> 5438 CR 262, East Bernard<br/><br/><b>Marker Text:</b> Land promoter John Linderholm, manager of the Southern Texas Colonization Company of Chicago, purchased more than 60,000 acres for development in Wharton and Colorado counties beginning in 1894. The Chesterville community was an outgrowth of this effort. It is named after the Nelson Chester family who, along with the Lafayette Kellison family, moved here from Illinois about 1895. Alvina Chester (1875-1971) was the town's first postmistress, and William Chester (1869-1945) developed the area and looked after local Linderholm interests. He was a partner in the Chester-Kellison general store and also served a term as postmaster. In 1897, in response to the land promotions, Peter Anderson (1857-1942) settled nearby with his wife, Augusta (1864-1915), their children and his parents. When Peter's father, Andrew (1818-1898), passed away in March, 1898, John Linderholm set aside this parcel of land adjacent to the Anderson property for a burial ground. Robert B. Wallace deeded the land to the Chesterville Cemetery Association in 1909; reorganized in 1961, the group still oversees affairs of this site that chronicles families that settled and developed this former prairie land. Historic Texas Cemetery - 2001]]></description>
+    <Point><coordinates>-96.19723,29.604089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Community of Egypt</name>
+    <description><![CDATA[FM 102 in Egypt<br/><br/><b>Address:</b> 430 Hayden Ranch Road, Egypt<br/><br/><b>Marker Text:</b> One of most historic towns in county. Named following the drouth of 1827, when pioneers of Stephen F. Austin's colony came to this fertile region to obtain corn. They called it "Goin down into Egypt for corn", after biblical passage. Noted patriots were among earliest settlers: Eli Mercer, one of first sugar producers in Texas; and W. J. E. Heard, leader of citizen soldiers. Others were dairy king Gail Borden; William Menefee, a signer of the Texas Declaration of Independence; and Maj. Andrew Northington, stagecoach operator and surveyor.]]></description>
+    <Point><coordinates>-96.234377,29.39744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Culp Krueger</name>
+    <description><![CDATA[Located in the 100 block of Monseratte St. between Mechanic and Washington Sts., Evans Park, El Campo<br/><br/><b>Address:</b> 100 Block of Monseratte, El Campo<br/><br/><b>Marker Text:</b> Site of Capitol of Texas September 8, 1962. Operation Home Town Program for Progress Small Towns of Texas. Culp Kreuger, Governor]]></description>
+    <Point><coordinates>-96.268089,29.195443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early Wharton County Jails</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 704 Suny Lane, Wharton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.091131,29.319655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Egypt Plantation Cemetery</name>
+    <description><![CDATA[Egypt, SE on FM 1161, SW on Northing Road, E on Tolliven Lane<br/><br/><b>Address:</b> Northing Rd, Tolliven Ln, Egypt<br/><br/><b>Marker Text:</b> Egypt Plantation Cemetery In 1838, William Jones Elliot Heard purchased more than 2,000 acres of land from John C. Clark and established the Egypt Plantation in what is now Wharton County. He set aside three acres for a cemetery. Early graves were covered with brick crypts, and the oldest marked grave is that of George S. Heard, the youngest of Heard's four children, who died on January 8, 1854. Andrew Northington's grave dates to October of that same year. Heard's wife America (Morton) died in 1855 and was also buried here. Today, the cemetery is maintained by Heard heirs, including the Northington family. Many of Heard's descendants are buried here. It is believed that the cemetery contains several unmarked graves, including some of the many burials covered by brick crypts. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-96.235396,29.401637,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Elkins, Nettie, House</name>
+    <description><![CDATA[<b>Address:</b> 109 E Alabama St, Wharton]]></description>
+    <Point><coordinates>-96.098627,29.31382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First East Bernard School</name>
+    <description><![CDATA[Wharton County Historical Museum. The building was designated an RTHL in 1962 in East Bernard, and the marker and a portion of the building was moved to an exhibit in the museum in Wharton in 1991. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3615 N. Richmond Rd., Wharton<br/><br/><b>Marker Text:</b> Built 1888 a mile north of town (so trains would not disturb). Moved to town, 1892. Making way for new 2-story school, was sold and moved 1895 by Herman W. Koym. Used since for gristmill, blacksmith shop, storage. (1965)]]></description>
+    <Point><coordinates>-96.090427,29.344711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Missionary Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 134 Elm St., Glen Flora<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.192305,29.346791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] First Presbyterian Church of El Campo</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 312 Depot St., El Campo]]></description>
+    <Point><coordinates>-96.272688,29.196584,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harris Park</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1717 Bailey St., Wharton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.115920,29.318544,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hudgins Family Cemetery</name>
+    <description><![CDATA[on private road off intersection of CR 213 at CR 215<br/><br/><b>Address:</b> Hungerford<br/><br/><b>Marker Text:</b> Beginning in 1851, family members of Joel and Rachel Hudgins used this site as a burial ground. Property including the site was granted to Alexander Jackson in 1824 and inherited by his daughter Mary. Upon her death in 1836, it transferred to her husband, James McKenzie, who wed Rachel Ann Northington three years later. He died in 1845, leaving Rachel with three children. She gained ownership of the Jackson land as well as McKenzie's other property, all part of what became Wharton County in 1846. The next year, Rachel wed Joel Hudgins, a widower with one child. The couple had nine more children, but only six of the thirteen survived to adulthood. Joel served as a civic leader and established the Hudginsville School near his home in this vicinity. After his death and burial in Chappell Hill, Texas in 1873, Rachel and her sons increased the family's holdings. She died in 1903. In 1977, grandson Edgar Hudgins, along with his sons, purchased the land from relatives. His grave, dating to 1986, was the first here since that of his grandmother more than 80 years earlier. Today, his heirs continue to care for the burial ground. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-96.095718,29.430016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Josiah Dawson Hudgins</name>
+    <description><![CDATA[<b>Address:</b> 231 E. Railroad Street, Hungerford<br/><br/><b>Marker Text:</b> Josiah Dawson “J.D.” Hudgins, born in 1852, was one of four sons of Joel and Rachel Northington McKenzie Hudgins to survive to adulthood. Hudgins’ ancestors had come from Wales to Virginia in 1742; his father, Joel (d. 1873), came to this area of Texas in 1839 and served as Wharton County Commissioner. In 1850, Joel and Rachel purchased a tract of land from her father, Andrew Northington, an early area settler. There they built the Hudginsville School to educate their sons and other area children. In 1877, J.D. married Mollie Juline McKinney. In the early 1880s,he opened a general mercantile store and saloon in Quinan. The New York, Texas &amp; Mexican Railroad came through the area in 182, missing Quinan by a half mile, so the community moved to be nearer the depot at the new town of Hungerford. J.D. and his brothers formed the J.D. Hudgins &amp; Bros. Partnership, buying land and cattle, as well as a cotton gin and gristmill. J.D. was a charter member of both the Wharton Masonic Lodge and the Methodist Church. J.D. and Mollie built a large family home in Hungerford in 1918 to be nearer his businesses. In 1906, J.D. bought several Brahman cattle, imported into Texas from India because of the breed’s tolerance for conditions of the Texas gulf coast. J.D. and his son, Walter, worked to develop what came to be called the American Brahman breed. They were also early leaders in the American Brahman Breeders Association and helped in Wharton County’s efforts to control Cattle Tick Fever during the early 20th century. After J.D.’s death in 1928, Walter continued his father’s efforts to develop one of the largest registered American Gray Brahman herds in the world. J.D. Hudgins, Inc. perpetuates their legacy. (2004)]]></description>
+    <Point><coordinates>-96.075585,29.398807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>KULP Radio</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 515 E. Jackson St., El Campo<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.265645,29.199434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lissie United Methodist Church</name>
+    <description><![CDATA[Corner of Raymond &amp; Franklin St. W Lissie<br/><br/><b>Address:</b> Raymond and Franklin St., Lissie<br/><br/><b>Marker Text:</b> Organized in 1906 as the Evangelical Association, this congregation began with nineteen charter members. The Rev. George W. Causey served as first pastor. A sanctuary and parsonage were dedicated in 1907. After a division within the association, the two factions reunited in 1922 as the Evangelical United Brethren Church in 1946, and as Lissie United Methodist Church in 1968. The church continues to serve the people of Lissie and the surrounding community.]]></description>
+    <Point><coordinates>-96.22579,29.555812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] LULAC Council No. 170</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 107 N. Market St., Louise]]></description>
+    <Point><coordinates>-96.409758,29.107704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Bethlehem Baptist Church</name>
+    <description><![CDATA[near the intersection of CR 100 and Bethlehem Lane<br/><br/><b>Address:</b> 1514 CR 100, Boling]]></description>
+    <Point><coordinates>-95.896896,29.227439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Our Lady of Mount Carmel Catholic Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 506 S. East Ave., Wharton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.095658,29.305385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Railroad in Louise</name>
+    <description><![CDATA[202 S. Pearl St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 202 S. Pearl St., Louise<br/><br/><b>Marker Text:</b> In 1881, the community of Louise was platted as a result of the New York, Texas and Mexican Railway laying tracks through Wharton County. That same year, the railway built a frame depot in Louise which included a platform, section house and telegraph office. Passenger and freight rail service were very popular. Rail and depot ownership changed several times, including Southern Pacific (1885); Galveston, Harrisburg and San Antonio (1905); Texas and New Orleans (1927); and Southern Pacific (1961). The depot remained an active area for commerce and socializing. After rail’s popularity dwindled, Louise continued to honor its rail history by restoring the depot.  (2023)]]></description>
+    <Point><coordinates>-96.410288,29.106675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shanghai Pierce Ranch</name>
+    <description><![CDATA[1 mile S.E. of Pierce on Pierce Ranch (entrance to ranch is on FM 526, across from Post Office)<br/><br/><b>Address:</b> FM 526, SE of Pierce, Pierce<br/><br/><b>Marker Text:</b> The home of a great trail driver Abel H. Pierce, born in June 29, 1834. Died December 26, 1900. From a penniless cowboy, he rose through energy and shrewdness to the rank of "cattle king."]]></description>
+    <Point><coordinates>-96.185359,29.235923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shanghai Pierce Ranch House</name>
+    <description><![CDATA[1 mile S.E of Pierce on Pierce Ranch (entrance to ranch is on FM 526, across from Post Office)<br/><br/><b>Address:</b> FM 526, SE of Pierce, Pierce<br/><br/><b>Marker Text:</b> Built 1886, in lavish style. On first floor was office of highly successful ranch. Legend says Pierce (cattle king famed for introducing Brahmas in Texas) used to stand on Southern Pacific station, a mile away.]]></description>
+    <Point><coordinates>-96.185359,29.235923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. James Missionary Baptist Church</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 815 Mattie St., Wharton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.116158,29.322749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. John Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1843 CR 469, El Campo<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.333414,29.308909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Texas Gulf Sulphur Company-Newgulf</name>
+    <description><![CDATA[on display in Wharton County Historical Museum<br/><br/><b>Address:</b> 3615 North Richmond Road, Wharton<br/><br/><b>Marker Text:</b> The Gulf Sulphur Company began in Matagorda County in 1909, and in 1918 changed its name to Texas Gulf Sulphur Company. A plant was built at the Big Hill Dome, and the first sulphur was produced in 1919. A company town was created and named Gulf, Texas. New reserves of sulphur were acquired in Wharton County. When the Texas Gulf Sulphur Company began operations on the Boling Dome in 1928, a new company town was established named Newgulf. The town contained businesses, more than 350 homes, a school, library, hospital, movie house, golf course and county club. Baptist, Methodist, Catholic and Presbyterian churches built sanctuaries. Newgulf Post Office began service in October 1928 and ended service in March 1994. Texas Gulf Sulphur Company produced in excess of 80.8 million long tons of Sulphur from the Boling Dome, to make it the largest sulphur production mine in the world, Texas Gulf was acquired by a French petrochemical corporation in 1981. Sulphur production ceased in 1993, and the town of Newgulf was dismantled; it was among the last company towns to exist in Texas. (1996)]]></description>
+    <Point><coordinates>-96.092298,29.343941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Judge Robert McAlpin Williamson Home</name>
+    <description><![CDATA[Courthouse Square Wharton<br/><br/><b>Address:</b> 101 Burleson St., Wharton<br/><br/><b>Marker Text:</b> Formerly stood a block and a half east of this marker, which was moved to this site in 1976.]]></description>
+    <Point><coordinates>-96.100618,29.309874,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Wharton Chamber of Commerce &amp; Agriculture</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 225 N. Richmond Rd., Wharton]]></description>
+    <Point><coordinates>-96.102622,29.312959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wharton County Abstract Company</name>
+    <description><![CDATA[212 N. Resident (on door of office behind home, moved from original location) Wharton<br/><br/><b>Address:</b> 212 N. Resident St., Wharton<br/><br/><b>Marker Text:</b> Attorney William S. "Billie" Brooks founded this abstract firm in 1890. He was assisted by Daisy Speed, who made the original hand-written entries in the tract books. Brooks was joined in 1899 by his law partner Henry A. Cline. Other prominent associates of the firm include several member of the Cline family and L. Z. Moreland, who worked here from 1923 to 1974. A secretary, Ruth Brazzil, later served as a special justice of the Texas Supreme Court in a celebrated case involving the Woodmen of The World.]]></description>
+    <Point><coordinates>-96.097394,29.311334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wharton County Library</name>
+    <description><![CDATA[<b>Address:</b> 1920 N. Fulton Street, Wharton]]></description>
+    <Point><coordinates>-96.093425,29.327659,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

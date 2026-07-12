@@ -1,0 +1,18 @@
+Fort Bend unmapped markers with NO usable address (4):
+
+  THC 8984: Cartwright-McCrary House
+    addr: FM 1093, Clodine
+    https://atlas.thc.texas.gov/Details/5157008984
+
+  THC 24130: Site of Fort Bend
+    addr: Richmond
+    https://atlas.thc.texas.gov/Details/5000024130
+
+  THC 9056: Site of the Home of Elizabeth Powell
+    addr: Beasley
+    https://atlas.thc.texas.gov/Details/5157009056
+
+  THC 24468: Watts Cemetery
+    addr: 3700 Watts Plantation Road, Missouri City
+    https://atlas.thc.texas.gov/Details/5000024468
+

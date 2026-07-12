@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Atascosa County — Unmapped Historical Markers</name>
+  <description>THC markers in Atascosa County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Baptist Church of Lytle</name>
+    <description><![CDATA[FM 290 in Lytle take Prairie Street, north to FM 463<br/><br/><b>Address:</b> Lytle<br/><br/><b>Marker Text:</b> Dr. J.V.E. Covey and 16 charter members organized this church in April 1893 and held their first meeting under a stand of oak trees. A small frame building was later built, becoming their first permanent church building. Early baptisms were performed in the Medina River. Over the years the church has erected new and larger buildings to serve its growing congregation. The church has been instrumental in initiating additional congregations in Natalia, Atascosa, LaCoste, and Castroville. The church continues to be active in the community as it has for over 100 years. (1996)]]></description>
+    <Point><coordinates>-98.80431,29.240136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jourdanton</name>
+    <description><![CDATA[in front of City Hall complex, S side of SH 97, 0.7 mi. E of intersection with SH 16<br/><br/><b>Address:</b> 1604 East State Highway 97, Jourdanton<br/><br/><b>Marker Text:</b> In 1909, Jourdan Campbell (1867-1938) and Theodore H. Zanderson (1854-1927) established the Jourdanton community, named for Campbell, on the eastern edge of their Toby Ranch property. Jourdan Campbell was born in Atascosa County, and was a merchant and county commissioner. He first met Zanderson, a Dane whose significant business interests centered on wool and mohair, in San Antonio. The two entrepreneurs convinced Dr. Charles Franklin Simmons, a land speculator who had previously worked with Campbell, to lay rail through the new townsite; the first train came through Jourdanton on September 4, 1909. Jourdanton soon had utilities, a bank, a newspaper (The Atascosa Monitor), a post office and several businesses. The community also had a school, several churches and a cemetery. Residents, encouraged by the settlement's rapid growth, and led by newspaper owner Ralph Roy "Railroad" Smith, began to promote the idea of Jourdanton becoming county seat. In 1910, Atascosa County residents voted that the county seat be moved from Pleasanton to Jourdanton. In 1911, the town incorporated, and by 1914, it had two railroads and the population had doubled. Many residents were farmers or ranchers. By the 1940s, oil and natural gas reserves were discovered nearby, which led to another period of growth; later, the discovery and mining of lignite to the south also helped sustain Jourdanton's economy. The town grew further with the additions of the Smith Village and Atascosa Estates developments. Although the railroads stopped running by the 1960s, Jourdanton continued to grow, and remains a community rich in culture, heritage and diversity. (2009)]]></description>
+    <Point><coordinates>-98.535501,28.922788,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

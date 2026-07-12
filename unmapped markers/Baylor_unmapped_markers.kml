@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Baylor County — Unmapped Historical Markers</name>
+  <description>THC markers in Baylor County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Mary's Creek School</name>
+    <description><![CDATA[5 mi. E, cor of FM 1152 and CR 451<br/><br/><b>Address:</b> Bomarton<br/><br/><b>Marker Text:</b> In 1906, the Wichita Valley Railroad built from Seymour to Abilene, establishing the town of Bomarton and consolidating settlement here. Mary's Creek School was one of 38 rural schools in Baylor County. Trustees organized the school in February 1908 and built a schoolhouse soon after. The original building was one room, with a second classroom added about 1926. Additional structures included boys' and girls' outhouses, a coal house, a cistern and a teacherage. The peak attendance for Mary's Creek School was 69 pupils in 1930-31. By 1948 area children attended Bomarton School, and through consolidation, Seymour was the only school district in the county by 1955. (2007)]]></description>
+    <Point><coordinates>-99.340828,33.489112,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Round Timber Baptist Church</name>
+    <description><![CDATA[.5 mi. S of intersection of FM 2374 and FM 1285<br/><br/><b>Address:</b> Seymour<br/><br/><b>Marker Text:</b> The Round Timber community was named by an unknown early settler for a nearby round clump of oaks located near the Salt Fork of the Brazos River. The community became Baylor County's first permanent Anglo settlement when the Stevens, Mills and Hamby families arrived in 1874. By 1879, Round Timber was the home of a store, blacksmith shop and log school, and Alex M. Burnham was appointed as the first postmaster. A church, cotton gin and doctor's office were later added. The community was moved four miles northwest in the mid-1890s. By 1884, non-denominational Sunday services were held in Round Timber. The first written mention of a Baptist congregation was made in church minutes in September 1890. In 1898, the congregation changed its name from Post Oak to Round Timber Church and was later organized as a Missionary Baptist Church. On June 21, 1925, the church was officailly named Round Timber Baptist Church, a name that was retained until the church's closure in the early 1960s. Land was purchased in 1897 by trustees of the Methodist Episcopal Church and a building project that included members of the community from all denominations produced a worhsip facility later that year. Although it is not known when the Methodists stopped holding services, the building was sold to the trusees of the Round Timber Baptist Church in 1934. Church records show consistent activity in support of missions, both foreign and local, as well as support of the Buckner Orphans Home. A community reunion has been held regularly since the 1950s for former citizens and descendants of the community and is now held annually at the Round Timber Cemetery. (2009)]]></description>
+    <Point><coordinates>-99.070704,33.4385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Round Timber Community</name>
+    <description><![CDATA[from Seymour, take SH 114 SE about 8 mi. to FM 1285 S. - follow FM 1285 to FM 2374, and follow FM 2374 South to Round Timber Cemetery.<br/><br/><b>Address:</b> Seymour<br/><br/><b>Marker Text:</b> Named for round clumps of oaks. Pioneered by C. C. (Lum) Mills, 1863, but soon abandoned to Indians, site became the first permanent settlement in Baylor County when reopened in 1874 by T. K. Hamby, C. C. and W. B. Mills, John W. Stevens and Tom Whitworth. Post Office opened in 1879 with A. C. Burnham as postmaster. In school built in 1879, first teacher was Eliza Mitchell. Town had stores, barber and blacksmith shops, 1880s. The church was built by Methodists, 1879, sold to Baptists, 1933. The burial ground, dating from 1870, was deeded 1962 by J. Hop Parker to the cemetery association. Incise on back: Marker sponsored by Harry and Helen Portwood. 1972.]]></description>
+    <Point><coordinates>-99.071513,33.428388,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

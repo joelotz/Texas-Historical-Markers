@@ -1,0 +1,14 @@
+Kinney unmapped markers with NO usable address (3):
+
+  THC 24178: Fort Clark Post Headquarters Building
+    addr: 77 Patton Rd., Fort Clark Springs
+    https://atlas.thc.texas.gov/Details/5000024178
+
+  THC 2895: Kinney County
+    addr: Brackettville
+    https://atlas.thc.texas.gov/Details/5271002895
+
+  THC 18: Old Guardhouse - Fort Clark
+    addr: 4201 Andrews Highway
+    https://atlas.thc.texas.gov/Details/5271000018
+

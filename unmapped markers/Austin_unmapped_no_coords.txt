@@ -1,0 +1,65 @@
+Austin unmapped markers with NO usable address (16):
+
+  THC 13827: Alexander Glenn Family Graveyard
+    addr: Bellville
+    https://atlas.thc.texas.gov/Details/5507013827
+
+  THC 22455: Bednar Family Homestead
+    addr: 7168 Wolff Road, Burton
+    https://atlas.thc.texas.gov/Details/5000022455
+
+  THC 17510: Coshatte Cemetery
+    addr: 5128 Smith Road, Bellville
+    https://atlas.thc.texas.gov/Details/5507017510
+
+  THC 16701: Engelking Cemetery
+    addr: 10569 Schulens Road, Cat Spring
+    https://atlas.thc.texas.gov/Details/5507016701
+
+  THC 16831: Frank Cemetery
+    addr: Bellville
+    https://atlas.thc.texas.gov/Details/5507016831
+
+  THC 18760: Huebner Family Cemetery
+    addr: Hwy 105 North, 5 miles from Industry, Industry
+    https://atlas.thc.texas.gov/Details/5507018760
+
+  THC 3185: Magruder-Cannon-Bryan Home
+    addr: Bellville
+    https://atlas.thc.texas.gov/Details/5015003185
+
+  THC 2885: Mary Theresa Juergens
+    addr: New Ulm
+    https://atlas.thc.texas.gov/Details/5015002885
+
+  THC 11700: McGregor Cemetery (Scottish Presbyterian Cemetery)
+    addr: Nelsonville
+    https://atlas.thc.texas.gov/Details/5015011700
+
+  THC 16287: Meinecke Cemetery
+    addr: 6587 Stokes Road, Kenney
+    https://atlas.thc.texas.gov/Details/5507016287
+
+  THC 24292: Millheim Cemetery
+    addr: 11763 Cemetery Road, Bellville
+    https://atlas.thc.texas.gov/Details/5000024292
+
+  THC 23595: National Cemetery
+    addr: 802 Cemetery Road, Bellville
+    https://atlas.thc.texas.gov/Details/5000023595
+
+  THC 4336: Old Roesler Place, The
+    addr: 12169 Hwy 59 W, Nelsonville
+    https://atlas.thc.texas.gov/Details/5015004336
+
+  THC 17446: Old Travis Cemetery
+    https://atlas.thc.texas.gov/Details/5507017446
+
+  THC 15817: Travis-Pier Cemetery
+    addr: 4188 Old Highway 36, Kenney
+    https://atlas.thc.texas.gov/Details/5507015817
+
+  THC 14655: Vanderwerth Family Cemetery
+    addr: Shelby
+    https://atlas.thc.texas.gov/Details/5507014655
+

@@ -1,0 +1,14 @@
+Colorado unmapped markers with NO usable address (3):
+
+  THC 23419: Colonel Ike T. Pryor
+    addr: Columbus
+    https://atlas.thc.texas.gov/Details/5000023419
+
+  THC 23665: Eagle Lake Masonic Lodge #366
+    addr: Eagle Lake
+    https://atlas.thc.texas.gov/Details/5000023665
+
+  THC 24313: Myrtle Cemetery
+    addr: CR 106, Rock Island
+    https://atlas.thc.texas.gov/Details/5000024313
+

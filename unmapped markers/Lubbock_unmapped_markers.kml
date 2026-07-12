@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Lubbock County — Unmapped Historical Markers</name>
+  <description>THC markers in Lubbock County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Broadway Church of Christ</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1924 Broadway, Lubbock<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-101.858257,33.584524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Citizens National Bank of Lubbock</name>
+    <description><![CDATA[Marker in storage as of May 2013. Was located at 14th and Avenue K.<br/><br/><b>Address:</b> Lubbock<br/><br/><b>Marker Text:</b> The oldest national bank in continuous operation in Lubbock. When this bank was founded on May 5, 1906 (under National Bank Charter No. 8208), Lubbock was a town of 1,500. Citizens National was one of three pioneer banks started 1900-1910 in Lubbock. On opening day, capital stock was $50,000, deposits $13,275, and loans $4,863. First president was George C. Wolffarth; Cashier was A.G. Hunt. Citizens National has served the financial needs of Lubbock longer under its original charter than any other bank in the city. 1970]]></description>
+    <Point><coordinates>-101.848505,33.582438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cora Vance and Vance Hatchery</name>
+    <description><![CDATA[NW corner Clovis Road (Spur 388) and 5th Street | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 503 Clovis Rd., Shallowater<br/><br/><b>Marker Text:</b> Born in Center, Shelby County, on October 26, 1905, hatchery industry pioneer Cora Lee Stapleton was the daughter of Sidney Clay and Kathleen (Gathwright) Stapleton. Growing up on the family farm, she was fascinated by the baby chicks and egg production. Cora met Clinton “Turk” Vance in the Hardy community, ten miles north of Shallowater. They married on October 19, 1929. A month later, Cora and her brother-in-law were involved in a significant car accident in Lubbock, leaving her paralyzed on the right side of her body. Cora slowly regained use of her limbs. Two years later, Cora heard about a farm for sale, and one day when Turk left for work, Cora used her good arm to drive to Lubbock and purchase the property. Turk oversaw their new farm’s cotton crop and Cora began a hatchery, selling eggs locally. In 1938, she entered the commercial hatchery business with 400 chickens and one incubator. Two years later, Cora enlarged and relocated the hatchery to the highway. By 1953, Vance Hatchery produced 180 to 200 dozen eggs a day. 
+  Cora raised white leghorn chickens in-house and hatched only her own eggs, a rarity at the time. She insisted on the highest standards of cleanliness and health for her chickens. She was a member of the Texas Poultry Improvement Association and the American Hatchery and Poultry Federation. She was often the only woman at industry events. Other farmers sought her advice, leading to a radio show and expansion into poultry farm implement sales. By 1965, she was scaling down her business because hatcheries were moving away from West Texas and being undersold by larger enterprises. Cora died on March 25, 1967. The Vance family ran the hatchery until all remaining eggs and assets were sold. The story of Cora Vance is one of independence and determination.
+(2023)]]></description>
+    <Point><coordinates>-101.995124,33.686612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Coronado High School</name>
+    <description><![CDATA[3331 Vicksburg, Lubbock<br/><br/><b>Address:</b> 3331 Vicksburg, Lubbock<br/><br/><b>Marker Text:</b> Opened in 1965. Named for Francisco Vasquez de Coronado, the Spanish explorer who, guided by an Indian known as "The Turk", traversed the Llano Estacado in search of the fabled "city" of Gran Quivira in 1541. The expedition wandered for many days through western Texas, possibly passing the vicinity of Lubbock. 1969]]></description>
+    <Point><coordinates>-101.915273,33.565889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Lubbock</name>
+    <description><![CDATA[2201 Broadway, Lubbock<br/><br/><b>Address:</b> 2201 Broadway, Lubbock<br/><br/><b>Marker Text:</b> Organized in 1891, the First Baptist Church congregation met at the county jail until 1901, when a small church building was built at 13th Street and Avenue G. The church's first pastor was the Rev. J. R. Miller. The Baptist Women's Missionary Society and the Board of Deacons provided leadership during the congregation's early years. Charitable projects were funded by box suppers, ice cream parties, and quilting bees. The congregation called its first full-time pastor, the Rev. B. F. Dixon, in 1905. During his tenure the first parsonage was built and a baptistry was added to the church building. Membership increased in 1925 when Texas Technological College (now Texas Tech University) opened. Personnel from Lubbock Army Air Field (later Reese Air Force Base) and South Plains Army Air Field were welcomed to the church during World War II. By 1951 the congregation worshiped at the present location on Broadway and Avenue V. First Baptist Church outreach activities have included missions, radio and television programs, a deaf ministry, a child development center, Oriental and Spanish language ministries, and active involvement with the Southern Baptist Convention. 1991]]></description>
+    <Point><coordinates>-101.864612,33.58396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Idalou Cemetery</name>
+    <description><![CDATA[2 mi. E on US 62/82 and SH 114<br/><br/><b>Address:</b> US Hwy 62 and SH 114, Idalou<br/><br/><b>Marker Text:</b> John William Turner, Jr. and his wife, Mary Alice, deeded two acres of their farm as a burial ground in January 1921. The first burial was for their infant nephew, Weldon Fred Turner, whose grave is indicated by a homemade marker. In May of that year, C.J. and Mary Hallmark buried their infant son C.J., and 13-year-old Mable Gladis Andrews was interred in July. By 1928, when the Turners and Selma Graves donated more land to the burial ground, area residents had formed the Idalou Cemetery Association, with E.T. Daniell, W.M. Weaver and H.W. Lasater serving as the original board members. Over the next decades, the association accepted additional land donations, which increased the cemetery to its present size. Volunteers and families have attended workdays to help maintain the site. Today, the cemetery’s features include curbed plots and numerous upright shoulder stones typical of 20th-century grave marker designs, and the open prairie landscape highlights native plantings. The cemetery is a link to the many generations who have contributed to the history of Idalou. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-101.640035,33.667494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lubbock Auto Auction</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1122 East 34th St., Lubbock<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-101.822528,33.563295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lubbock Baseball and the Hubbers</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 200 N. University Blvd, Lubbock<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-101.870324,33.600517,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lubbock Women's Club</name>
+    <description><![CDATA[<b>Address:</b> 2020 Broadway, Lubbock<br/><br/><b>Marker Text:</b> Starting in 1944, several women’s organizations met to coordinate their community improvement efforts. In February 1945, 22 groups became charter members of the Lubbock Women’s Club. After meeting at members’ homes, Texas Technological College and other sites, the club bought the former Plains Funeral Home building as their headquarters in 1949. Built in 1941 by contractor J.J. McLoen, the two-story, brick veneer building has a full-façade porch and Doric columns. The club has made additions as it has grown, holding its own functions, hosting other events and serving its neighbors and community. Recorded Texas Historic Landmark - 2013]]></description>
+    <Point><coordinates>-101.860357,33.584545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mackenzie Scout Trail</name>
+    <description><![CDATA[(Courthouse Grounds adjacent), intersection of H and Broadway, Lubbock.  Private Marker.<br/><br/><b>Address:</b> Lubbock<br/><br/><b>Marker Text:</b> This marks one route of the Mackenzie Scout Trail extending from Camp Supply, Crosby County to Fort Sumner, New Mexico and used by the Army, 1872-1875, by buffalo hunters, 1876-1878, and by cattlemen 1878 until the fencing of the range. Erected by Nancy Anderson Chapter, N.S.D.A.R. 1936. This block of granite is from the wall that encloses the grave of Nancy Anderson, 1750-1827, near Chester, S.C.]]></description>
+    <Point><coordinates>-101.845361,33.585413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miss Mae Murfee</name>
+    <description><![CDATA[On Murfee Elementary School, 6901 Nashville Drive, Lubbock<br/><br/><b>Address:</b> 6901 Nashville Drive, Lubbock<br/><br/><b>Marker Text:</b> Pioneer Lubbock teacher; prominent civic and church leader. Born in Haskell County; daughter of J. E. and Sarah Murfee. First taught in Lubbock County schools in Slide community, 1905; was principal there. Entered Texas Woman's University 1909; earned degree; did graduate work later. Was first woman principal of Lubbock Junior High in 1914. With her own books, she began city's first high school library, 1916; head of Lubbock High School History and Government Department many years; obtained state credits for these and other courses. Introduced visual aids, buying her own equipment; made other innovations. She worked to bring Texas Tech to Lubbock, 1925. As county superintendent of education, 1928 to 1936, she standardized all schools. Her resolute philosophy was: "Every boy and girl may be saved to useful citizenship if the right person is there at the right time...the parent or the teacher". Active in Texas Federation of Women's Clubs, historical groups and other endeavors, she gave talents to public service throughout lifetime (Aug. 21, 1888-Dec. 31, 1965). This school is named in her memory. 1969]]></description>
+    <Point><coordinates>-101.893079,33.532114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mollie Abernathy</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1102 Broadway, Lubbock<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-101.846897,33.584542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sagmor Vineyard</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1801 E CR 7130, Lubbock<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-101.816752,33.514249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Triumph Missionary Baptist Church</name>
+    <description><![CDATA[Triumph Missionary Baptist Church, SW corner S. Johnson and E. Geneva streets | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 905 S. Johnson St., Slaton<br/><br/><b>Marker Text:</b> In the late 1920s in the house of “Sister” Mecca Davis, Triumph Missionary Baptist Church organized as the second historically African American church established in Slaton. The city, created in 1911 by the Santa Fe Railway, experienced rapid growth, accompanied by increasingly tense racial relations. On October 19, 1929, Triumph Missionary Baptist Church formed with a focus on community outreach and spiritual togetherness, seeking to provide hope to its community. In January 1930, the Reverend J.L. Mann became pastor. Other notable members throughout the church’s history include the Reverend Anderson, “Sis” Rebecca White and the Reverend M.A. Brown.
+  Early church services were held in homes, and soon the congregation moved to the African American Evans School. In 1932, Lithuanian Jewish refugee Abe Kessel donated a house to the church. This home would serve as the center of the church as it expanded. Later, a building was added to the west side of the existing facility. It is believed by church members that the name “missionary” was added to the church’s title in 1949 when a women’s mission was formed. Despite the discrimination it faced as a “colored church,” Triumph Missionary Baptist Church made efforts to include the entire community. Triumph hosted vacation bible schools, jamborees, and choir performances. In 1965, the first “federational choir singing” was held and promoted by the Rev. Brown, who hoped to create a “spiritual fellowship” by banding together several churches in the community. In 1968, the Slaton neighborhood improvement council organized and elected the Rev. M. A. Brown as its chairman, a testament to the church’s impact on its community.
+(2023)]]></description>
+    <Point><coordinates>-101.626890,33.431015,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+Hunt unmapped markers with NO usable address (7):
+
+  THC 7833: Captain Henry W. Wade
+    addr: Quinlan
+    https://atlas.thc.texas.gov/Details/5231007833
+
+  THC 12089: Clinton Cemetery
+    addr: Caddo Mills
+    https://atlas.thc.texas.gov/Details/5231012089
+
+  THC 15399: Methodism, Centennial of
+    addr: Commerce
+    https://atlas.thc.texas.gov/Details/5507015399
+
+  THC 24306: Mt. Zion Baptist Church
+    addr: 1700 Bois D Arc, Greenville
+    https://atlas.thc.texas.gov/Details/5000024306
+
+  THC 12092: Roberts
+    addr: Quinlan
+    https://atlas.thc.texas.gov/Details/5231012092
+
+  THC 12094: Stewart Cemetery
+    addr: Commerce
+    https://atlas.thc.texas.gov/Details/5231012094
+
+  THC 15028: Sullivan Cemetery
+    addr: Campbell
+    https://atlas.thc.texas.gov/Details/5507015028
+

@@ -1,0 +1,78 @@
+Washington unmapped markers with NO usable address (19):
+
+  THC 15637: Allcorn-McNeese Cemetery
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015637
+
+  THC 14682: Amos Gates
+    addr: Washington
+    https://atlas.thc.texas.gov/Details/5507014682
+
+  THC 15324: Anson Jones Home
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015324
+
+  THC 15329: Armistead, Robert Starke (grave marker)
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015329
+
+  THC 16115: Baylor University State Park
+    addr: Independence
+    https://atlas.thc.texas.gov/Details/5507016115
+
+  THC 12285: Birthplace of Hedwig T. Kniker
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5477012285
+
+  THC 22781: Cegielski Cemetery
+    addr: 6200 Chadwick-Hogan Rd., Chappell Hill
+    https://atlas.thc.texas.gov/Details/5000022781
+
+  THC 22556: Farquhar Cemetery
+    addr: 7331 Lone Star Rd., Washington
+    https://atlas.thc.texas.gov/Details/5000022556
+
+  THC 18028: Fritz Paul and Emma Schroeder House
+    addr: 9799 Palestine Road, Independence
+    https://atlas.thc.texas.gov/Details/5507018028
+
+  THC 14253: George Clark Red Homestead
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507014253
+
+  THC 18280: Harmon School
+    addr: Burton
+    https://atlas.thc.texas.gov/Details/5507018280
+
+  THC 24317: Krueger Cemetery
+    addr: Krueger Road, Washington
+    https://atlas.thc.texas.gov/Details/5000024317
+
+  THC 15148: Mill Creek Farm
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015148
+
+  THC 22516: Motley-Cummings Cemetery
+    addr: 7145 Gibbs Creek Rd., Chappell Hill
+    https://atlas.thc.texas.gov/Details/5000022516
+
+  THC 15054: Mt. Calvary Cemetery
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507015054
+
+  THC 14398: The Brown-Woodlief Log House
+    addr: Washington
+    https://atlas.thc.texas.gov/Details/5507014398
+
+  THC 17032: The Hunt-Hardy House
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507017032
+
+  THC 15404: The Hutchinson-Korth Home
+    addr: Washington
+    https://atlas.thc.texas.gov/Details/5507015404
+
+  THC 17540: Whiting Cemetery
+    addr: 10251 Lone Star Rd, Brenham
+    https://atlas.thc.texas.gov/Details/5507017540
+

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Houston County — Unmapped Historical Markers</name>
+  <description>THC markers in Houston County without an HMDB id (isMissing excluded). 88 with THC coords; 0 geocoded from address; 29 omitted (no usable address).</description>
+  <Placemark>
+    <name>A. E. Gossett Home</name>
+    <description><![CDATA[from Crokett take SH 21 east about 1.7 miles<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> House of typical southern plan, with separate kitchen in back yard, Built 1835 by A. E. Gossett, owner of large land grant from Mexico. An early 1836 visitor was former Tennessee neighbor, Col. David Crockett, on his way to the Alamo, and camping with his company for a night at the spring nearby.]]></description>
+    <Point><coordinates>-95.432275,31.331404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Aaron Lowery</name>
+    <description><![CDATA[7.2 miles southeast of Kennard in Old Ivie Cemetery<br/><br/><b>Marker Text:</b> (1814 -- December 6, 1888) Born in Kentucky, lived in Tennessee and Louisiana before entering Texas in 1835; shortly thereafter joined Texian Army, enlisting in Capt. George English's Company at the same time as did Sam Houston. The company saw action in the Battle of Bexar. Married Miss Louisa English, cousin of George English, 1848, in Panola County; Moved to Trinity County about 1851. The couple had 10 children.]]></description>
+    <Point><coordinates>-95.128004,31.285976,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Alfred M. Hallmark</name>
+    <description><![CDATA[Shady Grove Cemetery, 10 miles southeast of Crockett on US Hwy 287<br/><br/><b>Marker Text:</b> (June 19, 1817 -- April 16, 1880) A veteran of the Texas War for Independence, Alfred M. Hallmark was a native of Madison County, Alabama. He came to Texas in 1834 with his parents and settled in present Houston County. He enlisted in the Texas Army on March 6, 1836, and fought in the Battle of San Jacinto, April 21, 1836. A pioneer farmer, he helped operate the post office in the Mustang Prairie Community. In 1842 he married his cousin Sarah Hallmark (b. 1826). They had twelve children. (1978)]]></description>
+    <Point><coordinates>-95.32592,31.236427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>All Saints Episcopal Church</name>
+    <description><![CDATA[at corner of Viewcrest and Houston in Crockett<br/><br/><b>Address:</b> 130 E. Houston Ave., Crockett<br/><br/><b>Marker Text:</b> Bishop G.W. Freeman began work of this faith in Crockett, April 19, 1850. All Saints was founded Oct. 1, 1864, by Bishop Alexander Gregg. Special ministry brought many slaves into the parish. A church was built on lot given by A.T. Monroe, nephew of fifth U.S. President, but by 1867, the church building had been lost (possibly in a fire) and local economy was in ruins as result of Civil War. With layreaders and part-time or visiting priests, worship was held in homes for many years. Reactivated in 1947, All Saints built a second church in 1958. (1972)]]></description>
+    <Point><coordinates>-95.460174,31.318433,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Andrew Edwards Gossett</name>
+    <description><![CDATA[corner of 5th and Lamar (City Hall in Crockett)<br/><br/><b>Address:</b> 5th and Lamar, Crockett<br/><br/><b>Marker Text:</b> (July 19, 1812 -- March 24, 1890) Donor of land for city of Crockett. After Houston County was created on June 8, 1837, from territory of Nacogdoches, a centrally-located county seat was provided by donation of this townsite by Gossett from his colonist's grant.]]></description>
+    <Point><coordinates>-95.460956,31.315543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Andrew Edwards Gossett</name>
+    <description><![CDATA[Davy Crockett Memorial Park in Crockett<br/><br/><b>Address:</b> Beasley Memorial Drive, Crockett<br/><br/><b>Marker Text:</b> (1812-1890) Noted public official and soldier in Republic of Texas. Moved here from Tennessee in 1833 with wife Rhoda (Mulder); received large land grant from Mexico. Helped defend frontier in restless post-revolutionary period by serving in Texas Army. In 1836 he donated land for a townsite, naming it for his long-time family friend Day Crockett -- soon to be a martyr at the Battle of the Alamo. Gossett later served as peace officer and county judge. By first wife he had nine children. By second wife, Mary Margaret (Murchison), he had two.]]></description>
+    <Point><coordinates>-95.454905,31.308651,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Antioch Cemetery</name>
+    <description><![CDATA[5 miles southwest of Lovelady on FM 230<br/><br/><b>Address:</b> FM 230, Lovelady<br/><br/><b>Marker Text:</b> Originally called Neville's Prairie Cemetery, this graveyard was renamed Antioch Cemetery in 1890 when the Village of Neville's Prairie became known as Antioch after a post office was established. The community had disappeared by the 1930s. The earliest documented burial in the cemetery is that of David Houston (1801-1870). Included among the more than 1,000 graves are internments of slaves and pioneer settlers. Maintained by the Antioch Cemetery Association, this graveyard stands as a reminder of Houston County's early history. (1988)]]></description>
+    <Point><coordinates>-95.504452,31.096444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Arbor Community</name>
+    <description><![CDATA[9.2 miles east of Crockett on SH 7, then  3.5 miles on FM 232<br/><br/><b>Marker Text:</b> Colonists led by Empressario Joseph Vehlein received Mexican land grants in this area in the late 1820s and 1830s. Growth, however, did not begin in earnest until after the Civil War when immigrants from the war torn states moved here to take advantage of the expanding cattle and cotton industries. Residents of nearby Pleasant Grove and Shady Grove erected a brush arbor nearby in the 1880s which served as a church and school. A general store, barber shop, blacksmith shop, grist mill, cotton gin, woodman hall, and shingle mill were established, and in 1901 the rural community was granted a post office named "Arbor" which continued until 1906. Jobs created by the Four C Lumber Mill and logging operation spurred a local economic boom from 1910 to 1925. The economy suffered during the 1930s depression, but rebounded as projects of the Federal Civilian Conservation Corps (CCC) and Works Progress Administration (WPA) provided jobs for many residents in the late 1930s. The Arbor School (est. 1900) burned in 1940 and was discontinued. In 1941 Arbor had 89 residences and the 155-member Rhodes Chapel Baptist Church (est. 1897). Arbor began losing residents to nearby cities during World War II. Later residents were engaged primarily in ranch and farm activities.]]></description>
+    <Point><coordinates>-95.29747,31.295638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Balis Edens Cemetery</name>
+    <description><![CDATA[7.2 miles west of Grapeland on FM 1272 to intersection with CR 2235<br/><br/><b>Address:</b> Grapeland<br/><br/><b>Marker Text:</b> Balis Edens was born in 1805 in South Carolina, the son of John Edens and his wife Lavinia Langford. The family moved to Texas in 1831, and in 1834 John Edens received a league and labor of land in the David G. Burnet colony. Balis Edens had remained in Louisiana, but followed his family to Texas in 1838. In 1839, he joined Captain James Cleveland's company of mounted rangers and later returned home where he farmed and built and repaired cotton gins. He married Elizabeth Thompson Grigsby in 1842; she died in 1843. Edens then married Ruth Ann Grigsby. When John Edens died in 1857, Balis Edens inherited land on Elkhardt Creek in Houston County and moved there with his family. The Balis Edens Cemetery was established on the land with the burial of Balis and Ruth Ann Edens' son, Isaac Newton Edens, in 1873. Later that year Balis Edens died and was buried in the cemetery. Also interred there are Vivian Edens, 1875; Luvinia Edens Beazley, 1876; John M. Edens, 1877; Sarah Matthews Edens, 1878; Rebecca Matthews Edens, 1882. The last recorded burial was that of Ruth Ann Grigsby Edens in 1884. The site is maintained by members of the Edens Family Association. (1997)]]></description>
+    <Point><coordinates>-95.580424,31.519935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Beasley Drive</name>
+    <description><![CDATA[Beasley Memorial Drive, Davy Crockett Park<br/><br/><b>Address:</b> Beasley Memorial Drive, Crockett<br/><br/><b>Marker Text:</b> Named for Crockett Mayors: Dr. S.T. Beasley (1840-1916), John Gordon Beasley (1888-1959), and Jack Gordon Beasley (1916-1967). In office 1897 to 1901, Dr. Beasley led in creation of Crockett Independent School District, put gas lights on court square. His son "Big Jack" (Mayor 1936-40, in Texas Centennial era) saw creation of David Crockett Park and Memorial Building as fulfillment of dreams. Following lead of grandfather and father, Jack Gordon Beasley (Mayor, 1954-60) led in expansion of lighting and other physical improvements. Besides their mayor programs, each achieved other civic goals.]]></description>
+    <Point><coordinates>-95.453035,31.308236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bethel Missionary Baptist Church</name>
+    <description><![CDATA[<b>Address:</b> 900 N. 6th St., Crockett<br/><br/><b>Marker Text:</b> This congregation began worshiping together in 1865 under a brush arbor on property owned by its founding pastor, the Rev. Phillip Burrell. In 1877, Phillip and Jane Burrell deeded one acre of their land at this site to the trustees of Bethel Missionary Baptist Church. After additional land was purchased, the congregation constructed a permanent house of worship here in 1894, under the leadership of the Rev. Martin Reece (1859-1942), who served the church as pastor for 59 years. During the pastorate of the Rev. W. D. Dowe (1893-1957), a new brick church was built in 1952 to house the growing congregation. Growth continued under the leadership of the Rev. J. H. Holland (1901-1969) from 1958 to 1961 and the Rev. T. H. Foster (1914-1975) from 1962 to 1968. The congregation expanded its ministries in the latter half of the 20th century to include community service, education, Sunday morning television broadcasts and outreach over the Internet. Bethel Missionary Baptist Church has sponsored a number of its members for the ordained ministry. The congregation added a fellowship hall and education building in 1992. Members of this church have included Crockett civic leaders, educators and public officials. A significant part of the community's social and religious history, Bethel Missionary Baptist Church retains the ideals and traditions of its founders while looking to the future for growth and expansion. (2001)]]></description>
+    <Point><coordinates>-101.210623,30.713559,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bobbitt Cemetery</name>
+    <description><![CDATA[Between Grapeland and Augusta, on FM 227;  near community labeled Refuge on USGS map<br/><br/><b>Address:</b> FM 227, Grapeland<br/><br/><b>Marker Text:</b> Bobbitt Cemetery Established 1876 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-95.413342,31.497305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cannon-Stanton House</name>
+    <description><![CDATA[138 South Grace, Crockett<br/><br/><b>Address:</b> 138 South Grace, Crockett<br/><br/><b>Marker Text:</b> Built around 1885 for William and Anna Cannon, this farmhouse was purchased in 1907 by Joe Brown Stanton (1861-1940). A native of Houston County, Stanton was active in civic, fraternal, and religious organizations. The area surrounding the house originally contained additional structures, including a large barn, smokehouse, well, and cistern. The house is a fine example of the once-typical vernacular farmhouses of 19th-century East Texas.]]></description>
+    <Point><coordinates>-95.442217,31.317791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedar Branch Community and Church</name>
+    <description><![CDATA[12 miles west of Grapeland on FM 227, then 2.5 miles on  CR 2210<br/><br/><b>Marker Text:</b> Cedar Branch began in the 1860s as a settlement of freedmen. John Smith (1809-1890) and Anna Jane Pouncy Smith (1811-1874) deeded a parcel of their cotton plantation to each of their former slaves. The freedmen organized a church in 1862 and built a sanctuary in 1864. Levi Leonard chose the name Cedar Branch for the community. He and Alonzo Campbell selected a cemetery site. By 1888 a school was established, and classes were held in the church building. In 1952 it became part of the Grapeland School District. The church continues to serve as the focus of this community.]]></description>
+    <Point><coordinates>-95.694437,31.437061,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedar Branch Community School</name>
+    <description><![CDATA[14.6 mi. W of Grapeland on FM 227<br/><br/><b>Address:</b> 14.6 mi. W of Grapeland on FM 227, Grapeland<br/><br/><b>Marker Text:</b> Cedar Branch Community School The first written record of a school for the children of Cedar Branch appears in the Houston County Judge's Report of 1888. When the members of Cedar Branch Church constructed a new sanctuary in 1895, they donated the previous church building for use as a schoolhouse. By 1911, Cedar Branch had been designated as Common School District No. 8, and a two-room schoolhouse was later built on this site with support from the Julius Rosenwald Fund. In 1952, along with other nearby schools, Cedar Branch Community School District consolidated with Grapeland Independent School District. Long a focal point of the community, Cedar Branch School remains important to the area's heritage. (2002)]]></description>
+    <Point><coordinates>-95.690923,31.439228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Center Hill</name>
+    <description><![CDATA[3.5 miles west of Kennard on Sh 7, then 2.2 miles north on FM 1733<br/><br/><b>Marker Text:</b> Early settlers in this part of Houston County established homes in the nearby communities of Corinth, Old Zion, and Randolph. Community life centered around farming and church activities. Settlers met together for worship at the Methodist Episcopal Church, South, in Corinth. A building erected there in the late 1850s served as both church and school for the surrounding communities until it was destroyed by fire in 1881. Sensitive to the need for a new church structure to serve area residents, George W. and Loucetta A. Julian donated three acres at this site in 1883 for a new Methodist church building. Because of its central location, it was named Center Hill. A community school, named Center Ridge, also met in the church building. A separate school structure was erected one mile northeast in 1914 and continued in service until 1935, when the school was merged with the Kennard School District. Center Hill maintained its ties to the earlier communities, and area citizens continue to use the cemetery established at Corinth in 1864. Descendants of early settlers remain in the area.]]></description>
+    <Point><coordinates>-95.247016,31.379853,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chaffin Cemetery</name>
+    <description><![CDATA[Grapeland, 4 mi. N on CR 2300, S of intersection with CR 2330<br/><br/><b>Address:</b> CR 2300 at CR 2330, Grapeland<br/><br/><b>Marker Text:</b> Chaffin Cemetery Established c. 1840s Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-95.523672,31.534145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Colonel David Alexander Nunn</name>
+    <description><![CDATA[Glenwood Cemetery<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (Oct. 1, 1836 - Aug. 13, 1911) Mayor of Crockett, 1859. In Civil War (1861-65) led Co. I, 4th Texas Cavalry. Member, Constitutional Convention of 1875. Recorded - 1973]]></description>
+    <Point><coordinates>-95.460242,31.321203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Community of Fodice</name>
+    <description><![CDATA[from Crockett southeast on U.S. Hwy 287 15 miles to Fodice Cemetery Road; then west on cemetery road 4.6 miles to intersection of CR 4200 and CR 4255<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-95.302627,31.172339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Community of Tadmor</name>
+    <description><![CDATA[FM 227 from Ratcliff 3.5 miles to CR, then west on CR .5 mile<br/><br/><b>Marker Text:</b> Permanent settlement in this area began in the 1830s on land that was part of the Joseph Vehlein Colony. Located in a dense East Texas pine forest, the name of the community comes from a biblical reference to "Tadmor in the Wilderness." A post office was established in 1885 and continued until 1914. A school was founded near this site in 1889. Most of the early settlers were farmers, although the timber industry had become a major employer by the end ot the 19th century. Members of the Tadmor Baptist Church have worshipped at this site since 1900.]]></description>
+    <Point><coordinates>-95.181818,31.427792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Concord Cemetery</name>
+    <description><![CDATA[8 mi. E on SH 7, 0.5 mi. N on CR 1030<br/><br/><b>Address:</b> CR 1030, Crockett<br/><br/><b>Marker Text:</b> In July 1889, Armistead Albert Aldrich donated three acres of land to the Concord Presbyterian Church for a church lot and graveyard. J.C. Dudley and David T. Adair were ordained church elders, and Dudley's burial in 1895 was the cemetery's first. Gravestones memorialize dozens of local surnames, as well as fraternal organization members and military veterans. In 1963, the Presbyterian church conveyed the land to trustees of the Concord Cemetery Association, which maintains this wooded burial ground. Association bylaws state that lots are reserved for members or descendants of those already buried here and cannot be sold. Of the more than 100 burials, nine are unmarked graves. Historic Texas Cemetery - 2006]]></description>
+    <Point><coordinates>-95.316248,31.350012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Congressman Nat Patton</name>
+    <description><![CDATA[Evergreen Memorial Park near intersection of US Hwy 287 and SH 19<br/><br/><b>Address:</b> US Hwy 287 &amp; SH 19, Crockett<br/><br/><b>Marker Text:</b> (Feb. 26, 1881 -- July 27, 1957) Native of Houston County, Nat Patton was known for his custom of addressing both friends and strangers as "cousin". After teaching school for a number of years, he opened a law office in Crockett. He served as county judge, state representative, and state senator before winning election to the U.S. Congress from the 7th district. His colorful congressional career spanned a decade, 1935-1945. A longtime mason, Patton married Mattie Taylor and had four children.]]></description>
+    <Point><coordinates>-95.462024,31.329935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cornith Cemetery</name>
+    <description><![CDATA[1 mile northwest of Kennard on CR 1075<br/><br/><b>Marker Text:</b> Corinth Cemetery stands as a reminder of Houston County's pioneer heritage. It is the last remaining evidence of several Houston County settlements, including Corinth, a community that built up near a Methodist Episcopal church and school in the late 1850s. The cemetery has served as a final resting place for residents of Corinth, Old Randolph, Old Zion, Kennard and Center Hill. Although the oldest documented grave dates to 1864, burials probably occurred here as early as the 1850s. The Corinth Cemetery Association has cared for the graveyard since the 1940s.]]></description>
+    <Point><coordinates>-95.211857,31.367188,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dalys/Dailey Community Cemetery</name>
+    <description><![CDATA[8.6 miles west of Grapeland on FM 227, then .5 mile south on CR 2225<br/><br/><b>Marker Text:</b> The pioneer Daily family and others founded the Dalys Community in the 1850s. When Ethalinda Meriwether, wife of Dr. Francis Lewis Meriwether, died in 1876, Charles B. Dailey and his sister and brother-in-law, Emma Catherine and James A. Hill, gave land for a community cemetery. In addition to the families of the Dalys/Dailey Community, the cemetery also served residents of nearby Reynard. Those interred here include veterans of the Civil War, World War I and World War II. The name was officially changed to Dailey Community Cemetery in 1981.]]></description>
+    <Point><coordinates>-95.589245,31.451578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Daniel McLean_John Sheridan</name>
+    <description><![CDATA[Augusta, south side of FM 227 between CR 1560 and CR 1685<br/><br/><b>Address:</b> FM 227, Weches<br/><br/><b>Marker Text:</b> Daniel McLean (1784 - May 10, 1837)_John Sheridan (April 5, 1796 - May 10, 1837) This area's earliest settlers; from North Carolina. McLean came to Texas in 1813 with Guttierez-Magee expedition, seeking to free Mexico from Spain. Returning when Austin opened Texas to Anglo-American colonization, he took up land in 1824 on San Pedro Creek (east of here); His brother-in-law John Sheridan settled on Silver Creek (300 yds. N). Near site of present Slocum (12 mi. NW) they were both killed by Indians while pursuing stolen horses. Mrs. Sheridan, with help of a boy, brought back the bodies. Each man was buried on his own land. (1971)]]></description>
+    <Point><coordinates>-95.331458,31.531464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Daniel-Merriwether House</name>
+    <description><![CDATA[From SH 7 east in the City of Kennard, take a left on Julia Street and go  .2 tenths of a mi. The street dead ends at the Daniel-Rowe House.<br/><br/><b>Address:</b> 712 Julia Street, Kennard<br/><br/><b>Marker Text:</b> Isaac Adair “Ike” Daniel (1864-1924) was a prominent businessman and politician in the Kennard and Crockett area. He held the office of sheriff in Houston County from 1892 to 1894 and owned real estate and a variety of businesses such as a general store, gristmill, cotton gin and sawmill. Among his business ventures, Daniel helped build a telephone line from Crockett to Coltharp and opened a large mercantile store in Kennard, selling everything from farm and ranch equipment to home goods and funeral supplies. He also served as a representative of the Texas legislature from 1905 to 1907, 1907 to 1909, and 1920 to 1921. In January 1905, Ike Daniel married Ruth King (1875-1966). That same year, he purchased one acre of land from the Louisiana and Texas Lumber Company and began construction of this home. Built with pine lumber from the 4C Mill, this early Victorian farmhouse served as the Daniel home until 1909 when the Daniels sold the property and moved to Crockett. In 1912, James Creath “Jim” Merriwether (1881-1975) and his wife, Georgia Brown Merriwether (1886-1968), purchased the property and made it their home for over fifty years. The home at that time consisted of four large bedrooms, two large open-hearth fireplaces, a high-pitched roof and a wide wrap-around porch that encircled the east and south sides. In addition to the house, the property contained a smoke house, several barns and corncribs, and two garages. Many of the original features of the home including the gingerbread trim and the outbuildings remain. This historic home is a testament to the early development of Kennard.]]></description>
+    <Point><coordinates>-95.181144,31.361044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Davis Cemetery</name>
+    <description><![CDATA[3 mi. E of Grapeland on CR 227<br/><br/><b>Address:</b> Grapeland<br/><br/><b>Marker Text:</b> Established Ca. 1862 Historic Texas Cemetery - 2009]]></description>
+    <Point><coordinates>-95.430845,31.504143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Davy Crockett Memorial Park</name>
+    <description><![CDATA[Beasley Memorial Drive, Crockett<br/><br/><b>Address:</b> Beasley Memorial Drive, Crockett<br/><br/><b>Marker Text:</b> Davy Crockett Memorial Park dedicated June 12, 1937 City of Crockett, Texas named for Davis Crockett and incorporated by the Republic of Texas Dec. 29, 1837 ------- Houston County named for General Sam Houston created by act of the Republic of Texas June 12, 1837 ------- City officials Mayor J.B. Beasley; Councilmen R.L. Shivers, H.O. McCarty, C.L.. Edminsten, W.E. Keland, B.O. Perdue]]></description>
+    <Point><coordinates>-95.454923,31.309327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Denson Cemetery</name>
+    <description><![CDATA[2 miles west of Grapeland on FM 2423, then north on CR 1845 about .5 mile<br/><br/><b>Marker Text:</b> Joseph Denson (1823-89) came to Texas from Alabama with his family in the 1830s. They were among the Predestination Baptists who settled in Houston County with the Church's founder, Elder Daniel Parker. Joseph married Caroline L. (Houston) (1836-1918), niece of Sam Houston, about 1851, and they had eleven children. He set aside 1.5 this acres from his farm for a family burial ground and was the first to be interred here with a marked headstone. Two additional acres were deeded to the cemetery in 1977. The annual Denson family homecoming is held here.]]></description>
+    <Point><coordinates>-95.438593,31.482694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Druso</name>
+    <description><![CDATA[Davy Crockett National Forest, 5.8 mi. E of Ratcliff, SH 7 at Forest Service Road 511. Marker reported missing Jan. 2008. Map dot approximate.<br/><br/><b>Address:</b> SH 7, Ratcliff<br/><br/><b>Marker Text:</b> When the Four-C Company built a large sawmill in nearby Ratcliff in 1900, the Eastern Texas Rail Line was built through the area for shipping. Druso was the only stop on the rail line between the Four-C mill and Lufkin, and changed from a farming to a logging boom town. Druso included a post office, cotton gin, general store, blacksmith and saloon. Children attended nearby Mt. Pisgah School. In 1920 the mill closed, the rail line was abandoned, and the town declined. Much of the land became part of the Davy Crockett National Forest in 1935. (1997)]]></description>
+    <Point><coordinates>-95.039896,31.388873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eastham Prison Farm</name>
+    <description><![CDATA[16.5 miles southwest of Lovelady on FM 230<br/><br/><b>Address:</b> Lovelady<br/><br/><b>Marker Text:</b> The Eastham family purchased a 12, 790 acre plantation in 1891. Property was leased soon afterward to the Texas State Prison System for farming on a shared basis. The landowner supplied seed, machinery, tools and mules, while the state provided labor to plant, tend and harvest the crops. The state received 60 percent of the cotton and 50 percent of the sugar cane. The state bought the land in 1915 after the death of Mrs. Delha Eastham. Eastham Prison Farm was among the first to construct a maximum security building in 1919. The state ferry, erected in 1920 by convict labor, crossed the Trinity River into Madison County. Prisoners used picks and shovels to cut into the steep river banks to build a road wide enough for wagon travel. Unrest among the prisoners was curtailed when noted penologist O.B. Ellis, General Manager of the prison system including Eastham, ushered in more progressive treatment of the inmates. Advancements included improved living and working conditions, introduction of a library, gymnasium, craft shop and chapel, and an education program. Eastham continues to be a major part of the state's prison system. Community benefits include improved roads and a source of employment.]]></description>
+    <Point><coordinates>-95.591789,30.968579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Enon Cemetery</name>
+    <description><![CDATA[5.8 miles east of Ratcliff on SH 7, then 2 miles south on CR 4740<br/><br/><b>Marker Text:</b> This cemetery was established in the late 1880s in association with Enon Baptist Church. A one-room church building was also used for a public school. The first person buried here was a child named Becky Freeman, who died in 1882. The church building was destroyed in a forest fire in 1890. A tabernacle on the site was used for worship services until the turn of the century. A cemetery association was formed about 1950, and in 1960 a small headstone was placed on the previously unmarked grave of Becky Freeman. Those buried here include many descendants of area pioneer William McComb.]]></description>
+    <Point><coordinates>-95.080267,31.365719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Evergreen Cemetery</name>
+    <description><![CDATA[6.6 miles northeast of Grapeland on FM 228, then north on FM 2022 1 mile to cemetery road, then west .2 mile<br/><br/><b>Marker Text:</b> A rural community of farming families once existed in this area. Known as Evergreen, it was named for the numerous evergreen trees in the vicinity. A small school and church building provided a gathering place for the community. Land given for the school in 1879 by early settlers R.T. and Susan Lively also became the site of a community graveyard. The earliest known burial to occur here was that of Philip Pipkin (1817-1886). Others interred in the cemetery include descendants of the Lively and other pioneer families.]]></description>
+    <Point><coordinates>-95.409028,31.560473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Christian Church of Crockett</name>
+    <description><![CDATA[corner of Mimosa and Gordon in Crockett<br/><br/><b>Address:</b> 200 Gordon Drive, Crockett<br/><br/><b>Marker Text:</b> Members of this congregation met for abut two years before they were formally organized in 1901 under the leadership of the Reverend Harry Hamilton. A wood sanctuary built in 1901 served the congregation until 1949, when a larger brick church edifice was erected. A fellowship hall was added in 1960. Membership dropped in 1975, and ministerial students conducted worship services. By 1979 church membership tripled and a new fellowship hall was built. The congregation supports many domestic and foreign mission programs, and continues to serve the community.]]></description>
+    <Point><coordinates>-95.45045,31.319357,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fodice Community School</name>
+    <description><![CDATA[from Pennington (Trinity County) west on Fodice Road .2 miles to Fodice Cemetery Road on U.S. Hwy 287; west on cemetery road 4.4 miles<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> The Fodice Community School began in the 1880s and was housed in the local Methodist church until about 1900 when a schoolhouse was built west of the church. Enrollment increased through the years, and in 1938-40 improvements were made to the one-story building through the Works Progress Administration. In 1945 Fodice school was consolidated with the Pennington School District. The population of the town dwindled and in 1960 students from Fodice were transferred to other area schools. The building continues to serve Fodice as a community center. (1997) Incise on base: In Memory of Sabra D. Berry]]></description>
+    <Point><coordinates>-95.300794,31.174185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Frank Mulder Gossett</name>
+    <description><![CDATA[Glenwood Cemetery<br/><br/><b>Address:</b> East Pease Street, Crockett<br/><br/><b>Marker Text:</b> (Aug. 25, 1892 -- Sept. 22, 1974) Houston County native Frank M. Gossett was the grandson of Andrew E. Gossett, Sr., donor of the Crockett townsite. A prominent local historian, Frank Gossett was a founder in 1922 of the Sons of the Republic of Texas, a group that later honored him as a Knight of San Jacinto. He was also a founder and and officer of the San Jacinto Memorial Association, which raised funds for the monument and museum at the San Jacinto battlefield. Recorded - 1984]]></description>
+    <Point><coordinates>-95.460509,31.322163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Franklin Columbus (Peter) Fleeks</name>
+    <description><![CDATA[Jasper Cemetery, 4.3 miles southeast of Crockett on US Hwy 287]]></description>
+    <Point><coordinates>-95.401816,31.283428,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Georgia Camp Baptist Church</name>
+    <description><![CDATA[from Austinio southeast on FM 1280 2 miles to CR 3385, then north .3 mile<br/><br/><b>Marker Text:</b> This congregation and the Community it serves take their names from the early settlers from Georgia who camped on the nearby creek. According to records, the fellowship was founded before 1880. During the 1880s, the congregation sponsored two missionaries, Z.C. and Joe Taylor, from its membership. The members shared a church building with Methodists in the area until they erected their own sanctuary in 1866. Over the years, Georgia Camp Baptist Church has also placed a strong emphasis on music.]]></description>
+    <Point><coordinates>-95.610622,31.16764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Germany</name>
+    <description><![CDATA[intersection of CR 1655 &amp; CR 1650: 10.5 miles east of Crockett on SH 21, then north on CR 1545 .8 mile, then northeast .8 mile to CR 1650<br/><br/><b>Address:</b> Germany<br/><br/><b>Marker Text:</b> Settled by families of former slaves following the Civil War, this community received its name, according to local tradition, in reference to the homeland of the German immigrant family that had settled in the area in the 1830s. Several freedmen, including George Smith, John Burt, Lewis Hall, and Van Benton and their families, obtained pre-emption land grants in the area in the 1870s and 1880s, and soon a close-knit community was formed. Although the Germany community did not have its own post office and never was incorporated formally, its citizens organized the New Pleasant Hill Baptist Church and a public school. The church still serves a loyal congregation. The school held classes in a building shared with the church. It was expanded, possibly with Julius Rosenwald Fund assistance, and continued in operation until 1949. Still a rural community, Germany is home to a few resident families and serves as a gathering place for former residents. Many former citizens are returned here for burial in the community cemetery, which dates to the 1880s. Maintained by citizens and volunteers, the cemetery contains marked and unmarked graves of pioneer settlers and their descendants. (1997)]]></description>
+    <Point><coordinates>-95.356963,31.424535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Givens Homesite</name>
+    <description><![CDATA[3 miles south of Crockett on SH 19<br/><br/><b>Marker Text:</b> Solomon George Givens and his wife Lula (Burleson), both born in Houston County in 1871, were the children of former slaves. They were married in Crockett in 1891, and in 1892 they bought 34 acres of land here. Their farm proved a success and in 1893 they built a large 8-room house at this site. The Givenses were noted for their charity and as leaders in the development of a nearby school and Baptist church; Baptism services took place in a tank on their land. For many years their home was the center of an African-American farming community known as "Givens Hill."]]></description>
+    <Point><coordinates>-95.468988,31.277897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grounds Cemetery</name>
+    <description><![CDATA[from Crockett SH 21 10.5 miles to CR 1545, then north .8 mile to CR 1655, then .2 mile northeast to cemetery<br/><br/><b>Marker Text:</b> George (1803-1860) and Catherine (Rice) Grounds (1810-1880) settled in this area about 1829. Their arrival coincided with that of Catherine's brother, Joseph R. Rice, Sr., who settled his family about 5 miles southwest of this site in 1828. This cemetery was established in 1860 with the burial of George Grounds. By 1883 the graveyard had been legally set aside. It contains mostly Grounds family members and is representative of historic family cemeteries in East Texas. George Grounds' original red sandstone grave marker was replaced with a granite headstone in 1993.]]></description>
+    <Point><coordinates>-95.348994,31.430156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Guiceland Cemetery</name>
+    <description><![CDATA[5.2 miles north of Grapeland on US 287, then .8 mile east on county road<br/><br/><b>Marker Text:</b> This cemetery was established about 1871, when William Guice, infant son of Benjamin and Caston Dania Guice, was buried on family land. The oldest tombstone is that of George W. Brightman (1830-1877). Hundreds of members of the Guiceland Community are buried here, including veterans of the Texas Revolution, the Civil War, World Wars I and II, Korea and Vietnam. A one-room building at the site served as a school and location for funeral services until 1908. A tabernacle built in 1936 was replaced by a new building in 1959.]]></description>
+    <Point><coordinates>-95.479968,31.56652,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hall's Bluff</name>
+    <description><![CDATA[from Loop 304 in Crockett take FM 2076 west .1 mile<br/><br/><b>Marker Text:</b> Maryland native Joshua James Hall migrated to Texas and purchased a land grant in 1839 on the east side of the Trinity River. Hall and his son, James Madison Hall, established a port and ferry on the Trinity River as a shipping point for Houston County settlers. The Community of Hall's Bluff developed around the ferry in the mid-19th century, and included a general store, post office, churches and a school. Unreliable shipping due to weather-related problems and the arrival of the railroad in the 1870s, caused the port to decline and eventually most residents moved away.]]></description>
+    <Point><coordinates>-95.482201,31.315648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harry Frederick Moore</name>
+    <description><![CDATA[Glenwood Cemetery, East Pease Street, Crockett<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (December 15, 1854 -- April 20, 1926) Harry F. Moore began his banking career in Ohio, where he married Anna Laura May in 1885. They moved to Galveston in 1890, then to Crockett in 1891. He assisted in organizing the First National Bank, and in 1904 became president. Serving for 22 years, he set an example for his successors, including two of his sons. He organized banks in nearby towns and was a prominent member of the community, an active church member, and a Mason. Recorded - 1992]]></description>
+    <Point><coordinates>-95.460565,31.322306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Henry Allen Pennington House</name>
+    <description><![CDATA[7 miles west of Grapeland on FM 227, then north on CR 2245<br/><br/><b>Address:</b> Grapelan<br/><br/><b>Marker Text:</b> Built in 1889 as a dog trot cabin with four rooms, this house originally served as the residence of the Henry Allen Pennington family. Houston County native Pennington (1853-1925) and his wife, MAry (Beeson) (1851-1937), had ten children. In 1892, they added a kitchen, dining area, and short hall. The central hallway was enclosed in 1928. The Pennington house is a good reflection of East Texas pioneer architecture. It remained in the family for nearly 100 years.]]></description>
+    <Point><coordinates>-95.589911,31.469637,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill Cemetery</name>
+    <description><![CDATA[9.3 miles south of Kennard on FM 2781, then east on Hill Cemetery Road (CR 4570) 1.4 miles<br/><br/><b>Marker Text:</b> This family cemetery was established in November 1900 when Maxie Gregg Hill (1859-1935) and his wife Mollie (Dominy) (1869-1942) set aside a plot of land on their farm to bury their son, Dudley, who died at the age of four months. Maxie Gregg and Mollie Hill, eleven of their sixteen children and several generations of their descendants are interred in the Hill Cemetery. It has been the site of numerous family reunions over the years. Among the graves here are those of veterans of World War I, World War II, Korea, and Vietnam.]]></description>
+    <Point><coordinates>-95.193188,31.229822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Houston's Mound</name>
+    <description><![CDATA[Mound City community, NE of Grapeland at SW corner of FM 2022 and CR 1709<br/><br/><b>Address:</b> FM 2022, Grapeland<br/><br/><b>Marker Text:</b> At 552 feet above sea level this oblong knoll rises to the highest elevation in the area. Known as Houston's Mound as early as the 1830s, it afforded Native Americans, pioneers, and soldiers a view of the surrounding terrain. William T. Sadler (1797-1884) acquired land here which included the mound in the 1820s. Sadler, San Jacinto battle veteran and a respected land surveyor, is credited with establishing the mound as a survey benchmark. Sadler and a number of other surveyors used the mound to verify boundaries between Houston County and counties to its north and east. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
+    <Point><coordinates>-95.405719,31.575597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ivie Cemetery</name>
+    <description><![CDATA[From Kennard take FM 357 southeast 7 miles to Ivie Cemetery Road, then west 2 miles to Ivie Church Road, then south .5 mile<br/><br/><b>Marker Text:</b> This cemetery began in 1861 with the interment of Henry G. Ivie (b. 1811), an early settler in southeastern Houston County. It is located on property that was part of his holdings in the Stephen English Survey. The site served as a burial ground for residents of a three-county area centered around the Ivie Community. Located adjacent to land once used for school and religious purposes, the cemetery was associated with the Ivie Baptist Church for many years. Today Ivie Cemetery serves as a reminder of early rural settlement and its pioneers.]]></description>
+    <Point><coordinates>-95.128004,31.285976,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Jane Dotson Lively</name>
+    <description><![CDATA[Livelyville Cemetery; 1.3 miles north of Grapeland on FM 228, then 2.5 miles north on CR 1880<br/><br/><b>Marker Text:</b> (July 25, 1822 -- October 10, 1922) A native of Alabama, Jane Dotson Lively came to Houston County in 1850 with her husband Thomas Lively, for whom the surrounding community was named. An active leader of the settlement, she assisted in setting up a church and school on the family land. She was also known for her courage as a pioneer settler, her religious dedication and her influence in the development of Livelyville. Twice married, she was the mother of thirteen children.]]></description>
+    <Point><coordinates>-95.436977,31.541274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Long</name>
+    <description><![CDATA[Glenwood Cemetery, south sector. Marker reported missing Jan. 2018.<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (May 7, 1792 - Oct. 17, 1859) Tennessee native John Long served in the War of 1812 before moving to Texas with his wife, Elizabeth, between 1836 and 1842. He and his sons, Samuel and William, were issued land certificates in Houston County and settled here, becoming involved in the early political and business development of the county. John Long served as the second chief justice (county judge) of Houston County and operated the Long Hotel and a general store on the courthouse square in Crockett. After Elizabeth's death, he married Emily Cash, and they were the parents of three children. Recorded - 2002]]></description>
+    <Point><coordinates>-95.46119,31.321302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Joseph T. Bowman</name>
+    <description><![CDATA[Guiceland Cemetery; 5 miles north of Grapeland on US Hwy 287, then east on Anderson CR 174 .7 mile<br/><br/><b>Marker Text:</b> A native of Illinois, Joseph T. Bowman was the son of Jesse B. Bowman, who died at the Alamo. Arriving in Texas in 1835, Joseph T. Bowman enlisted in a company known as U.S. Provisionals in Nacogdoches. In December 1835 he signed the Goliad Declaration of Independence, which resolved that Texas should become an independent Mexican state. Following the Texas Revolution, he served in the Republic of Texas Army. He and his family settled in this area about 1845. Married to the former Naphania Hardin, Joseph Bowman was the father of ten children.]]></description>
+    <Point><coordinates>-95.480013,31.566654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Lawrence House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 411 Noble St., Lovelady]]></description>
+    <Point><coordinates>-95.442847,31.130059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Liberty Hill Community</name>
+    <description><![CDATA[12 miles east of Grapeland on FM 227, then 1.5 miles north on FM 3016, then right on CR 1597 .5 mile<br/><br/><b>Marker Text:</b> Among the earliest settlers in this area of Houston County were George W. Wilson and his family who came here from Kentucky in 1835. Other early pioneers were John W. Bodenhamer, James and William McLean and William W. Davis. Although a townsite was never platted and a post office was never established, Liberty Hill developed into a rural community. In the late 1880s area settlers organized a school, which was also used for worship services, east of the present church building. The old schoolhouse bell remains in use. Both Baptist and Methodist congregations were organized, and several general stores were in operation at various times. Liberty Hill School was closed in the 1930s. Area children attended classes in Glover and were later transferred to Grapeland. Following the end of World War II, the Community's population began to decline as people moved from rural areas to cities. The first of what would become an annual homecoming celebration was held in June of 1946. A community center, erected in the 1960s, continues to serve the people of the Liberty Hill area. Liberty Hill Community is representative of Houston County's early rural heritage.]]></description>
+    <Point><coordinates>-95.294489,31.560363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Livelyville Cemetery</name>
+    <description><![CDATA[Livelyville Cemetery, 1.3 miles north of Grapeland on FM 228 to CR 1880 (Livelyville Cemetery Road), then north about 2.5 miles<br/><br/><b>Marker Text:</b> South Carolina native Thomas Lively (1812-69) moved to Houston County in 1850. The community that developed around his land was named Livelyville in honor of his family. In the late 1850s he donated this part of his property for use as a cemetery. Headstones date from the 1880s and included those of pioneer area settlers and Lively family members. After the Civil War the Livelys moved to Grayson County, where Thomas died and was buried. His wife Jane (Dotson) Lively (b.1822) later returned to this area and was buried here upon her death in 11922.]]></description>
+    <Point><coordinates>-95.436977,31.541274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McCarter Cemetery</name>
+    <description><![CDATA[from Crockett, 9 mi. NNE on FM 2022, then NNW on CR 1640<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> Born in Pennsylvania in 1813, John McCarter (McCarty) came to Texas in 1832. He married Jane Lasiter in August 1854, and the couple had nine children: Fisher, James, Robert, Mattie, Belle, Mary Susan, Kate, Elizabeth and David Christopher. The family's farmstead was located in this vicinity, where the family also established a cemetery. John (d. 1895) was the first to be interred here, and his grave is marked by a large obelisk. Other early burials included Joe Hopper (d. 1895), Margaret A. Fulgham Luce (d. 1897) and her husband, Isom Cariel Luce (d. 1898), whose gravestone indicates his service in the Civil War. In 1907, Jane McCarter (d. 1909) formally deeded the land as a cemetery for use by the Grounds Schoolhouse community, now known as Jones Schoolhouse community. Today, the cemetery is the final resting place of many McCarter and Luce descendants, as well as descendants of George and Catherine Rice Grounds, for whom the community was originally named. A cemetery association maintains the burial ground, holding annual gatherings to tend to the graves of family members and early area settlers. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-95.398819,31.429756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Milligan Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Latexo<br/><br/><b>Marker Text:</b> Settlers in this area established the Ephesus community and used this site as a burial ground. Also known as Millican Cemetery, the Milligan Cemetery may have been established as early as 1840. The first marked grave, however, dates to 1869 and is that of infant Ella Wall. An earlier gravestone for a female with the name Sterlin (or Sterling) on the marker existed until vandals destroyed it in the late 20th century. Located on the John A. Goolsby Survey, the cemetery is on land once owned by George Washington Marshall, who gave it to his daughter Georga (Marshall) Goolsby. Walter Jackson Patton later purchased the site and donated the burial ground and adjacent road to the community. The cemetery’s site on a rocky hill covered in red clay required much labor from the community to maintain the burial plots, which for many years were mounded. Descendants and friends of those buried here now hold regular work days to care for the cemetery. Today, Milligan Cemetery is an important landmark, the final resting place of early settlers, military veterans and generations of area residents. Historic Texas Cemetery – 2005]]></description>
+    <Point><coordinates>-95.459888,31.418911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mission San Francisco de los Tejas</name>
+    <description><![CDATA[Mission Tejas State Park, near Weches<br/><br/><b>Address:</b> 120 Park Road 44, Grapeland<br/><br/><b>Marker Text:</b> Was founded near this marker May 24, 1690, at the Nabedache (Tejas) Indian Village ----------------- Erected, A. D. 1934, by DeZavala Chapter, Texas Historical and Landmarks Association. ----------------- Located by: Dr. Albert Woldert, Tyler, Texas. Miss Adina DeZavala, San Antonio, Texas Assisted by Mr. J. M. Lovell, Augusta, Texas]]></description>
+    <Point><coordinates>-95.239965,31.548315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mission Santissimo Nombre de Maria</name>
+    <description><![CDATA[4 miles east of Weches on SH 21<br/><br/><b>Address:</b> Weches<br/><br/><b>Marker Text:</b> Was founded in this vicinity summer 1690 "on the banks of the Arcangel San Miguel" (Neches) River. Erected A.D. 1934 by De Zavala Chapter, Texas Historical and Landmarks Association. Located by: Dr. Albert Woldert, Tyler, Texas; Miss Adina De Zavala, San Antonio, Texas. Assisted by Mr. J.M. Lovell, Augusta, Texas.]]></description>
+    <Point><coordinates>-95.168526,31.576092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Pleasant C.M.E. Church</name>
+    <description><![CDATA[15 miles southeast of Crockett on US Hwy 287, then west on Fodice Cemetery Road 3.5 miles to CR 4260 intersection<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> Though Methodist worship had long been organized among area African Americans, the Colored Methodist Episcopal Church of America was founded locally as Mount Pleasant C. M. E. Church in 1885. T. H. Nelms deeded two acres of his former plantation land to church trustees S. Quantrell, J. Oneil, Sr., and A. Berry. The Rev. Peter Steward was first pastor. The Fodice school met in the church building until about 1900. A second building, erected in 1901, served until it was destroyed by a spring tornado in 1941. The Mount Pleasant congregation continues a proud heritage of worship. (1998) Incise on base: In Memory: Louise Jefferson Davis Davis (1927-1995)]]></description>
+    <Point><coordinates>-95.293172,31.181347,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Newton-Norris House</name>
+    <description><![CDATA[<b>Address:</b> 902 East Goliad, Crockett<br/><br/><b>Marker Text:</b> Charles M. and Elizabeth Aldrich Newton had this house built in 1899, but lived in it only five years. It was acquired by Willis A. and Alice Parker Norris in 1909, and in 1838, in accordance with Alice's will, the house became a residence for retired Methodist ministers. It served that purpose until 1970. Outstanding features of the house include its front projecting gable wing with cutaway corners and wraparound porch with turned posts and jigsaw detailing. Recorded Texas Historic Landmark - 1990]]></description>
+    <Point><coordinates>-95.449725,31.317769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Glover Cemetery</name>
+    <description><![CDATA[14 miles east on SH 21 from Crockett, 4 miles on CR 1560  to cemetery road, then .2 mile in cemetery<br/><br/><b>Marker Text:</b> This cemetery originally served pioneer residents of the Glover Community, which began about 1879. The earliest burial was that of Grady Holcomb (1895-96), the infant son of Henry and Amanda Holcomb. Land for the burial ground, a church, and a school was deeded by Arch Sloan in 1895. The schoolhouse, located on the site of the present tabernacle, was used until 1915. Many early settlers are buried here, including J.W. Glover (1831-99), for whom the community was named. Still used, Old Glover Cemetery is the site of an annual homecoming the first Sunday of each May.]]></description>
+    <Point><coordinates>-95.304931,31.505248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old McCann Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 331 Dogwood Lane West, Crockett<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.580170,31.408427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Shiloh Methodist Church and Campground</name>
+    <description><![CDATA[10 miles north of Crockett on FM 2110<br/><br/><b>Marker Text:</b> As early as 1834, was site of worship services conducted by Stephen F. Box (1760?-1844). A log house built about 1848 served as both church and school. A post office opened Jan. 21, 1867; closed Jan 29, 1869. The log building burned in 1869 and services were held on the campground. Division among members caused erection of New Shiloh Church (1 mile SW), which later burned in a woods fire. In 1880, William Calvert Hallmark (1804-1880), son-in-law of Box, willed this property to the old church body. Present structure was started in 1883.]]></description>
+    <Point><coordinates>-95.548572,31.197338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Parker Cemetery</name>
+    <description><![CDATA[9.25 mi. N of Crockett on FM 2022, then 2 mi. E on CR 1545<br/><br/><b>Address:</b> Grapeland<br/><br/><b>Marker Text:</b> Alabama native Joseph A. (also Joe, Jo or Josephus) Parker settled in East Texas by 1847. In October of that year, he wed Nancy Ann Allen in Cherokee County. The Parkers were living in Houston County by 1850, and the 1860 census listed them as having six children. Residents of the Jones Schoolhouse Community, the family used this site as a cemetery for their friends and relatives. The earliest marked graves are for W.R. Norred (d.1864) and Herbert Foard (d. 1869). Nancy’s father, John Allen, and many of his descendants are also buried in the cemetery. Ben Parker, grandson of Joe and Nancy, and his wife, Nannie, officially deeded the land for use as a cemetery in September 1914. At that time, the burial ground became a community cemetery. In the 1960s, hired caretakers moved the red fieldstones that marked many of the gravesites. Oral tradition holds that Joseph Parker is buried in one of the many unmarked graves. Former slaves are also buried here. Today, a cemetery association maintains the burial ground. Cemetery features include large, vertical stone markers and wrought iron fencing. The cemetery preserves the ties between the Parker family and the community. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-95.364824,31.433499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Plain Community</name>
+    <description><![CDATA[4 miles north northeast of Ratcliff off FM 227<br/><br/><b>Marker Text:</b> Led by members of the Conner, McKinney and Drennan families, this East Texas farming community was permanently settled in the 1850s. Named for the "Plain Folks" who lived here, the settlement included a school, church, grist mill, cotton gin, post office and this cemetery, which began in the mid-1850s on the Frederick Conner family land. Residents of the community farmed and worked for the nearby 4-C sawmill operation at the turn of the century. Although never recorded as a townsite, the Plain Community has survived as a reminder of early Houston County history.]]></description>
+    <Point><coordinates>-95.141388,31.437683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pleasant Grove Baptist Church</name>
+    <description><![CDATA[9 miles south of Lovelady on SH 19, then west 4  miles on FM 1893<br/><br/><b>Marker Text:</b> J.M. Russell, one of six original charter members, established this church in 1862. The congregation's first church structure, located about two miles west of here, was the site of Baptist Association organizational meetings in 1866. Fire destroyed the church building in 1866 and the structure that replaced it in 1907. A third church was built at this location in 1911. Originally called the Pleasant Grove Baptist Church of Christ, its name was changed for the second time in 1945 to the Pleasant Grove Baptist Church. It continues to serve the local community.]]></description>
+    <Point><coordinates>-95.469711,31.036587,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Post Oak School</name>
+    <description><![CDATA[3 miles south of Crockett on FM 2712, then 2 mi. S on CR 4020 to intersection with CR 4015<br/><br/><b>Address:</b> 3 miles south of Crockett on FM 2712, then 2 mi. S on CR 4020 to intersection with CR 4015, Crockett<br/><br/><b>Marker Text:</b> A lasting reminder of the importance of educational institutions in the heart of rural East Texas, Post Oak School held its first classes in September 1892 on this site, on property then owned by Stephen Box. It served African-American students in the community and the surrounding area for more than 60 years. Built adjacent to the Mt. Olive Baptist Church, the first Post Oak school building contained the principal's office, a book room, seven classrooms and a kitchen. In 1939, a well-equipped vocational building was completed to house the homemaking and agricultural departments. Students came from as far away as eight miles to attend the ten grades of school offered here. Along with the church, Post Oak School served as a focal point for the community, providing both educational and cultural activities for its neighbors. Opportunities to participate in athletics, drama, music, dance and other social events made the school a vital part of community life. The students often won district championships in various interscholastic league competitions. After World War II, a declining population in the rural area resulted in partial consolidation of Post Oak School with neighboring schools in Lovelady and Crockett. Post Oak closed completely in 1955, but its history remains an important part of the educational record in Houston County. (2002)]]></description>
+    <Point><coordinates>-95.445903,31.238709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Randolph Community</name>
+    <description><![CDATA[Davy Crockett National Forest, SH 7 W of Kennard, 0.3 mi. W of FM 1733<br/><br/><b>Address:</b> SH 7, Kennard<br/><br/><b>Marker Text:</b> (1 mile north) In 1838, Cyrus Halbert Randolph (1817-1889) established the Randolph community on the San Felipe de Austin-Nacogdoches mail route. Randolph, a member of the Snively Expedition, served as Houston County justice of the peace, coroner, chief justice, and sheriff, as well as state legislator and treasurer. The community opened a school circa 1850 and, on June 30, 1858, established the Randolph post office. In 1860, when the community tried to wrest the county seat from Crockett, it had two stores, a blacksmith shop, saloon and barbershop. After losing its bid for county seat, the population slowly declined until the post office closed on September 29, 1881. (1973, 2004)]]></description>
+    <Point><coordinates>-95.245983,31.348384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Read's Opening</name>
+    <description><![CDATA[FM 2110, 2 mi. SW of SH 19<br/><br/><b>Address:</b> FM 2110, Crockett<br/><br/><b>Marker Text:</b> The wide open expanse of land in this area was known to travelers in the 19th Century as an accessible route to and from the Trinity River. A landmark of the early landscape in Houston County, the prairie became known as Read's Opening after Robert Newton and Susan Asbury Moore Read moved here from Arkansas by 1850. The family established their farm at the opening and began to purchase other land in the area. R. N. Read also took ownership of several commercial operations in Crockett, including a mercantile business that his son later moved to Lovelady, and donated land for an African American Presbyterian church east of Crockett. The Reads moved to Mineola in 1876, but their legacy continues to be a part of Houston County history. (2002)]]></description>
+    <Point><coordinates>-95.476451,31.287819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reynard Community</name>
+    <description><![CDATA[7 miles west of Grapeland on FM 227, then 3.4 miles south at intersection with FM 2544<br/><br/><b>Marker Text:</b> Pioneer settlers began arriving in this area in the late 1830s. By the late 1850s a rural community known as Trinity Chapel had built up. Thomas Jefferson Fox and his family established a farm here in the late 1880s. When a post office was opened in 1901 the community was named Reynard (French for fox). At its peak Reynard boasted two general stores, a church, school, cotton gin, sawmill, and numerous scattered farms. Although the community declined by the 1940s, descendants of pioneer Reynard families still live in Houston County.]]></description>
+    <Point><coordinates>-95.633289,31.420261,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Richard (Dick) King and Rachel Ellis King</name>
+    <description><![CDATA[Jasper Cemetery, 4.3 miles southeast of Crockett on US Hwy 287<br/><br/><b>Marker Text:</b> Richard (Dick) King (July 4, 1849 -- September 28, 1948) and Rachel Ellis (March 20, 1849 -- February 1, 1930), both born into slavery in Alabama, were brought to this area prior to the Civil War. Married in 1869, they were the parents of 10 children, 9 of whom lived to adulthood. Respected members of the Hopewell Community, the Kings operated a grist mill, a syrup mill, and a commissary. Am early pastor of Hopewell Missionary Baptist Church, Mr. King also served on the school board.]]></description>
+    <Point><coordinates>-95.401816,31.283428,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert S. Patton Family Cemetery</name>
+    <description><![CDATA[5.6 miles north of Ratcliff on FM 227<br/><br/><b>Marker Text:</b> Arriving in Texas in December 1834, Robert S. Patton (1816-1864) received a land grant and was among Houston County's earliest settlers. He married Louisa J. Conner (1827-1878) in 1838. They were the parents of thirteen children, six of whom are buried in this family graveyard. The oldest marked grave is that of W.W. Warren (1801-1860), a relative of Louisa Patton. In addition to the family members, the cemetery also contains the grave of a Patton family slave. The last burial occurred here in 1898.]]></description>
+    <Point><coordinates>-95.192908,31.447797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rudd Crawford Spinks</name>
+    <description><![CDATA[Evergreen Memorial Park, near intersection of SH 19 and US Hwy 287<br/><br/><b>Address:</b> US 287 &amp; SH 19, Crockett<br/><br/><b>Marker Text:</b> (Feb. 13, 1857 -- Nov. 24, 1938) Native Texan Rudd Crawford Spinks came to Houston County in 1878. The owner of a jewelry and music store in Crockett, he became a farmer, freighter, cotton gin and sawmill operator and a prominent land owner. In addition, he built several area homes and bred registered livestock. The father of six sons, he was an outspoken observer of the events of his day and was widely known for his comments on government and political figures.]]></description>
+    <Point><coordinates>-95.465564,31.315392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Old Town and Post Office of Weldon</name>
+    <description><![CDATA[Weldon near post office on FM 230<br/><br/><b>Address:</b> Weldon<br/><br/><b>Marker Text:</b> In 1850 William Morrow built a cotton gin about a mile north of here, opening a settlement. An early post office in the vicinity was renamed Weldon in 1869, for Weldon Jones Murchison (1838-99), a local pioneer merchant. Local economy was based on cotton and timber. Trains hauled logs over a tram road to mills in Trinity (15 miles east) by 1900. Town moved south in 1911, when Beaumont &amp; Great Northern Railway reached this point. The East Texas Development Company platted the new townsite, which prospered in spite of disastrous fires in 1926 and 1927. Weldon post office closed Sept. 3, 1976.]]></description>
+    <Point><coordinates>-95.571104,31.021483,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of R. E. McConnell Property</name>
+    <description><![CDATA[617 East Houston, inside Crockett State Bank<br/><br/><b>Address:</b> 617 E. Houston, Crockett<br/><br/><b>Marker Text:</b> John McConnell (1818-98) came to Crockett from Ireland in 1847 and opened a blacksmith shop at this site. Later, with his sons, he moved to another location and started a hardware business. An active civic leader, McConnell served as County Treasurer and as City Alderman. His son Robert Emmett McConnell (1867-1918), who built a home at this site in 1901, continued his father's business and also served prominently in local government. As a member of the City Council in the early 1900s, he was an effective leader during a period of dramatic growth and change for Crockett. (1981)]]></description>
+    <Point><coordinates>-95.455851,31.318334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of the Town of Alabama</name>
+    <description><![CDATA[CR 3120 (Alabama Ferry Road) at CR 3130<br/><br/><b>Address:</b> Austonio<br/><br/><b>Marker Text:</b> Important shipping point before the Civil War. Here was established Trinity College, the first institution of higher education in Houston County. Its charter was granted on January 30, 1841 by the Congress of the Republic of Texas. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-95.713381,31.232212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Volga Community</name>
+    <description><![CDATA[7.6 miles west of Lovelady on FM 230, then west on Hyde's Ferry Road 1.8 miles to CR 3485, then north on CR 3485 .6 mile<br/><br/><b>Marker Text:</b> Westward-moving pioneers settled this area after the Civil War. Attracted by good farmland, timber, and water, they established homes and called their community High Prairie. It was renamed Volga in 1897, when a post office was established in Samuel Knox's store. His son, Samuel D. Knox, served as first postmaster. Although never formally platted or incorporated, Volga was an important early community. At its height the settlement boasted homes, stores, a cotton gin, sawmill, school, and church. An early building called Rough Edge served as church and school until 1893 , when the High Prairie Missionary Baptist Church of Christ was built. After it burned in 1905 a two-room building used for school and worship was erected, and in 1911 a new church was built. The Volga Community began to decline about 1917 after the post office was discontinued. In 1918 some of the town's young men were listed in World War I, and many Volga citizens died in the influenza epidemic. The school was consolidated with nearby communities, and the church was disbanded. After 1960 some descendants of Volga pioneers returned to resettle the area.]]></description>
+    <Point><coordinates>-95.581227,31.065978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Wheeler Springs School</name>
+    <description><![CDATA[Wheeler Springs community, intersection of CR 2080 and CR 2016, 13.6 mi. NW of Crockett via FM 229 and CR 2080. School site is 0.4 mi. NW on CR 2016. Map dot approximate.<br/><br/><b>Address:</b> CR 2080, Crockett<br/><br/><b>Marker Text:</b> The Wheeler Springs community was shaped in part by its school, which began on land donated in 1905 by French Taylor. The Houston County school board designated it Common School District No. 76 in 1906. Millie Denby and Lula (Denby) Dailey were the first teachers. A house moved to the site in 1930 served as a canning kitchen and cafeteria, and a 1932 log cabin provided space for meetings and quilting groups. In 1948, students began attending an area high school; Mose Dailey was their first bus driver. The county razed the 1925 schoolhouse in 1959, following consolidation, but the other buildings served the community for many years. (2002)]]></description>
+    <Point><coordinates>-95.640256,31.370148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spinks-Mayes Building</name>
+    <description><![CDATA[corner of West Houston Ave. and North 4th in Crockett | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> West Houston Ave. &amp; North 4th, Crockett<br/><br/><b>Marker Text:</b> Built in 1891-92 by Rudd Crawford Spinks, This structure originally housed his jewelry and music store and included upstairs living quarters. The site had been owned earlier by S.A. Miller, a prominent local attorney who later served as a state legislator and Houston County judge. W.E. "Buck" Mayes, a landowner, bought the building in 1895 and it remained in his family for 45 years. Victorian in design, it features pressed tin detailing.]]></description>
+    <Point><coordinates>-95.457854,31.318374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stubblefield Church</name>
+    <description><![CDATA[6 mi. S on FM 357, then 0.1 mi. W on CR 4690<br/><br/><b>Address:</b> CR 4690, Kennard<br/><br/><b>Marker Text:</b> Stubblefield Church Records indicate that Civil War veteran Wyatt M. Stubblefield bought land in this area from J.D. Poole in August 1872, and the community later took on his name. At that same time, the New Ivie Missionary Baptist Church, a group that grew out of the Old Ivie Board Baptist Church, began meeting in the local schoolhouse. Early members of New Ivie included church clerk Mrs. W.M. Campbell, as well as L.A. and Cornelia Ainsworth, James Helton, the Rev. T.D. and Ann Suttles, and the Rev. W.L and Sarah Gates. Suttles served as presbyter and moderator, and Gates as pastor. After meeting for some time in the schoolhouse, the congregation built a wooden church structure a few hundred yards east of the school. This sanctuary burned, as did the second. Church members erected their third sanctuary in 1926. In 1934, the Stubblefield Church, as it was then called, began holding annual homecomings. The first honored the church's oldest member, "Uncle" Billy Campbell, brother of the Rev. John Campbell, who conducted area revivals. During the 1930s-40s, two couples--Edd and Irene Lenderman and Hiram and Maggie Lenderman--contributed much to keeping the church active. Edd and Irene gave the congregation almost 12 acres of land to grow cotton to sell for the preacher's salary. During the lean times of the Depression era, church members also saved butter and egg money to send for missionary offerings. The community's population declined during World War II, and the church discontinued regular services during the 1950s. Still, descendants of the initial members and leaders continue to meet annually at the Stubblefield homecomings, held each may to honor the faith and dedication of the early residents.  (2003)]]></description>
+    <Point><coordinates>-95.107268,31.311772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Waneta Community and School</name>
+    <description><![CDATA[nine miles northeast of Grapeland on FM 228, then .5 mile east on CR 1475 to intersection with Cr 1750<br/><br/><b>Marker Text:</b> Settlement of the Waneta Community can be traced to 1852, when Charles W. Butler purchased land and established a farm. By the 1870s a number of families lived in the vicinity and the rural community was growing. A post office was established in 1899. Area businesses included a general store, blacksmith, and cotton gin. The Waneta School opened in 1914 and continued to serve area students until 1949, when it was consolidated with Grapeland Schools. Although Waneta declined after the 1940s, descendants of early settlers still reside in the area.]]></description>
+    <Point><coordinates>-95.350073,31.568371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Weldon Cemetery</name>
+    <description><![CDATA[12.5 miles south of Lovelady on FM230, then east 1 mile on CR 3575<br/><br/><b>Marker Text:</b> The Thompson Brothers Lumber Company (later Champion Lumber Company) donated four acres of land at this site to the people of the Weldon Community for a cemetery in 1912. The first persons buried here that year were one-year-old Louise Driskell and her two-year-old brother, Leo, both victims of diphtheria. Among the graves are those of area pioneers and their descendants, as well as veterans of the Civil War, World War I, World War II, Korea, and Vietnam. The Weldon Civic Club and a cemetery association care for the historic graveyard.]]></description>
+    <Point><coordinates>-95.559704,31.023216,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wesley Chapel Church and Cemetery</name>
+    <description><![CDATA[five miles northwest of Crockett on FM 229, then northeast .2 mile on CR 2130 (Wesley Chapel Cemetery Road)<br/><br/><b>Marker Text:</b> A Methodist church was built here in 1903 and named in honor of John Wesley, founder of Methodism. In 1913 a two-room schoolhouse was erected to replace an earlier one-room structure. The school was consolidated with Latexo in 1949. Both the school and church buildings were destroyed by a tornado in 1953. An adjacent cemetery dates to the 1880s, with the earliest marked graves from 1885. Although regular worship services had ended by 1949, the chapel was rebuilt after the tornado and serves as a gathering place for the cemetery association.]]></description>
+    <Point><coordinates>-95.539724,31.373026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wheeler Springs Community</name>
+    <description><![CDATA[9.2 mi. NW of Crockett, SW corner FM 229 and CR 2080 (Wheeler Springs Rd.). NOTE: Wheeler Springs community is 4.4 mi. W of this marker. See also marker for Site of Wheeler Springs School.<br/><br/><b>Address:</b> FM 229, Crockett<br/><br/><b>Marker Text:</b> (4.4. miles west) Settlement in this area began in 1835, when Joshua J. Hall (1790-1871) established a community south of here along the Trinity River. After the Civil War Hall family slaves and other freed African Americans settled here. In 1885 the community was named for springs located on land donated by French Taylor (1842-1937) for church purposes. A Baptist sanctuary and schoolhouse (1905) were built near the springs. In the 1920s a new school building was erected and a cannery began operations. The school closed in 1959 but the church and various civic organizations remain active. (1995)]]></description>
+    <Point><coordinates>-95.579288,31.388794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Whitehead Cemetery</name>
+    <description><![CDATA[From Crockett take FM 2022 north 10 miles to CR 1650, then east on CR 1650 1 mile to Whitehead Cemetery Road, then north about .2 mile on Cemetery Road<br/><br/><b>Marker Text:</b> The Henry Whitehead family came to Texas from Mississippi during the 1850s and settled in Houston County about 1862. A confederate veteran, Henry Whitehead (1821-1877) established this family cemetery on his land with the burial of first wife, Mary Ann "Polly" (Priest), in 1870. Only one of their seven children, Aaron, is buried here. The descendants of Aaron (1854-1927) and Elizabeth (1859-1928) Whitehead have continued to use and maintain the family burial ground. The site covers more than two acres and contains over sixty graves.]]></description>
+    <Point><coordinates>-95.363066,31.452725,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Kyle McLean</name>
+    <description><![CDATA[Evergreen Cemetery in Crockett<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> (October 14, 1902 -- September 6, 1971) Descended from the first permanent settlers in this area, William Kyle McLean made significant contributions to the agricultural history of Houston County and East Texas. The recipient of numerous soil conservation awards, McLean earned national recognition for the introduction of coastal bermuda grass to the area, the planting of crimson and white Dutch clovers in his pastures, and the use of bees for clover crop pollination.]]></description>
+    <Point><coordinates>-95.466034,31.33342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Monroe Patton</name>
+    <description><![CDATA[Glenwood Cemetery<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (1855-1915) William Monroe Patton moved to Crockett from Tadmor in 1899 after the death of his brother James H. Patton, with whom he owned a dry goods store. William purchased property on the southwest corner of the public square in Crockett and built a brick structure for his general merchandise business. He constructed six one-story buildings on what became known as Patton Block. William married Flora Elizabeth Gause (1869-1957) and had four children. Recorded - 1996]]></description>
+    <Point><coordinates>-95.461469,31.321919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Van McConnell</name>
+    <description><![CDATA[Glenwood Cemetery<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (April 18, 1855 -- March 17, 1919) A native of Crockett, William V. McConnell was the son of Irish-born blacksmith John McConnell. After helping his father with that trade, McConnell opened a mercantile store on the square and developed there a family business that lasted nearly a century. McConnell was a charter member of the First Christian Church. After the death of his first wife, Jennie McLean (1868-1888), McConnell married her sister Daisy (1875-1935). Recorded - 1985]]></description>
+    <Point><coordinates>-95.460782,31.322157,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

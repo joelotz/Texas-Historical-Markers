@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wheeler County — Unmapped Historical Markers</name>
+  <description>THC markers in Wheeler County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>E.L. Woodley</name>
+    <description><![CDATA[201 North Madden | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 201 North Madden, Shamrock<br/><br/><b>Marker Text:</b> Born in Jacksonville, Alabama, on August 14, 1872, to farmers Jackson Monroe and Alice (Pike) Woodley, Edward Leonidas (E.L.) Woodley was an early Shamrock pioneer, landowner and political leader. In 1885, the Woodley family moved to Iredell, Bosque County. On June 25, 1895, he married Alice Minerva “Minnie” Roberts (1874-1969) in Comanche. They had four children: Opal, Edward Jr., Mary Lynn and James. In 1902, E.L. served as the first railroad agent for the Choctaw, Oklahoma and Texas Railroad, which caused the family to relocate to the area that would become Shamrock. Woodley helped organize a townsite company to create Shamrock, and seeing its success, bought out the company and opened a land office. His sale of 120 acres to the Shamrock Investment Company became 35 blocks known as “Woodley’s South Side Addition,” and many streets were named for family members. When the company dissolved in 1912, Woodley was the president and majority shareholder.
+  After Shamrock incorporated in 1911, E.L. Woodley became the first mayor, securing necessary infrastructure to support the growing city. He also personally donated land for a community cemetery and five churches, and to expand the city park. Woodley led major business endeavors, including banking, lumber, petroleum, ranching, tea, orchards, mining and farming. E.L. amassed an incredible fortune in these businesses. The Woodley family split their time between Dallas and Shamrock. After the 1929 stock market crash, E.L. Lost much of his fortune. The family moved to Baird, Callahan County, where he continued civic and business interests. The Woodleys retired in Brownwood, where E.L. died January 12, 1952. He and Minnie are buried in Shamrock Cemetery. (2023)]]></description>
+    <Point><coordinates>-100.247957,35.215512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Episcopal Church of St. Michael and All Angels</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 300 S. Madden St., Shamrock]]></description>
+    <Point><coordinates>-100.247821,35.210871,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

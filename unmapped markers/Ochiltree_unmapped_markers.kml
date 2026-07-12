@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Ochiltree County — Unmapped Historical Markers</name>
+  <description>THC markers in Ochiltree County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>First Sanitarium</name>
+    <description><![CDATA[221 S. Baylor, Perryton<br/><br/><b>Address:</b> 221 S Baylor, Parryton<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-100.80898,36.396532,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

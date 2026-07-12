@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Edwards County — Unmapped Historical Markers</name>
+  <description>THC markers in Edwards County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Hough-Haven</name>
+    <description><![CDATA[corner of Austin and Sweeten Street; Rocksprings<br/><br/><b>Address:</b> Rocksprings<br/><br/><b>Marker Text:</b> Built 1897 by Samuel A. and Annie Bradford Hough. (Hough was one of first graduates, Texas A &amp; M) Home of attorneys, two county judges, district clerks. Scene of numerous social events. The Houghs still own the "Haven." Recorded Texas Historic Landmark, 1966.]]></description>
+    <Point><coordinates>-100.208947,30.017528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stopping Place on the Fort Clark-Fort McKavett Military Road</name>
+    <description><![CDATA[From Rocksprings, US Highway 377 northeast approximately 20.5 miles. South side of the road east of South Llano River crossing, 12 miles NE of SH 41. Marker reported missing Nov. 2007.<br/><br/><b>Address:</b> US 377, Rocksprings<br/><br/><b>Marker Text:</b> One of many roads built to connect frontier cavalry posts in Texas, this route led south to Fort Clark and north to Fort McKavett (both established in 1852). Paint Rock Springs, located here at the head of the South Llano River, was a natural midway rest stop. In 1877 Major John B. Jones' Texas Rangers assembled here to begin a major offensive to capture frontier outlaws. In addition to its military uses, the Fort Clark-Fort McKavett Road provided an accessible route for immigrants, cattle drovers, pioneer ranchers, mail carriers, and freighters. (1968, 1990)]]></description>
+    <Point><coordinates>-100.004137,30.225994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Turner-Davis Ranch Headquarters</name>
+    <description><![CDATA[From Rocksprings, 19.8 miles west on US 377 S from Rocksprings, 2.4 miles north on Co. Rd. 450, right on Turner Road 1.1 miles east on Turner Rd./ Apache Trail (SD 45100) to marker<br/><br/><b>Address:</b> Turner Rd./ Apache Trail, Rocksprings<br/><br/><b>Marker Text:</b> Located nineteen miles west of Rocksprings, the Turner-Davis Ranch Headquarters is a testimonial to the ranching way of life. Established in 1921, the ranch is located in the Edwards Plateau region. The rugged terrain is composed of limestone bedrock and thickets of oak, mesquite and cedar. Not an ideal place for farming, the area attracted ranchers specifically raising Angora goats for the mohair industry. J.R. “Ruby” Davis and his wife, Helen, owned and operated the ranch until 1941. Following WWII, Watt W. Turner and his wife, Elma Evans, bought the ranch from the Fred Cross Family who kept it operating through the war. The Turner Family and their heirs owned the ranch until 2003. The Headquarters’ main residence is a one-story structure made of wood with a steeply pitched metal roof first built in the early 1920s. The Headquarters’ buildings were built to last in pioneer style and were improved upon by each ranching family. In the 1950s, the Bracero program allowed Mexican workers to work on Texas ranches, and the Turner Ranch relied heavily on Mexican labor. After Watt Turner’s death, his brother, Clarence Turner, took over the ranch and kept the Headquarters’ buildings and miles of fencing in good condition. Carl Hyde leased the Ranch from the Turner estate in 1978 with renewed optimism for the mohair industry. He built a new house in 1979 on the Ranch for the foreman, Arnulfo Silva, and his family. The eight-section ranch operated for 82 years until it was sold to a developer in 2003 and subdivided. At one time, the Turner-Davis Ranch supported 6,000 head of livestock. (2014)]]></description>
+    <Point><coordinates>-100.540442,30.02418,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,22 @@
+Wheeler unmapped markers with NO usable address (5):
+
+  THC 14563: Britt Rock House
+    addr: Wheeler
+    https://atlas.thc.texas.gov/Details/5507014563
+
+  THC 15573: Farmers and Merchants State Bank
+    addr: Shamrock
+    https://atlas.thc.texas.gov/Details/5507015573
+
+  THC 23709: Mount Zion Cemetery
+    addr: Mobeetie
+    https://atlas.thc.texas.gov/Details/5000023709
+
+  THC 23799: Pakan Cemetery
+    addr: CR X, Shamrock
+    https://atlas.thc.texas.gov/Details/5000023799
+
+  THC 23267: The Battle of Sweetwater Creek
+    addr: FM 1046, Mobeetie
+    https://atlas.thc.texas.gov/Details/5000023267
+

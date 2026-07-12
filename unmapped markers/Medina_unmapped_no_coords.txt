@@ -1,0 +1,18 @@
+Medina unmapped markers with NO usable address (4):
+
+  THC 14895: First Church in Castroville
+    addr: Castroville
+    https://atlas.thc.texas.gov/Details/5507014895
+
+  THC 24165: Lytle Masonic Cemetery
+    addr: SH 132, Lytle
+    https://atlas.thc.texas.gov/Details/5000024165
+
+  THC 12538: Oefinger House
+    addr: Quihi vicinity
+    https://atlas.thc.texas.gov/Details/5325012538
+
+  THC 17434: Tomerlin Cemetery
+    addr: Devine
+    https://atlas.thc.texas.gov/Details/5507017434
+

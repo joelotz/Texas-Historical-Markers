@@ -1,0 +1,74 @@
+Sabine unmapped markers with NO usable address (18):
+
+  THC 15764: Bayou
+    addr: FM 944, Hemphill
+    https://atlas.thc.texas.gov/Details/5507015764
+
+  THC 17853: CCC Camp 2887 F-18-T
+    addr: SH 21, Milam
+    https://atlas.thc.texas.gov/Details/5507017853
+
+  THC 11029: Clark-Dickey and Smith Cemeteries
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5403011029
+
+  THC 16735: Geneva Myrtle Springs Cemetery
+    addr: State Farm Road 330 or 1.6 miles North of Milam, TX on west side of State Farm Road 330, Geneva
+    https://atlas.thc.texas.gov/Details/5507016735
+
+  THC 17154: James Frederick Gomer Cemetery
+    addr: End of Gomer Cemetery Road, Hemphill
+    https://atlas.thc.texas.gov/Details/5507017154
+
+  THC 23455: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023455
+
+  THC 23456: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023456
+
+  THC 23457: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023457
+
+  THC 23458: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023458
+
+  THC 23459: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023459
+
+  THC 12174: McGown Cemetery
+    addr: Milam
+    https://atlas.thc.texas.gov/Details/5403012174
+
+  THC 22526: McMahan Chapel Cemetery
+    addr: 2240 McMahan Chapel Rd., Geneva
+    https://atlas.thc.texas.gov/Details/5000022526
+
+  THC 7582: Mial Scurlock
+    addr: Geneva
+    https://atlas.thc.texas.gov/Details/5403007582
+
+  THC 7575: Payne-Williams Cemetery
+    addr: Geneva
+    https://atlas.thc.texas.gov/Details/5403007575
+
+  THC 18730: Pineland School
+    addr: 459 Temple Road North, Pineland
+    https://atlas.thc.texas.gov/Details/5507018730
+
+  THC 7581: Scurlock Cemetery
+    addr: Geneva
+    https://atlas.thc.texas.gov/Details/5403007581
+
+  THC 12175: Springhill Cemetery
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5403012175
+
+  THC 18120: Thomas Johnson School
+    addr: FM 1368, Hemphill
+    https://atlas.thc.texas.gov/Details/5507018120
+

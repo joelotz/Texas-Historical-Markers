@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Calhoun County — Unmapped Historical Markers</name>
+  <description>THC markers in Calhoun County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Andrew A. Rasmussen</name>
+    <description><![CDATA[Main &amp; 15th St., Port O'Connor<br/><br/><b>Address:</b> Port O'Connor<br/><br/><b>Marker Text:</b> A native of Denmark, Andrew Rasmussen (1858-1933) came to the United States at the age of 13 and began a maritime career that lasted for 60 years. Following the shipwreck of his schooner, the "Dorio and Doria," in 1885, Rasmussen joined Calhoun County's Saluria Life Saving Service, which had rescued his crew. By 1889, he was placed in charge of the station, which later became part of the U.S Coast Guard. Capt. Rasmussen and his wife, Theresa Amelia (Smith), built a home at this site in 1911. They are buried in the Port Lavaca Cemetery. (1985)]]></description>
+    <Point><coordinates>-96.418424,28.441941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grace Episcopal Church</name>
+    <description><![CDATA[<b>Address:</b> 213 E. Austin Street, Port Lavaca]]></description>
+    <Point><coordinates>-96.623231,28.613149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Indianola Cemetery</name>
+    <description><![CDATA[From Port Lavaca, take FM 238 s/SW 3 miles to FM 316 &amp;follow about 8.75 miles  to Brighton Rd. in Indianola. Follow Brighton Road NW about 1 mile then go WE on Comal Rd. .5 mile, and then Orleans St. .25 mile to cemetery.<br/><br/><b>Address:</b> Port Lavaca]]></description>
+    <Point><coordinates>-96.509088,28.519182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Matagorda Island Lighthouse</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 506 W. Main St., Port O'Connor]]></description>
+    <Point><coordinates>-96.408466,28.446269,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Town Cemetery</name>
+    <description><![CDATA[3 mi. S on FM 238, then 8.25 mi. S on FM 316, 1 mi. N on county rd. to cemetery<br/><br/><b>Address:</b> Indianola]]></description>
+    <Point><coordinates>-96.512395,28.544919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Our Lady of the Gulf Catholic Church</name>
+    <description><![CDATA[415 W. Austin<br/><br/><b>Address:</b> 415 W. Austin, Port Lavaca<br/><br/><b>Marker Text:</b> Our Lady of the Gulf Catholic Church The Rev. Augustine Gardet offered the first mass for Roman Catholics in Port Lavaca in 1857 at the R. D. Blossom home. The first church building, constructed in 1865 and destroyed in an 1886 storm, was rebuilt in 1894 and dedicated as Our Lady of the Gulf. The congregation received its first resident pastor, the Rev. Francis Pallanche, in 1913. A surge in the community's population after World War II led to the construction of a new church building in 1953. For 86 years, the Oblates of Mary Immaculate administered the parish. Over its history, Our Lady of the Gulf has been located within the Galveston, San Antonio and Victoria dioceses. (2002)]]></description>
+    <Point><coordinates>-96.626631,28.610994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Port Lavaca Shrimp Fishery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 802 Fulton Street, Port Lavaca<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.624242,28.621974,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zimmerman Cemetery</name>
+    <description><![CDATA[3 mi. SW on FM 238, then 7.25 mi. S on FM 316 to roadside area<br/><br/><b>Address:</b> Port Lavaca]]></description>
+    <Point><coordinates>-96.544085,28.543322,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,14 @@
+Kimble unmapped markers with NO usable address (3):
+
+  THC 23687: Cobb Ranch House
+    addr: 5802 KC 420, London
+    https://atlas.thc.texas.gov/Details/5000023687
+
+  THC 3618: Old Noxville School
+    addr: Junction
+    https://atlas.thc.texas.gov/Details/5267003618
+
+  THC 14560: Weaver-Bannowsky Cemetery
+    addr: Junction
+    https://atlas.thc.texas.gov/Details/5507014560
+

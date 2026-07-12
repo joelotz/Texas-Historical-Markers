@@ -1,0 +1,10 @@
+Kleberg unmapped markers with NO usable address (2):
+
+  THC 14125: King Ranch
+    addr: Kingsville
+    https://atlas.thc.texas.gov/Details/5507014125
+
+  THC 17808: Los Kinenos
+    addr: Kingsville
+    https://atlas.thc.texas.gov/Details/5000017808
+

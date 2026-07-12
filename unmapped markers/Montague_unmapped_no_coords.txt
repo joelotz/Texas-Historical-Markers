@@ -1,0 +1,61 @@
+Montague unmapped markers with NO usable address (15):
+
+  THC 23450: Boggess Cemetery
+    addr: FM 677 N, Saint Jo
+    https://atlas.thc.texas.gov/Details/5000023450
+
+  THC 1708: First Christian Church of Bowie
+    addr: E. Wise St., Bowie
+    https://atlas.thc.texas.gov/Details/5337001708
+
+  THC 17112: Illinois Bend Cemetery
+    https://atlas.thc.texas.gov/Details/5507017112
+
+  THC 12232: Molsbee Chapel Cemetery
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5337012232
+
+  THC 17363: Montague County Poor Farm
+    addr: Highway 455, Montague
+    https://atlas.thc.texas.gov/Details/5507017363
+
+  THC 23818: Pleasant Hill Cemetery
+    addr: Jim Harry Loop, Sunset
+    https://atlas.thc.texas.gov/Details/5000023818
+
+  THC 4220: Red River Station
+    addr: Bowie
+    https://atlas.thc.texas.gov/Details/5337004220
+
+  THC 14095: Red River Station
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5507014095
+
+  THC 14855: Red River Station
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5507014855
+
+  THC 14157: Rural Schools-Dye Mound
+    addr: Montague
+    https://atlas.thc.texas.gov/Details/5507014157
+
+  THC 14974: Rural Schools-Fruitland
+    addr: Bowie
+    https://atlas.thc.texas.gov/Details/5507014974
+
+  THC 14509: Rural Schools-Illinois Bend
+    addr: Saint Jo
+    https://atlas.thc.texas.gov/Details/5507014509
+
+  THC 14773: Spanish Fort, Red River Station
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5507014773
+
+  THC 12231: Starkey Cemetery
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5337012231
+
+  THC 23816: Sunset Cemetery
+    addr: Cemetery Road, Sunset
+    https://atlas.thc.texas.gov/Details/5000023816
+

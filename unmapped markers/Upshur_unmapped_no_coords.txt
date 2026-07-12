@@ -1,0 +1,69 @@
+Upshur unmapped markers with NO usable address (17):
+
+  THC 11336: Ben Phillips Place
+    addr: 5 mi. N of Gladewater on US 271
+    https://atlas.thc.texas.gov/Details/5459011336
+
+  THC 23980: Bruce School
+    addr: Bruce St., Gilmer
+    https://atlas.thc.texas.gov/Details/5000023980
+
+  THC 23297: Concord Cemetery
+    addr: 6995 Concord Church Rd., Gilmer
+    https://atlas.thc.texas.gov/Details/5000023297
+
+  THC 19980: Dickson Colored Orphanage Cemetery
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5000019980
+
+  THC 11308: Edwards Cemetery
+    addr: Longview
+    https://atlas.thc.texas.gov/Details/5459011308
+
+  THC 11327: Lewis T. Mackey
+    https://atlas.thc.texas.gov/Details/5459011327
+
+  THC 12255: Mattox Cemetery
+    addr: New Diana
+    https://atlas.thc.texas.gov/Details/5459012255
+
+  THC 11328: McDonald House
+    addr: 1 mi. E of Gilmer on Hwy 154
+    https://atlas.thc.texas.gov/Details/5459011328
+
+  THC 11304: Old Alexander Cook Home
+    addr: Souls Chapel Community, 12 mi. NW of Gilmer, Gilmer
+    https://atlas.thc.texas.gov/Details/5459011304
+
+  THC 11317: Old Hart Home
+    addr: 1 mi. from Gilmer
+    https://atlas.thc.texas.gov/Details/5459011317
+
+  THC 11343: Sand Hill
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5459011343
+
+  THC 12856: Shady Grove Cemetery
+    addr: FM 1002, Gilmer
+    https://atlas.thc.texas.gov/Details/5459012856
+
+  THC 14573: Sheppherd, Elvey
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5507014573
+
+  THC 23698: Simpsonville Cemetery
+    addr: FM 2088, Gilmer
+    https://atlas.thc.texas.gov/Details/5000023698
+
+  THC 23631: St. James Baptist Church
+    addr: 107 S. Rodeo, Gladewater
+    https://atlas.thc.texas.gov/Details/5000023631
+
+  THC 17366: Union Grove Cemetery
+    addr: Gladewater
+    https://atlas.thc.texas.gov/Details/5507017366
+
+  THC 18816: Valley View High School
+    addr: Gardenia, Gilmer
+    https://atlas.thc.texas.gov/Details/5507018816
+

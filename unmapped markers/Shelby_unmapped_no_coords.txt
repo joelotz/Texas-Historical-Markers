@@ -1,0 +1,85 @@
+Shelby unmapped markers with NO usable address (21):
+
+  THC 14723: Camp Center, World War II Prisoner of War Camp
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014723
+
+  THC 7677: Elder William Brittain and Rosanna Wright Brittain
+    addr: Patroon
+    https://atlas.thc.texas.gov/Details/5419007677
+
+  THC 14629: First County Seat of Shelby County
+    addr: Shelbyville
+    https://atlas.thc.texas.gov/Details/5507014629
+
+  THC 17116: Haley Bush Cemetery
+    addr: 101 Haley Bush Cemetery Drive, San Augustine
+    https://atlas.thc.texas.gov/Details/5507017116
+
+  THC 14292: McWilliams Cemetery
+    addr: Shelbyville
+    https://atlas.thc.texas.gov/Details/5507014292
+
+  THC 7689: Myrick's Ferry Log House
+    addr: Shelbyville
+    https://atlas.thc.texas.gov/Details/5419007689
+
+  THC 24366: New Prospect Cemetery
+    addr: 4930 FM 1645, Timpson
+    https://atlas.thc.texas.gov/Details/5000024366
+
+  THC 17741: Oates Cemetery
+    addr: Joaquin
+    https://atlas.thc.texas.gov/Details/5507017741
+
+  THC 17115: Old Salem Cemetery
+    addr: CR 1297, Center
+    https://atlas.thc.texas.gov/Details/5507017115
+
+  THC 19994: Pleasant Hill Cemetery
+    addr: 3970 CR 2700, Shelbyville
+    https://atlas.thc.texas.gov/Details/5000019994
+
+  THC 14693: Price Cemetery
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014693
+
+  THC 23284: Providence Missionary Baptist Church
+    addr: CR 1265, Center
+    https://atlas.thc.texas.gov/Details/5000023284
+
+  THC 7691: Roberts' Hill
+    https://atlas.thc.texas.gov/Details/5419007691
+
+  THC 14081: Sardis Church
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014081
+
+  THC 24186: Shelby County Jail
+    addr: 100 Courthouse Square A, Center
+    https://atlas.thc.texas.gov/Details/5000024186
+
+  THC 24043: Short Cemetery
+    addr: CR 1005, Center
+    https://atlas.thc.texas.gov/Details/5000024043
+
+  THC 14586: Spivey, Site of 1870s-1900 Town of
+    addr: Paxton
+    https://atlas.thc.texas.gov/Details/5507014586
+
+  THC 14503: Strong Cemetery
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014503
+
+  THC 17492: Westview Cemetery
+    addr: Bolton Street, Center
+    https://atlas.thc.texas.gov/Details/5507017492
+
+  THC 7702: William Harrison Wall Homestead
+    addr: Tenaha
+    https://atlas.thc.texas.gov/Details/5419007702
+
+  THC 16382: Wimberly Cemetery
+    addr: Shelbyville
+    https://atlas.thc.texas.gov/Details/5507016382
+

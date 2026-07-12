@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Runnels County — Unmapped Historical Markers</name>
+  <description>THC markers in Runnels County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] First Baptist Church</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>northwest corner of Main St. and Truett Ave.<br/><br/><b>Address:</b> 104 W. Truett Ave., Winters]]></description>
+    <Point><coordinates>-99.962877,31.961276,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Methodist Church of Winters</name>
+    <description><![CDATA[Corner of Church and Parsonage Streets,  Winters<br/><br/><b>Address:</b> Church &amp; Parsonage St., Winters<br/><br/><b>Marker Text:</b> Site of the first church building at Winters and oldest Methodist church site in Runnels County. The congregation was organized in 1891, under George D. Wilson, pastor. For eight years, they shared the local school building with other denominations. The first church building -- a frame structure -- was erected on this site in 1899 under the pastorate of John Wesley Bowden, pioneer circuit rider. In 1911 a large tabernacle, also frame, was built near the first church, which was moved to Hatchell in 1912. The tabernacle was unique in that its sides could be opened to receive cool breezes in the summer. It was used for services until the third church was erected, in 1913. Subsequently, it housed summer revivals and large community gatherings. It also substituted as a sanctuary at necessary times. The third church -- a steepled, red brick building -- served for 11 years, until the present brick church was erected, at a cost of $40,000. In 1925 parishioners literally placed $8,500.50 in cash on a barrelhead one Sunday to retire the church building debt and, incidentally, to act out the familiar saying. A church building has stood on this corner -- and worship has been held here -- each Sunday since 1899.]]></description>
+    <Point><coordinates>-99.964323,31.958837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>German Methodist Church/First Fire Station</name>
+    <description><![CDATA[420 Strong Street, Ballinger<br/><br/><b>Address:</b> 420 Strong St., Ballinger<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-99.943758,31.739417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Petty Flynt</name>
+    <description><![CDATA[Evergreen Cemetery (Ballinger) US 67 southwest city limits, Ballinger<br/><br/><b>Address:</b> US 67, SW of Ballinger, Ballinger<br/><br/><b>Marker Text:</b> Sheriff of Runnels County 1908-1914; 1920-1924. Elected at age 30. Last man to hold combined post of tax collector-sheriff in county. His activities as law officer included Texas Ranger service in World Wars I and II. He was elected secretary-treasurer of Runnels County Fair Association at its organization in 1911. He also served with the state game department from 1924 to 1940. In 1899 he married Carrie Jane Patterson. They had 7 children.]]></description>
+    <Point><coordinates>-99.965823,31.716148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lynn - Hathaway Building</name>
+    <description><![CDATA[Corner of 8th and Hutchings (US 67)<br/><br/><b>Address:</b> 800 Hutchings, Ballinger]]></description>
+    <Point><coordinates>-99.951605,31.735262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Runnels County</name>
+    <description><![CDATA[Runnels County Courthouse grounds, NW side facing Hutchings Ave. at N. Broadway St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 613 Hutchings Ave., Ballinger<br/><br/><b>Marker Text:</b> Formed from Bexar and Travis counties. Created February 1, 1858. Organized February 16, 1880. Named in honor of Hiram G. Runnels 1796-1857 lawyer and governor of Mississippi. Member of the Texas Legislature. County seat, Runnels City, 1880. Ballinger, since 1888.]]></description>
+    <Point><coordinates>-99.945444,31.739339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Walthall Cemetery</name>
+    <description><![CDATA[CR 123, 4.75 mi. SE of Ballinger. US 67 NE, CR 125 S, CR 123 near Colorado River. Private.<br/><br/><b>Address:</b> CR 123, Ballinger<br/><br/><b>Marker Text:</b> This burial ground is the last surviving evidence of Walthall community. Situated west of here, just across the Colorado River, Walthall was the first stable settlement in Runnels County. It was located on land claimed in the 1860s by the John W. Guest family, and surrounded a stagecoach stop on the Camp Colorado - Fort Concho Road in the 1870s. The cemetery contains at least one unmarked grave. The oldest marked grave is that of infant Penny Cotten (1877-1878). Mrs. John W. Guest (1820-1878) was another early burial. A stone from the river marks her grave.]]></description>
+    <Point><coordinates>-99.890788,31.691172,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>DeWitt County — Unmapped Historical Markers</name>
+  <description>THC markers in DeWitt County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Allen Caruthers</name>
+    <description><![CDATA[from Cuero, take US 183 southwest about 3 miles, take FM 2718 southwest about 6.5 miles go west 3/10 mile<br/><br/><b>Address:</b> Cuero<br/><br/><b>Marker Text:</b> A veteran of San Jacinto; born in Kentucky May 31, 1804; died May 29, 1863. His wife Martha B. Caruthers born in North Carolina April 24, 1816; died July 8, 1858.]]></description>
+    <Point><coordinates>-97.397764,28.985744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bellevue-Cheapside</name>
+    <description><![CDATA[from Cuero, take FM 766 northwest about 7 miles then go 5.5 miles north west on CR to Bellevue Cheapside Cem.<br/><br/><b>Address:</b> Cuero<br/><br/><b>Marker Text:</b> Pioneer area settlers, many of English descent, acquired land at this site in 1876 for the establishment of a community church, school, and burial ground. A 2-story Woodmen of the World Lodge was also located nearby. Still used, Bellevue Cemetery has served residents of the Cheapside community (1.5 miles north). Named for a well-known street in London, Cheapside was once the site of a cotton gin, grist mill, hotel, grocery stores, saloons, and a variety of other businesses. Despite the town's later decline, influences of the pioneer English settlers are still evident.]]></description>
+    <Point><coordinates>-97.405256,29.250181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eckhardt Ranch House</name>
+    <description><![CDATA[(private) from Yorktown, go west about 2.7 miles from west limit (take private drive south .5 mile)<br/><br/><b>Address:</b> Yorktown<br/><br/><b>Marker Text:</b> Robert Christian Eckhardt (1836-87) came from Germany at 13 to join an uncle, Yorktown's co-founder. A merchant and father of 11 sons and daughters, he built this house in 1879, afterward commuting to his store. Eckhardt and his wife Caroline Kleberg (1840-1913) became the ancestors of a U.S. Congressman, authors, doctors, lawyers, teachers, and other leaders. The ranch home has been continuously owned by family members -- since 1947 by a grandson, Dr. Kleberg Eckhardt. Recorded Texas Historic Landmark - 1975]]></description>
+    <Point><coordinates>-97.556376,28.962949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Emil Reiffert House</name>
+    <description><![CDATA[304 West Prairie Street, Cuero<br/><br/><b>Address:</b> 304 West Prairie Street, Cuero<br/><br/><b>Marker Text:</b> Built in 1868 at Indianola by Emil Reiffert (1839-1910), immigrant at age 15; Confederate veteran; merchant, rancher, President H. Runge &amp; Co., known as First Real Bank in Texas. Anchored to 7-feet. pillars. With 100 refugees upstairs, downstairs windows and doors open, house withstood its second hurricane, 1886. Was dismantled, its planks numbered, moved to Cuero, rebuilt 1887. Has storm pillars, front storm door, handcarved staircase, parquet floors. Recorded Texas Historic Landmark, 1965]]></description>
+    <Point><coordinates>-97.291069,29.098405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Freund Funeral Home</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 213 N. Gonzales St., Cuero<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.289703,29.090846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George W. Davis</name>
+    <description><![CDATA[Private - No Access
+Davis Family Cemetery; from Cuero, take FM 766 north about 13.3 miles<br/><br/><b>Address:</b> FM 766, Cuero<br/><br/><b>Marker Text:</b> Citizen soldier who served Texas in its struggle for independence, 1835-1836. Erected by the State of Texas 1962]]></description>
+    <Point><coordinates>-97.351845,29.292323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gruenau Turn and Schuetzen Verein</name>
+    <description><![CDATA[7 to 8 miles northwest on Gruenau Road off Highway 108<br/><br/><b>Address:</b> Yorktown]]></description>
+    <Point><coordinates>-97.564942,29.070026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Laging, H. W.</name>
+    <description><![CDATA[Nordheim Cemetery, .5 mile south of Nordheim on FM 239 (at hilltop)<br/><br/><b>Address:</b> Nordheim<br/><br/><b>Marker Text:</b> Born in Germany. Came to U.S. in 1860; settled near Brenham. Married Marie Dahse in 1867; they had 6 children. Moved to Weimar 1875, to Nordheim 1913. He served the Confederacy in the Texas Volunteer Infantry, 23rd Brigade. After Civil war, he became a successful farmer and businessman. Esteemed by his neighbors and known as "Papa Laging," he was last surviving Confederate veteran of this community. Recorded, 1968]]></description>
+    <Point><coordinates>-97.60713,28.915383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lindenau</name>
+    <description><![CDATA[on Rifle Club grounds, from Cuero, take US 87 west about 8 miles to FM 853 and follow north about 2 miles<br/><br/><b>Address:</b> Lindenau<br/><br/><b>Marker Text:</b> By 1891 German farmers settled in this area which Charles and Daniel Wild named "Lindenau." A schoolhouse built in 1893 served as a community center and for worship. The settlement boasted a church, cemetery, mercantile store, blacksmith shop, drugstore, post office, and cotton gin. The present rifle club formed in 1901 and erected a hall which became the social center. In 1906 Lindenau was moved to be near the Galveston, Harrisburg and San Antonio Railroad. The post office closed in 1947 and Lindenau School consolidated with Westhoff. Many descendants remain in the area.]]></description>
+    <Point><coordinates>-97.370133,29.117749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lindenau Community Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 258 Schlinke Road, Cuero<br/><br/><b>Marker Text:</b> The settlement of Lindenau was established in 1891 near the junction of Sandies Creek and the Guadalupe River. The large oak trees reminded early German pioneers Charles and Daniel Wild of the linden trees that grow in Germany, thus the name “Lindenau.” The brothers and Daniel’s wife, Eloise Grohmann Wild, are buried here, along with their descendants. Located on the James Bell Survey in the German farming community of Lindenau, the Lindenau Community Cemetery was established as the St. John Lutheran Cemetery in 1905. In 1957, the officers of the church transferred the title of the cemetery land to the church’s corporation, and in 1972, community members formed the Lindenau Community Cemetery Association, Inc. to care for the cemetery. At that time, the name was changed to Lindenau Community Cemetery, as people from other denominations were also interred in the cemetery. Two years later, the land was transferred to the cemetery association. The oldest burial in the cemetery is that of Heinrich Budde (1852-1903). Many veterans are buried here, along with members of fraternal organizations, victims of an early 1900s local flu epidemic and infants buried in a separate children’s section, a common practice among Texas Germans. The spatial layout is very orderly, geometric and symmetrical, and some headstones in the cemetery are inscribed in the German language. This historic cemetery has hundreds of graves and is a significant burial ground for many descendants of the original German farmers who settled this region at the turn of the twentieth century. HISTORIC TEXAS CEMETERY – 2010]]></description>
+    <Point><coordinates>-97.387534,29.117118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lord Cemetery</name>
+    <description><![CDATA[Church Road, approx. 3 mi. E of intersection with US 87<br/><br/><b>Address:</b> Westhoff<br/><br/><b>Marker Text:</b> Lord Cemetery Established 1879 Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-97.413827,29.192152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of the Home of Captain John York</name>
+    <description><![CDATA[from Yorktown, take FM 237 southeast about 7.7 miles then go southwest on CR (York Cem. Road) about 1 mile<br/><br/><b>Address:</b> Yorktown<br/><br/><b>Marker Text:</b> A member of one of Austin's ranging companies at San Felipe in 1829. Commanded A Company at the capture of San Antonio in 1835. Yorktown, named in his honor was laid out in 1848 on his land. Born July 4, 1800. Killed by Indians, October 11, 1848.]]></description>
+    <Point><coordinates>-97.381994,28.941202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of the Home of Robert Justus Kleberg</name>
+    <description><![CDATA[from Cuero, south about 10.5 mi. on US 183, then west 0.5 mi. on Mueller Lang Rd. (CR 445)<br/><br/><b>Address:</b> CR 445, Meyersville<br/><br/><b>Marker Text:</b> who came to Texas in 1834. Fought at San Jacinto in Captain Moseley Baker's Company. Senator in the State Legislature. Born in Herstelle, Germany, September 10, 1803. Died at Yorktown, Texas, October 23, 1888. A Texas county was named in his honor.]]></description>
+    <Point><coordinates>-97.348439,28.958572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stratton</name>
+    <description><![CDATA[from Cuero, take FM 1447 east about 14 miles east (parking lot to Stratton Baptist Church)<br/><br/><b>Address:</b> Stratton<br/><br/><b>Marker Text:</b> The pioneer community of Stratton, which developed as the center of a large agricultural area, was established here before the Civil War. It was named for John Stratton, a Cuero saddler who had land interests in the vicinity. The settlement had a post office from 1887 to 1905, a general store, school, cotton gin, drugstore and blacksmith shops. The Primitive Baptist Church, organized in 1883 at Burnt Camp in Lavaca County, moved here in 1914. Pioneer area settlers and two veterans of the Civil War are buried in the community's Alexander Cemetery.]]></description>
+    <Point><coordinates>-97.147968,29.153618,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Five-Mile (Ratcliffe)- Rabke Community</name>
+    <description><![CDATA[from Cuero, take FM 2718 west 8 miles west<br/><br/><b>Address:</b> Cuero<br/><br/><b>Marker Text:</b> When four well-educated German families settled on Five Mile Creek in 1849, the community was called Latiner for their knowledge of Latin. Capt. Robert Kleberg (1803-88), Battle of San Jacinto veteran, was one early resident. In the 1880s, the German settlement of Rabke grew up nearby. Edward Rabke's store housed the post office, 1898-1905, and Woodmen of the World Lodge. Local children attended Five Mile School, which moved to the Ratcliffe farm in 1921. Except for Rabke Methodist Church, the early community landmarks have disappeared.]]></description>
+    <Point><coordinates>-97.374615,29.00309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Upper Yorktown Cemetery</name>
+    <description><![CDATA[east off FM 240 (N. Riedel St. in Yorktown), beyond 13th St. Highway sign indicates cemetery on edge of city, northern limits.<br/><br/><b>Address:</b> Yorktown<br/><br/><b>Marker Text:</b> Upper Yorktown Cemetery In 1872, Ann Friar (1802-1899) formally established Upper Yorktown (Friar) Cemetery, where her husband, rancher-businessman Daniel Boone Friar (1800-1858), local masons and others were interred. In 1949, Barbara Respondek (1882-1949) donated one acre to the east for African-American residents, adding to its diverse Anglo, German and Hispanic origins. Noted burials include: Friar family members; 1876 feud victims Dr. Philip Brassell (b. 1827) and son, George (b.1855); settlers Gotlieb (1790-1867) and Marie (1790-1869) Heissig; Union sailor Timothy Sullivan (1836-1909); and numerous war veterans and local pioneers. Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-97.506052,28.995176,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William and Jessie Rathbone House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 204 W. Reuss Blvd., Cuero<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.289208,29.099113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Trautwein Building</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 222 N. Esplanade, Cuero<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.291232,29.091507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Yoakum National Bank Building</name>
+    <description><![CDATA[north side of West Grand Avenue in downtown Yoakum between Lott and Irvine Streets<br/><br/><b>Address:</b> 207 West Grand Avenue, Yoakum]]></description>
+    <Point><coordinates>-97.15077,29.289602,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Yorktown</name>
+    <description><![CDATA[on SH 72 (east edge of town), Yorktown<br/><br/><b>Address:</b> Yorktown<br/><br/><b>Marker Text:</b> Founded 1848 as way station on old Indianola Trail. Chartered August 2, 1854. Incorporated 1871. San Antonio and Aransas Pass Railroad reached here 1886. Town's first school organized 1853. Prospered as center of farming and ranching; later, of oil and gas. Pioneer strains are German, American, Pole, Czech, Spaniard, Mexican, Negro.]]></description>
+    <Point><coordinates>-97.49507,28.982348,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

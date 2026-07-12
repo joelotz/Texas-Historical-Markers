@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Gillespie County — Unmapped Historical Markers</name>
+  <description>THC markers in Gillespie County without an HMDB id (isMissing excluded). 23 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <Placemark>
+    <name>D. C. Riley House</name>
+    <description><![CDATA[take RR 965 N approx. 17 miles to Lower Crabapple Rd.; then east on Crab Apple 2.6 miles to Itz-Kast Rd.; then north on Itz .2 miles<br/><br/><b>Address:</b> Fredericksburg<br/><br/><b>Marker Text:</b> Four generations have lived in this house built in early 1870s by Crabapple community pioneer David Crockett Riley (1840-1900). Stone for 24" outer walls and 18" partitions came from a hill a mile north; timbers were hand-hewn from farm trees; milled lumber hauled from Austin (90 mi. SE). With a purchased lock for model, rest of door locks were made in farm shop. Workmen were paid 50 cents and a pint of Crockett Riley's whiskey (home-distilled) for a day's work. Recorded Texas Historic Landmark - 1972]]></description>
+    <Point><coordinates>-98.798378,30.432981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dambach-Besier Home</name>
+    <description><![CDATA[<b>Address:</b> 515 E. Main St., Fredericksburg<br/><br/><b>Marker Text:</b> This rock house was probably built by F. Dambach, who bought the lot in 1867 for $70 and sold it two years later for $450. This was a full-time residence rather than a weekend "Sunday House." The porch was added during the ownership of Anna Besier, who acquired the property in 1881. The widow of George Besier, Anna moved into town so her four children would be close to school. She kept cows in a pasture across the street and sold milk, butter, and cheese. The Besier family owned the property until 1966.]]></description>
+    <Point><coordinates>-98.86494,30.269224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Duecker Family Homestead</name>
+    <description><![CDATA[N. Grape Creek Road, between Harry G. Schmidt and Clarence Jacoby roads<br/><br/><b>Address:</b> 3248 N. Grape Creek Road, Willow City<br/><br/><b>Marker Text:</b> August Duecker, Sr. (1828-1894) came to Texas from his native Germany in 1852. He married Louise Feuge in 1854, and in 1878 they purchased a large farm in this area. Their son, August, Jr., and his wife Lina bought part of the homestead in 1886, and in 1888 built this house with native stone quarried from family land. Although enlarged over the years to accommodate the family, the two-story limestone house is a fine example of a rural German Texan homestead. Recorded Texas Historic Landmark - 1993]]></description>
+    <Point><coordinates>-98.630011,30.330118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Edward and Minnie Stein House</name>
+    <description><![CDATA[<b>Address:</b> 101 E. Hackberry, Fredericksburg<br/><br/><b>Marker Text:</b> Edward Stein (1890-1978), expert craftsman, prominent local banker, and architect of many important structures in Fredericksburg, designed and built this house in 1923 for himself and his wife, Minnie. an excellent example of a 1920s bungalow, it features elements of the craftsman design including wide overhanging eaves and brackets, intersecting gables, and finely articulated walls and porches. The house remained in the Stein family until 1978. Recorded Texas Historic Landmark - 1994]]></description>
+    <Point><coordinates>-98.864925,30.282031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Emil Weber House</name>
+    <description><![CDATA[<b>Address:</b> 110 N. Cherry St., Fredericksburg<br/><br/><b>Marker Text:</b> Stonemason Emil Weber built this late Victorian residence in 1902 with the help of local craftsmen. Constructed of hand-hewn limestone and Texas yellow pine, and featuring 12-inch ceilings, it was designed as a wedding gift for his future bride Matilda Pauling Cehler. Notes in Weber's account book show that the house cost $1,338 to build. Members of the Weber family continued to reside here until 1961. Recorded Texas Historic Landmark - 1982]]></description>
+    <Point><coordinates>-98.883968,30.283823,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Emma and Anna Metzger</name>
+    <description><![CDATA[<b>Address:</b> 4231 Boot Ranch Circle, Fredericksburg]]></description>
+    <Point><coordinates>-98.880703,30.334839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Harper</name>
+    <description><![CDATA[intersection of FM 783 (Doss Rd.) and US 290<br/><br/><b>Address:</b> Harper<br/><br/><b>Marker Text:</b> Organized in 1887 with nine members, the First Baptist Church congregation initially met in the local school building and a brush arbor. A wooden sanctuary and parsonage were built in 1897. The congregation has been involved in community activities and mission work for many years. Harper High school held classes in the church building in 1921 and 1941-42. A native stone structure was erected in 1944, consisting of a sanctuary and Sunday School rooms. A fellowship hall annex was added in 1971. This church has been part of Harper history for over one hundred years.]]></description>
+    <Point><coordinates>-99.231664,30.326249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Frank Van Der Stucken Birthplace</name>
+    <description><![CDATA[<b>Address:</b> 123 E. Main, Fredericksburg]]></description>
+    <Point><coordinates>-98.871903,30.274713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fredericksburg Social Turn Verein</name>
+    <description><![CDATA[<b>Address:</b> 103 W. Travis, Fredericksburg<br/><br/><b>Marker Text:</b> The Fredericksburg Social Turn Verein was established in 1871 in the tradition of German gymnastic clubs. Initially located at a site nearby, the club opened with a gymnastics school and a 9-pin bowling alley. In 1872 the club held the first of its annual Christmas celebrations and in 1883 sponsored a fire brigade which became the City Volunteer Fire Department. The Turn Verein moved to this location in 1909. Children's gymnastics, Christmas celebrations, and bowling continue at Fredericksburg Social Turn Verein, one of the city's oldest continuing organizations.]]></description>
+    <Point><coordinates>-98.87112,30.278711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gold-Grobe House</name>
+    <description><![CDATA[<b>Address:</b> 413 N. Llano, Fredericksburg<br/><br/><b>Marker Text:</b> Built in 1902 by Peter Gold, Sr., this house was originally a one-story center passage plan structure constructed of native limestone. Friedrich William Grobe bought the house in 1914. In 1916 he added a second floor and rear wing using concrete blocks manufactured by the local Basse Brothers Cement Yard. A descendant of Fredericksburg pioneers, Grobe was a blacksmith, surveyor, and farmer, and served as postmaster of the nearby town of Rheingold. Recorded Texas Historic Landmark - 1989]]></description>
+    <Point><coordinates>-98.867746,30.276679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gruen-Doebbler Homestead</name>
+    <description><![CDATA[<b>Address:</b> 1251 Doebbler Road, Fredericksburg<br/><br/><b>Marker Text:</b> GRUEN-DOEBBLER HOUSE THE EARLIEST PART OF THIS TWO-STORY, SIDE-GABLED STRUCTURE WAS BUILT IN THE LATE 1800s BY EARLY AREA PIONEER LUDWIG DOEBBLER. HE CONSTRUCTED THE HOUSE OUT OF NATIVE RUBBLE LIMESTONE FOR HIS SON-IN-LAW, FRIEDRICH GRUEN, AND HIS DAUGHTER, MATHILDA, WHOSE 1937 MEMOIR IS AN IMPORTANT HISTORICAL ACCOUNT OF THE LIFE OF A PIONEER WOMAN. MATHILDA’S BROTHER, ALFRED GUSTAV DOEBBLER, PURCHASED THE PROPERTY IN 1896. A RESPECTED STONEMASON, HE ADDED DRESSED STONE, TRIPLING THE SIZE OF THE HOUSE AND MOVING THE DOOR TO THE CENTER OF THE FOOTPRINT. ALFRED’S SON, WALTER, ENCLOSED A WOODEN ADDITION AND PORCH AROUND 1971. RECORDED TEXAS HISTORIC LANDMARK – 2010]]></description>
+    <Point><coordinates>-98.839349,30.144318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harper Presbyterian Church</name>
+    <description><![CDATA[IS Hwy. 280 and FM 783<br/><br/><b>Address:</b> Harper<br/><br/><b>Marker Text:</b> Organized in 1881 as the Barnett Spring Presbyterian Church, this congregation originally met in a schoolhouse. The fellowship moved to Harper in 1901 and erected this frame church on land donated by Arch Austin. Sale of property given by R. W. Crosley helped finance the construction. In 1903 a bell was purchased for the belfry. This structure housed the Harper School in 1906 and again in the 1940s. It also served as a worship site for other denominations. Recorded Texas Historic Landmark - 1976]]></description>
+    <Point><coordinates>-99.176196,30.377881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Julius and Sophie Splittgerber</name>
+    <description><![CDATA[302 W. Schubert St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 302 W. Schubert St., Fredericksburg<br/><br/><b>Marker Text:</b> Julius Theodor Splittgerber (1819-1897) was a German immigrant and prominent member of early Fredericksburg.  He was born in Brandenburg, Germany to David (1741-1823) and Johanna Susanna Sophia Seiffert (1764-1829) von Splittgerber. Julius attended the University of Breslau to study farming. After graduation, he entered required military service and achieved the rank of second lieutenant in 1842. Splittgerber joined an endeavor led by Prince Carl von Solms Braunfels to settle German emigrants in Texas, arriving in 1845 on board the Arminius.  
+   In 1848, newly settled in the outpost town of Fredericksburg, he married Sophie Dorothee Miehe (c. 1832-1906) of Gadenstedt, Hanover. The couple had nine children: Carl (1850-1851), Theodor (1851-1927), Ida (1853-1935), Emma (1856-1943), Clara (1858-1862), Nina (1860-1928), Hulda (1863-1865), Elfriede (1866-1948) and Julius Alex (1869-1946). Julius Theodor operated a quarry and lime kiln. Around 1851, the Splittgerbers constructed a limestone house at what is now the corner of Schubert and Orange Streets. He resigned his Prussian army commission in 1853 and became an American citizen.
+  When the Gillespie County sheriff died in 1862, Julius stepped in to serve the remainder of the term. However, his determination not to fully endorse the Confederates’ cause brought increasing social pressure. Splittgerber decided to move to Menard in the 1870s, but the plan was financially disastrous. He spent the last twenty years of his life writing early historical accounts of Gillespie County and tutoring. Sophie decided to live with their children who had moved to Mason. Julius is buried in the family plot at Pioneer Rest Cemetery in Menard; Sophie is buried in the family plot at Gooch Cemetery in Mason. (2023)]]></description>
+    <Point><coordinates>-98.873866,30.279922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Krieger-Geyer House</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 512 W. Creek Street, Fredericksburg]]></description>
+    <Point><coordinates>-98.881301,30.278084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower South Grape Creek School</name>
+    <description><![CDATA[from Stonewalll take US 290 E approx. 10 miles, ROW<br/><br/><b>Address:</b> Stonewall<br/><br/><b>Marker Text:</b> Area settlers built a log schoolhouse 1.5 miles south of here in 1871 along South Grape Creek. It was part of Luckenbach School Precinct No. 3 until 1889, when it was renamed Lower South Grape Creek and began to serve as District No. 21. The log schoolhouse was replaced with this structure in 1901. It is typical of early 1900s rural school buildings found in Texas' Hill Country. The stuccoed limestone building features an open plan and bell tower with a pyramidal roof. the school closed in 1960 and merged with the fredericksburg School District. Recorded Texas Historic Landmark - 1994]]></description>
+    <Point><coordinates>-98.72804,30.223305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lyndon Baines Johnson</name>
+    <description><![CDATA[LBJ National Park (near entrance on PR 49)<br/><br/><b>Address:</b> Park Road 49, Stonewall<br/><br/><b>Marker Text:</b> The 36th President of the United States was born here on August 27, 1908; son of a state legislator (1905-1917), Sam Ealy Johnson, Jr., and Rebekah Baines Johnson, a teacher. The house was built in 1906 with the help of neighbors. The Johnsons and Bainesses - early settlers - were ministers, Indian fighters, newspapermen, college professors, ranchers. Original house burned, and was rebuilt by the President. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-98.597991,30.243392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Morris Ranch Schoolhouse</name>
+    <description><![CDATA[from intersection of US 290 and SH 16 in Fredericksburg, take SH 16 S approx. 9 miles to Morris Ranch Rd.; then west on ranch road approx. 2.4 miles<br/><br/><b>Address:</b> Fredericksburg<br/><br/><b>Marker Text:</b> Built in 1893, this schoolhouse was one of several structures located on the Morris Ranch, a noted center for the breeding and training of thoroughbred horses. Several local churches also used the native limestone building for worship services. The central section housed an assembly hall and each wing contained a classroom. The public school continued in operation until 1962, when it merged with the Fredericksburg district (13 mi. NE). Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-99.013966,30.219272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oliver and William Schneider Building</name>
+    <description><![CDATA[same as Old Central Drugstore<br/><br/><b>Address:</b> 123-25 E. Main St., Fredericksburg<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-98.871918,30.274759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Store &amp; Home</name>
+    <description><![CDATA[<b>Address:</b> 309 W. Main, Fredericksburg]]></description>
+    <Point><coordinates>-98.87593,30.277707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Squaw Creek Cemetery</name>
+    <description><![CDATA[from Hilltop take RR 648 NW 6.2 miles; then south on Squaw Creek Rd. .5 miles; then west on Nixon Cemetery Rd. approx. .7 miles<br/><br/><b>Address:</b> Hilltop<br/><br/><b>Marker Text:</b> On their way west from Arkansas to California about 1856, the family of Francis Marion Nixon and his wife, Catherine Elliot, was forced to detour south from the North Texas Plains to this area to obtain water and forage for their livestock. After first camping on a hill near the Mason/Gillespie County line, thereafter referred to as Nixon Point, they settled in this section of Gillespie County during the 1860s. The Nixon's son, Andrew Jackson Nixon, and his wife, Lurana Wooten, built their home in this vicinity and with their fourteen children formed the nucleus of the community of Squaw Creek. Marriages by their descendants added the names Baethge, Ratto, Strackbein, Mund, Faught, and Gibson to the extended Nixon family line. The Squaw Creek Cemetery grounds were a part of a 110-acre conveyance from A. J. Nixon to his brother-in-law, Henry Strackbeing, in 1872. The first recorded interment is that of Elizabeth Gibson in 1873. The first legal mention of the cemetery occurs in a deed executed by Adolph Strackbein in 1914. Of the approximately 60 interments here, most are members of the extended Nixon family. The burials include those of American Civil War and World War I veterans.]]></description>
+    <Point><coordinates>-99.044584,30.437831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Anthony Catholic Parish</name>
+    <description><![CDATA[163 N 3rd St.<br/><br/><b>Address:</b> 163 N 3rd St., Harper<br/><br/><b>Marker Text:</b> The community of Harper, named after George Franklin Harper, grew in the 1880s when pioneers from surrounding settlements moved to the area. Prior to the establishment of a Catholic church, families drove horses and wagons twenty-five miles to the Catholic church in Fredericksburg. Because of this exigency, the Catholic Diocese of San Antonio assigned Father Frederick Fassbender to say mass here in 1908. The first mass in Harper was held at the home of Jacob Fielder on St. Patrick’s day in 1908. Father Fassbender, the trustees, and parishioners sacrificed time and money to build the St. Anthony Catholic Church, dedicated on August 10, 1909. The generosity of the church members and the community contributed to many of the integral pieces of the church, including the altar, bell, cross, crucifix, statues, and a tapestry dated 1887. St. Anthony Catholic Parish added to their campus over the years with a cemetery in 1911, a rectory in 1920 and 1970, a parish hall in 1933 and 2007, and a new church in 1958. The parish hall has operated for many years as a location for social activities such as weddings, games, bazaars, parties, and events for the community. Many of St. Anthony’s parishioners proudly served their country in the armed forces, including World War I, World War II, the Korean War, Vietnam, and Desert Storm. The parishioners also contributed to their community through the church choir, vacation bible school, or with youth activities, events, or community projects for the people of Harper and Gillespie County. For more than a century, St. Anthony’s Catholic Parish served, and continues to serve, the church, community, state, and nation.]]></description>
+    <Point><coordinates>-99.255481,30.300886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Patton Home</name>
+    <description><![CDATA[<b>Address:</b> 107 N. Orange St., Fredericksburg<br/><br/><b>Marker Text:</b> Pioneer Fredericksburg business leader Albert Lee Patton (1851-1934) and his wife Emma (Wahrmund) (d. 1927) built the original four-room section of this limestone home shortly after they purchased the property in 1876. Alterations to the structure, completed in the late 1880s, included the addition of the three-window front bay. Later inherited by a daughter, Emma (Patton) Detjen, the residence remained in the Patton family until 1978. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-98.875495,30.277714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wahrmund-Priess House</name>
+    <description><![CDATA[<b>Address:</b> 575 Buckeye Rd., Fredericksburg<br/><br/><b>Marker Text:</b> The larger of the two houses on this property is original to the site and dates to the period of settlement by German immigrants in this part of Texas. Johann Christian Wahrmund brought his family to Texas in 1846 and by 1851 they were living on this tract of land along Bear Creek. The original portion of the stone house was built between 1852 and 1866. Prussian immigrant Johann Priess bought the house from the Wahrmunds in 1866, and his family enlarged it during the 1870s and 1880s. The house remained under Priess ownership until 1931. Recorded Texas Historic Landmark - 2001]]></description>
+    <Point><coordinates>-98.951622,30.185333,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

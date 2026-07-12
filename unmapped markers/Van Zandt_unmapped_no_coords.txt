@@ -1,0 +1,93 @@
+Van Zandt unmapped markers with NO usable address (23):
+
+  THC 23511: 1964 Canton Eagles Football Team
+    addr: 1110 State Hwy 243, Canton
+    https://atlas.thc.texas.gov/Details/5000023511
+
+  THC 11375: Allen Cemetery
+    addr: Wills Point
+    https://atlas.thc.texas.gov/Details/5467011375
+
+  THC 14835: Cherokee Boundary Line
+    addr: Fruitvale
+    https://atlas.thc.texas.gov/Details/5507014835
+
+  THC 15022: Corinth Cemetery
+    addr: Grand Saline
+    https://atlas.thc.texas.gov/Details/5507015022
+
+  THC 11402: Fairview Cemetery and School
+    addr: Wills Point
+    https://atlas.thc.texas.gov/Details/5467011402
+
+  THC 11417: Hayden Baptist Church
+    addr: Myrtle Springs
+    https://atlas.thc.texas.gov/Details/5467011417
+
+  THC 17926: Holly Springs United Methodist Church
+    addr: North on FM 1653 about 2 miles, Martins Mill
+    https://atlas.thc.texas.gov/Details/5507017926
+
+  THC 12260: Ingram Cemetery
+    addr: Edom
+    https://atlas.thc.texas.gov/Details/5467012260
+
+  THC 11423: Jones Cemetery
+    addr: Wills Point
+    https://atlas.thc.texas.gov/Details/5467011423
+
+  THC 16692: Lexie Dean Robertson
+    addr: 301 FM 1861, Martins Mill
+    https://atlas.thc.texas.gov/Details/5507016692
+
+  THC 12427: Liberty Cemetery
+    addr: Edom vicinity
+    https://atlas.thc.texas.gov/Details/5467012427
+
+  THC 15885: Mt. Pisgah
+    https://atlas.thc.texas.gov/Details/5507015885
+
+  THC 23429: Mt. Pisgah Cemetery
+    addr: CR 4105, Canton
+    https://atlas.thc.texas.gov/Details/5000023429
+
+  THC 23372: Myrtle Springs Cemetery
+    addr: CR 3442, Myrtle Springs
+    https://atlas.thc.texas.gov/Details/5000023372
+
+  THC 15452: Oak Hill Cemetery
+    addr: Edgewood
+    https://atlas.thc.texas.gov/Details/5507015452
+
+  THC 17930: Philip Nolan Expeditions Into Spanish Texas
+    addr: 3502 CR 3804, Wills Point
+    https://atlas.thc.texas.gov/Details/5507017930
+
+  THC 23540: Railroad Spur Line to Van Oil Field
+    addr: CR 1501, Van
+    https://atlas.thc.texas.gov/Details/5000023540
+
+  THC 12261: Site of C. W. Morris Cotton Gin
+    addr: Edom
+    https://atlas.thc.texas.gov/Details/5467012261
+
+  THC 11689: Site of Friendship Community School
+    addr: Grand Saline
+    https://atlas.thc.texas.gov/Details/5467011689
+
+  THC 12267: Small Community and Cemetery
+    addr: Edgewood
+    https://atlas.thc.texas.gov/Details/5467012267
+
+  THC 12268: Stanger Springs Church
+    addr: Ben Wheeler
+    https://atlas.thc.texas.gov/Details/5467012268
+
+  THC 23897: Texas Short Line Railway
+    addr: US 80, Grand Saline
+    https://atlas.thc.texas.gov/Details/5000023897
+
+  THC 24483: Zion Hill Cemetery
+    addr: 6956 FM 1861, Canton
+    https://atlas.thc.texas.gov/Details/5000024483
+

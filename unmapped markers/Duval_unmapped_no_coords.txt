@@ -1,0 +1,22 @@
+Duval unmapped markers with NO usable address (5):
+
+  THC 22570: Antonio López Family Cemetery
+    addr: Benavides
+    https://atlas.thc.texas.gov/Details/5000022570
+
+  THC 2769: John C. Duval
+    addr: Freer
+    https://atlas.thc.texas.gov/Details/5131002769
+
+  THC 15228: John C. Duval
+    addr: Freer
+    https://atlas.thc.texas.gov/Details/5507015228
+
+  THC 18231: Merchants Exchange Bank
+    addr: East Railroad Avenue and Depot Street, Benavides
+    https://atlas.thc.texas.gov/Details/5507018231
+
+  THC 23538: Santa Cruz Cemetery
+    addr: San Diego
+    https://atlas.thc.texas.gov/Details/5000023538
+

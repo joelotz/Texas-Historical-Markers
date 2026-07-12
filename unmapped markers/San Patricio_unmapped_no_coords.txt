@@ -1,0 +1,10 @@
+San Patricio unmapped markers with NO usable address (2):
+
+  THC 15060: Bethel Baptist Church of Christ
+    addr: Odem
+    https://atlas.thc.texas.gov/Details/5507015060
+
+  THC 20182: Rosita Cemetery
+    addr: Taft
+    https://atlas.thc.texas.gov/Details/5507020182
+

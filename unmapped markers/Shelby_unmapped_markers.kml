@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Shelby County — Unmapped Historical Markers</name>
+  <description>THC markers in Shelby County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 21 omitted (no usable address).</description>
+  <Placemark>
+    <name>Africa Freedom Colony</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2308 CR 2050, Center<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.131258,31.762906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Corinth Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 7345 FM 1970 N, Timpson]]></description>
+    <Point><coordinates>-94.420318,31.964089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eva Taylor Lane Home</name>
+    <description><![CDATA[<b>Address:</b> 212 Houston, Center<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-95.466444,29.787302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fellowship Baptist Church</name>
+    <description><![CDATA[2 mi. south of Joaquin via SH 139 SS, then FM 2787 S, then right on CR 3569<br/><br/><b>Address:</b> Joaquin<br/><br/><b>Marker Text:</b> One of the oldest Baptist churches in Texas. Founded by settlers who came by ferry across Sabine River as early as 1818. After a number of homes were built on hills near good springs of water, a church was considered essential. It is recorded that this one ministered to spiritual needs in Republic of Texas era. Congregation assembled by riding many miles, usually in farm wagons, and with baskets of food. Original log building, heated by 8-foot fireplace with mud chimney, had split log benches. The windows, without glass, had shutters on wooden hinges. In season, school was held in this early building. The name "Fellowship" honored loyalties among the pioneer families. First pastor was the Rev. Wyatt S. Childress, a kinsman of Geo. C. Childress, one of the authors of the Texas Declaration of Independence. First church clerk was Dr. John Moses Taylor. Erected after sawmills were in use in the 1870s was second church building, of plank construction. This was several times relocated and remodeled. The present structure was built in 1939; enlarged 1967. The old "Busbee Place" Spring, initially responsible for choice of this site, still supplies water for the church and baptistry.]]></description>
+    <Point><coordinates>-94.025778,31.93573,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First County Seat of Shelby County</name>
+    <description><![CDATA[<b>Address:</b> SH 87 and FM 417, Shelbyville<br/><br/><b>Marker Text:</b> Shelbyville, once known as Nashville, was the first county seat of government of the District of Tenaha, or Shelby County. The first courthouse stood on this site. The settlement began before 1825. It became headquarters for the "Regulator-Moderator War"; troops were raised here to fight the Indians; for the Texas army; and Confederate forces were organized here.]]></description>
+    <Point><coordinates>-94.078108,31.761022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Methodist Church of Shelbyville</name>
+    <description><![CDATA[off SH 87 on Church St.<br/><br/><b>Address:</b> Shelbyville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.078706,31.757968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hutto Cemetery</name>
+    <description><![CDATA[From Tenaha take US 84 East for about 5 miles to FM 699, turn right, (South) drive 2.9 miles to CR 3550, turn right and drive 1.0 miles to 1150. Pull into the driveway, the cemetery is visible about 200 yards in the pasture.<br/><br/><b>Address:</b> 1150 Co Rd 3550, Tenaha]]></description>
+    <Point><coordinates>-94.17224,31.914012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Joaquin Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Joaquin<br/><br/><b>Marker Text:</b> BENJAMIN FRANKLIN MORRIS PROVIDED LAND FOR RAILROAD RIGHT-OF-WAY AND A 100-ACRE TOWNSHIP SITE FOR JOAQUIN IN THE 1880s. IN 1890, MORRIS DONATED ONE ACRE AT THIS SITE TO ESTABLISH JOAQUIN MISSIONARY BAPTIST CHURCH. ON OCTOBER 24, 1894, WHEN ALLIE M. WHIDDON DIED AT AGE EIGHTEEN, VIOLA “OLA” WHIDDON RUSHING DONATED LAND ADJOINING THE CHURCH IN MEMORY OF HER YOUNG SISTER TO ESTABLISH JOAQUIN CEMETERY. ADDITIONAL EARLY BURIALS INCLUDE B. F. MORRIS’ GRANDSON AND TOWN NAMESAKE, JOAQUIN MORRIS (1898), JAMES W. TAYLOR (1897), WESLEY A. SMITH (1897), IMA SOJOURNER (1898), WILLIAM TAYLOR (1898), BERTIE TRUITT (1899), AND ALMER WOOD (1899). A SURVEY RECORDED MORE THAN 800 GRAVES AND IDENTIFIED TWELVE CIVIL WAR VETERANS. JESSIE AVERY FERGUSON (1859-1943), FIRST MAYOR OF JOAQUIN AND ONE OF THE FIRST SCHOOLTEACHERS, IS BURIED HERE, AS ARE TWO VICTIMS OF THE NEW LONDON SCHOOL EXPLOSION (1937). OTHER NOTABLE GRAVES INCLUDE PHYSICIANS DR. WILLIAM ALLEN RAMSEY (1880-1962) AND DR. EDGAR RUSHING (1877-1943) AND PHARMACIST EDWARD LEWIS RAMSEY (1875-1947). MANY EARLY SETTLERS, POSTMASTERS, BUSINESS AND CIVIC LEADERS ARE BURIED HERE. THE LAND WAS FORMALLY DEEDED IN 1954 BY VIOLA RUSHING’S SON, DR. E. O. RUSHING, TO THE CHURCH. A CEMETERY ASSOCIATION FORMED IN THE 1960s, AND CONTINUES TO HOLD AN ANNUAL HOMECOMING ON THE SECOND SUNDAY IN JUNE. THE GRAVES OF B. F. MORRIS (1827-1900) AND HIS WIFE, JANE (1829-1883), WERE MOVED HERE FROM MORRIS CEMETERY ON GRAVEYARD HILL IN 1994 BECAUSE OF LACK OF PERPETUAL CARE AND DIFFICULTY OF ACCESS. PROMINENT FEATURES OF THE CEMETERY INCLUDE EAST-FACING GRAVES, FAMILY PLOTS, A LARGE CONCRETE CRYPT, STATELY MARBLE WOODMEN OF THE WORLD MARKERS, AND GRAVESTONES OF COMMUNITY MEMBERS WHO WERE CITIZENS OF THE REPUBLIC OF TEXAS. THIS HISTORIC SITE CONTINUES TO SERVE THE BURIAL NEEDS OF THE COMMUNITY.]]></description>
+    <Point><coordinates>-94.059053,31.96934,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King-Oates Cemetery</name>
+    <description><![CDATA[0.1 mi to CR 3849<br/><br/><b>Address:</b> CR 3849, Joaquin<br/><br/><b>Marker Text:</b> King-Oates Cemetery Established circa 1853 Historic Texas Cemetery - 2006]]></description>
+    <Point><coordinates>-94.136695,31.929625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>McClelland Community Church</name>
+    <description><![CDATA[7 mi. south of Shelbyville, via SH 87 to SH 147 S to McClelland, then east on county road<br/><br/><b>Address:</b> Shelbyville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.07184,31.662335,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Moses Fisk Roberts</name>
+    <description><![CDATA[SH 87, Shelbyville Cemetery<br/><br/><b>Address:</b> Shelbyville<br/><br/><b>Marker Text:</b> (1803-1889) Highly regarded public servant and farmer of Shelby County. His ever-present pack of fox hounds earned him nickname "Dog" Roberts. Born in Tennessee, he moved to Texas in 1836. Lost right eye as soldier in Texas revolution. Was later officer in Texas militia. Served in Congress of Republic (1839-42) and State Legislature (1853-54; 1857-58). Was also justice of the peace and county judge. First wife was Amanda Grant; second, Nancy Murray.]]></description>
+    <Point><coordinates>-94.081118,31.763794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mt. Herman Cemetery</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 9181 SH 7 W, Center<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.305285,31.697366,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Patroon Cemetery</name>
+    <description><![CDATA[21 mi. S of Ceneter on US 87, then E on FM 2261<br/><br/><b>Address:</b> US 87, FM 2261, Center<br/><br/><b>Marker Text:</b> Settlers began moving to the Patroon area by the 1830s. Tennessee natives William and Elviry Nethery brought their family to this area from Alabama in the early 1840s. Their son A.M. established this cemetery on his own property when he and his wife, M.H. "Leany," buried their first son, John (1858-1861). While A.M. was serving in the Civil War, Leany and baby daughter Rachel died from fever and were buried here in 1862. A nanny cared for their son Charley until his father's return. A.M., his second wife, and other Nethery children are also interred in the cemetery, which became a community burial ground. The Patroon post office was established in 1868. The community also supported businesses, as well as Methodist and Baptist congregations. Among the generations of area residents buried here are community and church leaders, postmasters, school trustees, artists, farmers and veterans of American conflicts beginning with the Civil War. The cemetery features east-facing graves, including some marked by vertical stones. Today, a cemetery association maintains the burial ground as a perpetual care cemetery. Historic Texas Cemetery - 2003]]></description>
+    <Point><coordinates>-93.976183,31.621025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sample Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Shelbyville<br/><br/><b>Marker Text:</b> n.a.]]></description>
+    <Point><coordinates>-94.007552,31.739506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sardis School</name>
+    <description><![CDATA[2183 FM 414<br/><br/><b>Address:</b> 2183 FM 414, Center<br/><br/><b>Marker Text:</b> Sardis School Students in this area attended the Hughes School (2.1 mi. Ene) until 1917. That year, the W.R. Pickering Lumber Co. donated four acres to trustees C.L. Fowler, R.C. Hughes and R.C. Squyres for Sardis School No. 37. A schoolhouse was completed at this site by the end of the summer. The white frame structure included four rooms and housed grades 1-9. Students participated in athletics, including baseball, basketball and volleyball, and competed against other area schools. In 1956, the district closed the school, and students began traveling to campuses in nearby Center. The schoolhouse was torn down in the 1960s, but lessons learned here remain in the memories of area residents. (2003)]]></description>
+    <Point><coordinates>-94.09204,31.800066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shady Grove Cemetery</name>
+    <description><![CDATA[Center, 14.5 mi NW on CR 4175, via US 87 and CR 4020<br/><br/><b>Address:</b> CR 4175, Center<br/><br/><b>Marker Text:</b> Shady Grove Cemetery Shady Grove Cemetery began with the interment of Anna Sparks Ramsey in September 1878, 13 months before a two-acre tract of land here was deeded as a cemetery. Although Ramsey's husband, George Frank Washington Ramsey, had been buried in nearby Bobo, roads were impassable at the time of her death, so she was buried here. S.C. Mathis and James C. Rhodes each deeded one acre of land in October 1879 for a community burial ground, school and Methodist Episcopal Church, South. Trustees receiving the donation were T.P. Ramsey, J.l. Ramsey and S.C. Mathis. The church was originally on the west side of the cemetery near a spring, but after the sanctuary burned, a new one was built closer to the burial ground under large oak trees. Since its establishment, the cemetery has been cared for by the community. The Cammack family donated a protective fence, and other family names associated with the graveyard's upkeep include Baker, Billingsley, Childs, Collins, Franks, Ramsey and Rhodes. Names found on headstones represent veterans, farmers, teachers, preachers and others, preserving the memory of area residents. Historic Texas Cemetery - 2002]]></description>
+    <Point><coordinates>-94.360419,31.845688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Town of Spivey, 1870s-1900</name>
+    <description><![CDATA[<b>Address:</b> US 85, 1.5 mi. east, Paxton<br/><br/><b>Marker Text:</b> Founded by Civil War veteran James Jackson Spivey; brothers Elisha P. and George W. Spivey lived nearby. In early days mail arrived by wagon. Houston East &amp; West Texas Railroad crossed the founder's land, building Spivey Station, 1886. During late 1880s Hicks Lumber Mill and workers' houses were erected. U. S. Post Office was established in 1891, with Isaac W. Spivey, postmaster. Friendship Baptist Church was organized in 1890s with James M. Spivey, pastor. After 1900, town gradually moved over to Paxton Switch. Friendship Cemetery, with 33 graves, marks the old site.]]></description>
+    <Point><coordinates>-94.146533,31.958576,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sydney O. Pennington</name>
+    <description><![CDATA[SH 87, Shelbyville Cemetery<br/><br/><b>Address:</b> Shelbyville<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.081118,31.763794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Bickham House</name>
+    <description><![CDATA[2 mi. east of Shelbyville via SH 147 to FM 2694<br/><br/><b>Address:</b> 794 FM 2694, Shelbyville<br/><br/><b>Marker Text:</b> On site of J. M. Crawford home, built 1850, razed by fire, 1885. Erected by Crawford's stepson, Frederick Lee Bickham (1866-1907), prominent landowner and rancher, in 1885-88. Here he and his wife, Nevada Levonia Mhoon, brought up their children and Bickham's stepsisters and stepbrothers. Timber (cedar, cypress, and heart pine) for house was cut on the property. In 1972, N. O. Thomas bought, restored, and renamed the house "Welcome Hall." Recorded Texas Historic Landmark - 1973]]></description>
+    <Point><coordinates>-94.050376,31.764376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Truitt Cemetery</name>
+    <description><![CDATA[south off SH 7 from Joaquin on county road<br/><br/><b>Address:</b> Joaquin<br/><br/><b>Marker Text:</b> James Truitt (Oct. 23, 1795 - June 11, 1870) and his wife Sarah Hall Truitt (July 29, 1796 - July 3, 1848) left North Carolina for Texas in 1838, settling near this site in 1840. Truitt was a congressman in the Republic of Texas, 1843-45; a representative, 1846-48, and four terms a senator in Texas State Legislature. The Truitts had five sons and five daughters. Two sons fought in Regulator-Moderator War, three in Mexican War, five in Civil War. Descendants continue to be prominent in texas history. Several generations rest in this cemetery which was founded at the death of Sarah Hall Truitt.]]></description>
+    <Point><coordinates>-94.105506,31.898254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White Rock Cemetery</name>
+    <description><![CDATA[12555 SH 7 West | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 12555 SH 7 West, Center<br/><br/><b>Marker Text:</b> Land for the White Rock Cemetery was deeded in the years after the founding of White Rock Church. The church also served as the schoolhouse and masonic lodge. Church tradition states that the original acreage of the cemetery was one acre. On September 13, 1913, George Edward “Buster” Davis (1870-1950) and his wife, Sarah Francis (Savell) Davis (1872-1922), deeded to church deacons one acre for cemetery purposes. The cemetery continued to grow. On January 10, 1921, Robert H. Chandler (1891-1966) and his wife Nora (1895-1973) sold one acre to the deacons and masons of White Rock Baptist Church. In May 1945, Robert and Nora sold an additional one and a half acres for burial purposes.
+  White Rock Cemetery has over one thousand burials. The most common last names include Chandler, Davis, Koonce, Smith and Williams. The oldest gravestone is that of Sarah Tyler (1827-1887). Some tombstones are adorned with decorations from visitors. The oldest marked birthdates are those of the Reverend James Carroll Koonce, who church tradition states was the first pastor of White Rock Church, and his wife Susan, both born in 1815. Several grave markers give years indicating the person was over one hundred years old when they died, including that of Raymond Crawford, Samantha Renfro Hendricks, June Jolly and Carl B. Russell. There are 82 veterans’ markers in White Rock Cemetery, representing the Civil War, World War I, World War II, Korea, Vietnam and the Persian Gulf, along with 18 who served in the military during peacetime. For over a century, White Rock Cemetery has been a lasting reminder of the early community of White Rock.
+
+HISTORIC TEXAS CEMETERY – 2023]]></description>
+    <Point><coordinates>-94.354747,31.678956,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

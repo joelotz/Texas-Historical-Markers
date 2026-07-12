@@ -1,0 +1,66 @@
+Gonzales unmapped markers with NO usable address (16):
+
+  THC 15099: Branecky School
+    addr: Waelder
+    https://atlas.thc.texas.gov/Details/5507015099
+
+  THC 15308: Bundick Cemetery
+    addr: Nixon
+    https://atlas.thc.texas.gov/Details/5507015308
+
+  THC 14880: Bunting Family Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014880
+
+  THC 929: Captain Philip Coe
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177000929
+
+  THC 14146: Gates Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014146
+
+  THC 1217: Ghost Town of Dewville
+    addr: Dewville
+    https://atlas.thc.texas.gov/Details/5177001217
+
+  THC 15284: Gonzales Cannon Dispute, Site of
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507015284
+
+  THC 11899: Greenwood Cemetery
+    addr: Greenwood
+    https://atlas.thc.texas.gov/Details/5177011899
+
+  THC 17095: Greenwood Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507017095
+
+  THC 23728: Harris Chapel - Rising Star Cemetery
+    addr: SH 80, Nixon
+    https://atlas.thc.texas.gov/Details/5000023728
+
+  THC 3258: Maurin Quarry
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177003258
+
+  THC 14074: Pilgrim Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014074
+
+  THC 837: Route of Old Chisholm Trail
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177000837
+
+  THC 4504: Sam Houston's Camp
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177004504
+
+  THC 2562: Site of Hopkinsville
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177002562
+
+  THC 14293: Steen Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014293
+

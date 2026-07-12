@@ -1,0 +1,9 @@
+Clay unmapped markers with NO usable address (2):
+
+  THC 591: Byers High School
+    addr: Byers
+    https://atlas.thc.texas.gov/Details/5077000591
+
+  THC 2870: Joy United Methodist Church
+    https://atlas.thc.texas.gov/Details/5077002870
+

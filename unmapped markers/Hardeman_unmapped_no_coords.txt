@@ -1,0 +1,6 @@
+Hardeman unmapped markers with NO usable address (1):
+
+  THC 23644: The Demise of Joe Earle
+    addr: FM 2640, Quanah
+    https://atlas.thc.texas.gov/Details/5000023644
+

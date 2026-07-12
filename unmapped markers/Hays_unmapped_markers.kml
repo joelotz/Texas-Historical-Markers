@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hays County — Unmapped Historical Markers</name>
+  <description>THC markers in Hays County without an HMDB id (isMissing excluded). 36 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alba Ranch</name>
+    <description><![CDATA[<b>Address:</b> 2750 McGregor Ln., Dripping Springs]]></description>
+    <Point><coordinates>-98.154822,30.246497,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Appoximate Site of the Missions</name>
+    <description><![CDATA[Meadows Center for Water and the Environment, Texas State University, on restricted access/private property. Map dot approximate.<br/><br/><b>Address:</b> 211 San Marcos Springs Dr., San Marcos<br/><br/><b>Marker Text:</b> San Francisco Xavier de los Dolores, Nuestra Senora de la Candelaria, San Ildefonso. Originally established on the San Gabriel River by Franciscan missionaries in 1746-1749 with the hope of civilizing and Christianizing the Coco, Mayeye, Orcoquiza and other Indian tribes. The martyrdom of Padre Jose Ganzabal and the circumstances connected therewith caused the departure of the Indians and the friars and the removal of the missions to the San Marcos River in 1755. Reestablished on the banks of the San Saba, Nueces and Sabinal rivers for the conversion of the Lipan Apaches in 1757-1762. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-97.929246,29.893545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Basil Dailey House</name>
+    <description><![CDATA[East side of W. San Antonio St., between Harvey and North streets. Marker reported missing Nov. 2018.<br/><br/><b>Address:</b> 411 W. San Antonio, San Marcos]]></description>
+    <Point><coordinates>-97.944577,29.88128,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Burleson Home</name>
+    <description><![CDATA[Texas State University, Meadows Center for Water and the Environment, access to site by permission only<br/><br/><b>Address:</b> 211 San Marcos Springs Drive, San Marcos<br/><br/><b>Marker Text:</b> Home of Gen. Edward Burleson (1793-1851), officer in Texas War for Independence; vice president of Republic of Texas, 1841-1844; leader in frontier defense; state legislator. Built in 1848 of hewn elm and oak logs, roofed with hand rived boards. Had 2 large rooms, rock chimney at north end. In ruins by 1917, it was restored in 1964 with original chimney stones and logs from buildings of the same period. Recorded Texas Historic Landmark - 1967]]></description>
+    <Point><coordinates>-97.929246,29.893545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Burns Sons' Gravesite</name>
+    <description><![CDATA[24025 Ranch Road 12<br/><br/><b>Address:</b> 24025 Ranch Road 12, Driftwood<br/><br/><b>Marker Text:</b> Burns Sons' Gravesite Established 1879 Historic Texas Cemetery, 2008]]></description>
+    <Point><coordinates>-98.092091,30.133597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Caldwell-Kone-Hyatt House</name>
+    <description><![CDATA[<b>Address:</b> 618 W. Hutchison, San Marcos<br/><br/><b>Marker Text:</b> Robert M. Caldwell (1836-84), son of pioneer Texas colonists, built this house in 1869. His wife, Mary, was a sister of Col. E. M. House (1858-1938), advisor to U. s. President Woodrow Wilson. Acquired in 1874 by the Kone family, the residence was occupied by Rebecca Pitts (Mrs. Samuel Reid) Kone (1828-1910). Her son, Edward Rives Kone (1848-1933), was Hays County judge for 26 years before his election as state agriculture commissioner in 1908. Kone heirs sold the home to Mr. and Mrs. Bob Hyatt in 1961. Recorded Texas Historic Landmark - 1975]]></description>
+    <Point><coordinates>-97.948573,29.881346,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cementerio del Rio</name>
+    <description><![CDATA[San Marcos, 2801 FM 621<br/><br/><b>Address:</b> 2801 FM 621, San Marcos<br/><br/><b>Marker Text:</b> LOCATED ON THE SAN MARCOS RIVER, ONE HALF MILE DOWNRIVER FROM THE OLD CAMINO REAL CROSSING, CEMENTERIO DEL RIO IS SITUATED CLOSE TO THE ORIGINAL SPANISH SETTLEMENT OF SAN MARCOS DE NEVE (1804-1812). IT IS BELIEVED TO HAVE BEEN ESTABLISHED WITH A JANUARY 7, 1893 DEED FROM H. T. KING AND E. D. STIGER TO HAYS COUNTY FOR A ONE-ACRE PLOT OF LAND FOR THE PURPOSES OF A CHURCH, SCHOOL, AND MEXICAN-AMERICAN BURIALS. THE EARLIEST SURVIVING INSCRIPTION NOTES A 1906 DEATH (CALIXTO DUMAS, 1865 – AUGUST 31, 1906), WHILE THE LATEST DOCUMENTED INSCRIPTION IS FROM 1941 (MARIA JESUS RODRIGUEZ, NOVEMBER 25, 1859 – SEPTEMBER 6, 1941). VERY FEW INSCRIPTIONS EXIST AFTER 1920, BUT A MAJORITY OF THE SURVIVING STONES, WHICH ARE MAINLY FROM 1910-1920, REFLECT THE INFLUX OF MEXICAN IMMIGRANTS AROUND THE TIME OF THE MEXICAN REVOLUTION, THEREBY EXHIBITING THE GROWTH OF A UNIQUE CULTURE IN SAN MARCOS. THE CEMETERY’S MOST PROMINENT TOMBSTONES BELONG TO FOUR WOODMEN OF THE WORLD, BEING EMILIO GARCIA (1883-1913), EVARISTO R. MORIN (1885-1913), JOSE HERNANDEZ (1877-1919), AND OCTAVIANO FELAN (1884-1915). THE 1909 ESTABLISHMENT OF SAN PEDRO CEMETERY A FEW MILES AWAY SEEMS TO HAVE EVENTUALLY ECLIPSED CEMENTERIO DEL RIO WHILE DROUGHT HAS KILLED AND STRESSED MANY OF THE CEMETERY’S TREES. ALTHOUGH THE SITE WAS ABANDONED AND VIRTUALLY FORGOTTEN UNTIL THE EARLY 1990s, CEMENTERIO DEL RIO SERVES AS EVIDENCE OF AN IMPORTANT TIME IN HAYS COUNTY’S HISTORY AS WELL AS AN INDICATION OF THE PRESENCE AND CONTRIBUTIONS OF THE HISPANIC COMMUNITY IN SAN MARCOS.]]></description>
+    <Point><coordinates>-97.907121,29.837586,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cen-Tex Wool Mill</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 101 Uhland Rd., San Marcos<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-97.918508,29.898909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Claiborne Kyle Log House</name>
+    <description><![CDATA[from Kyle take Old Stagecoach Rd. SW approx. 4 miles<br/><br/><b>Address:</b> Kyle<br/><br/><b>Marker Text:</b> Col. John Claiborne Kyle (d. 1867) and his wife Lucy (Bugg) (d. 1863), natives of Tennessee came to the Republic of texas from Mississippi in 1844. they built this four-pen dog trot log home soon after they purchased land here in 1850. Constructed of hand-hewn cedar logs, it was located on the Austin-San Antonio stage route. An active political leader, Kyle had five sons who served in the Confederate Army during the Civil War, including Capt. Ferg Kyle, for whom the town of Kyle (4 mi. NE) was named. The Kyle house now serves as a reminder of this prominent pioneer family. Recorded Texas Historic Landmark - 1982]]></description>
+    <Point><coordinates>-97.902317,29.965362,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Coronado Cemetery</name>
+    <description><![CDATA[To reach the cemetery from IH 35 near Buda (approximately 17 miles north of San Marcos), take the Niederwald Exit and turn east (right) on 2001. Go approximately .1 mile and turn right, staying on FM 2001. Drive 5.1 miles farther to the intersection of Co. Road 157 and 2001. Turn right on 157 and go .9 miles to intersection with Mathias Road. Turn left on Mathias and go 1.7 miles (to Coronado Lane). The cemetery is located on the right side of the road.<br/><br/><b>Address:</b> Coronado Lane, Buda<br/><br/><b>Marker Text:</b> Established 1908 Historic Texas Cemetery – 2009]]></description>
+    <Point><coordinates>-97.79321,30.00894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Czichos House</name>
+    <description><![CDATA[also known as the Schlameus House, in Pioneer Town Resort; in Wimberley take River Road 1 mi. west of RR 12<br/><br/><b>Address:</b> Wimberley<br/><br/><b>Marker Text:</b> Of hand-hewn cedar logs chinked with clay. built in Comal County about 1850. Home, 1858-1951, family of Dr. Adolph Schlameus, who taught area's first school, near Fischer, for settlers' children and his own 12. Moved from Canyon Lake area and restored in 1960. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-98.110614,29.985947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Danforth-Kerbow House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 220 Old Kyle Rd., Wimberley<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-98.092838,29.997207,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. Joseph M. Pound</name>
+    <description><![CDATA[Pound House Museum, 570 Founders Park Road<br/><br/><b>Address:</b> Dripping Springs<br/><br/><b>Marker Text:</b> (1827-1914) In Mexican War at age 19. Got M.D. at Louisville, Ky. In 1853 settled 2 miles from here. Home was clinic-hospital for young and old, rich and poor of area. As Civil War surgeon, he took scarlet fever. Sent home, he got well, joined frontier regiment. (In this war, for each combat death, 2 died of disease.) Confederate doctors had many problems with drug supply, surgical tools, horse-drawn ambulances and hospitals. Instruments had to be bought in Europe (shipped through naval blockage) or captured from the foe. Drugs came in by blockade-runner or were brought from North by ladies who hid them on the person: in Pompadours, bustles, petticoats. Scarcities led to use of dogwood, willow and poplar bark tea as substitute for quinine. Mullein and other wild herbs were medical substitutes. Garden poppies were milked for opium. Sutures were made of horsehair softened by boiling or from silk cloth ravelings. Female nurses were used for first time in army hospitals. This was first was to use anesthetics. Amputations left severed limbs stacked like wood around the field hospitals. Ambulances seemed never at hand for casualties; many died awaiting aid. Till the atom bomb, the Civil War was history's bloodiest.]]></description>
+    <Point><coordinates>-98.114268,30.201888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eli T. Merriman Home</name>
+    <description><![CDATA[in Aquarena Springs Park, Texana Village<br/><br/><b>Address:</b> San Marcos<br/><br/><b>Marker Text:</b> Built about 1846 by Dr. Eli T. Merriman (1815-1867), Yale graduate, 1838 Texas settler. One of 3 San Marcos townsite owners. First physician in area. Later lived in Brownsville, Banquete, Corpus Christi. During Civil War joined Confederate army with 2 sons; one son was in Federal army. Son, Eli T., Jr., founded the Corpus Christi "Caller." Second home in San Marcos. Originally near Town Square. Built of hand-hewn timber. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-97.768274,28.666624,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fisher Hall</name>
+    <description><![CDATA[<b>Address:</b> 1132 Belvin, San Marcos]]></description>
+    <Point><coordinates>-97.953927,29.876596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ike Wood House</name>
+    <description><![CDATA[<b>Address:</b> 227 N. Mitchell, San Marcos<br/><br/><b>Marker Text:</b> After settling in San Marcos about 1886, I. W. (Ike) Wood (1866-1960) became a prominent merchant, banker, and civic leader. In 1888 he married Elizabeth Williamson (1869-1961). Wood hired local architect John Whaley (1853-1915) to construct this classical revival house in 1908. A row of massive Corinthian columns and a hanging second floor balcony dominate the structure's classical facade. The Wood family lived here for over 50 years. Recorded Texas Historic Landmark - 1978 Incise in base: Restored by Mr. and Mrs. william H. Crook in 1962]]></description>
+    <Point><coordinates>-97.951888,29.877422,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Immanuel Baptist Church</name>
+    <description><![CDATA[from Kyle take FM 150 E approx. 3.5 miles<br/><br/><b>Address:</b> Kyle<br/><br/><b>Marker Text:</b> Christian Siebenhausen and Karl Wiegand migrated to Kyle from germany in 1883. Other German families soon joined them. In 1886, sixteen of these settlers met at the George Wiegand home to form the first German Baptist Church of Kyle. Services were originally held in homes and Sunday School at the community schoolhouse. A church building and parsonage were erected in 1893 on land acquired from Frank Marstellar. Fire destroyed the first church in 1940. The present rock structure was dedicated in 1941, when the fellowship became Immanuel Baptist Church.]]></description>
+    <Point><coordinates>-97.827674,29.942756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James-Duran-Alba Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 2620 Bell Springs Rd., Dripping Springs]]></description>
+    <Point><coordinates>-98.132829,30.255492,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Henry Saunders Homestead</name>
+    <description><![CDATA[Square<br/><br/><b>Address:</b> 14000-B Old Kyle Rd., Wimberley<br/><br/><b>Marker Text:</b> Born in Virginia, John Henry Saunders (1850-1919) served in the Confederate Cavalry and came to Texas in 1870, via Tennessee and Indian Territory. He was the first teacher at Purgatory Springs (later called Hugo) where he married Calladonia Modeline Williamson (1855-1930) in 1872. He built a store west of this house, and served twice as Wimberley postmaster between 1890 and 1907; as county commissioner; and as the first county school superintendent from 1907 to 1916. the Saunders lived in this c. 1870 house from 1888 to 1907, then moved to San Marcos. The house exhibits c. 1930 alterations. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-98.096044,29.996875,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Joseph B. Rogers House</name>
+    <description><![CDATA[take RR 967 E approx. 4 miles<br/><br/><b>Address:</b> Driftwood<br/><br/><b>Marker Text:</b> The son of settlers who came to Texas in 1831, Joseph B. Rogers (1833-1912) served with Terry's Texas Rangers in the Civil War. In 1869 he bought this land and in early 1870s hired local workmen to build this native limestone house. Like many pioneer homes, it had a central hall and a chimney at each end. The wooden porch was replaced with concrete in 1916. Rogers' son, Martin Oldham Rogers (1899-1975), and his wife, Minnie Lea Posey Rogers, have preserved the structure. Recorded Texas Historic Landmark - 1975]]></description>
+    <Point><coordinates>-97.975528,30.117453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>King's Highway - Camino Real - Old San Antonio Road</name>
+    <description><![CDATA[NE corner Old Bastrop Highway (CR 266) and Centerpoint Road (CR 234). Pink granite marker 75 of 128 placed in 1918.<br/><br/><b>Address:</b> 4255 Old Bastrop Highway, San Marcos<br/><br/><b>Marker Text:</b> King's Highway - Camino Real - Old San Antonio Road. Marked by the Daughters of the American Revolution and the State of Texas A.D. 1918]]></description>
+    <Point><coordinates>-97.967334,29.813265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kone-Cliett House</name>
+    <description><![CDATA[<b>Address:</b> 724 Burleson, San Marcos<br/><br/><b>Marker Text:</b> Edward Reeves Kone (1848-1933) served from the 1860s as Hays County attorney, sheriff, judge, and education superintendent, and from 1908 to 1914 as state agriculture commissioner. He bought this land on a bluff of the Balcones Fault in 1881 and built his house, a derivative of the Queen Anne style, about 1890. The Kone family sold the house in 1914 to cotton grower and later postmaster Oran W. Cliett (1882-1959), who lived here until 1958. Recorded Texas Historic Landmark - 1986]]></description>
+    <Point><coordinates>-97.950479,29.881191,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] La Sociedad Mutualista Cuauhtémoc</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1100 Patton St., San Marcos]]></description>
+    <Point><coordinates>-97.941204,29.869908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Max and Anna Schiwitz Homestead</name>
+    <description><![CDATA[4037 Cotton Gin Rd. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 4037 Cotton Gin Rd., Uhland<br/><br/><b>Marker Text:</b> This 1933 vernacular-style home was the brainchild of Uhland natives Max (1892-1981) and Anna (Seeliger) (1898-1993) Schiwitz. Max Schiwitz was a notable mercantile owner and philanthropist. His wife Anna designed all three bedrooms to face south with a covered porch and three windows each to provide cross ventilation, a necessity in the days before air conditioning. She also selected the stones for the door arch and fireplace. The original cedar posts hold the home’s pier and beam foundation. The Max and Anna Schiwitz House is a reminder of old Uhland and the community of Blackland Prairie farmers which the family served.
+RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
+    <Point><coordinates>-97.787515,29.958616,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miss Lillie Dobie's House</name>
+    <description><![CDATA[<b>Address:</b> 450 River Road, Wimberley<br/><br/><b>Marker Text:</b> Born in 1881, Lillie Josephine Wagner married John Richard Dobie Jr. in 1901. They bought this land in 1911 and ran a dairy. He built the cottage and garage in 1920 after the original house burned. Lillie delivered milk to the community in a Model A Ford. With John’s death in 1949 and Lillie’s in 1971, her nephew sold the home. The two-bedroom residence became a commercial property after 2002. Exterior features reflect craftsman styling in its pyramidal roof and exposed rafter ends. Interior detailing includes original floors, ceilings, beadboard walls, doors and sash windows. This landmark now serves as the village store boutique which is devoted to maintaining this historic property.  RECORDED TEXAS HISTORIC LANDMARK – 2016]]></description>
+    <Point><coordinates>-98.100241,29.994516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Storey Home</name>
+    <description><![CDATA[<b>Address:</b> 702 Burleson, San Marcos<br/><br/><b>Marker Text:</b> Erected by James Gray Storey (1830-1911), noted citizen of Hays County. He served as district clerk 1856-61; captain Co. A, 32nd Texas Cavalry, Civil War; county judge 1865-67; member of State Legislature 1880-83; was county clerk when he and wife Sarah built house, 1890. Recorded Texas Historic Landmark - 1970]]></description>
+    <Point><coordinates>-97.950276,29.881364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Robert Early McKie House</name>
+    <description><![CDATA[<b>Address:</b> 613 Lindsey, San Marcos<br/><br/><b>Marker Text:</b> This house was built by local contractor H. C. Leffingwell for Robert Early McKie (1875-1948), San Marcos native, attorney, and descendant of area pioneers. Constructed in 1906 for $2,000, the one-story wood frame house reflects the Italianate style in its tall windows, and the colonial revival style in its porch columns. Other prominent features include a pyramidal roof, central hall, and extended bays with wraparound porch. Recorded Texas Historic Landmark - 1989]]></description>
+    <Point><coordinates>-97.950121,29.882751,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Pedro Cemetery</name>
+    <description><![CDATA[5 mi. S. of San Marcos at County Road 266/Old Bastrop Rd. Hwy. and Posey Rd.<br/><br/><b>Address:</b> San Marcos<br/><br/><b>Marker Text:</b> San Pedro Cemetery Established 1909 Historic Texas Cemetery - 2007]]></description>
+    <Point><coordinates>-97.982108,29.805321,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Vicente Cemetery</name>
+    <description><![CDATA[S of 624 S. Old Stage Coach Rd | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> S of 624 S. Old Stage Coach Rd, Kyle<br/><br/><b>Marker Text:</b> This cemetery was officially established in 1907 to serve the Mexican community of Kyle during a period when burial grounds were typically segregated. Cemetery trustees John Reys, Blas Mendez and Rafael Esquivel purchased 1.36 acres out of the J. Pharass survey from Thomas and Lou Smith. The deed notes that a “Mexican cemetery” already existed on the land. The earliest grave marker, that of infant José Martinez, is dated Nov. 11, 1881. In 1920, the cemetery was expanded when the cemetery trustees purchased an additional acre from Vicente Gonzalez and sons, Vicente Jr. and Porfirio. In recognition of Vicente Gonzalez, the trustees named the cemetery after the saint whose name he bore. 
+  Of the more than 400 marked burials here, the longest living person is perhaps Anacleto “Cleto” Arrietta. When he died in 1941, he was likely over one hundred years old. A number of graves mark tragedies. Paz Gomez, age 17, passed away from Spanish Flu a month after her child was born. A devastating 1936 flood claimed nine young victims from the Garza and Gonzalez families, represented by nine small metal crosses. Veterans buried here include Purple Heart recipient PFC John Barrientes (1923-2003) and PFC Tomas Mendez (1919-1982), both US Army WWII, and CPL Pantaleon Selvera (1935-1958), USMC. There are four Woodmen of the World grave markers, Leon Mendez (1887-1951), Robert Tenorio (1897-1971), Francisco Rodriguez (1898-1963) and Eusebio Mendez (1899-1957). 
+  San Vicente Cemetery serves as a record of Kyle’s early Hispanic population whose myriad contributions continue to shape the city. As is customary in Hispanic communities, the graves are often decorated with meaningful objects and the most represented religion is Catholicism. Several generations of the Blas Mendez family have been custodians of the cemetery since its inception. (Historic Texas Cemetery 2021)]]></description>
+    <Point><coordinates>-97.891965,29.986657,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of San Marcos National Fish Hatchery</name>
+    <description><![CDATA[south end of walkway to the main Administration Building amongst the old fish ponds<br/><br/><b>Address:</b> SWTSU Campus, San Marcos<br/><br/><b>Marker Text:</b> (First Federal fish hatchery in Texas) Established in 1893 on the 25-acre tract known as the W. D. Wood place. In early years the fish produced here were used to stock streams and ponds for sport purposes. Later this site became a pilot plant for testing new techniques of hatchery production. Here too, the tropical South African fish "tilapia" was bred in an effort to introduce non-native fish suitable for game fishing into the United States. At the time hatchery was built, cost of site was $4,500. Plant tied for fifth place in order of Federal hatcheries founded in the U.S. A water supply dam was finished in 1895 and an artesian well in 1896. In recent years this hatchery stocked largemouth black bass, bluegill, sunfish, and channel catfish in 15 ponds on 44 acres of land. Fish from these ponds were distributed to waters under supervision of the Federal government, while state hatcheries stocked state waters. Both state and national governments cooperated to supply private ponds free of charge. This facility closed in 1965 because operation was no longer economical and because the surrounding city made expansion of the plant impossible. Today there are 90 national fish hatcheries in the nation. Texas has 4 Federal and 13 state hatcheries.]]></description>
+    <Point><coordinates>-97.936974,29.888348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Sidney J. Pyland Blacksmith Shop</name>
+    <description><![CDATA[<b>Address:</b> Wimberley<br/><br/><b>Marker Text:</b> While still a young boy, Sidney J. Pyland accompanied his parents on their journey from Tennessee to Wimberley about 1880. In 1895, at the age of 20, Sidney opened a blacksmith shop here, just above Cypress Creek on the busy village Square. He married Nellie Ann Wimberley in 1897. For 15 years Sidney forged horseshoes, built and repair wagons, and hammered out implements for area ranchers and farmers. In 1910 he moved his family and blacksmith shop intact to San Marcos. This site has continued to be a hub of business activity on Wimberley's Town Square. Incise: Sponsored by John and Mavis Woolsey]]></description>
+    <Point><coordinates>-98.097483,29.996028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stringtown</name>
+    <description><![CDATA[3300 block Hunter Road, northwest side near Kissing Tree neighborhood entrance, 0.6 mi. NE of W. Centerpoint Rd. and 0.4 mi. SW of E. McCarty Ln.<br/><br/><b>Address:</b> Hunter Rd., San Marcos<br/><br/><b>Marker Text:</b> John Drayton Pitts (1798-1861) was born, according to family lore, on a ship as his parents sailed to America. A civil engineer by profession, Pitts became interested in politics and in 1841 became a member of the Georgia House of Representatives. The next year, Pitts and his brother-in-law, James Vickers, took a trip to Texas and encouraged family and friends to follow. Eleven families, including those of John’s brothers, William and Edward, settled in Grimes County. John D. Pitts became an influential politician, living in Austin while serving as adjutant general. In 1847, Pitts and his friend, General Edward Burleson, visited the land Burleson acquired after the Battle of San Jacinto, located six miles southwest of San Marcos Springs. Impressed by the idyllic setting, Pitts purchased the 640 acres from Burleson. This early organized colony in Hays County consisted of family and friends of John D. Pitts. Their farmhouses, strung out at half-mile intervals along the Austin-San Antonio Road, led to the name Stringtown. The farms, often referred to as model farms, survived early hardships and the 1857 drought. Although not a town, Stringtown soon rivaled San Marcos in population. Pitts donated land near his home for a church and school. Following the Civil War and emancipation, crops were divided evenly with former slaves, and many were given land. The labor void was filled by Mexican farmers who brought their vibrant culture to the area. Pitts Cemetery, located nearby, was established in 1851. It serves as a reminder of the determined pioneers who settled the area and braved the hardships of early Texas. (2017)]]></description>
+    <Point><coordinates>-97.987317,29.839824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Watkins Elm</name>
+    <description><![CDATA[Marker reported missing Feb. 2009.<br/><br/><b>Address:</b> 207 Hopkins St., San Marcos<br/><br/><b>Marker Text:</b> This elm was planted in 1868 by Confederate veteran Samuel M. Watkins (1826-1920) here at site afterward occupied for a century by his family.]]></description>
+    <Point><coordinates>-97.94003,29.883275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wesley Chapel A. M. E. Church</name>
+    <description><![CDATA[<b>Address:</b> 224 S Fredericksburg St, San Marcos<br/><br/><b>Marker Text:</b> traces its history to 1875, and is believed to be the oldest African American congregation in San Marcos. the first church building was erected on this site in 1879, and later was replaced by a succession of structures. The church operated a Freedmen's school for former slaves and their children in the 1870s, and has continued to support numerous community and charitable endeavors through the years. It remains an important part of the history of San Marcos and Hays County.]]></description>
+    <Point><coordinates>-97.942145,29.87922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William W. Moon</name>
+    <description><![CDATA[corner of C. M. Allen Pkwy. and Hutchison<br/><br/><b>Address:</b> San Marcos<br/><br/><b>Marker Text:</b> (March 25, 1814 - Jan. 7, 1897) Orphaned two days after his birth, William W. Moon grew up with two uncles in his native Alabama. He married Sophronia Elizabeth Sublett (1819-46) in 1834 and moved to Bastrop, Texas in 1838. Moon joined the texas Rangers and first visited San Marcos Springs during a running Indian battle in 1843. Enchanted by the countryside, he brought his family here in 1845 and built a cabin at this site. The Moons were the first permanent Anglo-American settlers in what is now Hays County. Sophronia Moon died April 21, 1846, but her husband and four daughters were soon joined by other pioneers who decided to make their homes here. William W. Moon made many contributions to the growing settlement. His cabin was the site of the first sermon preached and the first school held in Hays County. In 1846 he helped build the log church-schoolhouse which became a courthouse when Hays County was organized (1848). Moon and his family were charter members of the Presbyterian church formed in 1853. In addition to ranching, Moon operated a hotel and stage stop, blacksmith shop, and freight line. He was elected county sheriff and served, 1846-47, in the Mexican War, and 1862-63, in the Civil War. He died in 1897 and is buried in Wimberley Cemetery.]]></description>
+    <Point><coordinates>-97.938582,29.884164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wimberley-Hughes House</name>
+    <description><![CDATA[<b>Address:</b> 14050-B Ranch Road 12, Wimberley<br/><br/><b>Marker Text:</b> Zachary Taylor “Zach” Wimberley began construction on this house around 1877 for his first wife, Mary Elizabeth Franklin. Built of board and batten on a stone foundation, the end-gabled structure was painted pink with red trim, considered unique for late-19th century architecture. Traces of red trim paint are still visible on the exterior window moldings. Flanking the central hallway, two main rooms, each with a chimney, feature windows with elegant triangular pediment moldings. Mary Elizabeth had 11 children here before she died in 1901. Zach and second wife, Rachael Taylor, added three more children. The mill on Cypress Creek, owned and operated from 1874 by Zach and his father, Pleasant Wimberley, provided lumber for the house. It expanded into the production of flour, cornmeal and sorghum molasses. By 1898, competition with New Braunfels’ Landa Mill (Comal County) encouraged Zach Wimberley and partner, son-in-law Sidney Pyland, to replace the mill with steam-driven facilities to adapt to the upsurge in cotton farming. The mill remained the focal point of the village until it closed in 1925. When Zach died in 1913, his sister, Eliza Mary “Lidie,” moved into the house. Her husband, Nathan Emery Hughes, also a partner in the mill and noted stonemason, added the petrified-wood terracing, patio and steps leading to the gabled front porch. With Lidie’s death in 1954, her granddaughter, Velma Rose (Hughes) Lawhorn, was the last of the family to own the house. Now the property of the Wimberley Institute of Cultures, this house bears witness to the founders of the village of Wimberley and exemplifies extensive preservation efforts of local residential architecture. RECORDED TEXAS HISTORIC LANDMARK – 2016]]></description>
+    <Point><coordinates>-98.100113,29.998463,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

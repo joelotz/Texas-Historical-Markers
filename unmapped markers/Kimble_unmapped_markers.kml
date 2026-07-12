@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Kimble County — Unmapped Historical Markers</name>
+  <description>THC markers in Kimble County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Creed Taylor</name>
+    <description><![CDATA[29 miles E of Junction, via FM 479, on CR just E of Little Devil's River; pass Noxville School and continue about 1 mile down CR to cemetery<br/><br/><b>Address:</b> Junction<br/><br/><b>Marker Text:</b> Soldier Texas War for Independence. Gonzales to Bexar, 1835. Scout and courier, 1836.]]></description>
+    <Point><coordinates>-99.391255,30.369942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John L. Jones Ranch</name>
+    <description><![CDATA[from London take US 377 3.3 miles S - then FM 385 4 miles S to FM 1871, go E about 2 miles to marker<br/><br/><b>Address:</b> FM 1871, London<br/><br/><b>Marker Text:</b> Established about 1875 by Jim Ike and John L. Jones (1852-1912). John Jones drove thousands of cattle to Kansas railheads, and by 1885 had his brother's interest in the ranch, which he increased to 25,000 acres. Originally he ran large herds of cattle, but later added sheep and goats to his ranch. He built a stone drift fence, possibly first in county; portions of this still stand. He was persuaded by friends to run for sheriff in 1896, to help rid the county of rustlers; he completed the job in one term. Descendants own much of this original ranch property today. (1973)]]></description>
+    <Point><coordinates>-99.555801,30.572155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Log Cabin</name>
+    <description><![CDATA[corner of 4th and College St. (museum)<br/><br/><b>Address:</b> Junction<br/><br/><b>Marker Text:</b> OLD LOG CABIN. TYPICAL OF 1870-80 ERA. BUILT BY EMERY B. PIERCE ON RANCH OF JOHN KOUNTZ, HIS BOSS, 2 MI.S. OF JUNCTION. MOVED HERE AND REMODELED, 1903. RECORDED TEXAS HISTORIC LANDMARK, 1965]]></description>
+    <Point><coordinates>-99.7642,30.488172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Ivy Chapel and School</name>
+    <description><![CDATA[3.3 mi. south of London on US 377, 5.4 mi. SE on FM 385, 1.8 miles west on CR 314<br/><br/><b>Address:</b> London<br/><br/><b>Marker Text:</b> THE IVY COMMUNITY WAS NAMED FOR SAM, JACK AND BOB IVY, BROTHERS WHO MOVED TO KIMBLE COUNTY IN 1883. S. H. IVY DEEDED TWO ACRES OF LAND IN 1898 FOR A SCHOOL SITE AND A STRUCTURE WAS BUILT NEARBY. IN 1917 IVY DONATED ANOTHER TRACT OF LAND, AND A SCHOOLHOUSE WAS BUILT THAT YEAR. THE BUILDING ALSO SERVED AS A COMMUNITY CHAPEL AND PREACHERS HELD SERVICES ONCE OR TWICE A MONTH. THE BUILDING WAS THE SITE OF SOCIAL GATHERINGS, SUCH AS BOX SUPPERS, AND WAS USED AS A VOTING PLACE. ALTHOUGH IVY SCHOOL WAS CONSOLIDATED WITH NEARBY LONDON SCHOOL IN 1939, THE CHAPEL CONTINUES TO SERVE THE AREA. (1996)]]></description>
+    <Point><coordinates>-99.594832,30.546058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wooten Cemetery</name>
+    <description><![CDATA[3 mi. N of Telegraph, south of Cajac Creek on west side of US 377<br/><br/><b>Address:</b> US 377, Telegraph<br/><br/><b>Marker Text:</b> Typical of burial sites chosen by early Texas Hill Country pioneers, Wooten Cemetery was established by April 1880 when one-year-old Cornelius Clay Jackson was buried. His headstone is the earliest grave marker in the cemetery. His mother, P. Jane Jackson, died in 1881 and is interred nearby. Other notable graves include a family group believed to be tuberculosis victims. The plot of the Allsup family is also prominent, as is the grave of Civil War veteran Simon Lee Wooten (1830-1896), for whom the cemetery is named, who came to Texas from Georgia upon the death of the Old South. (1997)]]></description>
+    <Point><coordinates>-99.889725,30.374068,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

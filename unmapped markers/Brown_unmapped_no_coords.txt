@@ -1,0 +1,36 @@
+Brown unmapped markers with NO usable address (9):
+
+  THC 17423: Antioch Cemetery
+    addr: Blanket
+    https://atlas.thc.texas.gov/Details/5507017423
+
+  THC 18440: Blake Cemetery
+    addr: May
+    https://atlas.thc.texas.gov/Details/5507018440
+
+  THC 11769: Connell Cemetery
+    addr: Brownwood vicinity
+    https://atlas.thc.texas.gov/Details/5049011769
+
+  THC 17456: Eureka Cemetery
+    https://atlas.thc.texas.gov/Details/5507017456
+
+  THC 17364: Jenkins Springs Cemetery
+    addr: Brownwood
+    https://atlas.thc.texas.gov/Details/5507017364
+
+  THC 23944: May Cemetery
+    addr: 18002 Hwy 183 N., May
+    https://atlas.thc.texas.gov/Details/5000023944
+
+  THC 22773: Pleasant Valley Cemetery
+    addr: FM 2273, May
+    https://atlas.thc.texas.gov/Details/5000022773
+
+  THC 5168: Swinden Pecan Orchard
+    addr: Brownwood
+    https://atlas.thc.texas.gov/Details/5049005168
+
+  THC 17457: Zephyr Cemetery
+    https://atlas.thc.texas.gov/Details/5507017457
+

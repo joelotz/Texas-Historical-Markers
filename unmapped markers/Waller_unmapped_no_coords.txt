@@ -1,0 +1,16 @@
+Waller unmapped markers with NO usable address (4):
+
+  THC 16113: John Frelan Winters
+    https://atlas.thc.texas.gov/Details/5507016113
+
+  THC 24419: Mary E.V. Edwards Hunter (Undertold)
+    https://atlas.thc.texas.gov/Details/5000024419
+
+  THC 8108: St. Francis Episcopal Church
+    addr: 300 Dooley St., Prairie View
+    https://atlas.thc.texas.gov/Details/5473008108
+
+  THC 16114: Waller County
+    addr: Hempstead
+    https://atlas.thc.texas.gov/Details/5507016114
+

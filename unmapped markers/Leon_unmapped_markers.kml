@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Leon County — Unmapped Historical Markers</name>
+  <description>THC markers in Leon County without an HMDB id (isMissing excluded). 12 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bethesda Cemetery</name>
+    <description><![CDATA[from Normangee, take FM 3 about 11.3 mi. to CR 470, go E about .8 mi. to cemetery on N side of road (.1 mi. N of road)<br/><br/><b>Address:</b> Normangee<br/><br/><b>Marker Text:</b> Located on land granted to Thomas Moore (ca. 1805-1848) by the Republic of Texas, this cemetery began in the 1840s as a small family graveyard. Although Thomas Moore's grave is the oldest documented burial, his son, Ed B. Moore, may have been interred here two years earlier. By the 1850s the cemetery had become a community burial ground. Among the graves here are those of seven citizens of the Republic of Texas, as well as veterans of the Civil War, World War I, and World War II.]]></description>
+    <Point><coordinates>-96.218165,31.109429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Braniff International Flight 542</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>County Road 212. Marker pending, in production as of Sep. 2021. Map dot approximate.<br/><br/><b>Address:</b> 4156 W. CR 212, Buffalo]]></description>
+    <Point><coordinates>-96.019858,31.453185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Concord Schools</name>
+    <description><![CDATA[Concord community, CR 3481 N of SH 7, next to Concord Community Center<br/><br/><b>Address:</b> CR 3481, Robbins<br/><br/><b>Marker Text:</b> Formal schools in Concord operated for nearly a century. J.E. Anderson taught in Redland and Concord in the late 1870s and early 1880s. A two-story frame schoolhouse, active from the early 1880s to 1919, stood on the hill later occupied by the Old Methodist Church. Trustees bought land from D.W. Montgomery, with a two-story red brick building completed in April 1920. The wooden schoolhouse was moved adjacent to the new building and used for primary grades. A new two-story structure, built in 1927, included an auditorium used for school and community purposes. The wooden schoolhouse moved to Concord Hill West for use as an African American School. Concord School added home economics and agriculture classes the following year. In 1929, Griffin, Bowling, Hickory Grove, Redland and Union schools consolidated with Concord, and in 1933 the school achieved state accreditation and attendance peaked above 400 students. The gold and white Concord Bulldogs participated in district sports and other school activities. The Concord Independent School District organized in 1937, and five years later added twelfth grade coursework. However, enrollment dwindled, and in 1948 the school reclassified to an eight-grade system, with students attending high school in Centerville. In 1950, six one- and two-teacher African American schools consolidated to one campus at Concord, succeeded by Carver Elementary and High School in 1953. In 1960, the Board of Education voted to consolidate with Marquez and Jewett to form Leon Independent School District. The home economics building remained as a community center, polling place and post office. The site remains a testimonial to the importance of rural education in the area. (2008)]]></description>
+    <Point><coordinates>-96.14473,31.256633,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Baptist Church of Buffalo</name>
+    <description><![CDATA[600 E. Commerce<br/><br/><b>Address:</b> 600 E. Commerce, Buffalo<br/><br/><b>Marker Text:</b> First Baptist Church of Buffalo In 1877, when Buffalo was a young railroad town, 15 people met at the Buffalo Academy and formed a Baptist congregation. The Buffalo Missionary Baptist Church became part of the 35-member Trinity River Baptist Association the next year. In 1939, as part of the Freestone-Leon Association, Texas Baptist General Convention and Southern Baptist Convention, the congregation became first Baptist Church of Buffalo; it called its first full-time pastor in 1940. Eight years later, the congregation built a sanctuary at this site. Through its many years, the church has reached the community with its missions and education and music programs. (2002)]]></description>
+    <Point><coordinates>-96.049098,31.468398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>John Durst</name>
+    <description><![CDATA[from Leona, take FM 977 about 2 mi. E to CR 142 (Durst Rd.), go N .5 mi. to gate on left, go W down dirt road .3 mi. to Durst Family Cemetery<br/><br/><b>Address:</b> Leona<br/><br/><b>Marker Text:</b> Came to Texas in 1821, owner of the Old Stone Fort in Nacogdoches in 1835. Moved to Leon County in 1844, his wife being the first Anglo-American woman resident of the county. Born in Arkansas, Feb. 4, 1797; died, Feb. 9, 1851. His wife, Harriet M. (Jamison) Durst; born in Virginia, Feb. 5, 1807; died, September 23, 1885.]]></description>
+    <Point><coordinates>-95.94365,31.160388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Long Hollow Community</name>
+    <description><![CDATA[on FM 1146 (W side of road), 4 mi. N of Marquez<br/><br/><b>Address:</b> Marquez<br/><br/><b>Marker Text:</b> Named for the pioneer Long family, the Long Hollow community consisted of area farm families. A school erected in the 1880s also served as a community center and church. When it burned in 1918 members of the community worked together to build a larger structure. A store operated by Alfred and Margaret Petty, so small that customers conducted business through a window, served the area for many years, catering especially to school children. The store closed in 1929 when the school consolidated with Marquez.]]></description>
+    <Point><coordinates>-96.266021,31.293225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Bowling School and Masonic Lodge</name>
+    <description><![CDATA[from Marquez, take SH 7 about 3.8 mi. E to FM 1147, go S about 3 mi. to building on W side of road just before pavement ends<br/><br/><b>Address:</b> FM 1147, Marquez<br/><br/><b>Marker Text:</b> Built by settlers about 1860. Place for community meetings. Reunion each Father's Day. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-96.181668,31.207932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rogers Prairie</name>
+    <description><![CDATA[1.6 mi. E of Normangee on OSR ROW<br/><br/><b>Address:</b> Normangee<br/><br/><b>Marker Text:</b> Located on the Old San Antonio Road, this area was settled in 1835 by Robert Rogers (1799-1870), who had received a land grant from the Mexican government. A settlement grew up around his property as he was joined by his brother Stephen Rogers and others. The community later included a church, school, post office, Masonic Lodge, and several stores. Bypassed by the Trinity &amp; Brazos Valley Rail Line in 1906, the town was moved 1.6 miles west and renamed Normangee. Only a community cemetery (.1 mile north) remains at the original site.]]></description>
+    <Point><coordinates>-96.091083,31.040026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Paul Shiloh High School</name>
+    <description><![CDATA[Turn onto FM 542 at blinking light in Oakwood proper. Go7.9 miles south on fm 542 then turn left on CR 248 and go 125 feet to white mason structure at site on the left.<br/><br/><b>Address:</b> 20145 FM 542, Oakwood<br/><br/><b>Marker Text:</b> Following emancipation, freedmen settled on the right bank of the Trinity River, forming the Shiloh, St. Paul and Timesville communities. With strong beliefs in education, each community started schools for their citizens. Organized in 1875 in the Bannamon quarters by Larry Dillard, the St. Paul school then moved to the St. Paul Ame church building with Ben Hudson as principal. In 1894, the trustee board purchased property for the colored school no. 12, a one-room log cabin. Additional acreage and improvements to the property, including three rooms, were completed by 1917. In 1934-35, the three schools merged to form the St. Paul Shiloh High School under the direction of the first African American Superintendent, Miss Ruby Nichols (c.1901-1954). Also at this time, plans were drawn for a new African American school. Throughout its existence, the school focused on identifying and fostering great skills and abilities and preparing students for success after high school. Often faced with inadequate facilities and supplies, the teachers and staff continually persevered to encourage students. The school emphasized academics but also provided sports programs for students to express their talents. In 1945, St. Paul Shiloh won the NFA boys basketball crown. The last graduating class was in 1971 before the school merged with Oakwood ISD. Students from St. Paul Shiloh went on to become doctors, engineers, veterans, professional athletes, teachers and a host of other occupations. The success of the students is a testament to the strong convictions of the community to prepare and educate the community.]]></description>
+    <Point><coordinates>-95.759377,31.500921,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tubb Cemetery</name>
+    <description><![CDATA[17 miles east of Centerville on SH 7, then 4.5 miles north on FM 542<br/><br/><b>Address:</b> Centerville vicinity<br/><br/><b>Marker Text:</b> Tubb Cemetery was named for early area landowners Elisha Floyd Tubb (1805-1862) and G. W. Tubb (1818-1896), who are both interred here. The first documented burial is that of Joel D. Leathers (1795-1849); his wife, Mary Leathers (1800-1865), is also buried here. According to oral tradition, they were sent here by General Sam Houston because Joel could speak several Indian dialects. Gravestones in the cemetery reflect the military service of Civil War, World War I and World War II veterans. The burial ground has served the nearby communities of Malvern, Nineveh and Oakwood and is maintained by the Tubb Cemetery Association. (2001)]]></description>
+    <Point><coordinates>-95.761428,31.375819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Two Mile Paradise Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 3472 FM 977 E, Leona<br/><br/><b>Marker Text:</b> Two Mile Paradise Cemetery Established ca. 1870 Historic Texas Cemetery-2008]]></description>
+    <Point><coordinates>-95.932239,31.15508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wm. B. Middleton</name>
+    <description><![CDATA[from intersection of SH 75 and FM 977 in Leona, go W on FM 977 .8 of mi. to dirt road on S side of road at 1174, go S on dirt road to Makamson Cemetery<br/><br/><b>Address:</b> Leona<br/><br/><b>Marker Text:</b> A participant of the Mier Expedition, 1842, first sheriff of Leon County. Born in Illinois August 4, 1819; died March 17, 1877. His first wife Mary J. Potts Middleton, born Sept. 9, 1823; died May 5, 1874. In memory of Beoni Middleton who died in prison in Mexico while a prisoner of the Mier Expedition.]]></description>
+    <Point><coordinates>-95.971043,31.150759,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

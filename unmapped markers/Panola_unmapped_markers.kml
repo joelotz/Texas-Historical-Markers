@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Panola County — Unmapped Historical Markers</name>
+  <description>THC markers in Panola County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bracken Cemetery</name>
+    <description><![CDATA[4 mi. N of DeBerry on FM 31, then W .5 mi. on CR 312 (Tiller Rd.)<br/><br/><b>Address:</b> DeBerry<br/><br/><b>Marker Text:</b> Pioneer settlers Thomas and Mary Bracken brought their family to this area in the 1830s. Part of their land was set aside as a burial ground for family members and for the surrounding community. The earliest marked grave is that of Clarence Liston (d. 1876), the infant son of Perry and Acenie Bracken Liston. Others interred here include pioneers of early area settlements: Grand Bluff, Elysian Fields, DeBerry, Pulaski, Bethany, and Pleasant Grove. Dan Briggs, the Brackens' son-in-law, formally deeded the site as a cemetery in 1891. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-94.197675,32.339952,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ebenezer United Methodist Church</name>
+    <description><![CDATA[6 mi. W of Carthage on US 79, then N on CR 225 about .25 mi. to CR 227, E on CR 227 to church<br/><br/><b>Address:</b> Carthage<br/><br/><b>Marker Text:</b> This congregation was organized at Old Macedonia (3 mi. E) in 1843, three years before the formation of Panola County. It is believed the church was formed through the missionary efforts of the Rev. Littleton Fowler, one of the earliest Protestant ministers in the Republic of Texas. In 1872 John Henry Ross deeded land at this site for the church and a school and cemetery. Known for a short time as Walton Church, Ebenezer United Methodist Church has served as a focal point for the surrounding rural community for well over a century. (1983)]]></description>
+    <Point><coordinates>-94.451608,32.163294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First United Methodist Church of Carthage</name>
+    <description><![CDATA[<b>Address:</b> 201 S. Shelby at Wellington, Carthage<br/><br/><b>Marker Text:</b> Organized in 1855, this congregation held its first services in the Masonic Hall. In 1859 the members bought this property and began a frame church which was not completed until after the Civil War. The building was used by local Methodists and Baptists and was replaced by a second frame structure in 1902. By 1942 a brick sanctuary, educational building and parsonage were completed. This congregation helped establish St. Andrews United Methodist Church in 1959, a century after its own founding. (1982)]]></description>
+    <Point><coordinates>-94.337407,32.155172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grand Bluff Cemetery</name>
+    <description><![CDATA[9 mi. N of Carthage, US 59, then about 1 mi. E on FM 1794<br/><br/><b>Address:</b> Carthage<br/><br/><b>Marker Text:</b> This cemetery originally served the pioneers who settled in the nearby community of Grand Bluff (.5 mi. W), an early ferry crossing on the Sabine River. The earliest known burials, dated 1838, are for Mary Frances Hoyle and Mrs. Robert Wyatt. Land for the cemetery was donated by David Vawter, an early ferry operator. The settlement of Grand Bluff began to decline in the 1880s, when railroads made the ferry crossing obsolete. The cemetery was last used in 1906 for the burial of Dr. David M. Vawter, son of the site's donor. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-94.333081,32.282442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>James Rowe</name>
+    <description><![CDATA[Old Center Cemetery on FM 699 about 16 mi. SE of Carthage<br/><br/><b>Address:</b> Old Center<br/><br/><b>Marker Text:</b> (March 17, 1811 - Dec. 3, 1868) Texas War for Independence soldier (1836) James Rowe had migrated from North Carolina. Prospering as a tanner, he was commissioned to help organize Panola County (1846); served as senior warden of Sam Sanford Lodge No. 149, A. F. &amp; A. M. (1851); served in 4th Texas Legislature (1851-53); and gave the land now occupied by this cemetery. He and his wife Mira (Tippett) had eleven children. Descendants include citizens in many walks of life. (1977)]]></description>
+    <Point><coordinates>-94.188196,32.005796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Midyett Springs</name>
+    <description><![CDATA[Old Marshall-Mansfield Rd., off FM 123, 16 mi NE of Carthage and SE of De Berry<br/><br/><b>Address:</b> De Berry<br/><br/><b>Marker Text:</b> These springs, used by settlers prior to 1850, became the center of a thriving farm community and health resort in the 1880s. Originally known as Breckenridge Springs, the name was changed in 1887 when a post office opened in the store of Spencer Midyett. The town included a cotton gin, sawmill, stores, and school. A boarding house and hotel served those seeking cures through use of the mineral water. As timber became scarce after World War I, Midyett declined. The post office closed in 1920 and the school consolidated with the Carthage district in the 1940s.]]></description>
+    <Point><coordinates>-94.126284,32.251621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Pleasant Missionary Baptist Church</name>
+    <description><![CDATA[26 mi. SE of Carthage via FM 2517 and FM 3359, on CR 455 in Logan community<br/><br/><b>Address:</b> Logan<br/><br/><b>Marker Text:</b> Chartered in 1880 with eight members, this congregation was organized by Elders William H. Gresham and J. R. Alexander. A Confederate veteran, Gresham (d. 1900) served as pastor until 1897. Members of Mount Pleasant Missionary Baptist Church met about one mile southwest of this site until they moved here in 1910. The second floor of the 1910 church building served as a meeting place for the Woodmen of the World Lodge. This church has had a strong influence in the eastern part of Panola County and is important to the area's religious heritage. (1985)]]></description>
+    <Point><coordinates>-94.053676,32.078432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Zion C. M. E. Church</name>
+    <description><![CDATA[334 N. Live Oak, Carthage<br/><br/><b>Address:</b> 334 N. Live Oak, Carthage<br/><br/><b>Marker Text:</b> Methodist Bishop Enoch M. Marvin and five former slaves founded this congregation on November 2, 1870, during a meeting of the East Texas Methodist Conference in Carthage. Early worship services were held in a brush arbor. The members purchased land for their first sanctuary in 1881. Church facilities were enlarged and modified over the years to meet the needs of the growing congregation. Mount Zion C. M. E. Church has served the community with a variety of worship, outreach, and educational programs for more than a century.]]></description>
+    <Point><coordinates>-94.336529,32.159717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Center Cemetery</name>
+    <description><![CDATA[FM 699 about 16 mi. SE of Carthage in Old Center<br/><br/><b>Address:</b> Carthage<br/><br/><b>Marker Text:</b> In 1856, land for the Old Center Cemetery was first donated by James Rowe, a community pioneer and a veteran of the Texas War for Independence. Rowe's grave, dated 1868, is one of the oldest in the cemetery. The earliest marked grave, that of Arminta C. Cash, dates from 1865. One of the few physical reminders of the Old Center community, the graveyard contains several unmarked graves and about 400 marked burial sites. Over the years, the descendants of the original land donor have given acreage to enlarge the boundaries of the cemetery. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-94.188196,32.005796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Panola College</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1109 West Panola, Carthage]]></description>
+    <Point><coordinates>-94.354075,32.157926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rehobeth United Methodist Church</name>
+    <description><![CDATA[on US 59, 4 mi. N of Carthage<br/><br/><b>Address:</b> Carthage<br/><br/><b>Marker Text:</b> The Rev. J. M. Mills conducted the first services for this church in 1878. That same year work began on a sanctuary at this site. The land, which included a schoolhouse near the cemetery entrance, was deeded to the congregation by John Wesley Biggs and his wife Mary Ann. Built by members, the structure served the congregation until it was destroyed by fire on Feb. 22, 1978. A new sanctuary was completed here the following year. Interior furnishings include a cross carved from foundation logs of the first church building.]]></description>
+    <Point><coordinates>-94.347784,32.215373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Hill United Methodist Church</name>
+    <description><![CDATA[9 mi. N of Carthage on US 59, then 1 mi. W on FM 1794<br/><br/><b>Address:</b> Carthage<br/><br/><b>Marker Text:</b> Organized at Grand Bluff (ca. 4 mi. E) in 1887 as a Baptist church, this congregation moved to the new community of Rock Hill and became affiliated with the Methodist Episcopal Church, North, in 1895. Circuit-riding ministers served the church in its early years. A new church building was erected in 1912 on land donated by the I. L. Davidson family. In 1933 the congregation joined the Methodist Episcopal Church, South, and in 1940 moved here, across the road from the 1912 site. Serving Rock Hill and the surrounding area, this congregation includes descendants of original members. Texas Sesquicentennial 1836 - 1986]]></description>
+    <Point><coordinates>-94.368855,32.281743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sugar Hill Cemetery</name>
+    <description><![CDATA[CR 242  From Beckville, Hwy 124 to CR 257 to State Hwy 3251 turn rught on to 242 which dead ends in to the cemetery.<br/><br/><b>Address:</b> Beckville]]></description>
+    <Point><coordinates>-94.559372,32.213219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Williams Cemetery</name>
+    <description><![CDATA[1 mi. W. of intersection of US 79 and FM 124, on N. side of 79; 1,047' N of intersection of Hwy 79 &amp; CR 280<br/><br/><b>Address:</b> 178 CR 280, Beckville<br/><br/><b>Marker Text:</b> ESTABLISHED CA. 1837 HISTORIC TEXAS CEMETERY – 2010]]></description>
+    <Point><coordinates>-94.541773,32.150474,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

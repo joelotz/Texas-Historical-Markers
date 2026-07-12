@@ -1,0 +1,25 @@
+Jackson unmapped markers with NO usable address (6):
+
+  THC 488: Branch and Bonnot House
+    addr: CR 440, Edna
+    https://atlas.thc.texas.gov/Details/5239000488
+
+  THC 16847: Francitas
+    addr: Francitas
+    https://atlas.thc.texas.gov/Details/5507016847
+
+  THC 2702: Jackson County
+    https://atlas.thc.texas.gov/Details/5239002702
+
+  THC 2812: John Sutherland Menefee
+    addr: Edna
+    https://atlas.thc.texas.gov/Details/5239002812
+
+  THC 15617: Laughter, W. P., Cemetery
+    addr: Edna
+    https://atlas.thc.texas.gov/Details/5507015617
+
+  THC 24471: McHenry Cemetery
+    addr: Lavaca Rio Ranch on CR 127, Edna
+    https://atlas.thc.texas.gov/Details/5000024471
+

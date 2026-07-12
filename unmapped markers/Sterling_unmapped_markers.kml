@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Sterling County — Unmapped Historical Markers</name>
+  <description>THC markers in Sterling County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>Brown House</name>
+    <description><![CDATA[Corner of Labapie and 7th Street,  Sterling City<br/><br/><b>Address:</b> Labadie &amp; 7th Street, Sterling City<br/><br/><b>Marker Text:</b> N/A - Medallion only]]></description>
+    <Point><coordinates>-97.445605,29.498133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Dr. P. D. Coulson</name>
+    <description><![CDATA[Montvale Cemetery. From Sterling City take SH 87 about 4 miles southeast.<br/><br/><b>Address:</b> SH 87, Sterling City<br/><br/><b>Marker Text:</b> Born near Morganton, Tenn. He enlisted, May 22, 1861, as private in 3rd Tenn. Inf., Confederate Army. Promoted to surgeon with rank of major, 1862, he saw much action -- First Manassas, Shiloh, Corinth, Vicksburg, Atlanta, other battles. Was twice wounded. Came to Texas after Civil War. Served as first county judge of Sterling County in 1890s. County judge of Coke county, 1907 - 1910. Married Etheldra Ann Johnson. Had four sons, four daughters.]]></description>
+    <Point><coordinates>-100.940917,31.809904,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>R. P. Brown Home</name>
+    <description><![CDATA[705 5th Avenue,  Sterling City<br/><br/><b>Address:</b> 705 5th Ave., Sterling City<br/><br/><b>Marker Text:</b> N/A - Medallion only]]></description>
+    <Point><coordinates>-100.98954,31.837637,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

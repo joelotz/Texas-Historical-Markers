@@ -1,0 +1,57 @@
+Bastrop unmapped markers with NO usable address (14):
+
+  THC 9196: Abram Wiley Hill
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009196
+
+  THC 23519: Alum Creek DeShay Cemetery
+    addr: Loop 438, Cedar Creek
+    https://atlas.thc.texas.gov/Details/5000023519
+
+  THC 23846: Cunningham Cemetery
+    addr: 4145 Unger Rd, Smithville
+    https://atlas.thc.texas.gov/Details/5000023846
+
+  THC 17444: Elgin Cemetery
+    https://atlas.thc.texas.gov/Details/5507017444
+
+  THC 23621: Henry Barnett Family
+    addr: Shiloh Rd, Bastrop
+    https://atlas.thc.texas.gov/Details/5000023621
+
+  THC 9165: Jonathan Burleson
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009165
+
+  THC 9236: Martin Walker
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009236
+
+  THC 20047: Mary Christian Burleson Cemetery
+    addr: Red Town Road, Elgin
+    https://atlas.thc.texas.gov/Details/5000020047
+
+  THC 23520: Mount Olive Evergreen Cemetery
+    addr: 107 Thorne Rd., Cedar Creek
+    https://atlas.thc.texas.gov/Details/5000023520
+
+  THC 13846: Ridgeway Cemetery
+    addr: Paige
+    https://atlas.thc.texas.gov/Details/5507013846
+
+  THC 9227: Sayers - Walton Ranch House
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009227
+
+  THC 7164: Site of Early Bastrop County Fort
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021007164
+
+  THC 9234: Trigg Home (Henry E. McGehee House)
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009234
+
+  THC 9232: William B. Standifer
+    addr: Elgin
+    https://atlas.thc.texas.gov/Details/5021009232
+

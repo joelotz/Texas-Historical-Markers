@@ -1,0 +1,10 @@
+Kenedy unmapped markers with NO usable address (2):
+
+  THC 5286: The Armstrong Ranch
+    addr: Sarita
+    https://atlas.thc.texas.gov/Details/5261005286
+
+  THC 5287: The Armstrong Ranch House
+    addr: Sarita
+    https://atlas.thc.texas.gov/Details/5261005287
+

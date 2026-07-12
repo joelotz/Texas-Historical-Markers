@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Midland County — Unmapped Historical Markers</name>
+  <description>THC markers in Midland County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Dorsey Home</name>
+    <description><![CDATA[213 N. Weatherford St., Midland<br/><br/><b>Address:</b> 213 N Weatherford St., Midland<br/><br/><b>Marker Text:</b> Z. Taylor Brown, builder. Ornate trim, art glass window. Two fireplaces, oak mantels. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-102.072055,31.998829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Post Office in Midland</name>
+    <description><![CDATA[George H.W. Bush and George W. Bush United States Court House and George Mahon Federal Building, SE corner E. Wall and S. Main streets. Marker reported missing Dec. 1999. Map dot approximate.<br/><br/><b>Address:</b> 100 E Wall St., Midland<br/><br/><b>Marker Text:</b> When first post office opened here Jan. 4, 1884, with Charles H. Welch as postmaster, settlers proposed to name the town Midway, because it was halfway between Ft. Worth and El Paso. Finding that another post office in Texas had that name, they chose Midland instead. Site of the first post office was 108 East Missouri, location of main loading dock of the current facility. Postal headquarters moved four times before returning to the original site upon completion of the new federal building (1974). Midland Post Office now serves a region of 32,000 square miles. (1974)]]></description>
+    <Point><coordinates>-102.073713,31.996922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Greenwood Baptist Church</name>
+    <description><![CDATA[Greenwood Baptist Church south campus, SW corner FM 307 and FM 1379 (across from Greenwood Baptist Church)<br/><br/><b>Address:</b> 10908 FM 307, Midland<br/><br/><b>Marker Text:</b> Organized 1907 in unused saloon in Slaughter. Named for two missionaries, the Revs. Green and Wood. Services were later held in various schools. Present structure built 1926 on land donated by John M. King, an organizer, charter member, deacon. (1968)]]></description>
+    <Point><coordinates>-101.89718,32.027303,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mabel Holt</name>
+    <description><![CDATA[911 West Texas Ave. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 911 West Texas Ave., Midland<br/><br/><b>Marker Text:</b> Born in Midland to Oscar Braxton “Brack” (1861-1927) and Viola Josephine Bell (1879-1933) Holt, Mabel Holt was an early Midland businesswoman. She first understood the ranching business from her father, Oscar, who operated a large ranch in the Midland area. Mabel attended Midland High School and the College of Industrial Arts (now Texas Woman’s University). Upon graduation, she returned to Midland to teach school. During this time, she also began participating in the family ranching business, controlling 25,000 acres of land in Midland and Andrews Counties and contracts regarding the oil, gas and mineral rights to her land.
+  In 1928, Mabel left teaching and married George Washington Glass (1900-1981) and the couple had two children, Monta Josephine (1929-1999) and George H. Glass (1932-1997). In addition to her expansive ranching business, she was prominent in church and social affairs, and involved in local civic and religious movements. Mabel assisted in the Charters of the Wednesday Club, Boone bible class at the First United Methodist Church, the Daughters of the American Revolution, the Auxiliary of Midland Memorial Hospital and the Midland County Historical Society.
+  Mabel died on October 25, 1972, at the age of 67 and was buried in Fairview Cemetery. Her husband and children erected the Mabel Holt Glass Memorial Chapel on the corner of Main and Illinois in Midland. A few years later, the family home was donated to Hospice of Midland in continuation of Mabel Holt’s commitment to the educational, spiritual, social and cultural development of Midland. (2023)]]></description>
+    <Point><coordinates>-102.083908,31.997978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Midland County</name>
+    <description><![CDATA[Midland County Courthouse grounds<br/><br/><b>Address:</b> Wall Street near South Colorado Street, Midland<br/><br/><b>Marker Text:</b> (Created and organized, March 1885) First known as the junction of many trails and site of the last Comanche raid into Texas. In 1881 the Texas and Pacific Railroad was built; equi-distant between El Paso and Fort Worth, this became known as Midland. First settler was a sheepman in 1882. Cattlemen came with Herefords in 1888. Water wells and windmills lured small farmers. Became headquarters for 1928 Permian Basin oil discovery. In 1945 its first well came in. The "Midland Man," oldest skeletal remains in North America (18,500 B. C.), was found in 1954. (1967)]]></description>
+    <Point><coordinates>-102.076184,31.997678,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Midland Man</name>
+    <description><![CDATA[Courthouse Square, corner of Wall St. &amp; N. Colorado, Midland<br/><br/><b>Address:</b> Wall &amp; Colorado St., Courthouse square, Midland<br/><br/><b>Marker Text:</b> Oldest human remains in new world. Found 1953 on ranch near here by pipeline welder Keith Glasscock. Fossilized skull, rib and hand bones had been exposed by weather conditions. Tests indicated these were bones of a woman who lived as long ago as 9000-9500 B. C.; nearby were bones of extinct species of horse, camel, mammoth, peccary, wolf, sloth; with weapons, tools and signs of ancient campfires. Drs. Fred Wendorf and Alex D. Kreiger, archaeologists; Claude C. Albritton, geologist; T. D. Stewart, physician and anthropologist, made studies of the discovery.]]></description>
+    <Point><coordinates>-102.076791,32.001218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Early Water Well</name>
+    <description><![CDATA[Near intersection of Missouri Ave. and Baird St. Marker reported missing Dec. 1999.<br/><br/><b>Address:</b> Baird St., Midland<br/><br/><b>Marker Text:</b> County's first well; dug by hand, 1884, it supplied the entire town. Formerly water had been shipped by rail from Monahans (50 mi. W). Well--6 feet wide, 50 feet deep--was equipped with a hand pump and a bucket rest (under spout). It also furnished water for town cattle trough. (1969)]]></description>
+    <Point><coordinates>-102.073138,31.996643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Petroleum Building</name>
+    <description><![CDATA[Marker is in the lobby facing the Texas Ave. entrance<br/><br/><b>Address:</b> 214 W. Texas Ave., Midland<br/><br/><b>Marker Text:</b> T. S. Hogan, a Montana attorney, rancher and oilman, came to the Permian Basin in 1925, where he became active in the oil business. He was convinced Midland was situated in the center of the petroleum basin and that it would become the leading city of the region. In 1927 he announced the construction of this building, which would serve as a center for the area oil companies. Designed by the prominent Fort Worth architect Wyatt C. Hedrick, it was completed in 1929. A formal dedication was held on July 4 of that year. Many believed that Hogan's enterprise signaled Midland's future as a major oil production center. The projections, unfortunately, were premature. Only months after the building was completed, the stock market crash occurred that resulted in the Great Depression of the 1930s. With the discovery of oil in East Texas, the price soon dropped to 15c a barrel. Many companies closed their Midland offices and it was not until 1935 that they began to return to the Permian Basin. When Midland eventually became a leading center of oil production as Hogan had earlier envisioned, the Petroleum Building played a significant role in the town's development. Recorded Texas Historic Landmark - 1982]]></description>
+    <Point><coordinates>-102.075911,31.998611,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

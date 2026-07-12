@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Zapata County — Unmapped Historical Markers</name>
+  <description>THC markers in Zapata County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Bustamante (Rancho Las Comitas)</name>
+    <description><![CDATA[From Zapata, take SH 16 NE about 12 miles.<br/><br/><b>Address:</b> SH 16, NE of Zapata, Zapata<br/><br/><b>Marker Text:</b> The unincorporated village of Bustamante, settled by Don Pedro Jose Bustamante and his family in 1822, is located on a 22,142-acre land grant awarded by the Mexican government to Bustamante in 1835. He brought other settlers, horses, cattle, sheep, and goats to help open up the frontier. An early sandstone blockhouse built by the Bustamante family provided protection from Indian raids. During the 1870s the village became the headquarters of Rancho Las Comitas, named for the Comita tree which grew on the property. Las Comitas gave rise to a community of homes, a school and a store, making the ranch almost self sufficient. Part of the land later was claimed by the State of Texas in a Supreme Court case. Numerous Bustamante family members are buried in three ranch cemeteries: the Bustamante Cemetery, the Cameron Cemetery, and the Gracia Cemetery. The community was officially named Bustamante in 1926 when a post office was established with Herlinda Bustamante as postmistress. Ranch life changed in the 1930s with the discovery of oil and gas in the area. Although much of the land was leased for exploration wells, the ranch is still in operation under the direction of Bustamante descendants.]]></description>
+    <Point><coordinates>-99.112443,27.00082,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Colonization of the Lower Rio Grande Area</name>
+    <description><![CDATA[Courthouse grounds, 7th Avenue in front of courthouse, Zapata.<br/><br/><b>Address:</b> 7th Ave, Zapata<br/><br/><b>Marker Text:</b> In 1746, Jose de Escandon was selected by Spanish officials to be chief colonizer for the lower Rio Grande Valley, then a part of Mexico's northern frontier. A native of Spain, Escandon (b. 1700) had proven himself a capable administrator and military leader as part of the Spanish forces in Mexico. Escandon took over 700 people, including missionaries, soldiers, and Indians, on his initial exploration of the area. His findings from this venture allowed him to complete his colonization plans. By 1748, thirteen settlements had begun in the area, which came to be called Nuevo Santander after Escandon's home province. A total of nineteen settlements, including Laredo, San Ygnacio, Falcon, and Lopeno, owe their foundings to Escandon. Escandon issued royal land grants in tracts known as "porciones," and in return the settlers were to fulfill certain requirements. The final inspection of the land grants, known as the General Visitation of 1767, marked the beginning of private and individual land ownership in this part of the state, as valid applicants were given possession of their "porciones." The colonization efforts also resulted in the farming and ranching settlements from which grew the immense cattle industry of South Texas. (1986)]]></description>
+    <Point><coordinates>-99.264641,26.903599,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Colorado County — Unmapped Historical Markers</name>
+  <description>THC markers in Colorado County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Cicero Howard</name>
+    <description><![CDATA[<b>Address:</b> 100 E. Main St., Eagle Lake]]></description>
+    <Point><coordinates>-96.334277,29.588826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Eagle Lake Christian Church</name>
+    <description><![CDATA[Corner of Church Street and North McCarty Avenue<br/><br/><b>Address:</b> 100 Church Street, Eagle Lake]]></description>
+    <Point><coordinates>-96.332846,29.589995,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harbert's Garage</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 535 Walnut Street, Columbus<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.541022,29.706511,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Homesite of Fannie Baker Darden</name>
+    <description><![CDATA[726 Walnut, Columbus<br/><br/><b>Address:</b> 726 Walnut, Columbus<br/><br/><b>Marker Text:</b> (1829-1890) Known as "Poet Laureate of Columbus." Daughter of Texas War for Independence hero, Gen. Mosely Baker, and his wife Eliza; married attorney W. J. Darden, Jan 26, 1847; had two sons. Moved here, 1852. Taught art at Colorado College. Wrote for Columbus, Galveston, Houston, New Orleans newspaper.]]></description>
+    <Point><coordinates>-96.541432,29.706601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hunt-Cassell House</name>
+    <description><![CDATA[904 Travis St., Columbus<br/><br/><b>Address:</b> 904 Travis Street, Columbus<br/><br/><b>Marker Text:</b> On land owned by Capt. William G. Hunt (1813-98), a Virginian who came here about 1831, fought in Texas War of Independence (1836), was a trader, fought in Civil War (1861-65), and was a vestry of St. John's Episcopal Church. He is said to have lived on this site early as 1859. Material in the structure suggest that this house has been greatly modified since that date. After several other occupancies, Mr. and Mrs. Lee Cassell bought the house in 1948.]]></description>
+    <Point><coordinates>-96.539607,29.708486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Montgomery-Thatcher Cemetery</name>
+    <description><![CDATA[Montgomery-Thatcher Cemetery. Matthews community, E side FM 950, 0.5 mi. SW of FM 102, 5.9 mi. NE of Garwood. Historic Texas Cemetery (HTC) medallion added to marker post 2019.<br/><br/><b>Address:</b> FM 950, Garwood<br/><br/><b>Marker Text:</b> This burial ground served the relatives of pioneer settlers James S. Montgomery (1788-1864), a veteran of the War of 1812, and George W. Thatcher (1808-1867). Their families fled the area during the "Runaway Scrape," an evacuation caused by the advancing Mexican forces following the 1836 fall of the Alamo. Returning here after the Texas Revolution, both men became successful planters. Montgomery later represented the county in the Republic of Texas Congress, 1843-44. The first burial at this site was probably that of his son James (1834-36). (1981) Historic Texas Cemetery]]></description>
+    <Point><coordinates>-96.333405,29.504645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Riesing Cemetery</name>
+    <description><![CDATA[7 mi. W on SH 71, right on Richter Rd, right on gravel road<br/><br/><b>Address:</b> Columbus<br/><br/><b>Marker Text:</b> Riesing Cemetery Established 1872 Historic Texas Cemetery - 2005]]></description>
+    <Point><coordinates>-96.625774,29.771044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Provident City</name>
+    <description><![CDATA[Hancock Ranch headquarters, in the Colorado County panhandle between Nada and Speaks, about 15 mi. SW of Nada off CR 255.<br/><br/><b>Address:</b> CR 248, Nada<br/><br/><b>Marker Text:</b> Founded in 1909 by the Provident Land Company of Kansas City, Missouri, Provident City was the site of an early land promotion venture. Advertising in the Midwest using photographs showing exceptional farming results purported to come from this area, the company sold land, sight unseen, to many hopeful investors form its holdings of fifteen to twenty thousand acres. Eventually, over five hundred people came to Provident City. The residents were promised a railroad to connect their town with nearby Glen Flora in Wharton County, but it never progressed beyond the roadbed stage. At its peak, the town boasted some twenty-one businesses, two churches, a school, a bank, a post office, a Woodmen of the World lodge, and an amateur baseball team. Residents of the town soon realized that their land was not as favorable to farming as had been represented by the company, and would not support their families. Within four years of its founding, Provident City was well on its way to becoming a ghost town as disgruntled, bankrupt settlers left the area. The townsite and surrounding acres were bought and turned into a private ranch. Texas Sesquicentennial 1836-1986]]></description>
+    <Point><coordinates>-96.630078,29.282169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Strunk-Woolsey House</name>
+    <description><![CDATA[Live Oak St., Oakland.  From Wiemar, take FM 155 S. about 5-1/2 miles to FM 532 W. to Oakland<br/><br/><b>Address:</b> 1055 CR 271, Oakland<br/><br/><b>Marker Text:</b> N/A - on Application Built about 1875. Early Texas open-hall or breezeway type of construction. Home of John Monroe Woolsey while a member of the 20th Legislature representing Colorado County.]]></description>
+    <Point><coordinates>-96.829892,29.599906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Colorado County Citizen</name>
+    <description><![CDATA[513 Spring St., Columbus<br/><br/><b>Address:</b> 513 Spring Street, Columbus<br/><br/><b>Marker Text:</b> Established 1857 by Ben, James, and Hicks Baker, the "Citizens" was named by the Rev. J. J. Scherer, minister-educator. Also published on several sites, by series of owners, as "Colorado Times" or "Colorado Citizens," this is only survivor among the several local 1800s papers.]]></description>
+    <Point><coordinates>-96.541023,29.705115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zimmerscheidt-Leyendecker Cemetery</name>
+    <description><![CDATA[Columbus, 8 mi. N near FM 109<br/><br/><b>Address:</b> Columbus<br/><br/><b>Marker Text:</b> Frederick A. Zimmerscheidt and his wife, Margaret, immigrated from Budesheim, Germany, to the Mexican state of Soahuila y Texas in 1832 and settled in what is now Colorado County. They left their only child, Josephine Barbara, to continue her education in Germany. Josephine married Johann Leyendecker, and in 1843 they joined the Zimmerscheidts in Texas. Johann and Josephine wrote to relatives describing their new home, and their letters likely influenced other German emigrants to come to Ttexas. Frederick was active in local education, signing an 1842 petition to incorporate Hermann University and deeding one acre for the Zimmerscheidt school in the 1850s. The Zimmerscheidts deeded 400 acres south of their home to their daughter and son-in-law in 1848. On their land, the Leyendeckers built their own home which stood for more than a century, being listed on the National Register of Historic Places in 1979 before being destroyed by arson in 1983. Although nearby Frelsburg had two churches and two cemeteries when Frederick Zimmerscheidt died in 1856, his family chose to bury him near his home. Margaret died in 1861 and was buried beside him. Their marble tombstone features a carved drapery with a closed book, which may signify the end of the name Zimmerscheidt, since family all carried the name Leyendecker. Family members interred here served in the military and in public office, including county government and the Texas legislature. J. F. Leyendecker is also noted as a horticulturist and for operation of Pearfield nursery from 1876 until his death in 1908. The cemetery is still in use, with burials limited to descendants, who gather annually for a family reunion. Their family cemetery is hallowed ground and a cultural treasure recalling German lives and traditions transplanted to Texas.]]></description>
+    <Point><coordinates>-96.533623,29.815344,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

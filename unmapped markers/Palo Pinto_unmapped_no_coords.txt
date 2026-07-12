@@ -1,0 +1,14 @@
+Palo Pinto unmapped markers with NO usable address (3):
+
+  THC 17238: Hittson Cemetery
+    addr: Pleasant Valley Rd., Palo Pinto
+    https://atlas.thc.texas.gov/Details/5507017238
+
+  THC 4588: Santo East Cemetery
+    addr: Santo
+    https://atlas.thc.texas.gov/Details/5363004588
+
+  THC 14267: Sturdivant Community & Cemetery
+    addr: Mineral Wells
+    https://atlas.thc.texas.gov/Details/5507014267
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>McCulloch County — Unmapped Historical Markers</name>
+  <description>THC markers in McCulloch County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>1870s Cowboy-Indian Fight</name>
+    <description><![CDATA[0.5 mile southwest of Calf Creek on FM 1311 (or, from Brady, take US 87 about 16.2 miles west to marker, just east of junction with FM 503). Marker reported vandalized Feb. 2017.<br/><br/><b>Address:</b> Calf Creek vicinity<br/><br/><b>Marker Text:</b> Near here in 1874 or 1875, 18 Indians attacked W.B. Brown and two comrades, spooking one horse and capturing bedrolls and grub, but sparing the men, who thankfully escaped. In the 1870s, when they were being driven off the range, capture of supplies meant victory to the Indians. (1973)]]></description>
+    <Point><coordinates>-99.596584,31.216452,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>1870s Cowboy-Indian Fight</name>
+    <description><![CDATA[US 87 and FM 503, 1.5 mi NW of Melvin<br/><br/><b>Address:</b> US 87 and FM 503, Melvin<br/><br/><b>Marker Text:</b> (Battleground 1 mi. N of Marker) Near here in 1874 or 1875, 18 Indians attacked W. B. Brown and two comrades, spooking one horse and capturing bedrolls and grub, but sparing the men, who thankfully escaped. In the 1870s, when they were being driven off the range, capture of supplies meant victory ot the Indians.]]></description>
+    <Point><coordinates>-99.598876,31.215214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Camp San Saba Masonic Lodge</name>
+    <description><![CDATA[FM 1955, in Camp San Saba community; about 10 miles south of Brady via US 87<br/><br/><b>Address:</b> Brady vicinity<br/><br/><b>Marker Text:</b> -----]]></description>
+    <Point><coordinates>-99.258189,30.997207,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Tabor Cemetery (Brown Cemetery)</name>
+    <description><![CDATA[CR 222, W side 0.5 mi. N of SH 71. Map dot approximate.<br/><br/><b>Address:</b> CR 222, Voca<br/><br/><b>Marker Text:</b> Established 1884 Historic Texas Cemetery – 2004]]></description>
+    <Point><coordinates>-99.127189,30.9783,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Soldier's Waterhole</name>
+    <description><![CDATA[From Brady take US 190 east about 5.5 miles.  Take CR 412 east 2.5 miles to marker.<br/><br/><b>Address:</b> Brady vicinity<br/><br/><b>Marker Text:</b> U.S. soldiers under command of Robert E. Lee used this site while traveling the nearby military road and patroling this area for Indians. West bound immigrants also camped here prior to the Civil War; Here 27 Indians surprised and massacred 18 men, women and children burned their wagons and stole their horses. 1850; 1869. ON THE BACK SIDE OF THE MONUMENT: Ancient Indian Camp Ground; Erected in 1964 by McCulloch County Historical Society]]></description>
+    <Point><coordinates>-99.22578,31.174571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Voca Cemetery</name>
+    <description><![CDATA[<b>Address:</b> Voca]]></description>
+    <Point><coordinates>-101.751029,29.905527,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

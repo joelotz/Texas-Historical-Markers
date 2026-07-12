@@ -1,0 +1,106 @@
+Marion unmapped markers with NO usable address (26):
+
+  THC 14440: Benefield Sr. Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014440
+
+  THC 15468: Carlson, Mary, Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015468
+
+  THC 14492: Deware, J. M., Residence
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014492
+
+  THC 14950: Early Bell Foundry, Site of
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014950
+
+  THC 15543: Graham, Capt. Charles G
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015543
+
+  THC 15238: Haggard, George E., Bldg. (RE 80)
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015238
+
+  THC 14604: Haggard, George E., Funeral Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014604
+
+  THC 15137: Houston Street College
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015137
+
+  THC 15393: Jay Gould Railroad Car
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015393
+
+  THC 16909: Jefferson Ordnance Magazine
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507016909
+
+  THC 24290: Jefferson's Public Square
+    addr: S. Main St., Jefferson
+    https://atlas.thc.texas.gov/Details/5000024290
+
+  THC 8065: Liberty Baptist Church
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315008065
+
+  THC 12044: Lockett Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315012044
+
+  THC 17659: Macedonia United Methodist Church
+    addr: .4 miles south from the intersection of CR 726 and Macedonia Road, Jefferson
+    https://atlas.thc.texas.gov/Details/5507017659
+
+  THC 15534: Manse, The
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015534
+
+  THC 14851: McCasland, Joe, Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014851
+
+  THC 14240: Meat Packing Plant
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014240
+
+  THC 15382: Methodist Church
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015382
+
+  THC 15495: Moseley, J.B., Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015495
+
+  THC 14108: Oakwood Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014108
+
+  THC 14142: Oakwood Cemetery (Medallion Only)
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014142
+
+  THC 8081: Red River Warehouse
+    addr: Lake St. near Walnut, Jefferson
+    https://atlas.thc.texas.gov/Details/5315008081
+
+  THC 8089: St. Louis Commission Company Warehouse
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315008089
+
+  THC 15405: Synagogue:Sinai Hebrew Cong. of Beth-El, 1876
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015405
+
+  THC 12045: Taylor Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315012045
+
+  THC 14690: Wilkinson Cemetery
+    addr: Smithland
+    https://atlas.thc.texas.gov/Details/5507014690
+

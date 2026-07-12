@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>King County — Unmapped Historical Markers</name>
+  <description>THC markers in King County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] 6666 Ranch</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>6666 Road, E side between 7th and 8th streets next to Quanah Parker Trail arrow. Marker pending, in production as of Sep. 2021.<br/><br/><b>Address:</b> 6666 Road, Guthrie]]></description>
+    <Point><coordinates>-100.324756,33.619095,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

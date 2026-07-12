@@ -1,0 +1,30 @@
+Lubbock unmapped markers with NO usable address (7):
+
+  THC 23606: Bess Hubbard
+    addr: Wolfforth
+    https://atlas.thc.texas.gov/Details/5000023606
+
+  THC 15470: Estacado High School (MISSING)
+    addr: Lubbock
+    https://atlas.thc.texas.gov/Details/5507015470
+
+  THC 12677: Lubbock
+    addr: US Hwy 84, Lubbock
+    https://atlas.thc.texas.gov/Details/5303012677
+
+  THC 12679: Lubbock Lake Site
+    addr: Hwy 84, approx. 1/2 mi NW of Loop 289 overpass, Lubbock
+    https://atlas.thc.texas.gov/Details/5303012679
+
+  THC 22806: School of Home Economics
+    addr: Broadway, Lubbock
+    https://atlas.thc.texas.gov/Details/5000022806
+
+  THC 15103: Singers' Store, G. W., Site of (MISSING)
+    addr: Lubbock
+    https://atlas.thc.texas.gov/Details/5507015103
+
+  THC 23628: Texas Tech University Administration Building
+    addr: 2625 Memorial Cir, Lubbock
+    https://atlas.thc.texas.gov/Details/5000023628
+

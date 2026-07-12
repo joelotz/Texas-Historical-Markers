@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Morris County — Unmapped Historical Markers</name>
+  <description>THC markers in Morris County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Hayes Cemetery</name>
+    <description><![CDATA[<b>Address:</b> CR 1235, Daingerfield<br/><br/><b>Marker Text:</b> Hayes Cemetery Established c. 1850 Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-94.808508,33.095736,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hometown of United States Senator Morris Sheppard</name>
+    <description><![CDATA[US 67 and Baker St.<br/><br/><b>Address:</b> Naples<br/><br/><b>Marker Text:</b> (1875-1941) One of great lawmakers of the United States. Born near Naples, son of John L. and Alice Eddins Sheppard. Attended local schools. Received degrees of B. A. and LL.B., University of Texas; LL.M., Yale; LL.D., Southern Methodist University. Entered law practice in 1898. Served in United States Congress 1902-1913; United States Senate, 1913-1941. Active in legislation for agriculture, waterways, topographical and geological surveys, development of helium and potash deposits, construction and improvement of Federal buildings (including National Archives), Federal insurance for bank deposits, and Air Mail service. Author in Senate of Federal Credit Union Act, the Federal Maternity and Infancy Act, and the 19th (Prohibition) Amendment. He supported the 19th (Woman's Suffrage) Amendment. One of creators of World War I Aircraft Board, he continued to champion military aviation, even when air power was discredited during 1920s and 30s. His leadership prevented disastrous curtailment of air power, and helped prepare nation's air defenses in World War II. He was chairman, Senate Military Affairs Committee, 1933-1941. Sheppard Air Force Base, Wichita Falls, was named in his honor in 1942. He married Lucile Sanderson; they had 3 daughters.]]></description>
+    <Point><coordinates>-94.684587,33.198444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ned Walker Home</name>
+    <description><![CDATA[FM 144 about 2 mi. SW of Omaha<br/><br/><b>Address:</b> Omaha<br/><br/><b>Marker Text:</b> Built 1859, for pioneer J. G. Henderson. Hand-dressed pine in floors, ceilings, extra large interior doors were handmade. Recorded Texas Historic Landmark - 1967 Incise in base: Preserved by Mr. and Mrs. Ned Walker]]></description>
+    <Point><coordinates>-94.755042,33.15328,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Omaha</name>
+    <description><![CDATA[Corner US 259 and 4th St. Marker reported missing Jan. 2008.<br/><br/><b>Address:</b> US 259, Omaha<br/><br/><b>Marker Text:</b> On Seidicum Line, the old Bowie-Red River counties boundary surveyed in 1840. Thompson Morris laid out "Morristown" in 1880, but post office was "Gravett." To arbitrate, a drawing from a hat suggested "Omaha," for old home of a settler from Alabama. Town is now a shipping center for plants and farm products. (1966)]]></description>
+    <Point><coordinates>-94.734175,33.184154,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rocky Branch</name>
+    <description><![CDATA[<b>Address:</b> 6 mi. N on US 259N, Daingerfield]]></description>
+    <Point><coordinates>-94.698262,33.109895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rocky Branch</name>
+    <description><![CDATA[Daingerfield, 6 mi. N on US 259N<br/><br/><b>Address:</b> US 259N, Daingerfield<br/><br/><b>Marker Text:</b> Rocky Branch The abundance of creeks attracted travelers to this area, settled as early as the 1820s, and local tradition holds the community was named for the rocky beds of the creeks. The Rocky Branch Community grew throughout the 19th century; the earliest church, Spring Hill Primitive Baptist, was built in the 1850s. Over the years, the settlement boasted businesses, including lumber, grist and syrup mills, cotton gin, broom factory and general store. It also had a rodeo arena and baseball team, as well as a precinct courthouse, post office (1890-1904), community center and a Woodmen of the World band. Families made mattresses and canned foods at the community's school (1879-1943), which consolidated with the Paul H. Pewitt and Daingerfield districts in 1951. (2002) incising at base: SANDRA SMITH FORSYTH]]></description>
+    <Point><coordinates>-94.698262,33.109895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Omaha School</name>
+    <description><![CDATA[<b>Address:</b> 110 McLean Avenue, Omaha<br/><br/><b>Marker Text:</b> Land was first purchased for a public school in Omaha in 1892 and a large wooden building near the railroad tracks soon housed three teachers and 165 students. The community formed an independent school district in 1905 and built a new two-story brick structure the following year. It was enlarged as necessary, including the addition of a rock gymnasium erected by the Works Progress Administration (WPA) between 1938 and 1940. After a tornado damaged the property in 1950, the school merged with nearby Naples at the urging of a wealthy oilman and rancher who promised financial backing for the consolidated district. The WPA gym was renovated for commercial use by its new owner. (1999) Incise on back: Glenda Brown Scarborough Sandra Smith Forsyth]]></description>
+    <Point><coordinates>-94.741443,33.181364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spring Hill Primitive Baptist Church of Christ</name>
+    <description><![CDATA[Spring Hill Cemetery. CR 4212 (Spring Hill Rd.), S side, 0.3 mi. E of US 259.<br/><br/><b>Address:</b> CR 4212, Omaha<br/><br/><b>Marker Text:</b> 1852-1935. Meeting house erected 1859. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.698387,33.130852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wheatville and Wheatville Cemetery</name>
+    <description><![CDATA[Wheatville Cemetery. From SH 77, 1.0 mi. N on CR 4315 then 0.3 mi. NW on CR 4316.<br/><br/><b>Address:</b> CR 4316, Naples<br/><br/><b>Marker Text:</b> Wheatville, named for pioneer settler William Wheat, began as a rest stop/general store on a main road to Jefferson (40 mi. SE) in the 1840s. During the 1850s a cotton gin, grist mill, school, and church were established here. A post office was opened in 1868. The first recorded burial in the community cemetery was that of John S. Sheppard in 1863. The town declined in the 1880s as businesses and residents moved to the new railroad town of Naples (3 mi. S). Wheatville native Morris Sheppard (1875-1941) served as U. S. Senator from 1913-1941. The graveyard continues to serve the area. (1994)]]></description>
+    <Point><coordinates>-94.696945,33.229038,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,97 @@
+Harrison unmapped markers with NO usable address (24):
+
+  THC 23774: Center Cemetery
+    addr: FM 450 S, Harleton
+    https://atlas.thc.texas.gov/Details/5000023774
+
+  THC 23592: Cooperville Rosenwald School
+    addr: 1919 Hut Horton Rd., Hallsville
+    https://atlas.thc.texas.gov/Details/5000023592
+
+  THC 10155: Edgemont
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203010155
+
+  THC 18615: Ewing Chapel Cemetery
+    addr: CR 3017, Marshall
+    https://atlas.thc.texas.gov/Details/5507018615
+
+  THC 10230: Judge J. B. Williamson House
+    https://atlas.thc.texas.gov/Details/5203010230
+
+  THC 15034: Key Log Cabin
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507015034
+
+  THC 10183: LaGrone's Chapel
+    addr: Hallsville
+    https://atlas.thc.texas.gov/Details/5203010183
+
+  THC 14890: Lane, Walter Payne
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507014890
+
+  THC 22384: Marshall Hebrew Cemetery (HTC)(Medallion only)
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5000022384
+
+  THC 14869: Noonday Cemetery
+    addr: Hallsville
+    https://atlas.thc.texas.gov/Details/5507014869
+
+  THC 18008: Piney Cemetery
+    addr: 4710 Piney Cemetery, Harleton
+    https://atlas.thc.texas.gov/Details/5507018008
+
+  THC 22712: Pope Cemetery
+    addr: Pope City Rd., Woodlawn
+    https://atlas.thc.texas.gov/Details/5000022712
+
+  THC 16126: Sabine Farms
+    addr: FM 1186, Marshall
+    https://atlas.thc.texas.gov/Details/5507016126
+
+  THC 15319: Sam Houston's 1857 Campaign in Marshall
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507015319
+
+  THC 16844: Simmons Hill Baptist Church
+    addr: 4213 CR 4503, Harleton
+    https://atlas.thc.texas.gov/Details/5507016844
+
+  THC 10151: Site of Davidson Homestead
+    addr: Harleton
+    https://atlas.thc.texas.gov/Details/5203010151
+
+  THC 11976: Smyrna United Methodist Church
+    addr: FM 450, Harleton
+    https://atlas.thc.texas.gov/Details/5203011976
+
+  THC 23271: St. Paul's Episcopal Mission Church at Leigh
+    addr: 15481 FM 134, Leigh
+    https://atlas.thc.texas.gov/Details/5000023271
+
+  THC 15170: Unknown Confederate Soldiers
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507015170
+
+  THC 11979: Webster-Mimosa Hall Cemetery
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203011979
+
+  THC 10137: William Bates Anderson Home
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203010137
+
+  THC 10152: William Delafield
+    addr: Hallsville
+    https://atlas.thc.texas.gov/Details/5203010152
+
+  THC 23280: Woodlawn Cemetery
+    addr: Memory Lane, Marshall
+    https://atlas.thc.texas.gov/Details/5000023280
+
+  THC 16061: Wyalucing
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507016061
+

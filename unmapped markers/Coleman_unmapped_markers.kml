@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Coleman County — Unmapped Historical Markers</name>
+  <description>THC markers in Coleman County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Camp Colorado Cemetery</name>
+    <description><![CDATA[]]></description>
+    <Point><coordinates>-99.257999,31.884098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>D. A. Parker House</name>
+    <description><![CDATA[2 miles west of Novice on FM 1770, then 1 mile south on CR 488<br/><br/><b>Address:</b> Novice<br/><br/><b>Marker Text:</b> A native of Ohio, David Absalom Parker (b. 1849) came to Coleman County in 1876 with his wife, Nannie Rachel (Atkinson). Soon after, they constructed this two-story stone residence. Parker became a prominent area cattleman and helped establish the town of Novice when rail lines were built to the area in 1910. The owner of a general store and cotton gin, he was instrumental in the formation of school, church, and post office. Recorded Texas Historic Landmark - 1983]]></description>
+    <Point><coordinates>-99.65842,31.968686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trickham Cemetery</name>
+    <description><![CDATA[RR 1176 at CR 216<br/><br/><b>Address:</b> Trickham<br/><br/><b>Marker Text:</b> Trickham Cemetery Established c. 1870s Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-99.23527,31.589479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Western Trail Marker</name>
+    <description><![CDATA[Courthouse square, Walnut at Commerce<br/><br/><b>Address:</b> Coleman<br/><br/><b>Marker Text:</b> This tablet commemorates the Western Trail that passed through Coleman in 1867-1895. D.A.R. Seal. Head of longhorn. "Up the Trail". Erected by the Captain Wm. Buckner Chapter of The Daughters of the American Revolution.]]></description>
+    <Point><coordinates>-99.423088,31.831392,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

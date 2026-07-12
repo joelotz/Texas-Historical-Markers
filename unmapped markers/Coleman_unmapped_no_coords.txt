@@ -1,0 +1,18 @@
+Coleman unmapped markers with NO usable address (4):
+
+  THC 22451: Glen Cove Cemetery
+    addr: Coleman
+    https://atlas.thc.texas.gov/Details/5507022451
+
+  THC 17974: Mt. View Cemetery
+    addr: County Road 470, Coleman
+    https://atlas.thc.texas.gov/Details/5507017974
+
+  THC 24181: Talpa Cemetery
+    addr: CR 409, Talpa
+    https://atlas.thc.texas.gov/Details/5000024181
+
+  THC 3906: The Rock House on Day Ranch
+    addr: Leaday
+    https://atlas.thc.texas.gov/Details/5083003906
+

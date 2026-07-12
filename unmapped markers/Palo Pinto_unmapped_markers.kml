@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Palo Pinto County — Unmapped Historical Markers</name>
+  <description>THC markers in Palo Pinto County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Alfred Lane</name>
+    <description><![CDATA[SH 254, 2 miles east of Graford<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Called "A splendid brave man" by his brother-in-law, cattleman Charles Goodnight, Tennessee native Alfred Lane moved to Texas with his family in 1836 and settled in Robertson's colony on the Brazos River. He moved to the Black Springs area of Palo Pinto County in 1856, following his marriage to Elizabeth Goodnight, and raised horses on the open range. He scouted with the Texas Rangers during the Civil War. After helping Goodnight drive cattle west of Ft. Belknap, Lane was killed by Indians as he returned home. He is buried nearby in Crawford Cemetery (2 miles northeast). (1997)]]></description>
+    <Point><coordinates>-98.215502,32.947339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black Springs</name>
+    <description><![CDATA[NW corner FM 52 (Main St.) and 6th St.<br/><br/><b>Address:</b> FM 52, Oran<br/><br/><b>Marker Text:</b> Settled before the Civil War and named for the area's early water source, located nearby, the Black Springs community played a significant role in the growth of Palo Pinto County. Prominent individuals associated with the town included early cattlemen and trail drivers Oliver Loving and Charles Goodnight and J. J. "Jack" Cureton, a noted military veteran and pioneer. In 1886 the community was renamed Oran in honor of Texas Governor Oran M. Roberts. Once the county's leading town and the site of stores, churches, a school and railroad, it declined in the 1930s and 1940s. (1982)]]></description>
+    <Point><coordinates>-98.159626,32.962012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black Springs Cemetery</name>
+    <description><![CDATA[NE corner FM 52 and 8th St.<br/><br/><b>Address:</b> FM 52, Oran<br/><br/><b>Marker Text:</b> (220 yards east) Originally known as the Black Springs Cemetery, the nearby burial ground was established to serve pioneer settlers of the Keechi Valley and the settlement of Black Springs. The earliest marked grave is that of Mary A. Lasater (1841-1871). Land for the cemetery was deeded by Silas Adam Sheek, stepfather of the noted Texas cattleman Charles Goodnight. Renamed Oran Cemetery when a new community name was selected in 1886, it includes the graves of Goodnight's mother Charlotte Sheek (1810-1882), Civil War veterans, pioneer settlers and early community leaders. (1982)]]></description>
+    <Point><coordinates>-98.159454,32.960983,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Charles Goodnight</name>
+    <description><![CDATA[NW corner FM 52 (Main St.) and 6th St.<br/><br/><b>Address:</b> FM 52, Oran<br/><br/><b>Marker Text:</b> Here at Black Springs in the Keechi Valley in 1857, the celebrated pioneer open range cowman and trail driver Charles Goodnight (1836-1929) located his first ranch on the extreme Indian frontier of Texas. From here he took part in the 1860 Pease River fight when Cynthia Ann Parker was recaptured from Comanches, he served as scout and guide for the Texas Rangers during the Civil War and in 1866 he laid out the Goodnight-Loving cattle trail, over which thousands of longhorns were driven to market in New Mexico. In 1867 at Fort Sumner, New Mexico, his partner Oliver Loving died from wounds suffered in an Indian attack. Without the aid of an undertaker, Goodnight carried the body by wagon through hostile Indian territory for burial at Weatherford (24 miles southeast). Goodnight extended his cattle trails to Wyoming and to Colorado, where he started a ranch near Pueblo. In 1876 he established the first cattle ranch in the vast Texas panhandle, which became the internationally known JA Ranch. Involved in the preservation of the the area's native buffalo, he also bred the first herd of cattalo by crossing buffalo with range cattle. Goodnight's pioneer efforts led to the development of the frontier and the Texas cattle industry. (1982)]]></description>
+    <Point><coordinates>-98.159658,32.962012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George Rice Bevers Homesite</name>
+    <description><![CDATA[from Graford, take SH 254 2 miles east<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> On the Fort Worth-Fort Belknap Road, near Flat Rock Crossing of Keechi Creek. Occupied 1854 when such travelers as Indian agent Robert S. Neighbors were fed or housed overnight by Bevers. First Palo Pinto county school opened in vicinity in 1856, on a path smoothed by oxen pulling a log. In Bevers Cemetery lies a victim of 1860s Indian raids that sent settlers to refuges as remote as the courthouse in Fort Worth. Bevers (1825-1904), his wife Lucinda Jane Tacker (1825-73), and children lived near Curetons, Goodnights, Slaughters, other noted pioneers.]]></description>
+    <Point><coordinates>-98.214462,32.94036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>George Webb Slaughter</name>
+    <description><![CDATA[from Palo Pinto, take FM 4  5 miles north<br/><br/><b>Address:</b> Palo Pinto<br/><br/><b>Marker Text:</b> (May 10, 1811-March 11, 1895) Born in Lawrence County, Miss. Came to Texas with his parents in 1830, settled in Sabine County, and began a freighting business. He participated in the Texas War for Independence, serving as a courier for Gen. Sam Houston, and on one occasion took a dispatch to Col. William B. Travis at the Alamo in San Antonio. Slaughter married Sarah Mason on October 12, 1836, the first marriage sanctioned under laws of the Republic of Texas. The couple had 11 children, including the prominent cattlemen Christopher C. (1837-1919) and John B. Slaughter (1848-1928). George W. Slaughter in 1844 was ordained a Baptist minister. He began raising cattle in Freestone County in 1852, and moved in 1857 to his Palo Pinto County homestead (1/4 miles east). He organized (1861) a Baptist church near his home, and rode a circuit in the area, preaching and practicing "saddlebag" medicine. He and his family survived several Indian attacks. From 1868 to 1875, thousands of his cattle went up the trail to Kansas railheads. Slaughter moved (1870) to Emporia, Kan., but returned here in 1875. In 1882, he founded the First Baptist Church in Mineral Wells. He ceased ranching in 1884. He was moderator (1886) when Slaughter Valley Baptist Church merged with the church in Palo Pinto, where he was later buried. Incise on base: Marker Sponsor: D. C. Harris, grandson]]></description>
+    <Point><coordinates>-98.301902,32.842035,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hittson Cemetery</name>
+    <description><![CDATA[from Palo Pinto, take US 180 east about 3 miles to Pleasant Valley Road and follow about 6 miles to Hittson Cemetery<br/><br/><b>Address:</b> Palo Pinto<br/><br/><b>Marker Text:</b> This burial ground (.2 miles north) first served the family of pioneer settler Jesse Hittson (1801-61). A native of Virginia, Hittson moved to this area in 1855 and began raising cattle. His land, located on an important early Brazos River crossing, became known as Hittson Bend. In 1857 he actively participated in the formation of Palo Pinto County. His grave is the earliest marked at this site. Five generations of Hittsons are buried here. Graves include those of family members who also became prominent leaders of the cattle industry and who led in the development of the area. (1982)]]></description>
+    <Point><coordinates>-98.171065,32.757393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Morris Sheppard Dam and Possum Kingdom Lake</name>
+    <description><![CDATA[from Graford, take SH 254 west about 8 miles, then take SH 16 southwest about 2 miles take PR36 southwest about 25 miles to FM 2353 follow FM 2353 south about 1 mile to observation Point Road, go west about .5 mile to observation area<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Built in response to disastrous Brazos River flooding, Morris Sheppard Dam and Possum Kingdom Reservoir were early attempts at water conservation and flood control in Texas. The U.S. Government funded $4,500,000 of the three-year, $8,500,000 project through the Works Progress Administration, a Depression era recovery agency. Named for U.S. Senator Morris Sheppard and completed in 1941, the dam is 2,740 feet long and 190 feet high. Nine spillway gates allow for the passage of flood waters and drift material. Power generating facilities consist of two 11,250-killowatt units which serve much of the surrounding area. The creation of Possum Kingdom Lake from the impounded waters of Morris Sheppard Dam sent bridges, roads and an entire town underwater. Recovery was initially slow, but quickly picked up after World War II with the establishment of major fishing lodges, camping areas and other recreational facilities. The growth and success of the area is a tribute to the spirit of the surrounding communities which continue to benefit from the project's original purposes of water conservation and supply, and hydroelectric power generation. (1983)]]></description>
+    <Point><coordinates>-98.427961,32.873479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pickwick-McAdams Cemetery</name>
+    <description><![CDATA[from Graford take Sh west about 8 miles to PR 36, follow PR 36 W about 3 miles<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Tennessee native Capt. William Carroll McAdams (1825-1906) came to Texas in the 1840s, served as a Texas Ranger, and fought in the Mexican war (1846-1848). McAdams and his wife Ann (Alexander) acquired this land in 1854 and began cattle raising. The cemetery opened after the death of Mrs. McAdams. The first marked grave is that of Mary M. Couger in 1889. McAdams Cemetery served the Pickwick Community (now under the lake). In 1940 graves were moved here from Carter Bend Cemetery which was on the proposed Possum Kingdom Lake site. (1979)]]></description>
+    <Point><coordinates>-98.436036,32.903229,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Reuben Vaughan</name>
+    <description><![CDATA[from Graford, take FM 4 north about 2 miles (MARKER REPORTED MISSING 6/23/2009)<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Alabama-born Reuben Vaughan (1819-1900) migrated to Texas in 1852. He and his wife Margaret (Truelove) and their three children moved to this area in 1854 and became the first permanent settlers in present Palo Pinto County. They erected a cabin of cedar and stone near this site. A farmer and stock raiser, Vaughan maintained friendly relations with the Indian tribes that roamed this region. During the Civil War, he served in a frontier battalion to protect pioneer settlements. Vaughan is buried in this family cemetery. (1979)]]></description>
+    <Point><coordinates>-98.247386,32.980973,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Simpson Crawford</name>
+    <description><![CDATA[from Grafford, take SH 254 east about 3 miles.<br/><br/><b>Marker Text:</b> A native of Kentucky, Simpson Crawford (1824-1908) served in the Mexican War (1846-48) at Vera Cruz and Mexico City. Following the war he returned to Kentucky and married Elizabeth Evans. In 1852 they moved to Texas, settling first in Titus County. In 1854 they came to Palo Pinto County and built a home (3/4 mile northwest) in the Keechi Valley area of Peters Colony. A successful rancher owning 3100 acres, Crawford also served in the Texas Rangers. His first wife died in 1858 and he married Mary Brown four years later. He is buried in Crawford Cemetery (1.5 miles north). (1980)]]></description>
+    <Point><coordinates>-98.189162,32.940487,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

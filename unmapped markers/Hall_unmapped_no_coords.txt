@@ -1,0 +1,14 @@
+Hall unmapped markers with NO usable address (3):
+
+  THC 22537: Estelline Cemetery
+    addr: CR 29A, Estelline
+    https://atlas.thc.texas.gov/Details/5000022537
+
+  THC 22729: Hulver Cemetery
+    addr: Estelline
+    https://atlas.thc.texas.gov/Details/5000022729
+
+  THC 22512: Walls Family Cemetery
+    addr: Brice
+    https://atlas.thc.texas.gov/Details/5000022512
+

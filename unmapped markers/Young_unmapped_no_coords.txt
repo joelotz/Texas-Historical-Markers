@@ -1,0 +1,18 @@
+Young unmapped markers with NO usable address (4):
+
+  THC 48: A. B. Medlan Home
+    addr: Graham
+    https://atlas.thc.texas.gov/Details/5503000048
+
+  THC 1493: Episcopal Parish Church
+    addr: Possum Kingdom Lake, Graham
+    https://atlas.thc.texas.gov/Details/5503001493
+
+  THC 14868: Graves of Seven Teamsters
+    addr: Newcastle
+    https://atlas.thc.texas.gov/Details/5507014868
+
+  THC 5721: Warren Wagon Train Massacre
+    addr: SH 16, 8 miles NE of Graham, Graham
+    https://atlas.thc.texas.gov/Details/5503005721
+

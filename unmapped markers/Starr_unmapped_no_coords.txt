@@ -1,0 +1,18 @@
+Starr unmapped markers with NO usable address (4):
+
+  THC 6061: Decker House
+    addr: Britton and Water St., Rio Grande City
+    https://atlas.thc.texas.gov/Details/5427006061
+
+  THC 14283: Early Commerical Center
+    addr: Roma
+    https://atlas.thc.texas.gov/Details/5507014283
+
+  THC 24250: Las Escobas Ranch
+    addr: Las Escobas Road, Rio Grande City
+    https://atlas.thc.texas.gov/Details/5000024250
+
+  THC 14683: Roma-San Pedro International Bridge
+    addr: Roma
+    https://atlas.thc.texas.gov/Details/5507014683
+

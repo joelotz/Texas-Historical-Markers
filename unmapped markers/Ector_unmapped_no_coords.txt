@@ -1,0 +1,22 @@
+Ector unmapped markers with NO usable address (5):
+
+  THC 17985: Captain Randolph B. Marcy's Southern Route Expedition
+    addr: State Highway 302 West 8.7 miles from Loop 338, Odessa
+    https://atlas.thc.texas.gov/Details/5507017985
+
+  THC 14699: First Compressor Transmission Engine
+    addr: Odessa
+    https://atlas.thc.texas.gov/Details/5507014699
+
+  THC 3607: North Cowden
+    addr: North Cowden
+    https://atlas.thc.texas.gov/Details/5135003607
+
+  THC 3666: Odessa
+    addr: Odessa
+    https://atlas.thc.texas.gov/Details/5135003666
+
+  THC 4106: Prairie Dog
+    addr: Odessa
+    https://atlas.thc.texas.gov/Details/5135004106
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Galveston County — Unmapped Historical Markers</name>
+  <description>THC markers in Galveston County without an HMDB id (isMissing excluded). 37 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>[PENDING] Albertine Hall Yeager</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 1111 32nd St., Galveston]]></description>
+    <Point><coordinates>-94.802057,29.296171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ashbel Smith, 1805-1886</name>
+    <description><![CDATA[<b>Address:</b> 900 Texas Avenue, Galveston]]></description>
+    <Point><coordinates>-94.907208,29.384094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Campbell Home</name>
+    <description><![CDATA[<b>Address:</b> 1515 Broadway, Galveston<br/><br/><b>Marker Text:</b> [medallion only]]]></description>
+    <Point><coordinates>-94.783083,29.302342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>City of Clear Lake Shores</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 931 Cedar Road, Clear Lake Shores<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-95.031692,29.543498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>E. S. Levy and Company</name>
+    <description><![CDATA[<b>Address:</b> 2227 Postoffice St., Galveston<br/><br/><b>Marker Text:</b> Founded 1877 by Abraham Levy and a partner, as Levy &amp; Weiss, family clothiers. Building erected 1878; several times remodeled. Owners since 1879, Levy family includes many civic, cultural, professional leaders for city and state. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-94.792674,29.304656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Early History of Galveston County</name>
+    <description><![CDATA[Courthouse Grounds<br/><br/><b>Address:</b> 722 Moody, Galveston<br/><br/><b>Marker Text:</b> Galveston Island, for centuries a crossroad for Indians, privateers, Spanish and French explorers, for a time was capital of the Republic of Texas. This was during the Texas War for Independence, when Santa Anna was making his 1836 invasion. On March 17, the hastily organized ad interim Cabinet of President David G. Burnet evacuated Washington-on-the-Brazos, moving to Harrisburg, and then in April to Galveston. Here it remained until after the Texas Victory at San Jacinto on april 21, 1836. From January, 1836 until U. S. annexation in 1846, Galveston was the naval base for the fleet which protected shipping and sought to prevent Mexican invasion of Texas by way of the sea. By September, 1837, the four ships of the Texas Navy had all been lost. Not until April, 1840 was the Navy reorganized, under President M. B. Lamar. A former U. S. Naval officer, Edwin W. Moore, was made commodore. Afterward, when Moore became involved in a bitter controversy with President Sam Houston, Houston ordered the Navy to be sold. At the sale, the incensed people of Galveston used forceful means to prevent bidding. The ships at annexation were all transferred to the U. S. Navy.]]></description>
+    <Point><coordinates>-94.788829,29.303363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Exploration of Galveston County</name>
+    <description><![CDATA[Courthouse<br/><br/><b>Address:</b> 722 Moody Ave, Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-95.086664,29.523195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Lutheran Church</name>
+    <description><![CDATA[Marker reported missing Jun 2007.<br/><br/><b>Address:</b> 2415 Avenue G, Galveston<br/><br/><b>Marker Text:</b> One of earliest Evangelical Lutheran churches in Texas. Founded in 1850 by the Rev. G. Guebner, of the South Carolina Synod. Seven families were the charter members. The Rev. H. Wendt, second pastor, established day school. For the school and church, old Lyceum building was purchased in 1855. Modern building incorporates part of that structure. Church membership has rallied after hurricanes, yellow fever, war. Recorded Texas Historic Landmark - 1969]]></description>
+    <Point><coordinates>-97.35699,31.101634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flood &amp; Calvert Building</name>
+    <description><![CDATA[Marker reported missing Sep. 2008.<br/><br/><b>Address:</b> 2314 Strand, Galveston<br/><br/><b>Marker Text:</b> 1873. Has iron facade typical of thriving seaport cities. Erected by Weis Brothers, wholesale dealers and importers of staple and fancy dry goods, boots, shoes, hats, trunks and notions. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.795038,29.307137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Galveston Chamber of Commerce</name>
+    <description><![CDATA[Moody Civic Center<br/><br/><b>Address:</b> 2106 Seawall Blvd., Galveston<br/><br/><b>Marker Text:</b> One of the oldest Chambers of Commerce in Texas. Informally organized, spring 1838, during Republic of Texas, by a small group of Galveston's original civic leaders. Formally chartered February 3, 1845. Among founders were men who had, or soon would have, statewide fame: John K. Allen (founder of Houston), Gail Borden (dairy king), Michel B. Menard (a signer of the Texas Declaration of Independence), Samuel May Williams (colonizing contractor), and Thomas F. McKinney (versatile businessman). These men assisted city in establishing a local government and helped Galveston City Co. sell lots for homes and businesses. They aided in organizing Galveston County and instituting mail connections with nearby Brazoria and Harris counties. Waterborne commerce -- basis of island's economy -- was promoted by the group, which also aided growth and prosperity by encouraging settlers to work and reside here. Over the years this voluntary organization of business leaders has played a role in development of the port, the University of Texas Medical branch, tourist industry, causeways, Maritime Academy, and Galveston Community College, as well as fostering the advance of the city's industry and commerce.]]></description>
+    <Point><coordinates>-94.786713,29.291284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Galveston County, 1901 - 1965</name>
+    <description><![CDATA[Courthouse Grounds<br/><br/><b>Address:</b> Galveston<br/><br/><b>Marker Text:</b> After 1900, the Port of Galveston emerged as the second largest in the U. S. Following completion of a deep-water channel to Texas City in 1904, the Mainland's major petroleum and petrochemical plants, tin smelter and allied industries had their beginning. Galveston's waterfront handles primarily dry cargo while Texas City handles liquid petroleum and petrochemical cargoes. Agriculture production is also important to the Galveston County economy. Rice, corn, grain, oats, dairying, poultry, truck crops and cattle raising are leading items. In 1913, the U. S. Army moved 10,000 men and eight of its twelve airplanes to Texas City, with the first successful test flight made from Texas City to San Antonio. In 1928, Galveston County began initial seawall protection for Texas City. Following the devastating effect of hurricane Carla in 1961, construction began on a 17-mile protective system extending around Texas City and LaMarque. Disaster struck Texas City, April 16, 1947, with the explosion of the French-flag steamer "Grandcamp." Resulting fires and explosions left 576 dead, 4,000 persons injured and $70,000,000 property damage. Undismayed, the city rebuilt. In addition to its port facilities, Galveston is a large supplier of seafood, is a major financial center, has a tea-blending plant, a rail and wire factory, grain elevators, a brewery, several large insurance companies, a ship repair yard and many part-associated industries. A servicing facility for nuclear-powered commercial vessels is also maintained here.' A major contributor to the Galveston economy is the University of Texas Medical Branch. Created in 1881, the facility is known as "The Mayo's of the South" and is a leading heart, surgical and burns treatment center. The Galveston County Memorial Hospital was constructed on the Mainland in 1952. With the establishment of the National Aeronautics and Space Administration's Manned Spacecraft Center in 1961 at Clear Lake, bordering Galveston and Harris counties, many residents of Galveston County became employed in the space effort. Space vehicles and equipment were tested in nearby Galveston Bay.]]></description>
+    <Point><coordinates>-94.790365,29.303152,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Galveston Orphans Home</name>
+    <description><![CDATA[1315 21st Street (West side of the street)<br/><br/><b>Address:</b> 1315 21st Street, Galveston<br/><br/><b>Marker Text:</b> The Island City Orphans Home of the 1870s and 1880s was created to provide refuge for Protestant and Jewish children in Galveston. The orphanage operated out of its original wooden structure for the next twelve years, narrowly escaping destruction in the November 1885 fire which burned houses in the immediate neighborhood. When prominent businessman and philanthropist Henry Rosenberg died in 1893, his will appointed a building fund for the orphanage. Galveston architect Alfred Muller was hired to design the Gothic Revival style structure and Thomas Lucas and Sons was chosen as the builder. The "Galveston Orphans Home," a name that it would retain for over 80 years, was dedicated on November 15, 1895. On September 8, 1900, a powerful hurricane devastated the island and the Orphans Home was heavily damaged. To benefit the reconstruction of the Orphans Home, a charity bazaar sponsored by William Randolph Hearst was held in New York City. With the $50,000 raised at the event, the Orphans Home board hired architect George B. Stowe to design the new building. Incorporating parts of the original building left standing, the new Orphans Home was constructed by local builder Harry Devlin in the Renaissance Revival style. The building was dedicated on March 30, 1902. Community support for the Galveston Orphans Home continued by way of donations and annual charity galas. In 1984, Galveston's orphanages combined to create the Children's Center, Inc. and moved to a different location, leaving this building vacant. For over a century, the Orphans Home provided a shelter for thousands of children and was a significant organization and charity for citizens of Galveston Island. RECORDED TEXAS HISTORIC LANDMARK - 2015]]></description>
+    <Point><coordinates>-94.759823,29.385712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Galveston Seawall</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> NW Intersection of 6th and Market Streets, Galveston]]></description>
+    <Point><coordinates>-94.774525,29.310457,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Greater Bell Zion Missionary Baptist Church</name>
+    <description><![CDATA[<b>Address:</b> 5917 Carver Avenue, Texas City<br/><br/><b>Marker Text:</b> In the late 1860s and early 1870s, land near the center of Galveston county was bought by a group of African Americans who wished to establish a settlement. Most of the founders were black cowboys who earned their living riding the Chisholm Trail and raising cattle. Some of the founding families were the Britons, Philips, Hobgoods, Caldwells and Bells. A Baptist church was founded in 1885 and soon became the backbone of the African American community. It was organized by Rev. Israel S. Campbell (1815-1898) who was an escaped slave. Before coming to Texas he lived in Canada, attended Oberlin College and became a minister. He is known as the “Father of Black Texas Baptists” because of his missionary work to spread the Baptist faith. The church frequently changed its name depending on the pastor presiding over it. It was first known as Campbellsville Baptist Church, then Jefferson Chapel after the second pastor, then Bell’s chapel after the third. With the influence of the old landmark district association, the congregation renamed it but retained the Bell reference. They concluded with Greater Bell Zion Missionary Baptist Church. Throughout the decades since it was established, the church has been a provider for its community. It was not only a spiritual place, but a place where one could acquire an education. In 1874, the first school building was built in connection with the church. Katie Bell, the first school teacher, taught both children and adults to read and write. Backing Boy Scout troops and running a library are also impacts the church made. For more than a century, the church has been a focal point in the community.]]></description>
+    <Point><coordinates>-94.978131,29.383401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grover-Chambers House</name>
+    <description><![CDATA[<b>Address:</b> 1520 Avenue D (Market St.), Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.797031,29.304565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>J. F. Smith &amp; Brothers (STOLEN)</name>
+    <description><![CDATA[<b>Address:</b> 2323-B Strand Avenue, Galveston]]></description>
+    <Point><coordinates>-94.794649,29.307021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>League-Kempner House</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1790 Broadway, Galveston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.786148,29.301684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lorraine Crosby School</name>
+    <description><![CDATA[<b>Address:</b> 7801 Burns Street, Hitchcock<br/><br/><b>Marker Text:</b> Opening in 1914, the Lorraine Crosby School served as an educational stepping stone for the African American children of Hitchcock. In 1903, the first school was held in the home of Louis Brown. Later, the Galilee Baptist Church offered a small annex on “Little Ben’s Farm” over the bayou and then the church auditorium. In 1910, four members of the church home missionary society discussed a more permanent home for the school near the Santa Fe Railroad. The school board agreed to build a school if the community purchased the lot. To purchase the property, citizens sponsored fish fries and other fundraisers. In 1914, the lot at 7801 Burns Street was purchased. The city built a school and it opened as Hitchcock Colored School. One notable teacher and principal of the school was Mrs. Lorraine Crosby. She instilled high standards and strength in her students and, in 1949 after her death, the school was named in her honor. By 1952, the school footprint expanded with additional facilities for the growing school and again in 1959. Prior to 1956, students wishing to continue their education in high school had to transfer to Galveston or La Marque. Even though funds were limited or non-existent for supplies and activities, staff, parents and community members helped meet the needs of the students. As a result, Lorraine Crosby School had a football team, track team, basketball team and a boy scout troop. The first graduating class was in 1960 and the last was in May 1965. In 1966, the schools integrated and the Lorraine Crosby School became a middle school for a short time. At a time when African American schools had few resources, Lorraine Crosby School was an integral part of the community and will live on in the community’s memory as their educational beginning.]]></description>
+    <Point><coordinates>-95.008812,29.335731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mary A. Oppermann Vault</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2506 65th Street, Galveston<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-94.834311,29.272637,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Masonic Temple, Old (BURNED)</name>
+    <description><![CDATA[<b>Address:</b> 2027 Post Office Street, Galveston]]></description>
+    <Point><coordinates>-94.790362,29.305282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mathilda Wehmeyer German-American Kindergarten School</name>
+    <description><![CDATA[<b>Address:</b> 1616 Winnie Rear St, Galveston<br/><br/><b>Marker Text:</b> Born in Bremen, Germany, Mathilda Wehmeyer (1839-1903) arrived in Galveston in 1870. She advertised teaching services for young children, particularly those from Galveston's large German-American community. Her teaching philosophy focused around the German concept of "kindergarten." After initially operating from a house on Ball, she purchased this lot in 1880 for her school. The original house on the lot burned in the 1885 fire that destroyed 40 residential blocks of Galveston's East End. In 1887, Mathilda constructed the existing Italianate building to serve as her house and school. In 1891, Mathilda reopened the school, which she operated here until 1898. She continued to live in the house until she was displaced by the Great Storm of 1900. Recorded Texas Historic Landmark - 2017]]></description>
+    <Point><coordinates>-94.785577,29.304868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Max Faget House and Workshop</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 221 W. Bayou Dr., Dickinson]]></description>
+    <Point><coordinates>-95.076021,29.443131,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Miss Galveston/Santa Maria</name>
+    <description><![CDATA[Near the entrance to the Texas Seaport Museum at Pier 22 in Galveston<br/><br/><b>Address:</b> 2200 Harborside Drive, Galveston]]></description>
+    <Point><coordinates>-94.79361,29.309042,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Austin Home</name>
+    <description><![CDATA[<b>Address:</b> 1502 Market St., Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.784752,29.307817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Ball Home</name>
+    <description><![CDATA[<b>Address:</b> Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.791794,29.295978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Open Gates</name>
+    <description><![CDATA[George and Magnolia Willis Sealy Conference Center, aka George Sealy House.<br/><br/><b>Address:</b> 2424 Broadway, Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.793512,29.299785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Produce Building</name>
+    <description><![CDATA[<b>Address:</b> 2110-2114 Strand Avenue, Galveston]]></description>
+    <Point><coordinates>-94.792318,29.307765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rollover Fish Pass</name>
+    <description><![CDATA[Bolivar Peninsula, 0.4 mi W of Gilchrist on SH 87, north side of the road on the west side of the pass. Tourist Information marker sponsored by Texas Game and Fish Commission in 1963. Marker damaged by Hurricane Ike in Sep. 2008.<br/><br/><b>Address:</b> SH 87, Gilchrist<br/><br/><b>Marker Text:</b> A strait approximately 200 feet wide, 5 feet deep and more than 1,600 feet long across Bolivar Peninsula - was opened in 1955 by the Texas Game and Fish Commission as part of its continuing program to perpetuate and improve the state's fish and wildlife resources. The commission's purposes in constructing this pass were to introduce into East Bay sufficient quantities of sea water to increase bay water salinity, and to provide additional opportunity for travel of marine fish to and from spawning and feeding areas in the bay. Lower salinity in East Bay was caused by the discharge of several fresh water streams into the area on the mainland side of the peninsula. This excessive fresh water not only limited the existence of marine fish but also restricted the growth of submerged vegetation, which provides nursery areas and forms the basis of the food cycle for marine life. Creation of Rollover Fish Pass has greatly improved salt water fishing conditions for the thousands of sportsmen who flock to East Bay throughout the year. Known as Rollover long before the Texas Game and fish Commission constructed the fish pass, this site has a history steeped in legend dating back to the days of the Spaniards and continuing through the American prohibition period. According to legend, it was first called Rollover because certain early ship captains preferring to avoid contact with the customs station at Galveston would roll barrels of imported merchandise from the gulf side of Bolivar Peninsula over to East Bay. From there the barrels were transferred to the mainland without further formality. The same rolling procedure - in reverse - also is said to have been used for selected items of export.]]></description>
+    <Point><coordinates>-94.500816,29.508367,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Leon Cemetery</name>
+    <description><![CDATA[between 21st &amp; 22nd Streets on Avenue B (Bayshore Dr./Texas Hwy 646)<br/><br/><b>Address:</b> San Leon<br/><br/><b>Marker Text:</b> The old section of this cemetery was in use at least as early as the 1890s as part of the town of North Galveston that was created in 1891 from the original 1837 Republic of Texas townsite of San Leon. Destroyed in the 1900 storm, the town was sold in 1910 to Congressman Joe Eagle, who restored the San Leon name. In 1920, Eagle deeded the old burial ground, as well as the entire block one, to San Leon for a community cemetery. Many graves and markers have been lost to early storms and erosion. Overseen by the San Leon Cemetery Committee since 1958, this site records the heritage of this area of Galveston County.Historic Texas Cemetery-2001]]></description>
+    <Point><coordinates>-94.93114,29.497246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Schreiber-Miller Warehouse</name>
+    <description><![CDATA[<b>Address:</b> 2319 Strand, Galveston<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-94.794647,29.306996,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Old Saint Mary's Infirmary</name>
+    <description><![CDATA[<b>Address:</b> 715 Market, Galveston<br/><br/><b>Marker Text:</b> First private and first Catholic hospital in Texas. Founded 1866 by three Sisters of Charity of the Incarnate World, newly arrived from Lyons, France. First (1867) hospital fought yellow fever epidemic just months after opening. Sisters later founded orphanage for victims. A larger building (1876) took in survivors of great 1900 hurricane. In 1947, the unfinished south wing sheltered victims of the tragic Texas City chemical explosions. Present hospital was built in 1965.]]></description>
+    <Point><coordinates>-94.775711,29.310088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>St. George's Episcopal Church</name>
+    <description><![CDATA[510 13th Ave. No., Texas City<br/><br/><b>Address:</b> 510 13th Ave N, Texas City<br/><br/><b>Marker Text:</b> St. George's Episcopal Church The first Episcopal worship service in Texas City took place on March 23, 1913, two years after the city incorporated and the same year the United States Army arrived as part of its coastal defense of American interests during the Mexican Revolution. The Rev. C. W. Freeland, chaplain to the 6th Cavalry stationed in Texas City at the time, presided at the Easter Day service. That summer, the Rt. Rev. George H. Kinsolving, Bishop of Texas, organized the new congregation as a mission to be known as St. George's. Worship services were held in the homes of members until the spring of 1915. In that year, St. George's purchased and moved an Army recreation building to its new property at 314 10th Avenue North. Despite the destruction of its first church building in the 1915 Hurricane, the first recorded baptisms were held in September 1915, and Bishop Kinsolving confirmed the seven members in the first confirmation class in 1917. A new frame chapel, built on property at 10th Avenue and 4th Street, was completed about 1923. In 1940, St. George's became self-supporting and moved from mission to parish status. Within the next decade, the congregation experienced World War II, the 1947 Texas City explosion and the beginnings of a booming city economy. During the 1950s, the growing congregation constructed a new church building at this site, a rectory a few blocks east, a classroom and office wing, and a parish hall. Hurricane Carla in 1961 and a disastrous fire in 1983 caused much damage to the facilities, but the members of the congregation persevered to continue their mission and a variety of ministries, including worship, education, and community outreach, into the 21st century. (2003)]]></description>
+    <Point><coordinates>-94.901404,29.397355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stewart Property</name>
+    <description><![CDATA[13 Mile Rd.<br/><br/><b>Address:</b> Galveston<br/><br/><b>Marker Text:</b> One of the earliest known sites of occupation on the west end of Galveston Island, this ridge was at one time a campsite for the nomadic Karankawa Indians. The property was purchased in 1856 by Col. Warren D. c. Hall (1788-1867), veteran of several military expeditions and the Texas revolution. The estate was named "Mottexas" under the next owner, Galveston attorney Col. Marcus F. Mott (1837-1906). His home burned in 1925 and the land was then purchased by prominent businessman George Sealy, Jr. (1880-1944), who built a home here and named the site "Isla Ranch." Association of the property with the Stewart name began in 1933 when Maco Stewart, Sr. (1871-1938), a native Galvestonian and organizer of the Stewart Title Company, acquired the site. Maco Stewart, Jr. (1896-1950) received the estate in 1940 and made several changes to the house while operating a ranch on the acreage. In 1944 Stewart deeded the land to the University of Texas, which used the property in connection with its Galveston medical branch until 1967. The Stewart property has revealed much about the island's heritage through its association with individuals and families involved in the growth and development of Galveston.]]></description>
+    <Point><coordinates>-94.950558,29.20578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Texas Revolution and Civil War, Galveston County</name>
+    <description><![CDATA[21st at Winnie St.<br/><br/><b>Address:</b> 722 Moody Avenue, Galveston<br/><br/><b>Marker Text:</b> Following Laffite's expulsion from Galveston, settlers from the West Indies began to arrive. Within a few years, Galveston became a principal port to the Republic of Texas. Galveston was declared a port of entry in 1825 by Mexico and a customs house was established. The city served as Capital of the Republic of Texas when President David G. Burnett and his Cabinet were forced to abandon the interior at the time San Houston's forces met and defeated the Mexican army at San Jacinto in 1836. Michel B. Menard purchased what is now the present site of Galveston from the Republic of Texas in 1836 for $50,000. Galveston County was created in 1838 by an act of the Texas Congress. The city of Galveston was incorporated in 1839. During the next decade, Galveston shared in the rapid growth and development of Texas. Churches were established and banks were founded. The Galveston "News" began publication and the first Federal court in Texas was established. The city was soon to become the most important cultural and commercial center in the state. In 1858, trackage of the Galveston, Houston and Henderson Railroad was completed between the Island and Houston. By July, 1861, the Federal blockade was extended to Texas. Confederate forces evacuated Galveston in October, 1862, but in 1863, with General John Bankhead Magruder in command, the Confederate forces occupied the city, capturing four vessels and some 300 Federal troops. The Confederate forces remained here until the end of the Civil War.]]></description>
+    <Point><coordinates>-95.086664,29.523195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ursuline Nuns in Galveston</name>
+    <description><![CDATA[Holy Family Catholic School campus near cemetery<br/><br/><b>Address:</b> 2601 Avenue N, Galveston<br/><br/><b>Marker Text:</b> In January 1847 seven nuns of the Ursuline Order, the first order of religious women in Texas, came to Galveston and established a convent and academy. The school opened with 25 students in February 1847, and quickly added more pupils, some of whom boarded. In addition to educating the youth of the area, the Ursuline nuns ministered to the community through numerous tribulations. During yellow fever epidemics of 1847, 1853, 1858, and 1868, the convent served as a hospital. Both Union and Confederate soldiers were treated by the nuns during the Civil War without regard for the sisters' personal safety. The convent and academy also provided shelter to the citizens of Galveston when hurricanes struck the area. During a hurricane in 1900 more than 1,000 people found shelter in the Ursuline building, the only structure standing near the Gulf area. The nuns rescued many people, at times risking their own lives. The nuns set about in purposeful activity following each trial. The Ursuline Academy continued until the 1960s when it became part of the Catholic school system. The sisters staffed the parochial schools. The number of Ursuline nuns dwindled until 1993 when the last sister left the area, signaling the end of an era. (1997)]]></description>
+    <Point><coordinates>-94.794103,29.294589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Washington Hotel</name>
+    <description><![CDATA[Tremont (23rd) and Mechanic Streets<br/><br/><b>Address:</b> Galveston<br/><br/><b>Marker Text:</b> This building is a reconstruction of a structure built in 1873 for prominent Galveston merchant John Parker Davie and named the Cosmopolitan Hotel. Davie sold the business in 1878 to John Summers, who renamed it the Washington Hotel after an earlier inn by that name which was destroyed in the Galveston fire of 1877. The J. P. Davie Wholesale Builders' Hardware store occupied the first and fourth floors of the east end of the building. The ground floor of the west end provided space for the hotel restaurant and retail shops. Hotel guest rooms filled the remaining floors of the structure. Located among a number of fashionable inns and shops in the Strand district, the Washington Hotel remained in business for one hundred years. After a number of changes in ownership, renovation of the building began in the early 1980s. A devastating fire on August 25, 1983, however, destroyed much of the historic structure. With only the east wall left intact, the building was rebuilt based on early photographic documentation and surviving architectural elements.]]></description>
+    <Point><coordinates>-94.793219,29.30565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Wedell's Corner</name>
+    <description><![CDATA[Bay St Park, Bay St at 14th Ave North<br/><br/><b>Address:</b> Texas City<br/><br/><b>Marker Text:</b> Site, childhood home of Jimmy (1900-1934) and Walter (1901-1935) Wedell -- aviation pioneers. Jimmy designed, built, raced planes. With financier Harry Williams, operated early airline. At time of death in crash, held world's land plane speed record. Walter died in a later air disaster.]]></description>
+    <Point><coordinates>-94.892563,29.398216,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

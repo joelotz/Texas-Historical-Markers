@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Brewster County — Unmapped Historical Markers</name>
+  <description>THC markers in Brewster County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>Black Gap Wildlife Management Area</name>
+    <description><![CDATA[Black Gap Wildlife Management Area, 55 mi. from Marathon, S on US 385 then SE on FM 2627 (Stillwell-Heath Rd). Tourist Information Marker #10 sponsored by Texas Game and Fish Commission.<br/><br/><b>Address:</b> 49476 FM 2627, Marathon<br/><br/><b>Marker Text:</b> Black Gap, a natural cleft in the basalt ridge northeast of the Sierra del Carmen, frames the headquarters site of the Black Gap Wildlife Management Area. Established in 1948, the "Gap" contains approximately 100,000 acres representative of the rugged Big Bend Country -- the typical arid, mountainous Southwest. Owned by the people of Texas and operated by the Game and Fish Commission, the area is the scene of research and developmental work dedicated to the conservation and restoration of wildlife species indigenous to the region. Mule deer, javelina, prong-horned antelope and scaled quail are among the principal game species managed. Work is in process to restore the bighorn sheep which, by the 1960's, were all but eliminated from Texas. Scientific land use practices, designed to increases the yield of natural foods for wildlife, have been instituted by the Commission. Water retention and utilization is accomplished by the construction of water impoundments, diversion dams and "push ups" seeded with native vegetation. Research findings, through demonstrations and educational extension programs conducted on this federal-state cooperative project, are available to the surrounding landowners and others who are interested. Game surpluses produced on the Black Gap are harvested periodically by hunters under a controlled public hunt program.]]></description>
+    <Point><coordinates>-102.952622,29.562037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>First Methodist Church</name>
+    <description><![CDATA[208 Ave D., Alpine<br/><br/><b>Address:</b> 208 Ave D, Alpine<br/><br/><b>Marker Text:</b> Built in 1889 by Alpine residents. Altar portion, original adobe church remains. Here met Methodists, Baptists, Presbyterians. Methodist congregaton organized by circuit-riding preacher, Rev. S.G. Kilgore, in 1884. Recorded Texas Historic Landmark, 1965.]]></description>
+    <Point><coordinates>-103.660246,30.359285,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hancock Building</name>
+    <description><![CDATA[<b>Address:</b> 115 N 5th St., Alpine]]></description>
+    <Point><coordinates>-103.661441,30.357765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Leoncita Springs</name>
+    <description><![CDATA[15 mi. N, east of SH 118<br/><br/><b>Address:</b> Alpine<br/><br/><b>Marker Text:</b> First known to history when Juan Dominguez de Mendoza camped here in 1684. Stage stand on the San Antonio to El Paso route through Musquiz Cañon 1857-1883. A camel train commanded by Lieut. W.H. Echols camped here in 1859. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-103.691671,30.491671,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Roman Catholic Church</name>
+    <description><![CDATA[,<br/><br/><b>Address:</b> 102 W Ave G, Alpine<br/><br/><b>Marker Text:</b> 0]]></description>
+    <Point><coordinates>-103.660371,30.354764,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

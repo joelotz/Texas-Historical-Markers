@@ -1,0 +1,50 @@
+Wood unmapped markers with NO usable address (12):
+
+  THC 11670: Corbitt Home
+    addr: 13 mi. SE off FM 2088, Winnsboro
+    https://atlas.thc.texas.gov/Details/5499011670
+
+  THC 23673: East Texas Serenaders
+    addr: Commerce St., Mineola
+    https://atlas.thc.texas.gov/Details/5000023673
+
+  THC 22400: Florence Robinson Cottage
+    addr: Private Road 7641, Hwy. 80 E, Hawkins
+    https://atlas.thc.texas.gov/Details/5000022400
+
+  THC 23964: Jack Rhodes
+    addr: Commerce St., Mineola
+    https://atlas.thc.texas.gov/Details/5000023964
+
+  THC 23916: Lloyd Common School No. 17
+    addr: FM 515, Quitman
+    https://atlas.thc.texas.gov/Details/5000023916
+
+  THC 13748: Myrtle Springs Baptist Church, BMA
+    addr: Quitman
+    https://atlas.thc.texas.gov/Details/5507013748
+
+  THC 23677: New Hope Common School District No. 33
+    addr: FM 1801, Mineola
+    https://atlas.thc.texas.gov/Details/5000023677
+
+  THC 18691: Paron Cemetery
+    addr: Hawkins
+    https://atlas.thc.texas.gov/Details/5507018691
+
+  THC 20196: Pleasant Ridge Cemetery
+    addr: SH 182, Alba
+    https://atlas.thc.texas.gov/Details/5507020196
+
+  THC 18156: Removal of Cherokees
+    addr: CR 2724 at entrance to Mineola Nature Preserve, Mineola
+    https://atlas.thc.texas.gov/Details/5507018156
+
+  THC 22420: Webster Community
+    addr: Winnsboro
+    https://atlas.thc.texas.gov/Details/5000022420
+
+  THC 23397: William Richard Phillips
+    addr: FM 2422, Mineola
+    https://atlas.thc.texas.gov/Details/5000023397
+

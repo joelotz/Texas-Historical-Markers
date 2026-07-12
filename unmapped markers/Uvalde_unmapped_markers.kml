@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Uvalde County — Unmapped Historical Markers</name>
+  <description>THC markers in Uvalde County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <Placemark>
+    <name>Home of Bertha Dalton</name>
+    <description><![CDATA[Uvalde, 543 North Getty Street.<br/><br/><b>Address:</b> 543 N Getty Street, Uvalde<br/><br/><b>Marker Text:</b> Built in 1893 by Clara Horner. Bought 1905 by James T. Dalton, a retired sea captain, whose daughter Bertha taught in the Texas schools for 56 years. At age 17 Miss Dalton began her career. She taught longest span, 1906-1954, in Uvalde, where she was high school principal 1917-1951. She also personally gave financial aid to help many students attend college. House formerly had ornate banisters and trim on porch. Recorded Texas Historic Landmark, 1968.]]></description>
+    <Point><coordinates>-99.788903,29.216014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Patterson Home</name>
+    <description><![CDATA[6 mi from Sabinal (W. L. E. Shane Family home)<br/><br/><b>Address:</b> Sabinal]]></description>
+    <Point><coordinates>-99.467512,29.317514,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Fort Inge</name>
+    <description><![CDATA[take FM 140 SE about 1.25 mi. to Fort Inge Historical Park entrance, then follow drive .2 mi.<br/><br/><b>Address:</b> Uvalde<br/><br/><b>Marker Text:</b> Established by Captain Sidney Burbank, First U. S. Infantry, March 13, 1849, on east bank of Leona River in Uvalde County. Named for Lieutenant Zebulon M. P. Inge, killed in Battle of Resaca de La Palma, May 9, 1846, in the Mexican War. Protected the southern Overland Mail route from Indian raids. Visited by Robert E. Lee, 1856. At that time fort consisted of a dozen primitive but neatly kept buildings. Occupied by Confederate soldiers in Civil War. Reoccupied 1866 by Federal troops until abandoned March 28, 1869.]]></description>
+    <Point><coordinates>-99.765389,29.179281,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Utopia</name>
+    <description><![CDATA[In Utopia:  On East Main Street (Highway 187) across from general store.<br/><br/><b>Address:</b> FM 187, Utopia<br/><br/><b>Marker Text:</b> After an 1886 Indian raid on their nearby Little Creek home, R. H. Kincheloe and family moved here, built a home and in 1873 a 2-story rock store. They platted town as "Montana", giving land for churches, school, and community square. Post office moved from Waresville in 1883. Methodists had church here before town was founded. Baptists organized their church in 1888. Church of Christ congregation relocated here, 1902. New name praising climate was chosen by Postmaster George Barker. Stores and shops were built. Town is now a center for ranching, retirement, vacationing. Marker sponsored by citizens of Utopia - 1973]]></description>
+    <Point><coordinates>-99.526841,29.616838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Utopia Baptist Church</name>
+    <description><![CDATA[<b>Address:</b> 241 E. Johnson St., Utopia<br/><br/><b>Marker Text:</b> The Utopia Missionary Baptist Church was organized before July 20, 1886. On that date the congregation petitioned the Rio Grande Baptist Association for membership. The first pastor of the Utopia Church was the Rev. Lawrence S. Cox. The nine charter members were Mrs. Margaret Bownds, Mr. and Mrs. L. D. Bownds, Mr. and Mrs. Jake Croft, Mr. and Mrs. Andrew Jackson Sowell, and Mr. and Mrs. J. B. Reynolds. Nine new members were baptized that year. The Methodist congregation shared its facilities with the small Baptist congregation until a Baptist church was erected. The Baptists purchased land from Robert Kincheloe, one of Utopia's founding citizens, in 1892 and erected a building there in 1912. By 1915 the church had 150 regularly attending members. During the 1920s the church was renamed Utopia Baptist church. The congregation held revivals under a brush arbor until a tabernacle was constructed in 1928. In addition to its programs in Utopia, the church supported a small mission in nearby Vanderpool and was instrumental in the establishment of the Alto Frio Baptist Encampment. The church was represented by volunteers during the First and Second World Wars. Member Leslie Bownds was wounded in World War I and died on the journey home. Several young men and women of the church volunteered for service in World War II; Roy D. Tampke gave his life in that conflict. A new church building was dedicated in 1952, and the church thrived in the second half of the twentieth century. At the dawn of the 21st century, Utopia Baptist Church continues in the traditions of its founders with programs of worship and service. (2000)]]></description>
+    <Point><coordinates>-99.528275,29.615186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Utopia Methodist Church</name>
+    <description><![CDATA[At end of Cypress Street off (eastward) Highway 187, Utopia<br/><br/><b>Address:</b> Cypress St., Utopia<br/><br/><b>Marker Text:</b> Established in 1866 as part of the Uvalde-Kerrville Mission; later in the Uvalde Circuit. Pecan grove behind present church was site of many pioneer camp meetings under brush arbors. The first was held in 1868 by the Rev. A. J. Potter, noted Civil War chaplain and circuit rider. This Gothic sanctuary, built in early 1890s with members doing much of the work, is on a site given by the Rev. Irving Jones and R. H. Kincheloe. Recorded Texas Historic Landmark, 1967.]]></description>
+    <Point><coordinates>-99.528996,29.618156,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

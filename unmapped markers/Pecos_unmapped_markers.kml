@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Pecos County — Unmapped Historical Markers</name>
+  <description>THC markers in Pecos County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <Placemark>
+    <name>Horsehead Crossing</name>
+    <description><![CDATA[About 11.5 miles NW of Girvin on FM 11<br/><br/><b>Address:</b> FM 11, Girvin<br/><br/><b>Marker Text:</b> (2 miles NE) Famed ford of the Pecos River, named for abundance of horse and mule skulls lining the banks in the 19th century. Many water-starved animals, stolen in Mexico by Indians and driven along the Comanche War Trail, died after drinking too deeply from the river. After the California gold strike in 1848, Horsehead Crossing became a major landmark on the trail west, as it provided the first water for about 75 miles on the route from the east. Emigrants arriving here either turned northwest along the river or crossed and continued southwest to Comanche Springs at Fort Stockton. In 1858, the crossing became an important stop on the Butterfield Overland Mail route from St. Louis to San Francisco. An adobe stage stand was built and a ferry put into operation, but both were abandoned in 1861, when mail service was terminated. In late 1862, during the Civil War, federal forces kept a close watch at the crossing in reaction to a threatened Confederate invasion. Cattle began to be trailed across the Pecos in 1864, and in 1866, Charles Goodnight and Oliver Loving blazed their famous trail, which came to this point and turned upriver. Completion of two railroads across west Texas in the early 1880s caused abandonment of the crossing. (1974)]]></description>
+    <Point><coordinates>-102.491505,31.188692,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Young's Store</name>
+    <description><![CDATA[E Callaghan St., north side between S. Water St. and S. Spring Dr. Marker reported missing 2012.<br/><br/><b>Address:</b> 207 E. Callaghan St., Ft. Stockton<br/><br/><b>Marker Text:</b> F. W. Young Store and home. Built 1876 by this former post sutler at ford over Comanche Creek. Had wagon yard, corrals in rear. Recorded Texas Historic Landmark - 1966]]></description>
+    <Point><coordinates>-102.877871,30.883552,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

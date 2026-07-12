@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Victoria County — Unmapped Historical Markers</name>
+  <description>THC markers in Victoria County without an HMDB id (isMissing excluded). 15 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <Placemark>
+    <name>A. Goldman Home</name>
+    <description><![CDATA[<b>Address:</b> 107 S. Liberty, Victoria]]></description>
+    <Point><coordinates>-97.005196,28.798711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Abel Seymour Cunningham</name>
+    <description><![CDATA[Evergreen Cemetery, Red River &amp; N. Vine Sts. (Section 1, Lot 42-47)<br/><br/><b>Address:</b> Victoria<br/><br/><b>Marker Text:</b> Soldier in the Texas War for Independence Soldier, Ranger and Congressman Republic of Texas. Erected by the State of Texas, 1962.]]></description>
+    <Point><coordinates>-97.009555,28.811463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Band Stand</name>
+    <description><![CDATA[Constitution Square, Main &amp; Constitution Sts., Victoria<br/><br/><b>Address:</b> Main &amp; Constitution Sts., in Memorial Plaza, Victoria<br/><br/><b>Marker Text:</b> Originally built before 1885, on Constitution Street side of the public square, for public gatherings and concerts. Moved to center of public square and placed upon foundation of the old standpipe in 1923. Completely restored in 1962 by Mr. and Mrs. J.M. Pickering. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-97.006672,28.799329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Beck Ranch Headquarters</name>
+    <description><![CDATA[<b>Address:</b> 412 Magruder Dr., Victoria<br/><br/><b>Marker Text:</b> German native Charles (Carl) August Beck (1810-1885) purchased forty acres at this site in 1862. Ten years later he built this Greek Revival home as a wedding gift for his son Charles Theodore Beck (b. 1846). This house served as the headquarters for their cattle ranch which eventually grew to about 25,000 acres. In 1923 it became the center of Arthur Yariger's dairy business and has remained in the Yariger Family since that date. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-97.003172,28.842748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Billy Kyle Ranch House</name>
+    <description><![CDATA[From Nursery, take US 87 NW about 1/4 mile, go west at first cattleguard.  Follow private road west about 1/4 mile (Private).<br/><br/><b>Address:</b> 0.25 mi. NW on US 87; 0.25 mi. W on private ranch road, Nursery<br/><br/><b>Marker Text:</b> Texas Colonial ranch home. Built 1872 by W.H. "Uncle Billy" Kyle (1836-1907), trail driver, cattleman, Civil War veteran. Recorded Texas Historic Landmark - 1965]]></description>
+    <Point><coordinates>-97.10806,28.926477,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>C. T. Beck Ranch</name>
+    <description><![CDATA[Salem Rd., 2.9 mi. NE of Loop 463 (Zac Lentz Pkwy). Marker reported missing Dec. 2021.<br/><br/><b>Address:</b> 3907 Salem Road, Victoria<br/><br/><b>Marker Text:</b> Born in 1846, Charles Theodore (C. T.) Beck migrated with his parents from their native Germany to the United States in 1851. The family landed at Indianola and made their way to Victoria. Though he was too young to serve in the Confederate Army during the Civil War, C. T. Beck worked for the cause. After the war he became a cattle driver. His father, Charles (Carl) August Beck (1810-1885) purchased 40 acres near this site for a family homestead in 1862. C. T. Beck married Johanna Lentz in 1872, and in 1893 the Becks purchased this additional acreage from George W. Norton. The main barn was erected between 1905 and 1906; the ranch house was crafted by Johanna Lentz Beck's brothers in 1907. A fever tick outbreak in the early 1920s prompted C. T. Beck to build a cattle dipping vat. Neighbors from miles away brought their cattle to the ranch's vats to fight the epidemic. C. T. Beck died in 1923 and ownership of the ranch passed to Willie T. Beck, the oldest of his and Johanna's seven children. Modernization came with the second half of the 20th century. After World War II, a small tractor and truck replaced the work animals. Electricity was furnished by the National Rural Electrification Administration in 1946. The first telephone was installed in the ranch house in 1952 and surrounding roads were paved in 1962. Though a significant portion of the original 20,000 acres was developed with the growth of the greater Victoria area, much of the ranch property continued to be held by the family at the end of the 20th century. (1999)]]></description>
+    <Point><coordinates>-96.965207,28.874038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Memorial Square Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 402 North DeLeon, Victoria]]></description>
+    <Point><coordinates>-97.001466,28.801038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nursery Cemetery</name>
+    <description><![CDATA[842 Nursery Road<br/><br/><b>Address:</b> 842 Nursery Road, Nursery<br/><br/><b>Marker Text:</b> Established October 26, 1899 Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-97.097221,28.927759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Grist Mill</name>
+    <description><![CDATA[299 Mill Lane, Inez. Moved in 2011 from Memorial Square, 402 N. De Leon Street, Victoria.<br/><br/><b>Address:</b> 299 Mill Lane, Inez<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
+    <Point><coordinates>-96.788906,28.849703,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Marker</name>
+    <description><![CDATA[Memorial Square, 400 block of E. Commercial<br/><br/><b>Address:</b> 400 East Commercial Street, Victoria<br/><br/><b>Marker Text:</b> To the memory of Texas soldiers and Victoria pioneer families who still lie buried in this sacred soil. A tribute from Colonel James W. Fannin Chapter of the Daughters of the Republic of Texas 1947.]]></description>
+    <Point><coordinates>-97.001861,28.800806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Salem</name>
+    <description><![CDATA[NW of Inez, FM 444 between Salem Rd. and Furhman Rd.<br/><br/><b>Address:</b> FM 444, Inez<br/><br/><b>Marker Text:</b> The community of Salem (“Peace” in Hebrew) developed in northeast Victoria county in the early 20th century. In 1910, Higginson Colonization Company mapped out acreage in this area to be developed as a townsite, orchards and farms. The company was organized by David Gehman (D.G.) Musselman and others, with Musselman working as colonization agent. He owned tracts of land which would become the heart of the Salem community. Many settlers came to Salem from other states, including Ohio, Kansas, Indiana and Pennsylvania. Settlers purchased small tracts of land in the community, also known as “Colony” and “Colony of Brotherly Love.” In 1911, a post office opened; soon, the town also had stores, a two-room schoolhouse and a multi-denominational church named Brethren in Christ. By 1915, dozens of settlers lived in Salem, with more residing nearby. Most early residents were farmers. By the 1930s, ranching also became a common activity. An early civic leader was D.G. Musselman’s wife, Rose (Lambert), who worked as a Mennonite missionary in Armenian Turkey before returning to the United States. She worked for a time as Salem’s postmaster, and operated a general store and filling station out of the couple’s homestead. Another important local figure was the Reverend T.A. Long, who pastored Salem’s church. The community declined in the late 1930s. Since agricultural yields were inconsistent, the small farm and orchard tracts in the community lost their appeal. However, today Salem continues to be remembered as a historic rural community and an early attempt at development in northeastern Victoria County. (2008)]]></description>
+    <Point><coordinates>-96.907956,28.984789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sengele Home</name>
+    <description><![CDATA[<b>Address:</b> 210 E. Forest St., Victoria]]></description>
+    <Point><coordinates>-97.004511,28.799694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Shillerville Cemetery</name>
+    <description><![CDATA[From Victoria, take US 59 east about 4 mi to FM 1680. Go south/SE then SW on FM 1686 about 10.2 mi. Take CR West/ N about 1 mi to Cem.<br/><br/><b>Address:</b> 4 mi. E on US 59; 10.2 mi. S/SE then SW on FM 1680; 1 mi. W/N on CR, Victoria<br/><br/><b>Marker Text:</b> The community of Shillerville began when several Czechosovakian families came to this area in 1894. Among the first settlers was Jan Shiller, for whom the farm community was named. The first burial, that of Rosalie Balcar Jirasek, took place in 1897 on land given by Josef Lesikar and wife, Terezie Marek Lesikar. The graveyard was originally known as the Lesikar or Bohemian Burial ground. Additional land was donated in 1954 which increased the size of the cemetery to one acre. Some of the early grave markers are inscribed in Czech. (1986)]]></description>
+    <Point><coordinates>-96.849974,28.772472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Victoria Advocate</name>
+    <description><![CDATA[<b>Address:</b> 311 E. Constitution St., Victoria<br/><br/><b>Marker Text:</b> Second oldest existing newspaper in Texas. Established May 8, 1846 by Thomas Sterne --- John D. Logan. Among its editors have been John Henry Brown, Rev. H.S. Thrall, Victor R. Rose, Leopold Morris, historians. Gen. William R. Scurry, Gen. A.P. Bagby of military fame. George H French Publisher since 1901. Erected by the State of Texas 1936]]></description>
+    <Point><coordinates>-97.003919,28.798383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] William A. Wood Memorial School</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 101 Wood Hi School Rd., Inez]]></description>
+    <Point><coordinates>-96.817981,28.803901,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

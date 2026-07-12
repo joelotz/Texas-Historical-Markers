@@ -1,0 +1,6 @@
+Willacy unmapped markers with NO usable address (1):
+
+  THC 12297: Old Alice Road
+    addr: La Jarita
+    https://atlas.thc.texas.gov/Details/5489012297
+

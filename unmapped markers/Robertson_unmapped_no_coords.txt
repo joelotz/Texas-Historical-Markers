@@ -1,0 +1,34 @@
+Robertson unmapped markers with NO usable address (8):
+
+  THC 12691: Big Brazos Bridge
+    addr: On HW 50 in Mumford, Mumford
+    https://atlas.thc.texas.gov/Details/5395012691
+
+  THC 10919: Ebenezer Hearne Cemetery
+    addr: Hearne
+    https://atlas.thc.texas.gov/Details/5395010919
+
+  THC 15890: Ebenezer Hearne Cemetery
+    addr: Hearne
+    https://atlas.thc.texas.gov/Details/5507015890
+
+  THC 10949: Isaac Phillip Stem
+    addr: Bald Prairie
+    https://atlas.thc.texas.gov/Details/5395010949
+
+  THC 10941: Sheriff Bob Reeves
+    addr: Franklin
+    https://atlas.thc.texas.gov/Details/5395010941
+
+  THC 23872: Shiloh Cemetery
+    addr: 10057 Shiloh Cemetery Road, Franklin
+    https://atlas.thc.texas.gov/Details/5000023872
+
+  THC 10920: Site of Elmo Baptist Church
+    addr: Calvert
+    https://atlas.thc.texas.gov/Details/5395010920
+
+  THC 16404: Wilson Chapel Cemetery
+    addr: At the end (3miles from Hwy 6) of Sadberry Road located 9 miles south of Hearne, Hearne
+    https://atlas.thc.texas.gov/Details/5507016404
+

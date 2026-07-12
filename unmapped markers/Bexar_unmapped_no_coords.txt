@@ -1,0 +1,50 @@
+Bexar unmapped markers with NO usable address (12):
+
+  THC 18835: 9th Cavalry at San Pedro Springs
+    addr: West Myrtle at N. Flores, San Antonio
+    https://atlas.thc.texas.gov/Details/5507018835
+
+  THC 13334: Bowie and Fannin, Site of Camp
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013334
+
+  THC 14403: Confederate Cemetery
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507014403
+
+  THC 16676: Council House Fight
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507016676
+
+  THC 13345: Father of Mexican Independence
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013345
+
+  THC 13359: Groos National Bank
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013359
+
+  THC 18579: Polish Quarter
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507018579
+
+  THC 11750: San Antonio River Walk (Paseo Del Rio)
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5029011750
+
+  THC 13353: Site of First Portland Cement Plant
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013353
+
+  THC 18838: St. Michael's Roman Catholic Church
+    addr: 424 South Street, San Antonio
+    https://atlas.thc.texas.gov/Details/5507018838
+
+  THC 16016: Vogel Cemetery
+    addr: 9590 Lower Smithson Valley Road, Bulverde
+    https://atlas.thc.texas.gov/Details/5507016016
+
+  THC 18578: Westside Black Enclaves
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507018578
+

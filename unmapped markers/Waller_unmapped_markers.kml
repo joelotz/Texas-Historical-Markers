@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Waller County — Unmapped Historical Markers</name>
+  <description>THC markers in Waller County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <Placemark>
+    <name>Brookshire Family Cemetery</name>
+    <description><![CDATA[1 mi. S of IH-10 to 1809 FM 359 S, then E on private road, via left fork<br/><br/><b>Address:</b> Brookshire<br/><br/><b>Marker Text:</b> Brookshire Family Cemetery Established c. 1850 Historic Texas Cemetery - 2004]]></description>
+    <Point><coordinates>-95.942628,29.763527,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Heinrich Konrad Karl Leverkuhn</name>
+    <description><![CDATA[Leverkuhn Family Cemetery, Hegar community, between Hegar and Macedonia School roads, north of Magnolia Road<br/><br/><b>Address:</b> Hegar Road, Waller<br/><br/><b>Marker Text:</b> (July 22, 1842 -- November 11, 1915) German-born Heinrich Leverkuhn cane to Texas in 1857 and was a foragemaster for the Confederate army during the Civil War. He ran a store in Hockley after the war. In 1878 he became a farmer-rancher in "Foresouth Prairie", now Macedonia Community. He had a cotton gin, syrup mill, and blacksmith shop. Leverkuhn helped found Macedonia Methodist Church and McPherson School. He married Selma Kuhn (d. 1876) and Martha Rebecca Davis (1855-1906) and had fourteen children. Recorded - 1979]]></description>
+    <Point><coordinates>-95.833719,30.118139,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prairie View A&amp;M University</name>
+    <description><![CDATA[University campus, 1 mile north of US 290 on FM 1098<br/><br/><b>Address:</b> FM 1098, Prairie View<br/><br/><b>Marker Text:</b> Authorized by the Texas legislature in 1876, the "Agricultural and Mechanical College for Colored Youth" was Texas' second state-supported institution of higher learning. As a land grant college, it occupied a 1434-acre former slave plantation. Organized by the Texas A&amp;M Board of Directors, Prairie View has remained a part of the Texas A&amp;M system. The first eight students enrolled on March 11, 1878, but low enrollment caused the school to close. The following year the "Prairie View Normal Institute" was organized with emphasis on preparing teachers in trade and agricultural subjects. A coeducational college, Prairie View's enrollment of 16 soon reached 60. In ten years, industrial training was added to the curriculum. Intercollegiate athletics began in 1904. By 1931 the campus boasted 31 main buildings and 50 cottages. In 1934 the Southern Association of Schools granted a class "A" rating. In 1947 the institution became "Prairie View Agricultural and Mechanical College". Integrated during the 1960s, the name changed to "Prairie View A&amp;M University" in 1973. The University's motto is "Prairie View produces productive people".]]></description>
+    <Point><coordinates>-95.98839,30.087681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>[PENDING] Prairie View Farms Project</name>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 44500 US HWY Business 290, Prairie View]]></description>
+    <Point><coordinates>-95.986948,30.07122,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
