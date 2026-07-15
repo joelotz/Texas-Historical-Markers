@@ -9,11 +9,12 @@ County-scoped tooling for THC historical markers that have not yet been
 entered into hmdb.org. "Unmapped" means `ref:hmdb` is empty.
 
 Two modes, both filter on the same row population and write to the
-`unmapped markers/` directory (gitignored):
+`unmapped markers/` directory (tracked in git):
 
-| Mode  | Script              | Output                                             |
-|-------|---------------------|----------------------------------------------------|
-| Build | `build_kml.py`      | KML for import into mymaps.google.com              |
+| Mode  | Script                   | Output                                             |
+|-------|--------------------------|----------------------------------------------------|
+| Build (one county) | `build_kml.py`      | KML for import into mymaps.google.com              |
+| Build (all, incremental) | `build_all_counties.py` | Rebuilds only changed counties; prunes emptied ones |
 | Audit | `audit_coords.py`   | CSV review of rows whose stored coord disagrees with the geocoded address |
 
 ## When to run this skill
@@ -49,6 +50,37 @@ Options:
 - `--atlas <path>` — default `atlas_db.csv`
 - `--out-dir <path>` — default `unmapped markers`
 - `--no-write-coords` — do not persist geocoded coords to atlas_db.csv
+
+### Build mode — every county, incrementally
+
+To (re)build KMLs for **all** counties, use `build_all_counties.py`. It
+wraps `build_kml.py` and only rebuilds counties whose KML-eligible rows
+changed since the last run (per-county content hash in a state file), so
+routine refreshes take seconds instead of a minute-plus. Nominatim is
+**disabled by default** (the workflow pre-geocodes via the Census batch);
+pass `--geocode` to re-enable it.
+
+```bash
+# incremental: rebuild only changed counties, prune emptied ones
+python3 .agents/skills/unmapped-markers-kml/scripts/build_all_counties.py
+
+# force a full rebuild of every county
+python3 .agents/skills/unmapped-markers-kml/scripts/build_all_counties.py --all
+```
+
+Options:
+- `--all` / `--force` — rebuild every county, ignoring change detection
+- `--county <name>` — limit to specific counties (repeatable); skips state write
+- `--geocode` — enable Nominatim geocoding (default off)
+- `--no-prune` — keep KMLs for counties that now have zero eligible rows
+- `--atlas <path>` — default `atlas_db.csv`
+- `--out-dir <path>` — default `unmapped markers`
+- `--state <path>` — default `<repo>/scripts/tmp/kml_build_state.json` (gitignored)
+
+Behavior: new/changed counties are rebuilt; unchanged counties are
+skipped; counties that drop to zero eligible rows have their stale KML +
+`_no_coords.txt` sidecar pruned. On the first run (no state file) every
+county is built and the state is seeded.
 
 ### Audit mode — flag rows where address disagrees with stored coord
 
