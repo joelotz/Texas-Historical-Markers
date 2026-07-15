@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Jacinto County — Unmapped Historical Markers</name>
-  <description>THC markers in San Jacinto County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in San Jacinto County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
   <Placemark>
     <name>George Tyler Wood</name>
     <description><![CDATA[Robinson Cemetery, SW of Robinson Way, 0.3 mi. SE of Gov. Wood Dr. Granite obelisk at gravesite. Map dot approximate. See also historical markers for Governor Wood in San Jacinto County from 1936 (5507016088), 1970 (5407007674) and 1976 (5407007675).<br/><br/><b>Address:</b> Robinson Way, Point Blank<br/><br/><b>Marker Text:</b> Born March 12, 1795, at Cuthbert, Randolph County Georgia. Died September 3, 1858. Was a member of the Congress of the Republic of Texas in 1841-2, and was Governor of the State of Texas in 1847-9. Here sleeps a just man.]]></description>
@@ -32,11 +32,6 @@
     <name>Pine Valley Cemetery and Missionary Baptist Church</name>
     <description><![CDATA[16 mi. west of Coldspring off FM 2693 via SH 150<br/><br/><b>Address:</b> Coldspring<br/><br/><b>Marker Text:</b> The organizational meeting for this church was held about 1868 in the smokehouse of David Pursley. The earliest sanctuary was a log building constructed by the members, and the Rev. Lewin Adams (1822-1899), who is buried here, served as the first pastor. The community burial ground also served the pioneer settlers of the area. The earliest marked grave is that of Susan Henley Irby (1825-1878) who died here while on a visit from Mississippi. An early member of the Tryon Baptist Association, the church celebrates homecoming here each May.]]></description>
     <Point><coordinates>-95.323848,30.592062,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Big Thicket, C. S. A.</name>
-    <description><![CDATA[2 mi. SE of Coldspring on SH 150 in picnic area. Marker reported missing July 2015.<br/><br/><b>Address:</b> Coldspring<br/><br/><b>Marker Text:</b> In early Texas, a paradise for settlers liking solitude. During the Civil War, became notorious as hunt of army deserters or men avoiding conscript officers and living off the country. The thicket was so hard to penetrate that it was the despair of commanding officers. Soldiers who remained loyal were somewhat demoralized by seeing that men camping in the Big Thicket were safe from punishment for desertion. On at least two occasions, however, the men were discovered, once a fire was set in a circle around them, and smoked them out. A later camp was located by a veteran hunter whose pack of bear dogs brought out the deserters. Before they were hunted out, the deserters found thicket life good. They feasted on game and wild honey. Their wives, living nearby, would visit the men occasionally. Except when conscript officers were in the locality, the wives would visit caches established by the men and remove meat, hides or honey to be marketed for the support of the family. These people felt justified in deserting. Many were foreign-born and had sworn allegiance to the U. S. only 5 to 10 years earlier. Confused by the onset of war, they had fled from their homes.]]></description>
-    <Point><coordinates>-95.123669,30.579563,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

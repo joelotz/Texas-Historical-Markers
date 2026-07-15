@@ -86,12 +86,12 @@
   <Placemark>
     <name>Salyer Cemetery at Strickland Grove</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1654 CR 234, Georgetown<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.663076,30.752310,0</coordinates></Point>
+    <Point><coordinates>-97.663076,30.75231,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Taylor City Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1101 E. 4th St, Taylor<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.421250,30.569642,0</coordinates></Point>
+    <Point><coordinates>-97.42125,30.569642,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Taylor-Cooper House</name>

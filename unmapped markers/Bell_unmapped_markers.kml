@@ -2,12 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Bell County — Unmapped Historical Markers</name>
-  <description>THC markers in Bell County without an HMDB id (isMissing excluded). 61 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
-  <Placemark>
-    <name>Althea School</name>
-    <description><![CDATA[From Bartlett, 3.9 mi. E on FM 487 E, 1 mi. S on Aubrey-Messer Road, 2.8 mi E on Alligator Road, 0.3 mi on Althea Loop. Reported missing Sep. 2007. Map dot approximate.<br/><br/><b>Address:</b> Althea Loop, Bartlett<br/><br/><b>Marker Text:</b> Thompson F. Fowler and his family were among the earliest permanent settlers of this area. A rural community which built up around the family-owned cotton gin became known as Fowler's Gin. A community school, established about 1894, was consolidated with the nearby Alligator School in 1897 to form Fowler Common County Line School District No. 111. In 1900, the community was granted a United States Post Office under the name Althea. Although the post office closed four years later, the school was re-named Althea School in 1908. A new schoolhouse built in 1910 was destroyed by fire in 1916. Althea was consolidated with other area schools in 1917 to form the New Hope School District. Althea withdrew from the consolidation in 1926, however, and remained an independent school until its final closing in 1942. The Althea School building was sold in 1945, and the school was officially annexed to the Bartlett School System in 1948. Although sporadic in its periods of operation, Althea School provided educational opportunities to generations of rural schoolchildren. (1991)]]></description>
-    <Point><coordinates>-97.321197,30.766473,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Bell County without an HMDB id (isMissing excluded). 56 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
   <Placemark>
     <name>Berry-Vickrey House</name>
     <description><![CDATA[Horsefeathers (2007)<br/><br/><b>Address:</b> 680 N. Main St., Salado<br/><br/><b>Marker Text:</b> Recorded Texas Historic Landmark - 1962 (medallion only)]]></description>
@@ -32,11 +27,6 @@
     <name>C. L. Walker Home</name>
     <description><![CDATA[<b>Address:</b> 1206 N. Third St., Temple<br/><br/><b>Marker Text:</b> Will Campbell, who constructed many early homes in Temple, built this residence in 1912 for C.L. Walker (1881-1940) and his wife Daisy (1884-1969). Since 1945 it has been owned by their son C.L. ("Chick") Walker, Jr., and his wife Iladene, who raised their three children here. The elder Walker served as mayor of Temple from 1922 to 1924 and his son was mayor from 1950 to 1952. Both were also City Commissioners and both operated a cotton oil mill. Recorded Texas Historic Landmark - 1978]]></description>
     <Point><coordinates>-97.338761,31.109417,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>City of Rogers</name>
-    <description><![CDATA[SE corner Elm and Mesquite streets. Marker reported missing Jan. 2010.<br/><br/><b>Address:</b> 119 Mesquite Ave., Rogers<br/><br/><b>Marker Text:</b> Cotton boom town in 19th century. Founded 1881; named for John D. Rogers, Santa Fe Railroad official. By 1884 had post office, stores; at peak had schools, churches, doctors, newspaper, 3 banks, 6 gins, many businesses. From here came four Bell County sheriffs, including first one, William Reed. (1971)]]></description>
-    <Point><coordinates>-97.225755,30.930649,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Cornelius Carl "C.C." Sampson</name>
@@ -82,11 +72,6 @@
     <name>Fellrath Building</name>
     <description><![CDATA[SE corner of N. East St. and E. 1st Ave.<br/><br/><b>Address:</b> 126 N. East St, Belton<br/><br/><b>Marker Text:</b> Built for J.M. Spencer between 1881 and 1891, this building served in its early years as part of the Smith &amp; Peyton Hardware and Buggy Shop and as the Everett Grain Company. In 1914 John Fellrath opened a tin and plumbing shop here and continued as owner of the building until his death in 1961. The Commercial Italianate structure is constructed of native brick and features round arched doors and a corbeled brick cornice at the roofline. Recorded Texas Historic Landmark - 1984]]></description>
     <Point><coordinates>-97.462944,31.056546,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Ferguson Home</name>
-    <description><![CDATA[MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 518 N. 7th St., Temple<br/><br/><b>Marker Text:</b> Built 1907 for James E. and Miriam A. Ferguson, each later elected twice to governor's office in Texas. Mrs. Ferguson was the first woman elected Governor in any state. During their terms the Texas Highway Department and public schools achieved great importance. This was family home until Jim Ferguson became Governor in 1915, and again from 1917 to 1925, when Mrs. Ferguson was first inaugurated. Recorded Texas Historic Landmark - 1967]]></description>
-    <Point><coordinates>-97.343246,31.103255,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Christian Church of Temple</name>
@@ -199,11 +184,6 @@
     <Point><coordinates>-97.327602,30.908095,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Missouri, Kansas &amp; Texas (Katy) Railroad Bridge</name>
-    <description><![CDATA[Northwest corner of Hubbard Lane and FM 93. The railroad bridge is located about 0.4 miles northeast of this site, crossing the Leon River. Marker reported missing May 2017.<br/><br/><b>Address:</b> 609 Hubbard Lane, Belton<br/><br/><b>Marker Text:</b> Railroads greatly impacted the development of Texas by allowing year-round transport and delivery of goods. The Gulf, Colorado &amp; Santa Fe Railroad bypassed Belton in 1881, and residents arranged for the rail line to build a spur into the city. In 1882, the Missouri, Kansas &amp; Texas (Katy) Railroad came to Belton and established a bridge across the Leon River, making Belton a shipping center for area cotton growers. Circa 1900, the Katy Railroad built this bridge to replace earlier trestles. The riveted steel Parker truss structure, visible from Taylors Valley Road, is an example of early 20th century engineering and is a reminder of the importance of rail service to the development of Belton. (2004)]]></description>
-    <Point><coordinates>-97.435574,31.049225,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>[PENDING] MKT Passenger Depot</name>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 620 Central Ave., Temple]]></description>
     <Point><coordinates>-97.334374,31.094856,0</coordinates></Point>
@@ -267,11 +247,6 @@
     <name>Steakley Home</name>
     <description><![CDATA[2207 Marland Wood Road, Temple.<br/><br/><b>Address:</b> 2207 Marland Wood Rd., Temple<br/><br/><b>Marker Text:</b> The F. L. Wright Home was built on old stagecoach road in 1874, seven years before Temple was founded. It is still on original boid d'arc stumps foundation. Has original chimneys, and roof line. The builder was 1867 settler from Alabama, Confederate veteran F. L. Wright. Recorded Texas Historic Landmark, 1964]]></description>
     <Point><coordinates>-97.379801,31.067936,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Summers' Mill</name>
-    <description><![CDATA[5 miles east of Belton on FM 1123 @ Salado Creek; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> FM 1123, Belton vicinity<br/><br/><b>Marker Text:</b> Summers' Mill,1866. Parts came by ox-team from Houston. Ground corn for bread. Formed center for settlement. Recorded Texas Historic Landmark, 1965.]]></description>
-    <Point><coordinates>-97.434626,30.971739,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Temple Civic Theatre</name>

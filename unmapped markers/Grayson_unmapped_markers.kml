@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Grayson County — Unmapped Historical Markers</name>
-  <description>THC markers in Grayson County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <description>THC markers in Grayson County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
   <Placemark>
     <name>Aaron S. Mangum</name>
     <description><![CDATA[West Hill Cemetery, 900 W. Lamar St.<br/><br/><b>Address:</b> Sherman<br/><br/><b>Marker Text:</b> (September 3, 1812 - August 10, 1884) South Carolinian Aaron Mangum came to Texas with a Georgia battalion in 1835 and served under Colonel James Fannin at Goliad. Mangum took ill during an expeditionary mission and fatefully avoided death at the Goliad Massacre. He married Leonora Snively in 1836 and together they lived in Mississippi and Georgia before moving here to Grayson County about 1869. After his death the town of Mangum, Oklahoma, was named in his honor.]]></description>
@@ -12,11 +12,6 @@
     <name>Allison Cemetery</name>
     <description><![CDATA[9 mi. north of Whitesboron on US 377, then 1 mi. west on Allison Rd. to Rich Rd.<br/><br/><b>Address:</b> Whitesboro<br/><br/><b>Marker Text:</b> Believed to date from the mid-1800s, Allison Cemetery occupies three acres of land. The oldest dated marker is that of a 53-year-old man who was buried in 1865, though some headstones have been moved or were destroyed over time, and older graves may be noted only by roughly shaped rocks. Most of those interred on this site are descendants of H. Dennis, Sr., and other area families. Notable graves include a family of influenza victims believed to have been buried in 1858 and several war veterans. Managed and maintained by descendants, the cemetery is still in use. (1997)]]></description>
     <Point><coordinates>-90.890602,33.787531,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Barron-Veazey House</name>
-    <description><![CDATA[marker reported missing 11/2019, in process of getting a replacement March 2020<br/><br/><b>Address:</b> 173 E. Umphress St., Van Alstyne<br/><br/><b>Marker Text:</b> Influenced by the Prairie School of architecture in its form and its large, overhanging eaves, this home was built in 1905 for the family of Walter and Pearl Barron. A local merchant and banker, Barron sold the house in 1920 to hardware merchant R. Lee Veazey, in whose family it remained until 1965. Classical details such as the wraparound porch, fluted Corinthian columns, and Sullivanesque frieze along the roofline are also significant. Recorded Texas Historic Landmark - 1990]]></description>
-    <Point><coordinates>-96.574681,33.414782,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Bennett-Richardson House</name>

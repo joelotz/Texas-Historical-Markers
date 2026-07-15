@@ -11,7 +11,7 @@
   <Placemark>
     <name>Franciscan Friars in Hebbronville</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 504 E. Santa Clara, Hebbronville<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-98.673542,27.308440,0</coordinates></Point>
+    <Point><coordinates>-98.673542,27.30844,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Lino Ramirez Family Cemetery</name>

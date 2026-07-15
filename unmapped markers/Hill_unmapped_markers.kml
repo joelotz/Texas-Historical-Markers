@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hill County — Unmapped Historical Markers</name>
-  <description>THC markers in Hill County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 13 omitted (no usable address).</description>
+  <description>THC markers in Hill County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 13 omitted (no usable address).</description>
   <Placemark>
     <name>Abbott Cemetery</name>
     <description><![CDATA[1 mile north of Abbott on HCR 3106, .4 mi. N of FM 1242<br/><br/><b>Address:</b> Abbott]]></description>
@@ -69,11 +69,6 @@
     <Point><coordinates>-97.178293,32.075787,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>McDaniel Family Home</name>
-    <description><![CDATA[Maple and North 3rd west, Hubbard. Marker reported missing Oct. 2008.<br/><br/><b>Address:</b> Maple and North 3rd west, Hubbard<br/><br/><b>Marker Text:</b> Late Victorian architecture. One of earliest fine houses in Hubbard, founded when the Cotton Belt railroad extended its line from Tyler to Waco in 1881. Structure is of walnut and pine. Ornamentation includes array of banisters on porches and stairs. Decorative columns and gables, tinted window glass. Built 1882 by Joe B. McDaniel, local merchant and banker, for his widowed mother, Elizabeth Bonner (Mrs. William M.) McDaniel. Recorded Texas Historic Landmark - 1969]]></description>
-    <Point><coordinates>-96.799465,31.845454,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Peabody School</name>
     <description><![CDATA[210 Francis St.<br/><br/><b>Address:</b> 210 Francis St., Hillsboro<br/><br/><b>Marker Text:</b> In 1885, a bond was issued for the construction of an African American School, which was built soon afterwards. The school, named for George Peabody, a banker who distributed funds to the southern states following the Civil War, educated students in the African-American neighborhood in Hillsboro known as Freetown. A brick building replaced the orginal frame structure in 1919, and was used until the school moved to here in 1950. Peabody School's last grraduating class was in 1966, with primary level classes held on the campus for several more years until full integration occurred. Although the buiding burned down in 2005, Peabody School remains a source of pride for Hillsboro residents. (2008)]]></description>
     <Point><coordinates>-97.126493,32.001871,0</coordinates></Point>
@@ -97,11 +92,6 @@
     <name>Scott's Chapel Cemetery</name>
     <description><![CDATA[2 mi S on I-35, 12 mi SW on FM 1304<br/><br/><b>Address:</b> 2 mi S on I-35, 12 mi SW on FM 1304, Hillsboro<br/><br/><b>Marker Text:</b> This cemetery served the former community of Scott's Chapel, named for the Scott family, who came here in 1852. James Williams Scott, a signer of the Goliad Declaration of Independence, migrated from Alabama in 1831 with wife Martha "Patsey" Bruce and family before eventually settling this area. Their son Palestine Gilliad Scott donated land for a school and church, while another son, John Coleman Burris Scott, gave property for cemetery use in 1860. The earliest burial, for Fannie E. Griffin, dates to 1859. Another notable burial is of Samuel McFall, a survivor of the Black Bean Episode of the 1842-43 Mier Expedition. The burial ground contains obelisks, Woodmen of the World markers, false crypts and interior fencing. Historic Texas Cemetery – 2003]]></description>
     <Point><coordinates>-97.326197,22.81177,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Site of Early Cattle Trail</name>
-    <description><![CDATA[Near intersection of SH 174 and Owl Hollow Rd. Marker reported missing July 2013.<br/><br/><b>Address:</b> SH 174, Blum<br/><br/><b>Marker Text:</b> Often called Chisholm Trail, since it connected with that famous route lying to the north. At Kimball Crossing (1.3 mi. SW) this trail entered Hill County. Drovers rested and reshod horses at Towash and Fort Graham, and then forded the Nolan River into Johnson County. (1967)]]></description>
-    <Point><coordinates>-97.482424,32.128631,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Town of Aquilla</name>

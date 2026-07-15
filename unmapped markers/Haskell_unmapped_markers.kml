@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Haskell County — Unmapped Historical Markers</name>
-  <description>THC markers in Haskell County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <description>THC markers in Haskell County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
   <Placemark>
     <name>1898 Texas Cowboys' Reunion</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> US 277 &amp; South 2nd St, Haskell<br/><br/><b>Marker Text:</b> marker pending]]></description>
@@ -12,11 +12,6 @@
     <name>First Baptist Church of Rochester</name>
     <description><![CDATA[<b>Address:</b> 506 Main St., Rochester<br/><br/><b>Marker Text:</b> Thirteen charter members organized the Mesquite Baptist Church in March 1899 in the community later known as Marcy. J. R. Wood and J. M. Speck were the first deacons, and interim pastor D. James was called as first minister in October 1900. Plans for a permanent home for the congregation were set in motion in June 1901. The first service in the new building was held in April 1903 when the church name was changed to Marcy Missionary Baptist Church. When the railroad came through Rochester in 1906, the Marcy congregation moved to be near it. The first service at Rochester was held in October 1906. The congregation thrived at its new location. A third sanctuary was dedicated in 1957. The church continues to serve the community with a variety of programs. (1998)]]></description>
     <Point><coordinates>-99.855957,33.313319,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>J. U. Fields Home</name>
-    <description><![CDATA[Northwest corner of N. 4th St. and N. Avenue E. Medallion reported missing Mar. 2019.<br/><br/><b>Address:</b> 401 N. Avenue E, Haskell<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-99.733883,33.161017,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Railroad Depot</name>

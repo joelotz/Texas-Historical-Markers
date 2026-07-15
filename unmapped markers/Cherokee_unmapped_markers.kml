@@ -2,12 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Cherokee County — Unmapped Historical Markers</name>
-  <description>THC markers in Cherokee County without an HMDB id (isMissing excluded). 52 with THC coords; 0 geocoded from address; 27 omitted (no usable address).</description>
-  <Placemark>
-    <name>Ben Cannon Ferry</name>
-    <description><![CDATA[6 miles west on US 84 right-of-way at Neches River. Marker reported missing Aug. 2016.<br/><br/><b>Address:</b> Maydelle<br/><br/><b>Marker Text:</b> Native American and early Anglo settlers in this region forded the Neches River at this site, called Duty Crossing for early settler Richard Duty. A significant link in the history of transportation across the river, the Ben Cannon Ferry is first documented in Cherokee County Commissioners court records in 1848. Pioneer settler Ben Canon operated the Ferry until 1851. A toll bridge operated north of the ferry site from 1854 to 1924. The route of the Texas State Railroad crosses the Neches just north of the ferry site.]]></description>
-    <Point><coordinates>-95.389322,31.777482,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Cherokee County without an HMDB id (isMissing excluded). 50 with THC coords; 0 geocoded from address; 27 omitted (no usable address).</description>
   <Placemark>
     <name>Benge Cemetery</name>
     <description><![CDATA[CR 1815, 100 feet E of CR 1816. Marker is near center of cemetery, 300 feet N of CR 1815. Map dot approximate.<br/><br/><b>Address:</b> CR 1815, Maydelle<br/><br/><b>Marker Text:</b> George Clinton Benge (d. 1883) established this family burial ground on his property in 1861 when his wife, Nancy (Myers), died. In 1850, George and Nancy moved here from Alabama with seven of their eight children. George worked as a farmer, blacksmith and gunsmith, and served as a justice of the peace in Old Jacksonville. Members of the Benge family buried here made vital contributions to Jacksonville and other nearby communities. Among those interred are also a number of military veterans. Today, the Benge Cemetery Association maintains this burial ground, which remains a testament to a noted Cherokee County family. Historic Texas Cemetery - 2006]]></description>
@@ -62,11 +57,6 @@
     <name>Dialville</name>
     <description><![CDATA[FM 347 in Dialville, 5 miles south of Jacksonville<br/><br/><b>Address:</b> Dialville<br/><br/><b>Marker Text:</b> In 1866, Confederate John J. Dial (d.1928) joined a group of 60 wagons headed for Texas. He arrived in this area the same year and soon began farming the land. With the 1882 arrival of the Kansas and Gulf Short Line Railroad, Dial opened a general store near the rail line. The following year, Dial and his wife, Ida Mae (Jones), deeded eight acres of land to the railroad for a flag stop station. The town site he platted at the site of the station was named Dialville when the post office was established in 1885. There was little growth in Dialville until 1897, when the flourishing tomato and peach production and shipping business revitalized the area. In that year, John T. Bailey opened a store and reactivated the post office. Dialville's first school was established in 1899. C. D. Jarratt, a leading East Texas fruit and vegetable sales agent, arrived about 1900 and helped develop the town into a leading shipping point for tomatoes and peaches. Dialville was the scene of much commercial activity during the early years of the 20th century, but by the mid 1920s had begun to decline. It remains an important part of the regional and agricultural history of Cherokee County.]]></description>
     <Point><coordinates>-95.230855,31.85803,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Elm Grove Common School</name>
-    <description><![CDATA[Elm Grove community. From Ponta, 2.1 mi. SW on SH 110, 0.1 mi. E on CR 1308. Marker reported missing Oct. 2002.<br/><br/><b>Address:</b> CR 1308, Ponta<br/><br/><b>Marker Text:</b> Elm Grove, a Freedmen's community, was part of the county school system by 1884, when 69 school districts were set up by the Commissioners Court. Classes were held in a local church or in homes until the 1890s when a schoolhouse was erected on land given by R. B. and Caroline Wood. Built by Elm Grove citizens with donated materials, the building was originally one large room. A merger with other schools in 1917 increased the student population, and the interior was divided into three classrooms. The school closed in 1957 when it merged with Rusk schools. (1997)]]></description>
-    <Point><coordinates>-95.105154,31.864007,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Emmaus</name>

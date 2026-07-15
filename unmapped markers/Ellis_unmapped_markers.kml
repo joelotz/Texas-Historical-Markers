@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Ellis County — Unmapped Historical Markers</name>
-  <description>THC markers in Ellis County without an HMDB id (isMissing excluded). 30 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Ellis County without an HMDB id (isMissing excluded). 29 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Boren Cemetery</name>
     <description><![CDATA[Cemetery is located 500 feet W of the end of Boren Dr. and 600 feet SW of Old Waxahachie Rd.<br/><br/><b>Address:</b> Boren Dr., Waxahachie<br/><br/><b>Marker Text:</b> Kentucky native Michael Boren and his second wife, Mary Ann (Ridgeway) moved to this part of Texas with their children and slaves in 1847. Hers is believed to be among the earliest graves in Boren Cemetery, as she died in 1857, but 1868 is the earliest death date recorded on a stone marker. It belongs to Sidney T. Boren, the five-year-old grandson of Michael and his first wife, Bettie (Morrow). Boren and his son George donated land for this cemetery for the use of the Reagor Springs and Bethel communities. A reflection of the area's history, it contains the graves of numerous military veterans and members of Ellis county pioneer families. (2001)]]></description>
@@ -123,7 +123,7 @@
   <Placemark>
     <name>Sokol Karel Havlicek Borovsky</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2622 E. State Hwy 34, Ennis<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.599687,32.347430,0</coordinates></Point>
+    <Point><coordinates>-96.599687,32.34743,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sweatt Family Legacy</name>
@@ -139,11 +139,6 @@
     <name>The H.P. Barkley Home</name>
     <description><![CDATA[709 N. Dallas, Ennis<br/><br/><b>Address:</b> 709 N. Dallas, Ennis<br/><br/><b>Marker Text:</b> Local contractor B. F. Sargeant constructed this residence in 1892 for H.P. Barkley, a conductor and yardmaster for the Houston and Central Texas Railroad. Built in the Victorian style, it features elaborate gingerbread detailing. T.H. Floyd, a local businessman, purchased the house in 1905 and resided here until 1949. Later used as a church parsonage, the Barkley home now serves as a reminder of Ennis' early days as a growing railroad town.]]></description>
     <Point><coordinates>-96.631879,32.332619,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Mulkey-Loggins House</name>
-    <description><![CDATA[E. Avenue G, N side between N. 11th and N. 12th streets. Inscription refers to the house's original site at 110 N. Elm St. in Ennis. Marker reported missing Apr. 2017.<br/><br/><b>Address:</b> 315 Avenue G, Midlothian<br/><br/><b>Marker Text:</b> This property was part of a tract settled in 1854 by pioneer Philip A. Mulkey (d. 1862). Ennis was founded in 1871, when the Houston &amp; Texas Central Railroad reached this point. Mulkey's son James (1859-1903), a prosperous cattleman, included this site in the Highland addition, a neighborhood that he developed after Ennis became the railroad's divisional headquarters in 1891. Dr. James C. Loggins (1845-1921), mayor and city alderman, erected this Victorian residence in 1898. It was purchased in 1944 by Keith Mulkey, James Mulkey's grandson, and his wife Tina Beth (Wheeler). (1978)]]></description>
-    <Point><coordinates>-96.990379,32.48258,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The Telico Church</name>

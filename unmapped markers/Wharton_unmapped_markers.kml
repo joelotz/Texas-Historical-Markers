@@ -61,7 +61,7 @@
   <Placemark>
     <name>Harris Park</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1717 Bailey St., Wharton<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.115920,29.318544,0</coordinates></Point>
+    <Point><coordinates>-96.11592,29.318544,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Hudgins Family Cemetery</name>

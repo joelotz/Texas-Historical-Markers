@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hidalgo County — Unmapped Historical Markers</name>
-  <description>THC markers in Hidalgo County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <description>THC markers in Hidalgo County without an HMDB id (isMissing excluded). 30 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
   <Placemark>
     <name>1st North Dakota Infantry</name>
     <description><![CDATA[<b>Address:</b> South Ohio Avenue and West 10th Street, Mercedes<br/><br/><b>Marker Text:</b> Erected 7 April 1960 In recognition of 1007 officers and enlisted men of the 1st North Dakota Infantry, North Dakota National Guard which occupied this area as a camp site 1916-1917. HISTORY Organized as 1st Dakota Infantry 1883 Redesignated 1st North Dakota Infantry 1885 FEDERAL SERVICE Span.-Amer. War &amp; War of Insurrection 1898-1899 Mexican Border Service 1916-1917 REDESIGNATED 164TH INFANTRY WWI - - AEF - FRANCE 1917-1918 WWII - Pacific Theatre of Operations 1941-1945 Korean Conflict - Camp Rucker, Alabama 1951-1953 This regiment, as a part of the Americal Division, was the first United States Army component to take the offensive in World War II - Guadalcanal, 13 October 1942. Converted to 164th Engineer Group NDAK NG 1955]]></description>
@@ -11,7 +11,7 @@
   <Placemark>
     <name>Alfonso R. Ramirez (Undertold)</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 505 W. Palm, Edinburg<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-98.155900,26.367440,0</coordinates></Point>
+    <Point><coordinates>-98.1559,26.36744,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Campacuas Cemetery</name>
@@ -104,11 +104,6 @@
     <Point><coordinates>-97.913675,26.158859,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>San Juan Hotel</name>
-    <description><![CDATA[W. 5th St. (Business 83), south side between S. Lincoln St. and S. Nebraska Ave. Marker reported missing Nov. 2007.<br/><br/><b>Address:</b> 125 West 5th St. (Business 83), San Juan<br/><br/><b>Marker Text:</b> The San Juan Hotel was completed and opened for business in 1920. Its construction reflected the plans of the town's early business leaders to establish San Juan as a Rio Grande Valley commercial center. Originally constructed with little ornamentation, the Mission Revival details were added in 1928. These included the red tiled parapet along the roofline and the curvilinear parapet over the entryway. Recorded Texas Historic Landmark - 1985.]]></description>
-    <Point><coordinates>-98.156875,26.18954,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>San Juan Plantation</name>
     <description><![CDATA[from San Juan, take FM 2557 south 5.5 mi. to Highway 281. Continue south 0.5 mi. on S. Stewart Rd., then west 0.25 mi. on Doffing Canal Rd.<br/><br/><b>Address:</b> Doffing Canal Rd., San Juan<br/><br/><b>Marker Text:</b> Foreman's House. Built 1904 by John Closner, 1891-1912 sheriff of Hidalgo County, who helped bring in and finance railroads and establish respect for law. Only reminder today of the 45,000 acre plantation complex that had sugar mill, post office, general store, pumping station, and produced sugar cane, cotton, potatoes, alfalfa and onions. Built the same year Closner's sugar won St. Louis World's Fair medal. Recorded Texas Historic Landmark - 1964]]></description>
     <Point><coordinates>-98.169306,26.083303,0</coordinates></Point>
@@ -126,7 +121,7 @@
   <Placemark>
     <name>Stephen F. Austin Elementary School</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1023 E. Kuhn St, Edinburg<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-98.151860,26.302075,0</coordinates></Point>
+    <Point><coordinates>-98.15186,26.302075,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Stockholm</name>
@@ -152,11 +147,6 @@
     <name>Theodore Roosevelt Elementary School</name>
     <description><![CDATA[<b>Address:</b> 710 S. 16th Street, McAllen<br/><br/><b>Marker Text:</b> THEODORE ROOSEVELT ELEMENTARY SCHOOL McALLEN WAS ESTABLISHED IN 1904 AND A SMALL “COMMON” SCHOOL SERVED THE COMMUNITY. THE TOWN WAS INCORPORATED IN 1911 AND McALLEN COMMON SCHOOL DISTRICT WAS FORMED IN 1915. THE McALLEN SCHOOL BOARD BEGAN CONSTRUCTION OF A SCHOOL THAT WOULD SERVE THE HISPANIC POPULATION. THE SCHOOL, NAMED AFTER THEODORE ROOSEVELT, THE 26TH PRESIDENT, OPENED IN JANUARY 1921. AN ANNEX DESIGNED BY RALPH CAMERON OF SAN ANTONIO WAS CONSTRUCTED IN 1927. ITS UNIQUE PRE-COLUMBIAN INDIAN TRIM WAS ORIGINALLY UNPAINTED. ZARA THIGPEN WAS THE PRINCIPAL, SERVING FROM 1921 UNTIL THE SCHOOL CLOSED IN THE 1960s. THE SCHOOL BECAME A McALLEN LANDMARK IN 2009.]]></description>
     <Point><coordinates>-98.237831,26.197801,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>W. L. Lipscomb</name>
-    <description><![CDATA[E. Cano St., south side between S. Closner Blvd. and S. 12th Ave. Marker reported missing Nov. 2017.<br/><br/><b>Address:</b> 112 E. Cano St., Edinburg<br/><br/><b>Marker Text:</b> About 1880, South Carolina native William Lawton Lipscomb (1874-1941) came to Texas with his family. In 1894 he settled in Hidalgo County, where he managed a sugar plantation. Later he and his wife, Ada (Dougherty) (1877-1959), moved to Edinburg and established one of the city's first general mercantile stores. Lipscomb moved his business to this building after it was completed in 1910. As an Hidalgo County commissioner from 1909 until 1925, a prominent businessman, and an active Mason, Lipscomb provided significant service and leadership to the community. (1983)]]></description>
-    <Point><coordinates>-98.162372,26.300278,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Weslaco High School</name>

@@ -21,7 +21,7 @@
   <Placemark>
     <name>El Alamo Grocery Store Building</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 901 E. Adams, Brownsville<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.498770,25.904257,0</coordinates></Point>
+    <Point><coordinates>-97.49877,25.904257,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>El Rancho Granjeno (Vasquez) Cemetery</name>

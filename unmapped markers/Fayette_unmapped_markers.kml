@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Fayette County — Unmapped Historical Markers</name>
-  <description>THC markers in Fayette County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <description>THC markers in Fayette County without an HMDB id (isMissing excluded). 31 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
   <Placemark>
     <name>Bedstead Truss Bridge (Mulberry Creek Bridge)</name>
     <description><![CDATA[Wolters Park, SW corner near Kallus St.<br/><br/><b>Address:</b> 1103 Bohlmann St., Schulenburg<br/><br/><b>Marker Text:</b> Built in 1888 by the King Iron Bridge Company of Cleveland, Ohio, and its sub-contractor, A. J. Tullock and Company of Leavenworth, Kansas, this bridge provided easy access to the developing community of Schulenburg. Located on the Old Praha Road, it was part of a major travel route during the late 19th and early 20th centuries. The 60-foot iron structure, described as a single span, box-chord, pin-connected modified Pratt low truss bridge with counters, cost $1,422 at the time of its construction. It is one of the few bridges of this style still standing. Recorded Texas Historic Landmark - 1990]]></description>
@@ -42,11 +42,6 @@
     <name>Flatonia Baptist Church</name>
     <description><![CDATA[S. Converse &amp; E. 6th St., Flatonia<br/><br/><b>Address:</b> Flatonia<br/><br/><b>Marker Text:</b> Pioneers organized this church in 1874, before incorporation of Flatonia, and erected a frame building in 1878. That was the town's first church, and it was shared with other faiths. The customs of early years included disciplining unruly members or "unsound" preachers, and holding annual "Protracted", or revival, meetings. Services in their own languages were held for German, Bohemian, and Spanish converts. This church has always supported missions and charities. Present sanctuary, second for the church, was dedicated in 1965.]]></description>
     <Point><coordinates>-97.105728,29.686394,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Flatonia City Hospital and Opera House</name>
-    <description><![CDATA[Marker reported missing June 2016.<br/><br/><b>Address:</b> Flatonia<br/><br/><b>Marker Text:</b> Dr. George Washington Allen (1849-1903) founded the Flatonia City Hospital in 1896, and this building was completed the following year to serve the medical needs of the growing railroad town. About 1910 the second floor hospital space became the site of the City's Opera House. In 1914 this Romanesque revival building was sold to H. E. Olle, who leased it for over 60 years. Businesses located here have included a drugstore, chicken hatchery, skating rink, and cafe. Recorded Texas Historic Landmark - 1983]]></description>
-    <Point><coordinates>-97.108641,29.687004,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Gresser Family Cemetery</name>
@@ -161,7 +156,7 @@
   <Placemark>
     <name>Winchester Area Civic Association</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 Memorial Hall Drive, Winchester<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.016304,30.011000,0</coordinates></Point>
+    <Point><coordinates>-97.016304,30.011,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

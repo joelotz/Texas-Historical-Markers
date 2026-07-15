@@ -2,12 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Bastrop County — Unmapped Historical Markers</name>
-  <description>THC markers in Bastrop County without an HMDB id (isMissing excluded). 38 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
-  <Placemark>
-    <name>A. A. Erhard Home</name>
-    <description><![CDATA[Pecan St., E side between Beech and Farm streets. Marker reported missing May 2009.<br/><br/><b>Address:</b> 1205 Pecan St., Bastrop<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-97.317205,30.113352,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Bastrop County without an HMDB id (isMissing excluded). 36 with THC coords; 0 geocoded from address; 13 omitted (no usable address).</description>
   <Placemark>
     <name>Addison Litton</name>
     <description><![CDATA[on SH 21 just east of Cedar Creek, across from Cedar Creek Storage (blue sheds)<br/><br/><b>Address:</b> Cedar Creek<br/><br/><b>Marker Text:</b> Star and Wreath Came to Texas in 1827. Served in the Army of Texas, 1836. Member of Captain Gibson Kuykendall's company at Harrisburg. Died in Bastrop County in 1847. Erected by the State of Texas, 1956]]></description>
@@ -47,11 +42,6 @@
     <name>D. O. Hill House</name>
     <description><![CDATA[Olive St., E side between NE 5th and NE 6th streets<br/><br/><b>Address:</b> 502 Olive St., Smithville<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
     <Point><coordinates>-97.157483,30.009821,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Elgin</name>
-    <description><![CDATA[Veterans Memorial Park (formerly City Park), SW corner N. Main St. and Depot St. Marker reported missing Dec. 1999. Map dot approximate.<br/><br/><b>Address:</b> 109 Depot St., Elgin<br/><br/><b>Marker Text:</b> Founded 1871 when nearby pioneer Hogeye citizens moved townsite to newly completed Houston &amp; Texas Central Railroad. Named for surveyor R. M. Elgin and known as "Brick Capital of the Southwest." Made handpressed brick as early as 1882. Area noted as agricultural center. (1967)]]></description>
-    <Point><coordinates>-97.370542,30.347445,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Christian Church (Disciples of Christ) of Smithville</name>
@@ -162,7 +152,7 @@
     <name>Saul Wright Cemetery</name>
     <description><![CDATA[373 McDonald Lane | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 373 McDonald Lane, Cedar Creek<br/><br/><b>Marker Text:</b> This cemetery is the final resting place of many ancestors of Cedar Creek’s oldest African American lineages. After Emancipation, African American families could now travel to make their living. Many found refuge in Texas freedom colonies, such as Cedar Creek Colony in Bastrop County. About one-quarter of African Americans were able to accumulate land, no small feat in the Texas system which prioritized white land ownership. One such black landowner was Cedar Creek resident Saul (or Sol) Wright and his wife, Mary. The Wrights donated the first two acres of land to become a burying ground for the freedmen living in Cedar Creek. The Wrights had traditionally been buried in Shiloh Cemetery in Bastrop; however, travel difficulties and other hardships necessitated a burial ground closer to home. The Wrights opened the cemetery to all neighboring families. 
   Saul maintained the cemetery until his death on July 2, 1931. Later, it has been cared for by his son, Dempsey Wright; Dempsey’s daughter, Dorothy Wright Peterson; C.L. Jones, Jr.; members of the Aldridge and Alexander families; and finally, the Saul Wright Cemetery of Cedar Creek Committee. It is unknown when the first burial occurred; however, it is estimated that the site has been used for burials since the time of the Civil War and Reconstruction. Many of the earliest graves were unmarked and several gravestones are too difficult to read. The earliest legible gravestone is that of Annie Edmondson (d. 1919). Veterans buried at Saul Wright Cemetery include Alroy Breeding (1892-1971) who served in WWI, and Dock Alexander (1896-1972), John O. Alexander (1928-1988) and T.C. “Walter” Alexander (1923-1985) who served in WWII. The cemetery memorializes these courageous and industrious generations. (HTC 2019)]]></description>
-    <Point><coordinates>-97.476047,30.105720,0</coordinates></Point>
+    <Point><coordinates>-97.476047,30.10572,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Scottie Chambliss Jenkins House</name>

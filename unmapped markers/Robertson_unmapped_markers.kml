@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Robertson County — Unmapped Historical Markers</name>
-  <description>THC markers in Robertson County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <description>THC markers in Robertson County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
   <Placemark>
     <name>Adams-White Place</name>
     <description><![CDATA[<b>Address:</b> 1105 Magnolia St., Hearne<br/><br/><b>Marker Text:</b> Built 1896 by Horatio ("Rashe") Adams, noted citizen and public relations man in Washington, D. C. The contractor was A. A. White. After 1911, the house was called the "Dr. John W. Black Place," for its owner. It was later sold to Mrs. Willie L. Moreland. In 1924, the house was purchased by Miss Lil White, present owner. Victorian in style, structure had a separate Kitchen (now the garage) once supplied with water from a backyard artesian well. Recorded Texas Historic Landmark - 1968]]></description>
@@ -72,11 +72,6 @@
     <name>Site of Owensville</name>
     <description><![CDATA[junction of FM 979 and FM 46<br/><br/><b>Address:</b> Owensville<br/><br/><b>Marker Text:</b> Robertson County's third county seat was located here, 1855-69, on land given by D. H. Love (1816-66). The town was Owensville, named for Harrison Owen (1803-96), who was the first county clerk, 1838-47. Public officials, doctors, lawyers, businesses moved here and town thrived. It was on Houston-Waco mail, stage, and freighting road. As Civil War (1861-65) county seat, this place armed and dispatched soldiers, and cared for civilians. After Houston &amp; Texas Central Railway bypassed Owensville in 1868, county records were moved to Calvert. Owensville Cemetery, oldest in county, marks townsite.]]></description>
     <Point><coordinates>-96.520074,31.073811,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Suggs Cemetery</name>
-    <description><![CDATA[4 mi. east of Hearne via FM 391, then south on county road. Marker reported missing Mar. 2017.<br/><br/><b>Address:</b> Suggs Cemetery Road, Hearne<br/><br/><b>Marker Text:</b> Calvin A. Suggs and his family came to Texas from Georgia in the late 1860s. They settled in this area about 1868, and Suggs purchased eighty acres of land. This cemetery was established on Suggs' land and has served as the principal burial ground for the Black Jack community for over a century. The oldest documented grave here is that of Jera William McWilliams, who died on October 11, 1880. Many pioneer settlers of this area are interred in the Suggs Cemetery in marked and unmarked graves. It serves as a reminder of the area's early heritage.]]></description>
-    <Point><coordinates>-96.533636,30.881663,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Thompson Cemetery</name>

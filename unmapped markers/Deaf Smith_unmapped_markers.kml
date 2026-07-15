@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Deaf Smith County — Unmapped Historical Markers</name>
-  <description>THC markers in Deaf Smith County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Deaf Smith County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
   <Placemark>
     <name>Palo Duro Wildorado Cemetery</name>
     <description><![CDATA[Palo Duro community, FM 809, 1 mi. N of FM 2587<br/><br/><b>Address:</b> Dawn<br/><br/><b>Marker Text:</b> Early settlers to this area included the J.C. Womble family, which came in January 1892. The next year, the community obtained land on which to build a schoolhouse, known as the Union School. In May 1893, George D. Whitfield, a young cowboy, was buried in what was the schoolyard. His is the first marked burial, although two earlier graves were known to exist at the time. In 1901, residents organized the Palo Duro Missionary Baptist Church and held services in the schoolhouse. They moved across the road in 1905. In May 1910, the school moved approximately two miles north, and the property reverted back to its original owner. The land with the gravesites was deeded to the community in 1914 for use as a cemetery. During the mid-20th century, area residents bought additional land and added a well and fence. As the burial site of numerous area residents, as well as men and women veterans of the military, the cemetery serves as a link to the area's rich history. Historic Texas Cemetery - 2004]]></description>

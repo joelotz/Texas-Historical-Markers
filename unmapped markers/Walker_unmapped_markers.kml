@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Walker County — Unmapped Historical Markers</name>
-  <description>THC markers in Walker County without an HMDB id (isMissing excluded). 28 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <description>THC markers in Walker County without an HMDB id (isMissing excluded). 26 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
   <Placemark>
     <name>Angier Farm</name>
     <description><![CDATA[<b>Address:</b> 1556 Southwood Dr., Huntsville<br/><br/><b>Marker Text:</b> James Samuel Angier (1872-1954) was born adjacent to the old Hightower Plantation to Eugene L. Angier, Sr., and Ida Hightower Robertson Angier. The Angier family first moved to Texas as one of Austin’s old 300 colonists. In 1910, James S. and his brother, Dr. E.L. Angier, Jr., purchased a section from his father. Three years later, in 1913, James Angier moved his family here to run the farm. Built by C.H. Allen, the home includes six rooms and a double fireplace to heat the entire house. Throughout the generations, the Angier Farm has stood as a fine example of early 20th century rural architecture. RECORDED TEXAS HISTORIC LANDMARK – 2016]]></description>
@@ -42,16 +42,6 @@
     <name>Eastham-Thomason House</name>
     <description><![CDATA[906 Ave. M; Huntsville.<br/><br/><b>Address:</b> 906 Ave. M, Huntsville<br/><br/><b>Marker Text:</b> Constructed between 1859 and 1862 by James H. Thomason, this is one of the oldest homes in Walker County. Byrd Eastham acquired the house in 1869, and his descendants, one of whom married into the Thomason Family, have retained ownership. The Georgian plan home exhibits simple classical revival features in its balustrade, porte cochere, and central hall entrance with sidelights. The triple two-story columns were added in 1912.]]></description>
     <Point><coordinates>-95.553042,30.726407,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Farris Chapel Methodist Church</name>
-    <description><![CDATA[From the intersection of SH 30 and IH-45 (Huntsville), take SH 30 W approximately 3 miles to FM 1791; then SW on FM 1791 approximately 10.5 miles, east side of the road between Burnett Rd. and West Sandy Creek. Marker reported missing March 2020.<br/><br/><b>Address:</b> 1651 FM 1791, Huntsville<br/><br/><b>Marker Text:</b> Farris Chapel Methodist Church, built 1880 for congregation founded by Hezekiah Farris in 1841. Used by other faiths. First area schoolhouse. Recorded Texas Historic Landmark - 1965]]></description>
-    <Point><coordinates>-95.590333,30.73594,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Founding of Huntsville and of Historic Indian Post</name>
-    <description><![CDATA[(north side of Walker County Courthouse Square) Marker reported missing April 2012.<br/><br/><b>Address:</b> Huntsville<br/><br/><b>Marker Text:</b> Located here about 1830, this Indian post was established by Pleasant Gray, adventurer and pioneer from Alabama. Friendly Indians of East Texas had long used the nearby springs and they came to exchange agricultural products and pottery for hides, ponies, and cured meat brought by the western Indians. Soon settlers began to move into the region and by 1836, during the Republic of Texas, the future town of Huntsville had started to spring up here. Gray sold his post in 1846, as he could no longer tend it. He died in 1848. He had one son.]]></description>
-    <Point><coordinates>-95.551161,30.723517,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>George Washington Grant and Grant's Colony</name>

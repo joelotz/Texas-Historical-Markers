@@ -1,9 +1,5 @@
-Deaf Smith unmapped markers with NO usable address (2):
+Deaf Smith unmapped markers with NO usable address (1):
 
   THC 4806: Great Cowboy Strike, Site of
     https://atlas.thc.texas.gov/Details/5117004806
-
-  THC 3176: Mackenzie Trail
-    addr: Hereford
-    https://atlas.thc.texas.gov/Details/5117003176
 

@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hunt County — Unmapped Historical Markers</name>
-  <description>THC markers in Hunt County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <description>THC markers in Hunt County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
   <Placemark>
     <name>Center Point Christian Church (Disciples of Christ)</name>
     <description><![CDATA[6 miles southeast of Greenville, at the site of the original church<br/><br/><b>Address:</b> 2738 US 69, Greenville<br/><br/><b>Marker Text:</b> Organized in the turmoil of the reconstruction era, Center Point Christian Church (Disciples of Christ) has been a strong supporter of its community since 1879. After the announcement of the Emancipation Proclamation, many formerly enslaved African Americans attempted to escape the violence that ensued by forming loose-knit communities among unwanted lands, such as Center Point in Hunt County. Some of the earliest freedmen to gather in the thickets near Center Point were Charlie C. Haley, Henry Polk, and Henry H. Brown along with their families. As they survived in homes and in the woods, Haley led the group in religious meetings. Around 1870 ordained minister and Elder Andrew Jackson (A.J.) Hurdle moved his growing family from a freedom colony near Mount Vernon to Center Point. By 1879 Hurdle and Haley organized a church known as Center Point Christian Church in the middle of the thickets with hurdle as its first minister. In 1900, Hurdle was elected president of the Northeast Texas Christian Missionary Convention. The mission of the group was to serve African American members of the Christian Church and its primary focus was to create a college. Several members of the church were active in the group and were a part of the faculty at Northeast Texas Christian Theological and Industrial College in Anderson County. Over the years, the congregation has had a record for its ability and willingness to build new church buildings debt-free. As an early congregation organized in a freedom colony, Center Point Christian Church (Disciples of Christ) is proud of its heritage. Offering protection from reconstruction violence, the church has always supported education, jobs, homes and families. (2017)]]></description>
@@ -27,16 +27,6 @@
     <name>Lebanon Cemetery</name>
     <description><![CDATA[take Sycamore east to Johnson St., left on Johnson, and right on ML King; go about 2 miles on MLK to cemetery<br/><br/><b>Address:</b> Commerce<br/><br/><b>Marker Text:</b> This land has been used as a burial ground since the 1860s. Rebecca Hart Williams Little (1818-1891), a pioneer who came to this area in the 1830s, formally deeded the property for church and school purposes in 1871. The earliest marked grave is that of Harlan Lindley (1845-1871). Others interred here include pioneer settlers; veterans of the Civil War, World War I, and World War II; many infants and children; and Rebecca Little. The adjacent one-room Lebanon School, razed in 1945, provided educational opportunities to generations of local children.]]></description>
     <Point><coordinates>-95.869815,33.254411,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Lee Cemetery</name>
-    <description><![CDATA[CR 1137, north side, between CR 1138 and CR 1139. Marker plaque reported missing and HTC medallion installed on gate as of Aug. 2018.<br/><br/><b>Address:</b> CR 1137, Celeste<br/><br/><b>Marker Text:</b> Lee Cemetery Established circa 1860 Historic Texas Cemetery - 2000]]></description>
-    <Point><coordinates>-96.278846,33.349816,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Peniel</name>
-    <description><![CDATA[southeast corner of Rees (US 69) and Cordell streets. Marker reported missing Mar. 2016.<br/><br/><b>Address:</b> 1009 N. Rees Street, Greenville<br/><br/><b>Marker Text:</b> Religious community founded in 1899 in conjunction with the establishment of Texas Holiness University on this site by E. C. DeJernett and B. A. Cordell. Title deeds prohibited sale or use of alcoholic drinks and tobacco, and practice of "worldly amusements," such as card playing and dancing. Post office opened in 1901, with name of "Holiness"; changed in 1902 to "Peniel," for a biblical site. The town was incorporated in 1906. The university continued to operate until 1920, when it was moved to Oklahoma. The city was annexed Greenville in 1957, and the post office discontinued.]]></description>
-    <Point><coordinates>-96.126345,33.165008,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Public Libraries of Greenville</name>

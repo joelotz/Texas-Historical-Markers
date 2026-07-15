@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Grimes County — Unmapped Historical Markers</name>
-  <description>THC markers in Grimes County without an HMDB id (isMissing excluded). 28 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
+  <description>THC markers in Grimes County without an HMDB id (isMissing excluded). 27 with THC coords; 0 geocoded from address; 14 omitted (no usable address).</description>
   <Placemark>
     <name>Apolonia Cemetery</name>
     <description><![CDATA[from Anderson take FM 2819 E approx. 6 miles to CR 215; then on CR 215 approx. .6 miles to cemetery.<br/><br/><b>Address:</b> Anderson<br/><br/><b>Marker Text:</b> Known as Pine Grove for the Baptist church that was focus for community in the area, this burial ground was in use in 1860s. Tombstone of Mrs. Harriet Hobdy Kelley is dated 1869, but there may be earlier, unmarked graves. Land donors were (1886) J. L. and Eveline Mansfield. War veterans here: the Confederates Richard Butler, Henderson Green, and W. T. Wasson; also Wasson's son, Brosig T. Wasson, Grimes County's first fatality of World War I. When the church disbanded in 1929, the cemetery was renamed for area's defunct post office. At least one family has 3 generations here.]]></description>
@@ -49,11 +49,6 @@
     <Point><coordinates>-95.989368,30.37487,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Haynie-Sanders Farm Home</name>
-    <description><![CDATA[2.5 mi. W of Richards, S side of FM 149, 0.1 mi. W of CR 217. Marker reported missing Oct. 1993.<br/><br/><b>Address:</b> FM 149, Richards<br/><br/><b>Marker Text:</b> Thomas Jefferson Haynie and his wife Sarah Jane migrated to this area from Georgia in 1855. With the aid of slaves, they constructed their two-story Texas style home at this site, using native pine, post oak, and rock. Haynie was influential in area politics and provided land for the establishment of the Fairview School. In 1923 the farm was purchased by Dr. Guy Cecil Sanders, a prominent Richards physician. During his ownership it was the scene of community gatherings, Fourth of July celebrations, and political rallies. (1981)]]></description>
-    <Point><coordinates>-95.890523,30.541338,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Hughey Chapel Cemetery</name>
     <description><![CDATA[CR 307 SW of Stoneham, on private land<br/><br/><b>Address:</b> Stoneham<br/><br/><b>Marker Text:</b> The family of Jefferson Edmond Hughey lived in this area by 1859, settling on a 260-acre homestead. Family members established a cemetery at this site, where the earliest marked burial, that of Mary Ann Garmany Boozer, Hughey's mother-in-law, dates to 1876. In the vicinity of the burial ground, the Hugheys built a chapel that also served area families as a schoolhouse. The property remained in the Hughey family until 1989. Today, the burial ground, which includes graves of Confederate veterans, remains a link to the area's early settlers. Historic Texas Cemetery - 2004]]></description>
     <Point><coordinates>-95.948762,30.308986,0</coordinates></Point>
@@ -86,7 +81,7 @@
   <Placemark>
     <name>John and Julia Hill House</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 216 McNair Street, Navasota<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.081523,30.393730,0</coordinates></Point>
+    <Point><coordinates>-96.081523,30.39373,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Lake Grove Community</name>

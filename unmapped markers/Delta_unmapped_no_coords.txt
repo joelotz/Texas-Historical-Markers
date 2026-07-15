@@ -1,4 +1,4 @@
-Delta unmapped markers with NO usable address (6):
+Delta unmapped markers with NO usable address (5):
 
   THC 6929: Brushy Mound
     https://atlas.thc.texas.gov/Details/5119006929
@@ -18,7 +18,4 @@ Delta unmapped markers with NO usable address (6):
   THC 17331: Mount Joy Cemetery
     addr: C.R. 4730, Cooper
     https://atlas.thc.texas.gov/Details/5507017331
-
-  THC 6930: Old Camp Rusk
-    https://atlas.thc.texas.gov/Details/5119006930
 

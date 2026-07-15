@@ -2,26 +2,21 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Angelina County — Unmapped Historical Markers</name>
-  <description>THC markers in Angelina County without an HMDB id (isMissing excluded). 17 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
+  <description>THC markers in Angelina County without an HMDB id (isMissing excluded). 16 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
   <Placemark>
     <name>Aldredge Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1211 S. FM 706, Lufkin<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.804730,31.353799,0</coordinates></Point>
+    <Point><coordinates>-94.80473,31.353799,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Aldredge Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1211 S. FM 706, Lufkin<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.804730,31.353799,0</coordinates></Point>
+    <Point><coordinates>-94.80473,31.353799,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Civilian Conservation Corps and Forestry in Texas</name>
     <description><![CDATA[<b>Address:</b> 2221 N. Raguet Street, Lufkin<br/><br/><b>Marker Text:</b> Continuing efforts started in the 1920s by the Texas Forest Service (TFS), the Civilian Conservation Corps (CCC), established through the Emergency Conservation Work Act (1933) during the Great Depression, aided in efforts to preserve Texas forests. CCC enrollees offered fire protection by stringing telephone lines, constructing bridges, culverts, fire lookout towers and fire roads, performing timber stand improvements, and surveying and mapping east Texas forests. The CCC also conducted an extensive reforestation campaign. The work done by the CCC contributed greatly to forest conservation in Texas. This is the site of the former CCC Lufkin district heavy equipment maintenance facility.]]></description>
     <Point><coordinates>-94.750838,31.355307,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Clark's Ferry and Clark's Ferry Cemetery, Site of</name>
-    <description><![CDATA[US 59 at Clark's Ferry Rd., 3 mi. south of Diboll. Marker reported missing Jan. 2015.<br/><br/><b>Address:</b> Diboll vicinity<br/><br/><b>Marker Text:</b> Established by I. D. Clark in 1856, this ferry provided an important crossing on the Neches River between Angelina and Polk counties. When Clark died in 1859, his widow, Ann, operated the ferry with the help of two slaves until her own death in 1863. Ownership of the land remained in the Clark family. In 1881 W. B. Clark was issued a license to operate the ferry. A town was platted at the ferry crossing and named Clark's Station, also known as Miami. In 1860 a community cemetery was established north of the town. The ferry was phased out after modern highways were built. (1996)]]></description>
-    <Point><coordinates>-94.809071,31.138584,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Don Joaquin Crossing on Bedias Trail</name>
@@ -31,7 +26,7 @@
   <Placemark>
     <name>Dunbar Schools of Lufkin</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1806 Martin Luther King Jr Blvd, Lufkin<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.724350,31.358313,0</coordinates></Point>
+    <Point><coordinates>-94.72435,31.358313,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Emporia Cemetery</name>

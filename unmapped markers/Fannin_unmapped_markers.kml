@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Fannin County — Unmapped Historical Markers</name>
-  <description>THC markers in Fannin County without an HMDB id (isMissing excluded). 41 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <description>THC markers in Fannin County without an HMDB id (isMissing excluded). 39 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
   <Placemark>
     <name>Allen's Chapel Methodist Church and Cemetery</name>
     <description><![CDATA[7 mi. NW via US 82, FM 1396 and CR 2750<br/><br/><b>Address:</b> CR 2570, Honey Grove<br/><br/><b>Marker Text:</b> In 1842, a Methodist Episcopal Church, South, congregation organized and built a log chapel on land given by Wilson Allen. Early leaders were the Revs. J.H. Graham and J.W.P. McKenzie; trustees and family names included Allen, Hamil, Ramsey, Wheeler, Spence, Stroud, Meade, Dutton, Johnson, Cobb, Massengale and Prickett. The settlement was called Allen's Chapel Community. Due to declining attendance, the church disbanded in 1916. Ministering again to the larger church community, former members gave the church and its fixtures to the local Vineyard Grove Baptist congregation in 1926. The graveyard, still used and maintained by a community cemetery association, remains a landmark to the early settlement. (2002)]]></description>
@@ -27,11 +27,6 @@
     <name>Carson Cemetery</name>
     <description><![CDATA[from Ector take FM 898 north approx. 2.5 miles to R.O.W.<br/><br/><b>Address:</b> CR 1274, Ector<br/><br/><b>Marker Text:</b> According to local oral tradition, this cemetery was named for John Carson, who once owned the adjacent land. Some sources say one grave was in existence before 1842; others maintain the first graves date to an 1842 Indian raid at the nearby home of Dr. and Mrs. W. M. Hunter. The three victims of the raid were Mrs. Minerva Hunter, her young daughter Elizabeth, and an African American maid whose name is unknown. By 1878, the cemetery trustees acquired title to the land and they later added more acreage. Among those buried here are land donors Mr. &amp; Mrs. W. E. Alderson, Mr. &amp; Mrs. W. R. Luton, and T. M. Newell. Minerva Hunter's grave was marked in 1942, a century after her death. (1974, 1998)]]></description>
     <Point><coordinates>-96.27809,33.608099,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Central National Road</name>
-    <description><![CDATA[FM 904, 100 feet N of FM 64. Marker reported missing Nov. 1995. Map dot approximate.<br/><br/><b>Address:</b> FM 904, Ladonia<br/><br/><b>Marker Text:</b> Created 1844 to connect Texas Republic with the United States. Route began in Dallas, to go to Kiomatia Crossing on Red River. Surveyed by Maj. George W. Stell, road was to be 30' wide and clear of tree stumps more than a foot high. Route ran north of land of John H. Loring (1 mi. E of present Ladonia), coming eastward to make abrupt north turn here and push over Sulphur River at crossing named for Isaac Lyday, who came here in 1836. A small segment of the road may still be seen (1972) skirting Lyday Cemetery in the W. D. Wehrmann, Jr. pasture, just east of FM 904, southwest of Dial. (1972)]]></description>
-    <Point><coordinates>-95.875649,33.436521,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Charles Henry Christian</name>
@@ -82,11 +77,6 @@
     <name>Grove Hill</name>
     <description><![CDATA[from Leonard take FM 1553 north 3.5 miles to cemetery and church, R.O.W.<br/><br/><b>Address:</b> Leonard<br/><br/><b>Marker Text:</b> The earliest settler in this area was George w. Smith, a native of Georgia, who moved here in 1844. By the early 1850s, a community had developed and a post office was established under the name Oak Hill. The first church, a Baptist congregation, was organized in 1855 at the home of pioneer settler Joseph Ring. During the Civil War several residents formed a Confederate militia unit known as the Oak Hill Home Guard. The first church building, completed in 1869, was also used for Masonic Lodge meetings and school classes. In 1878 William Thomas Clark, F. K. Taylor, and T. C. Cobb, trustees of the Methodist Episcopal Church, purchased four acres at this site for a community schoolhouse, sanctuary, and cemetery. The earliest marked grave in the community burial ground is that of William B. A. Thomas (d. 1862). Other graves include those of pioneer settlers and at least one former slave, Jack Sudderth (1799-1898). The settlement of Grove Hill began to decline in the early 1880s after the nearby railroad town of Leonard (3.5 mi. SW) was established. The Masonic Lodge moved there soon after and the school merged with the Leonard District in 1942.]]></description>
     <Point><coordinates>-96.221303,33.43235,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Grove Hill Masonic Lodge</name>
-    <description><![CDATA[NE corner Main St. and SH 78. Marker reported missing Jan. 2008.<br/><br/><b>Address:</b> 118 S. Main St., Leonard<br/><br/><b>Marker Text:</b> Chartered in 1873 with fifteen members, this Masonic Lodge was organized in the Grove Hill community (3.5 mi. NE). The first meetinghouse was constructed there on property purchased in conjunction with the Grove Hill School District, which used the facility for classes. The Lodge moved to Leonard in 1882, shortly after the town was founded. Meetings were conducted in the city hall until a separate Lodge hall was built on the square in 1890. Other buildings later served the Lodge, which has included many prominent leaders of Grove Hill and Leonard. (1981)]]></description>
-    <Point><coordinates>-96.247409,33.380455,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Haden House</name>

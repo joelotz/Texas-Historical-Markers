@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Saba County — Unmapped Historical Markers</name>
-  <description>THC markers in San Saba County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 11 omitted (no usable address).</description>
+  <description>THC markers in San Saba County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 10 omitted (no usable address).</description>
   <Placemark>
     <name>Adams Cemetery</name>
     <description><![CDATA[<b>Address:</b> N on Fm 45 2.5 mi, W on FM 2997 2.5 mi, S on CR 262, Richland Springs<br/><br/><b>Marker Text:</b> Established 1904. Historic Texas Cemetery - 2004]]></description>

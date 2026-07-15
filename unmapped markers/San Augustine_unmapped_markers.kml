@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Augustine County — Unmapped Historical Markers</name>
-  <description>THC markers in San Augustine County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 25 omitted (no usable address).</description>
+  <description>THC markers in San Augustine County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 25 omitted (no usable address).</description>
   <Placemark>
     <name>Anderson House</name>
     <description><![CDATA[<b>Address:</b> end of No. Congress Ave., San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
@@ -27,11 +27,6 @@
     <name>Dickerson Cemetery</name>
     <description><![CDATA[On County Road 4255, 1/4 mile east off FM 3279<br/><br/><b>Address:</b> CR 4255, San Augustine<br/><br/><b>Marker Text:</b> William and Lucinda Dickerson established this burial ground after the death of a son, Levi, in 1858. The Dickerson family came from Florida, settling in Grapevine in 1839. The family opened the cemetery to neighbors and other family, and additional property was donated. A community church moved beside it in 1946; all denominations housed in the church, except for the Missionary Baptist Church, eventually moved to other buildings. Now a community burial ground, Dickerson Cemetery features curbing, grave slabs and vertical stones. Among those interred are veterans of conflicts dating to the Civil War. Today, it continues to serve Grapevine while providing a record of the area's early settlement. Historic Texas Cemetery - 2009]]></description>
     <Point><coordinates>-94.120651,31.38236,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Matthew Cartwright Home</name>
-    <description><![CDATA[marker reported missing Dec. 2017.<br/><br/><b>Address:</b> 503 E. Main St., San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.105694,31.528941,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>McRae Cemetery</name>

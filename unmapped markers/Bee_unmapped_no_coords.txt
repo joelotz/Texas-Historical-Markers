@@ -1,6 +1,2 @@
-Bee unmapped markers with NO usable address (1):
-
-  THC 4364: Rountree Rock House
-    addr: Beeville
-    https://atlas.thc.texas.gov/Details/5025004364
+Bee unmapped markers with NO usable address (0):
 

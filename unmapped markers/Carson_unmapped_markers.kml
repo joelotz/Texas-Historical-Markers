@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Carson County — Unmapped Historical Markers</name>
-  <description>THC markers in Carson County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Carson County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
   <Placemark>
     <name>Conway Community Church</name>
     <description><![CDATA[405 Elsie Street, Panhandle (RTHL designation removed when church was relocated to present site--marker displayed inside building)<br/><br/><b>Address:</b> 405 Elsie Street, Panhandle<br/><br/><b>Marker Text:</b> Union church built 1912 by popular subscription. Only country church in this area in continuous use for more than 50 years. Serves great-grandchildren of the pioneers who contributed funds for its erection. Recorded Texas Historic Landmark, 1966.]]></description>
@@ -12,11 +12,6 @@
     <name>First Presbyterian Church</name>
     <description><![CDATA[<b>Address:</b> 412 Doucette St., White Deer<br/><br/><b>Marker Text:</b> First church building in White Deer. Dedicated July 4, 1909. Financed mainly through gifts from pioneer members' home churches, and donations by other denominations. Also used by Methodists and Baptists for 11 years, with circuit pastors for the three congregations rotating their Sunday visits. A union Sunday School and missionary society were organized. All offerings were equally shared among the three churches. SUPPLEMENTAL PLAQUE: The First Presbyterian Church building served as a worship center from 1909 to 1969. The structure was moved from this site in 1978. (1979)]]></description>
     <Point><coordinates>-101.173768,35.431345,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>N-Bar-N Ranch House</name>
-    <description><![CDATA[formerly located at 2646 County Road 17, relocated late 1990s to FM 294; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 1510 FM 294, White Deer]]></description>
-    <Point><coordinates>-101.167486,35.401187,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

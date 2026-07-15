@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>El Paso County — Unmapped Historical Markers</name>
-  <description>THC markers in El Paso County without an HMDB id (isMissing excluded). 54 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
+  <description>THC markers in El Paso County without an HMDB id (isMissing excluded). 51 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
   <Placemark>
     <name>[PENDING] 1949 Bowie Bears baseball championship</name>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 801 S. San Marcial St., El Paso]]></description>
@@ -169,14 +169,9 @@
     <Point><coordinates>-106.488699,31.759136,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Mission Nuestra Senora de la Purisima Concepcion Del Socorro</name>
-    <description><![CDATA[Socorro Mission, S. Nevarez Rd. SE of Socorro Rd. and Winn Rd. Marker reported missing Jan. 2008 (inscription plate missing, RTHL medallion still present).<br/><br/><b>Address:</b> 328 S. Nevarez Rd., Socorro<br/><br/><b>Marker Text:</b> (Our Lady of the Immaculate Conception of Socorro) Established in 1680 by Brother Antonio Guerra for Piros Indians, refugees from Old Socorro, N.M., this and 1682 mission at Ysleta (located 3.7 miles west) are among oldest continuously occupied settlements in the Southwest. By 1750, town had 498 Indians and 54 Spaniards. Present church, built about 1840, exhibits Indian influence on basic Spanish mission style. Adobe brick walls are several feet thick. Recorded Texas Historic Landmark - 1963]]></description>
-    <Point><coordinates>-106.303273,31.660125,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Old Clint Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 821 Celum Road, Clint<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-106.216440,31.585647,0</coordinates></Point>
+    <Point><coordinates>-106.21644,31.585647,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] Palmore Business College</name>
@@ -232,16 +227,6 @@
     <name>The Butterfield Trail</name>
     <description><![CDATA[from westbound IH - 10 exit #19A onto Mesa Street proceed north (right) about 1 mile, turn east (right) onto Rim Road follow Rim Road until it merges into Scenic Road continue east on Scenic Road to Mount Franklin Scenic Area,  El Paso<br/><br/><b>Address:</b> El Paso<br/><br/><b>Marker Text:</b> Eastward U.S. Highway 62-180 in places parallels the famous Butterfield Overland Mail Route, which ran from Tipton, Mo. to San Francisco. Traveling 1200 miles in 14 days, the first stage arrived in El Paso September 30, 1858. Out some 25 miles on this same route is Hueco Tanks, an early day Indian rendezvous and watering stop, while 154 miles from El Paso is the world renowned Carlsbad Caverns National Park, discovered in 1901. 1962]]></description>
     <Point><coordinates>-106.480264,31.781106,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Camino Real</name>
-    <description><![CDATA[Installed near Tigua Arts and Crafts Center in 1983. One of five markers by this title in El Paso County. Marker reported missing Jan. 2007. Map dot approximate.<br/><br/><b>Address:</b> 119 S. Old Pueblo Road, El Paso<br/><br/><b>Marker Text:</b> For more than 200 years the Camino Real, or Royal Road, was the major route for transporting commercial goods from Mexico City and Chihuahua to Santa Fe and Taos. First traveled by Juan de Onate during his 1598 expedition to New Mexico, the Camino Real followed the San Elizario, Socorro, and Ysleta Road, crossed the Rio Grande west of present downtown El Paso, and continued north into New Mexico. When the Rio Grande was established as the U.S. - Mexico boundary in 1848, this section of the old Camino Real became part of the United States. (1983)]]></description>
-    <Point><coordinates>-106.326491,31.689063,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Camino Real</name>
-    <description><![CDATA[Installed in 1983 at SE corner of Doniphan Dr. (SH 20) and Coates Dr. Marker reported missing Jan. 2007. Map dot approximate. One of five markers by this title in El Paso County.<br/><br/><b>Address:</b> 5800 Doniphan Dr., El Paso<br/><br/><b>Marker Text:</b> For more than 200 years the Camino Real, or Royal Road, was the major route for transporting commercial goods from Mexico City and Chihuahua to Santa Fe and Taos. First traveled by Juan de Onate during his 1598 expedition to New Mexico. The Camino Real followed the San Elizario, Socorro, and Ysleta Road, crossed the Rio Grande west of present downtown El Paso, and continued north into New Mexico. When the Rio Grande was established as the U.S.-Mexico boundary in 1848, this section of the old Camino Real became part of the United States. (1983)]]></description>
-    <Point><coordinates>-106.326491,31.689063,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The City of El Paso</name>

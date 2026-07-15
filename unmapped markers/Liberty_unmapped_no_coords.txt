@@ -1,4 +1,4 @@
-Liberty unmapped markers with NO usable address (8):
+Liberty unmapped markers with NO usable address (7):
 
   THC 24262: Ames Freedom Colony
     addr: Hwy 90 E., Ames
@@ -23,10 +23,6 @@ Liberty unmapped markers with NO usable address (8):
   THC 16067: Mexican Hill
     addr: Liberty
     https://atlas.thc.texas.gov/Details/5507016067
-
-  THC 9676: Near Site of Early Meat-Packing Plant
-    addr: US 90, Liberty
-    https://atlas.thc.texas.gov/Details/5291009676
 
   THC 23605: Pounds House
     addr: 3428 FM 770 North, Daisetta

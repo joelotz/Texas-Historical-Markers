@@ -46,7 +46,7 @@
   <Placemark>
     <name>Mercury Astronaut Campsite and Hunting Grounds</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 171 FM 2547, Fairfield<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.184140,31.761707,0</coordinates></Point>
+    <Point><coordinates>-96.18414,31.761707,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Moody-Bradley House</name>

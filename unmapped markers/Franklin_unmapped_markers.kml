@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Franklin County — Unmapped Historical Markers</name>
-  <description>THC markers in Franklin County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Franklin County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
   <Placemark>
     <name>Capt. F. Marion Hastings</name>
     <description><![CDATA[take SH 37 about 5 mi. south to FM 900, go west about 2 mi. to CR 3170, go south to Pleasant Hill Cemetery<br/><br/><b>Address:</b> Mt. Vernon<br/><br/><b>Marker Text:</b> (Nov. 17, 1823 - April 25, 1905) Confederate veteran. Enlisting in 1861, Dade County, Mo., served under Generals Sterling Price, Joseph O. Shelby, J. S. Marmaduke, in raids in Missouri, Arkansas and Louisiana. Surrendered June 13, 1865, at Shreveport. Moved to Texas in October 1865. Was a Franklin County commissioner, 1877-1881; county judge, 1886-1890. He married Harriet J. Irby of Yalobusha County, Mississippi. They had six children. (1970)]]></description>
@@ -17,11 +17,6 @@
     <name>Fairview Church and Cemetery</name>
     <description><![CDATA[11 mi. north of Mt. Vernon on SH 37, then 3.5 mi. west on FM 71<br/><br/><b>Address:</b> Mt. Vernon<br/><br/><b>Marker Text:</b> Kentucky native and cattleman Julian N. Kimberlin (1848-1932) donated five acres of land here in 1880 to the Methodist Episcopal Church, South, for Grange hall, church, school, and burial purposes. The first recorded burial was that of Wilson B. Westerman in 1881. Although a local Grange chapter evidently never was organized, a building was erected by 1885 that served as a school and sanctuary for the Fairview community. By the time the church building was destroyed by a storm in 1913 the Fairview Methodist Church was no longer active. the community erected a new building several miles south of the cemetery near the community of Oak Dale. The new structure, known as Oak Dale Church, housed Fairview School and served as a non-denominational church building. In 1928-29 Fairview citizens erected a new chapel adjacent to the cemetery. The building became the site for religious and funeral services and special events for a number of denominations in the area. The Perpetual Care Fairview Cemetery presently contains more than 300 burials. Among the people interred here are many of the pioneer settlers of the area and their descendants and Civil War veteran C. C. Choate. (1995) Sesquicentennial of Texas Statehood 1845-1995]]></description>
     <Point><coordinates>-95.308511,33.328909,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>J. A. Drummond Farm Home</name>
-    <description><![CDATA[MARKER REPORTED MISSING 3/2011<br/><br/><b>Address:</b> 45 CR SE 4135, Mt. Vernon<br/><br/><b>Marker Text:</b> Application: Built between 1854 and 1857. This house and farm have been in the same family since the house was built. The shutters, outside columns, and porch banisters are original and are in excellent condition. (1963)]]></description>
-    <Point><coordinates>-95.149875,33.120956,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Killingsworth Home</name>

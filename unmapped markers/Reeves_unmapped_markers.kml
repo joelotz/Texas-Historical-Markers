@@ -2,17 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Reeves County — Unmapped Historical Markers</name>
-  <description>THC markers in Reeves County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
-  <Placemark>
-    <name>Mentone</name>
-    <description><![CDATA[Mentone is the seat of Loving County. In 1967 a marker for Mentone was placed on the Loving County Courthouse grounds, and this marker was also placed in Reeves County, at the intersection of US 285 and SH 302, about six miles southwest of Mentone. Marker reported missing Jul. 2015.<br/><br/><b>Address:</b> US 285 at SH 302, Mentone<br/><br/><b>Marker Text:</b> Smallest County Seat in Texas Mentone (6 mi. east) Only town in Loving County -- last organized, most sparsely populated (both in total and per square mile) county in Texas. Established 1931 and named for an earlier town (10 miles north) which legend says was named by a French surveyor-prospector after his home on the Riviera. With population of 42, Mentone has no water system. (Water is hauled in.) Nor does it have a bank, doctor, hospital, newspaper, lawyer, civic club or cemetery. There are only two recorded graves in county. Some Indian skeletons, artifacts are found. Oil, farming, cattle country. (1967)]]></description>
-    <Point><coordinates>-103.643975,31.640119,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Orla</name>
-    <description><![CDATA[On US 285, in front of Old Store in Orla (marker reported missing 3/2017)<br/><br/><b>Address:</b> US 285, Orla<br/><br/><b>Marker Text:</b> Gateway to Red Bluff Lake, Guadalupe Mountains, Carlsbad Caverns recreational areas. Established 1890 on Pecos Valley Railroad. Developed during land promotions. Had school, general stores, hotel, livery stable. In 1931 remaining merchant and postmaster Hal Olds moved 1/4 mi. west to new highway. (1965)]]></description>
-    <Point><coordinates>-103.909034,31.825524,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Reeves County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
   <Placemark>
     <name>Reeves County</name>
     <description><![CDATA[Cedar and First Sts. (West of Pecos Museum)in the Museum Courtyard Pecos<br/><br/><b>Address:</b> Cedar &amp; 1st St., Pecos<br/><br/><b>Marker Text:</b> Formed from Pecos County, created April 14, 1883. Organized November 4, 1884. Named in honor of George Robertson Reeves 1826-1882. A colonel in the Confederate army; member of the Texas Legislature. Pecos, the county seat. (1936)]]></description>

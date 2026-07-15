@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Bexar County — Unmapped Historical Markers</name>
-  <description>THC markers in Bexar County without an HMDB id (isMissing excluded). 74 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
+  <description>THC markers in Bexar County without an HMDB id (isMissing excluded). 60 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
   <Placemark>
     <name>Alamo Iron Works</name>
     <description><![CDATA[<b>Address:</b> 101 Montana Street, San Antonio<br/><br/><b>Marker Text:</b> George Edward Holmgreen (1822-1899) migrated from his native Prussia to this country with his wife Bertha. From Florida, he made his way in the early 1870s to San Antonio. Holmgreen soon became the owner of Schuhle and Nixon Alamo Iron Works. The company made iron and brass castings and forged wrought iron railings and other parts needed in the early days of this frontier town. In 1884 the company moved from the corner of Market and Presa Streets on the San Antonio River to this location which was outside the city. A trail had to be cleared through mesquite brush to move the machinery. In the early days, muscles and steam engines were used to power the shops. Delivery was made by horsedrawn wagons. As products and services were needed by south Texas ranches and industries, the Alamo Iron Works secured or manufactured them. Where cast iron bridges and building components were once made, modern steels and alloys go into manufacturing. The company's present work force of more than 500 is represented by third and fourth generation employees. (1979)]]></description>
@@ -29,11 +29,6 @@
     <Point><coordinates>-98.495715,29.417489,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Battle of the Alazan</name>
-    <description><![CDATA[2300 W. Commerce. Marker reported missing Feb. 2007.<br/><br/><b>Address:</b> 2300 W. Commerce, San Antonio<br/><br/><b>Marker Text:</b> Fought in this vicinity June 20, 1813. One in chain of clashes between Spanish Royalists and insurgent elements in Coahuila and Texas, 1811-1813. Col. Ygnacio Elizondo was ordered to lead his Spanish Royalists force to Frio River -- but no further. Instead, the colonel, having changed sides twice since opening of hostilities in 1810 and wanting to redeem his honor by reconquering province of Texas for Spanish rule, came to the outskirts of San Antonio some 500 yards west of the Alazan. Underestimating enemy ability, he pitched camp without precaution, neglected to post scouts for pickets. Only 2 bastions of 6 artillery pieces protected camp. Women, children were allowed to mingle with troops. The republican army of the north was in position about camp at sunrise; bounty-collecting Indians were waiting to chase, capture, scalp runaway troops. Then, while Elizondo's men were at Mass, the 2-hour battle began. With a solid green banner for flag, the insurgent leader, Bernardo Gutierrez de Lara, led his men through the very center of Spanish camp. Only those mounted on fleet horses escaped. Elizondo, who had 2 horses shot from under him, managed to catch up with remnants of his army some 15 miles from the battlefield as they hurried to the Rio Grande. (1967)]]></description>
-    <Point><coordinates>-98.520194,29.427436,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Benjamin Grossenbacher House</name>
     <description><![CDATA[<b>Address:</b> 321 N Alamo, San Antonio]]></description>
     <Point><coordinates>-98.485886,29.428444,0</coordinates></Point>
@@ -44,11 +39,6 @@
     <Point><coordinates>-98.463693,29.468321,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Book Building</name>
-    <description><![CDATA[140 East Houston, San Antonio; MARKER REPORTED MISSING 5/2011 (may be inside building)<br/><br/><b>Address:</b> 140 East Houston, San Antonio<br/><br/><b>Marker Text:</b> During the 1850s, the U.S. Army occupied several stone and adobe buildings which stood at this site. Dwight Dana Book (1869-1955), a civil engineer and veteran of the Spanish-American War, bought the property in 1904. He had this red brick commercial building erected in 1906. Attorney's, realtors, architects, physicians and other tenants leased office space here. A popular club called the "Night Spot" was once located in the basement level. (1978)]]></description>
-    <Point><coordinates>-98.493369,29.426343,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Casa Villita</name>
     <description><![CDATA[<b>Address:</b> 511 Villita St, San Antonio]]></description>
     <Point><coordinates>-98.488605,29.421868,0</coordinates></Point>
@@ -57,16 +47,6 @@
     <name>Casino Club</name>
     <description><![CDATA[directly east of the library on West Market St., San Antonio<br/><br/><b>Address:</b> San Antonio<br/><br/><b>Marker Text:</b> Property of Casino Association, organized 1853 among cultured German settlers. Club house and opera building, erected 1858, had a theatre; a hall seating 700; banquet rooms; club rooms. Setting during Civil War for military balls, entertainments, suppers; tableaux, concerts and minstrel shows to benefit the Confederate cause; and meetings of ladies to roll bandages. The owners obtained the best artists of the day to perform here. In the 1850s one noted guest was Col. Robt. E. Lee. Later audiences included Gen. U.S. Grant and Buffalo Bill. (1965)]]></description>
     <Point><coordinates>-98.488296,29.423029,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Chihuahua Trail</name>
-    <description><![CDATA[NE corner of Castroville and Acme roads. Marker reported missing Oct. 2017.<br/><br/><b>Address:</b> Castroville Road, San Antonio<br/><br/><b>Marker Text:</b> This is route of an old Indian road, often path for Apache and Comanche depredations in Texas. Passed Castroville, Uvalde, Horsehead crossing on the Pecos; went through Presidio into northern Mexico. In some stretches, water holes were 40 miles apart. Men chewed boots, to slake thirst. At smell of water, oxen ran. Texans' commercial use began in 1835. Leather, silver, other metals came here over the road in big-wheel Mexican carts. On south to seaports went some of the goods. In the Civil War, the route brought rope, hats, shoes, salt and other goods to Texas.]]></description>
-    <Point><coordinates>-98.587494,29.409032,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Confederate Tannery</name>
-    <description><![CDATA[Brackenridge Park, San Antonio Zoo, near Cypress Pavilion, about 200 feet E of roundabout on St. Mary's St. and Tuleta Dr. Marker reported missing Jan. 2022.<br/><br/><b>Address:</b> 3903 N. St. Mary's St., San Antonio<br/><br/><b>Marker Text:</b> To fill footwear, harness and saddlery needs of the South; established 1863 on this site, then 2 miles above city limits. Operated in summer as well as winter, because tanning agent, a soup made of chopped mesquite wood, soaked deeply into hides. Thus, unlike other tannins, this prevented loss in hot weather. Plant treated 6,000 hides at a time. Shoemakers of Confederate Texas were to be concentrated here. A cotton and woolen mill, run by San Antonio River power, was also built on plant site. Other wartime Texas products included salt, hats, cotton cards. (1965)]]></description>
-    <Point><coordinates>-98.472421,29.463789,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Diaz House</name>
@@ -104,19 +84,9 @@
     <Point><coordinates>-98.638016,29.278712,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Fest-Steves Block</name>
-    <description><![CDATA[MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 115 Plaza de Armas, San Antonio<br/><br/><b>Marker Text:</b> This complex of four Victorian commercial structures faces Plaza de Armas, once the site of a colorful open-air market. German-born Edward Steves, A city alderman and lumber yard owner, erected the first of the 2-story buildings in 1880 on a lot next to the Spanish Governor's Palace. In 1884 Simon Fest built the adjacent Fashion Theatre and by 1888 completed two similar structures. Two of the limestone facades were destroyed in an 1891 fire and rebuilt with more elaborate brick detailing. From 1890 to 1968, Heusinger Hardware occupied part of the property. Recorded Texas Historic Landmark-1977]]></description>
-    <Point><coordinates>-98.494872,29.425293,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Fiesta House</name>
     <description><![CDATA[<b>Address:</b> 299 S Alamo St, San Antonio]]></description>
     <Point><coordinates>-98.487791,29.421708,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Fort Sam Houston, 4th U.S. Army Headquarters Quadrangle</name>
-    <description><![CDATA[Grayson Street Gate, quadrangle on New Braunfels Rd.; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 1405 E Grayson St, San Antonio]]></description>
-    <Point><coordinates>-98.463009,29.443088,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Friedrich Refrigeration Company</name>
@@ -199,29 +169,14 @@
     <Point><coordinates>-98.616798,29.493988,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Mission Concepcion</name>
-    <description><![CDATA[MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 800 Mission Road, San Antonio]]></description>
-    <Point><coordinates>-98.492116,29.39228,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Mission San Francisco de la Espada (Mission St. Francis of the Sword)</name>
     <description><![CDATA[Mission Drive, San Antonio<br/><br/><b>Address:</b> San Antonio<br/><br/><b>Marker Text:</b> Established in San Antonio in 1731. May have been named for statue of St. Francis in the chapel which, according to tradition, once grapsed a sword. One of the few missions near which descenants of the Indian converts and spaniards still live, Espada is considered by some to date back to Mission San Francisco De Los Tejas, founded in East Texas in 1690. A succession moves eventually brought it here. The original buildings at Espada, the farthest south of the five missions near San Antonio, were undoubtly of adobe. A wall surrounded the church (usually called a chapel), friary, granary,and work shops. Extensive farms and pastures lay nearby. By 1745 the Indians produced grain and beans, and the missioned owned 1,150 head of cattle and 750 sheep. One of the few remaining early structures is the southeast bastion (fortified round tower), which is the only mission fort left intact in San Antonio. Its three-foot rock walls, which contain holes for cannons and muskets, support a vaulted roof. Composing Espada's once-vital waterworks are a dam (one mile north), an irriation ditch, and a fine aqueduct (near this site)--the only extant spanich aqueduct in the United States.]]></description>
     <Point><coordinates>-98.449742,29.317316,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Mission San Jose</name>
-    <description><![CDATA[Mission San Jose,Mission Dr. San Antonio; MARKER REPORTED MISSING 6/2011<br/><br/><b>Address:</b> 6701 San Jose Drive, San Antonio<br/><br/><b>Marker Text:</b> N/A--medallion only]]></description>
-    <Point><coordinates>-98.478887,29.360346,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Mission San Juan Capistrano</name>
     <description><![CDATA[(San Juan Mission Parking lot) On mission Rd/Espada Rd., just S. of loop 13, San Antonio<br/><br/><b>Address:</b> 9101 Graf Rd., San Antonio<br/><br/><b>Marker Text:</b> Founded in March, 1731, by Franciscan missionaries on the banks of the San Antonio River; Named for St. John of Capistrano, who in 1456 lead a European religious crusade that saved the city of Belgrade from infidels. Mission San Juan was a successor to Mission San Jose De Los Nazonis, established in 1716 in east Texas. It moved here due to the difficulty of defense. One of a complex of missions, San Juan was devoted to the cultural and religious conversion of the Coahuiltecan-speaking Indians of south Texas. During the uncertain early years, buildings were constructed, crops planted, and the Indians had to be continually persuaded to stay long enough to reap the benefits of civilization. Apache raids, cholera and smallpox epidemics, and harassment by the civil authorities also plagued the missions constantly. By 1762, however, San Juan had surplus harvests of corn, cotton, beans, chili peppers, watermelons,and cantaloupes. It also owned numerous cattle, sheep, goats, and horses. The 203 resident Indians lived in thatched huts; the chapel and convent were of stone. The mission was secularized in 1794. In 1967, when the buildings were restored, many artifacts relating to the three centuries of occupancy were unearthed. (1967)]]></description>
     <Point><coordinates>-98.454553,29.333963,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Moos Homestead</name>
-    <description><![CDATA[NW corner I-10 southbound access road and Utex Blvd on commercial property. Marker reported missing Dec. 2005.<br/><br/><b>Address:</b> 14610 I-10 W., San Antonio<br/><br/><b>Marker Text:</b> 1850. Built near Leon Creek headwaters by immigrant John Moos and bride Rosina. Of field stone, mortared with caliche; design typical of pioneer Texas Germans. Used as relay station for stagecoaches, San Antonio to El Paso and California. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-98.597798,29.580604,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Navarro Houses</name>
@@ -232,11 +187,6 @@
     <name>Old Houston Road</name>
     <description><![CDATA[Lincoln Park, 3000th Block E. Commerce, San Antonio<br/><br/><b>Address:</b> San Antonio<br/><br/><b>Marker Text:</b> Near this site. Link from Old Spanish Texas to Austin Colony and ports of Houston, Galveston. Vital to freight and passenger travel. In early days, numerous streams were forded or swum. It was common for a carriage to overturn in a river, uncommon for no one to be injured. Adults often rode horseback. Sleds and wagons hauled children, baggage. The Buffalo Bayou, Brazos &amp; Colorado Railroad, started in 1852, built to Alleyton by 1860, shortned the way to Houston. In the Civil War, 1861-65, used for armies, goods, cotton, from coast, east Texas and Louisiana.]]></description>
     <Point><coordinates>-98.444162,29.419531,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Old Military Hospital</name>
-    <description><![CDATA[Soledad Street, south of Houston Street. Marker reported missing Apr. 2013.<br/><br/><b>Address:</b> San Antonio<br/><br/><b>Marker Text:</b> Operated at this site 1861-1865, as San Antonio was a hub of Civil War troops and supply. Drew casualties and the sick of frontier commands from the Red River to Rio Grande. In camps, farm boys took whooping cough, measles--from first exposure in their lives. Convalescents and volunteer local ladies were nurses. City homes sent in delicate foods; patients ate well. To cope with medical shortage, doctors had local people gather wild herbs: foxglove, mullein, jimson, poke. Encouraged patriots to supply narcotics by growing and milking garden poppies. (1965)]]></description>
-    <Point><coordinates>-98.492888,29.426233,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Portland Cement Plants</name>
@@ -252,11 +202,6 @@
     <name>Robert B. Evans Home</name>
     <description><![CDATA[E. Evans Road, west side, north of Wagon Road, northwest of Selma<br/><br/><b>Address:</b> 7950 E. Evans Rd., San Antonio<br/><br/><b>Marker Text:</b> Built in 1882 of stone from Buda (45 mi. NE). On east side is an 1865 smokehouse. Evans (1821-1905) left his native Tennessee in 1847; went to California in 1849, where he panned enough gold to buy this land, 1865. He and his wife Rebecca (Murchison) reared nine children here. Recorded Texas Historic Landmark - 1969]]></description>
     <Point><coordinates>-98.329502,29.605892,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Ruiz House</name>
-    <description><![CDATA[Witte Museum grounds (The Market). Medallion reported missing Feb. 2018.<br/><br/><b>Address:</b> 3801 Broadway, San Antonio<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-98.467118,29.461996,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Saint John's Lutheran Church (San Antonio)</name>
@@ -277,11 +222,6 @@
     <name>Salem Cemetery</name>
     <description><![CDATA[<b>Address:</b> 9827 Loop 106, Sayers<br/><br/><b>Marker Text:</b> Salem Cemetery Established 1880 Historic Texas Cemetery - 2006]]></description>
     <Point><coordinates>-98.294104,29.375404,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>San Fernando Cathedral</name>
-    <description><![CDATA[Main Ave., at main plaza; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 126 E. Main Plaza, San Antonio]]></description>
-    <Point><coordinates>-98.493339,29.423201,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Schultze Hardware Store</name>
@@ -321,16 +261,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
     <name>Stockman Building</name>
     <description><![CDATA[<b>Address:</b> 412 E Commerce St, San Antonio]]></description>
     <Point><coordinates>-98.488942,29.423883,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Alamo</name>
-    <description><![CDATA[Alamo Plaza; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 300 Alamo Plaza, San Antonio<br/><br/><b>Marker Text:</b> [no text--medallion only]]]></description>
-    <Point><coordinates>-98.486815,29.425845,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Matamoros Road</name>
-    <description><![CDATA[NE corner of Roosevelt and Ashley streets. Marker reported missing Sep. 2016.<br/><br/><b>Address:</b> Ashley Rd., San Antonio<br/><br/><b>Marker Text:</b> Near this site, used by Indians and the Spanish before 19th century Anglo-American settlement of Texas. Path of armies, missionaries and commerce. About 330 miles long, the route varied with seasons, depending on chances to water teams pulling wagons or carts. Driest stretch was from the Nueces to the Rio Grande. The trip from San Antonio to Matamoros took 6 to 8 weeks, even when delays did not occur. Bandits were an added danger. Slow-moving wagon trains attracted robbers on fast horses. Teamsters learned to hide money in bags of grain or potatoes. They would even bore holes in cart axles, put gold in, plug each hole, cover the spot with black grease. During the Civil War, this was main artery of the cotton road, lifeline of the Confederacy. Wisps of cotton thorned into mesquite trees marked its way. A 6-mule wagon would haul up to 12 bales of cotton. A solid-wheel Mexican cart drawn by 10 oxen hauled up to 16 balees. When teams grew exhausted, bales of cotton would be thrown off and hidden, so that the teamster might pick them up later. In extremely hot, dry weather, the way would be lined with discards. Returning wagons brought guns, ammunition, cloth and other goods so much needed by the Confederacy. (1965)]]></description>
-    <Point><coordinates>-98.480881,29.334192,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] The Pajalate Language</name>

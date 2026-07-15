@@ -63,7 +63,7 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <description><![CDATA[1004 Palmer St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1004 Palmer St., Houston<br/><br/><b>Marker Text:</b> Charles W. Luckie was born into slavery on August 3, 1861. He studied at Atlanta University, graduating in 1883. Luckie then moved to Texas and was hired as the principal of Huntsville’s first school to offer primary, normal and collegiate classes for black students. In 1888, he accepted a position at Prairie View State Normal and Industrial College (now Prairie View A&amp;M University). During his 20 years with the college, he served in many positions, including professor of English, Latin and history, as well as bookkeeper, treasurer and vice principal. He also taught during the summers at various locations around the state. In 1893, he married Ida Bell Evans (1865-1919). Luckie died January 1, 1909 at age 47.
   A new six-room wood frame elementary school for black students in Houston’s Third Ward was built at a cost of $5,700 and opened on April 5, 1909. The district’s black principals met and unanimously proposed that it be named after Professor Luckie. On May 11, the school board agreed, thus Charles W. Luckie school became the first Houston school to be named for a Black Texas educator. Just two weeks later, Prairie View College named a new building containing classrooms and student residences as Luckie Hall. 
   A two-room annex was added to the Luckie School in 1911. The main building burned in February 1918 and was replaced in September 1919 with a two-story eight-room brick building at a cost of $16,751. The staff included John Logan Blount, renowned Houston architect; Julius N. Dodson, the school’s first principal; Jeremiah Johns, the school’s last principal; Mabel Fairchild, teacher; and Pauline Patten, the mother of Thelma Patten Law, the first Black woman in Houston to practice medicine. A fire next to the school in June 1944 caused its closure. It has since been used as a Houston ISD administration building and a commercial property. (2022)]]></description>
-    <Point><coordinates>-95.347055,29.746060,0</coordinates></Point>
+    <Point><coordinates>-95.347055,29.74606,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>City of Goose Creek</name>
@@ -111,7 +111,7 @@ HISTORIC TEXAS CEMETERY – 2009]]></description>
   <Placemark>
     <name>Hill of Rest Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1600 Market St., Baytown<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.983015,29.732910,0</coordinates></Point>
+    <Point><coordinates>-94.983015,29.73291,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Hillendahl Cemetery</name>

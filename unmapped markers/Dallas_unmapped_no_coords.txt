@@ -1,16 +1,8 @@
-Dallas unmapped markers with NO usable address (7):
+Dallas unmapped markers with NO usable address (5):
 
   THC 14054: Assassination of JFK, Site of
     addr: Dallas
     https://atlas.thc.texas.gov/Details/5507014054
-
-  THC 24176: Hilliard Memorial Golf Course
-    addr: 6743 Mable St., Dallas
-    https://atlas.thc.texas.gov/Details/5000024176
-
-  THC 22699: Johnny Graham and Graham's Barber Shop
-    addr: Hwy 352 & Al Lipscomb Way, Dallas
-    https://atlas.thc.texas.gov/Details/5000022699
 
   THC 16121: Leadbelly in Deep Ellum
     addr: Dallas

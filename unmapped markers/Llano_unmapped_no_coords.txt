@@ -1,8 +1,4 @@
-Llano unmapped markers with NO usable address (8):
-
-  THC 9436: Castell
-    addr: Castell
-    https://atlas.thc.texas.gov/Details/5299009436
+Llano unmapped markers with NO usable address (7):
 
   THC 12033: Chew Cemetery
     addr: Llano

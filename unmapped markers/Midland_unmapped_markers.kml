@@ -2,16 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Midland County — Unmapped Historical Markers</name>
-  <description>THC markers in Midland County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Midland County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Dorsey Home</name>
     <description><![CDATA[213 N. Weatherford St., Midland<br/><br/><b>Address:</b> 213 N Weatherford St., Midland<br/><br/><b>Marker Text:</b> Z. Taylor Brown, builder. Ornate trim, art glass window. Two fireplaces, oak mantels. Recorded Texas Historic Landmark - 1965]]></description>
     <Point><coordinates>-102.072055,31.998829,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>First Post Office in Midland</name>
-    <description><![CDATA[George H.W. Bush and George W. Bush United States Court House and George Mahon Federal Building, SE corner E. Wall and S. Main streets. Marker reported missing Dec. 1999. Map dot approximate.<br/><br/><b>Address:</b> 100 E Wall St., Midland<br/><br/><b>Marker Text:</b> When first post office opened here Jan. 4, 1884, with Charles H. Welch as postmaster, settlers proposed to name the town Midway, because it was halfway between Ft. Worth and El Paso. Finding that another post office in Texas had that name, they chose Midland instead. Site of the first post office was 108 East Missouri, location of main loading dock of the current facility. Postal headquarters moved four times before returning to the original site upon completion of the new federal building (1974). Midland Post Office now serves a region of 32,000 square miles. (1974)]]></description>
-    <Point><coordinates>-102.073713,31.996922,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Greenwood Baptist Church</name>
@@ -34,11 +29,6 @@
     <name>Midland Man</name>
     <description><![CDATA[Courthouse Square, corner of Wall St. &amp; N. Colorado, Midland<br/><br/><b>Address:</b> Wall &amp; Colorado St., Courthouse square, Midland<br/><br/><b>Marker Text:</b> Oldest human remains in new world. Found 1953 on ranch near here by pipeline welder Keith Glasscock. Fossilized skull, rib and hand bones had been exposed by weather conditions. Tests indicated these were bones of a woman who lived as long ago as 9000-9500 B. C.; nearby were bones of extinct species of horse, camel, mammoth, peccary, wolf, sloth; with weapons, tools and signs of ancient campfires. Drs. Fred Wendorf and Alex D. Kreiger, archaeologists; Claude C. Albritton, geologist; T. D. Stewart, physician and anthropologist, made studies of the discovery.]]></description>
     <Point><coordinates>-102.076791,32.001218,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Site of Early Water Well</name>
-    <description><![CDATA[Near intersection of Missouri Ave. and Baird St. Marker reported missing Dec. 1999.<br/><br/><b>Address:</b> Baird St., Midland<br/><br/><b>Marker Text:</b> County's first well; dug by hand, 1884, it supplied the entire town. Formerly water had been shipped by rail from Monahans (50 mi. W). Well--6 feet wide, 50 feet deep--was equipped with a hand pump and a bucket rest (under spout). It also furnished water for town cattle trough. (1969)]]></description>
-    <Point><coordinates>-102.073138,31.996643,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The Petroleum Building</name>

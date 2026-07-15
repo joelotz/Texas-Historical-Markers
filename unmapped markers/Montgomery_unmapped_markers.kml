@@ -2,16 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Montgomery County — Unmapped Historical Markers</name>
-  <description>THC markers in Montgomery County without an HMDB id (isMissing excluded). 17 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <description>THC markers in Montgomery County without an HMDB id (isMissing excluded). 16 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
   <Placemark>
     <name>Baker Cemetery</name>
     <description><![CDATA[Baker Cemetery Road<br/><br/><b>Address:</b> Magnolia<br/><br/><b>Marker Text:</b> Baker Cemetery Established CA. 1855 Historic Texas Cemetery-2008]]></description>
     <Point><coordinates>-95.676024,30.116182,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Crater Hill</name>
-    <description><![CDATA[FM 1485, W side of Crystal Creek, 0.3 mi. W of Waukegan Rd. Original 1967 inscription revised in 1995. Marker reported missing Jan. 2006. Map dot approximate.<br/><br/><b>Address:</b> FM 1785, Conroe<br/><br/><b>Marker Text:</b> Oil wells known as Madeley No. 1 and No. 2, drilled in 1933 by Standard Oil Company of Kansas, came in on fire and threatened the entire Conroe oil field. The flames reached as high as 150 feet as firefighters struggled for three months to control the inferno with water, mud, and explosives. Finally Humble Oil Company, using a method never before tested on the Texas Gulf Coast, drilled a directional well, pumped mud into the crater caused by the blowouts, and extinguished the fires. Crater Lake, created by the explosions, remains on the site. (1967, 1995)]]></description>
-    <Point><coordinates>-95.353053,30.29578,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Danville Cemetery</name>
@@ -21,7 +16,7 @@
   <Placemark>
     <name>Girl Scouts Camp Robinwood</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 9877 Calvary Road, Willis<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-95.514834,30.460280,0</coordinates></Point>
+    <Point><coordinates>-95.514834,30.46028,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>J. S. Griffith Home</name>

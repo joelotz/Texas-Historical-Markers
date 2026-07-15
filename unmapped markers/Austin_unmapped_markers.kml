@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Austin County — Unmapped Historical Markers</name>
-  <description>THC markers in Austin County without an HMDB id (isMissing excluded). 27 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <description>THC markers in Austin County without an HMDB id (isMissing excluded). 25 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
   <Placemark>
     <name>Bellville High School</name>
     <description><![CDATA[Bellville ISD Administration Building, in front of historic high school off O'Bryant St. entrance<br/><br/><b>Address:</b> 518 S. Matthews St., Bellville<br/><br/><b>Marker Text:</b> Bellville’s 1918 two-story brick schoolhouse served all grades, but by the 1930s had overcrowding and structural problems. An initial application for funds from the Public Works Administration (PWA), a federal New Deal program, was denied in 1936. After H.F. Granau led 40 citizens in signing a petition, the board of trustees voted to issue bonds for $50,000, and a second application to the PWA secured an additional $58,000. Blum E. Hester was the architect and A.N. Evans was the contractor for a new high school and gymnasium (also used as an auditorium), which opened in 1939 with U.S. Senator Tom Connally making the dedicatory address. The facility was the high school until 1970, then served other grades and school used until being renovated in 2006 as the school district’s administration building and BISD school museum. (2018)]]></description>
@@ -27,11 +27,6 @@
     <name>Haynie-Embrey House</name>
     <description><![CDATA[from Nelsonville, take FM 2502 northwest about 4.3 miles to J-Farms, go south about 5 miles to house<br/><br/><b>Address:</b> Nelsonville<br/><br/><b>Marker Text:</b> In 1887 Nellie Brophy Haynie (1860-1937) a widow with one son Robert (1880-1955), married Confederate Army veteran John T. Embrey (d. 1918). They built this frame Victorian house in Brenham in 1899-1900. Here they raised a family of five children. Robert Haynie and his half brother Wilford J. Embrey (1889-1975) attended law school at the University of Texas. Haynie became a prominent attorney in Abilene and a leader in the West Texas Chamber of Commerce. Embrey was Brenham city attorney for 50 years and a school board member for over 30 years. The Embrey home was moved to this site in 1975. (1978)]]></description>
     <Point><coordinates>-96.460225,30.01294,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hess-Kollatschny Farm House</name>
-    <description><![CDATA[Roff  Ranch, 2 miles from Cat Spring Agricultural Hall; MARKER REPORTED MISSING 5/2011<br/><br/><b>Address:</b> 14992 Cherry Blossom Ln, Cat Spring<br/><br/><b>Marker Text:</b> Austrian-born Henry Hess (1851-1914) and his wife Fransiska (Schlapota) (b. 1854) built this cottage in 1876-77 in the German settlement of Cat Spring. Purchased by Charles (b. 1875) and Fannie (b. 1879) Kollatschny in 1904, the home was enlarged about 1915 and remained in that family over 50 years. Now located northwest of its original location, it features the original cypress siding and interior stenciling. The fine German craftsmanship is a tribute to Austin County's early settlers. Recorded Texas Historic Landmark - 1982]]></description>
-    <Point><coordinates>-96.338483,29.8844,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Industry State Bank</name>
@@ -82,11 +77,6 @@
     <name>Samuel Shelburne Cemetery</name>
     <description><![CDATA[Industry, 1.3 mi. N on SH 109, then E on Mertz Lane 0.8 mi., then 250 yds NW<br/><br/><b>Address:</b> Industry<br/><br/><b>Marker Text:</b> Samuel Shelburne Cemetery Established 1863 Historic Texas Cemetery - 2003]]></description>
     <Point><coordinates>-96.488632,29.995363,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>San Felipe Town Hall</name>
-    <description><![CDATA[Marker reported missing May 2011.<br/><br/><b>Address:</b> 927 Sixth St., San Felipe<br/><br/><b>Marker Text:</b> Successor to 1828 hall used by "Ayuntamiento" (town council). Conventions of 1832, 1833, and Consultation of 1835 -- leading to Texas Revolution -- met there. Burned during Revolution in 1836. Two story section of present structure was built about 1842 and may have served as county courthouse until 1847. It was joined to a one story school after 1900; moved to this site, 1915. By old custom, council meets each Saturday before full moon. Recorded Texas Historic Landmark - 1970]]></description>
-    <Point><coordinates>-96.09653,29.798927,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Shelburne-Reinecker House</name>

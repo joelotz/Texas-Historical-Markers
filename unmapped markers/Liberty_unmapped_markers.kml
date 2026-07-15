@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Liberty County — Unmapped Historical Markers</name>
-  <description>THC markers in Liberty County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <description>THC markers in Liberty County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
   <Placemark>
     <name>Andrew Jackson Isaacks</name>
     <description><![CDATA[Oak Shade Cemetery, S of Oak Shade Baptist Church, CR 2212 (Oakshade Rd.), 5.6 mi. NE of Cleveland. Map dot approximate.<br/><br/><b>Address:</b> 1807 CR 2212, Cleveland<br/><br/><b>Marker Text:</b> (December 3, 1817 - January 18, 1864) Born in Jackson, Mississippi. Fought in the Texas Revolution in 1835. Served as sheriff of Jasper County, 1841-1842. Married Miss Sicily Beatty in 1842. they had eight children. A farmer and rancher, Isaacks was the first postmaster at Tarkington Prairie, 1853-1854, at that time in Liberty County. He belonged to Baptist church. Upon his death he was buried at Tarkington Prairie. Remains were reinterred here in 1970. Recorded - 1970]]></description>
@@ -11,7 +11,7 @@
   <Placemark>
     <name>Bailey's Corner</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1825 Trinity St., Liberty<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.797990,30.059863,0</coordinates></Point>
+    <Point><coordinates>-94.79799,30.059863,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Cooke-Griffin Methodist Cemetery</name>

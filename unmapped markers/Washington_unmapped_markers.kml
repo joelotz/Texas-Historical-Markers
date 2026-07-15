@@ -83,7 +83,7 @@
     <description><![CDATA[5810 Jaeger Rd. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 5810 Jaeger Rd., Burton<br/><br/><b>Marker Text:</b> A well-preserved example of a family cemetery founded by German immigrants to Texas, the Jaeger-Witte Cemetery begins with two related families, the Hagedorns and the Wittes, settling in Washington County in the 1850s. There were already two graves when Carl Hagedorn died in 1865. The land around the cemetery was given to his daughter Adele. Her son, Paul, inherited the land and sold it to Henry Jaeger Sr. and his wife Alvine. At that time, the cemetery was expanded to a quarter acre. The Jaegers made a section for family graves and the name was changed to Jaeger-Witte Cemetery, since the Hagedorns had married into the Witte family. The cemetery is still in use by the Jaeger family.
 
 HISTORIC TEXAS CEMETERY – 2019]]></description>
-    <Point><coordinates>-96.612870,30.096783,0</coordinates></Point>
+    <Point><coordinates>-96.61287,30.096783,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>James Walker Log House</name>
@@ -158,7 +158,7 @@ HISTORIC TEXAS CEMETERY – 2019]]></description>
   <Placemark>
     <name>Old Dippel House</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 701 S. Chappell Hill St., Brenham<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.388920,30.163696,0</coordinates></Point>
+    <Point><coordinates>-96.38892,30.163696,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Pampell-Day Homestead</name>

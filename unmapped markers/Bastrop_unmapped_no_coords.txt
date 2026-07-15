@@ -1,4 +1,4 @@
-Bastrop unmapped markers with NO usable address (14):
+Bastrop unmapped markers with NO usable address (13):
 
   THC 9196: Abram Wiley Hill
     addr: Bastrop
@@ -42,10 +42,6 @@ Bastrop unmapped markers with NO usable address (14):
   THC 9227: Sayers - Walton Ranch House
     addr: Bastrop
     https://atlas.thc.texas.gov/Details/5021009227
-
-  THC 7164: Site of Early Bastrop County Fort
-    addr: Bastrop
-    https://atlas.thc.texas.gov/Details/5021007164
 
   THC 9234: Trigg Home (Henry E. McGehee House)
     addr: Bastrop

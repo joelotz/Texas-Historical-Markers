@@ -2,16 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Wilson County — Unmapped Historical Markers</name>
-  <description>THC markers in Wilson County without an HMDB id (isMissing excluded). 10 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <description>THC markers in Wilson County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
   <Placemark>
     <name>Albert Kosub House</name>
     <description><![CDATA[From 1346 turn left at first gravel road, about 4 miles, take a right, go about 1/2 mile, go left until approach mailboxes, proceed straight up driveway/dirt road to home.<br/><br/><b>Address:</b> 500 E San Antonio Ave, LaVernia<br/><br/><b>Marker Text:</b> --]]></description>
     <Point><coordinates>-98.132581,29.4108,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Beauregard Ranch</name>
-    <description><![CDATA[From Poth, about 4.5 mi. SE on US 181 near CR 202. Marker reported missing Mar. 2009. Map dot approximate.<br/><br/><b>Address:</b> US 181, Poth<br/><br/><b>Marker Text:</b> Founded 1852, by Augustin Toutant-Beauregard, of landed Creole gentry who traced lineage to 16th century Spanish nobility. Brother was Confederate General Pierre Gustave Toutant-Beauregard. Stone-mounted iron rings were part of scaffolding used to butcher hogs. (1967)]]></description>
-    <Point><coordinates>-98.053204,29.019287,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Charles Carl Winkler House</name>

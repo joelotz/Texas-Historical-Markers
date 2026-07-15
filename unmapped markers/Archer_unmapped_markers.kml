@@ -2,21 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Archer County — Unmapped Historical Markers</name>
-  <description>THC markers in Archer County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in Archer County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Alex Albright</name>
     <description><![CDATA[In TxDOT storage.  Will relocate when road construction is complete.<br/><br/><b>Address:</b> 11165 TX-97, Dundee<br/><br/><b>Marker Text:</b> (September 22, 1861 - April 8, 1937) A pioneer American karakul breeder. Born in Nebraska; grew up in cattle business. In 1890 came to Dundee; opened a general store. Built Elm Lodge Ranch (1400 acres on Holliday Creek, 4 mi. SE). At first raised purebred Lincoln sheep. In 1910, with help of U.S. ex-President Theodore Roosevelt and the Czar of Russia, he imported valuable karakul sheep from Asia. Later his upbred flock of 1200 took prizes all over the world. Albright's first wife, Dorothy Jane Duncan, died in 1900. Second wife, Marie Sahores, assisted him in ranching business. Daughters were Zella, Ester, and Marie. (1971) Erected by Mrs. Jake Webb (Zella Albright) and Archer County Historical Survey Committee. (1971)]]></description>
     <Point><coordinates>-98.873803,33.750197,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Archer County Courthouse</name>
-    <description><![CDATA[Archer County Courthouse. Marker reported missing May 2018.<br/><br/><b>Address:</b> 100 S. Center St., Archer City<br/><br/><b>Marker Text:</b> Courthouse, Archer County, 1891. Besides government, housed many pioneer social affairs. Dome, cupola removed, 1925. Recorded Texas Historic Landmark, 1965.]]></description>
-    <Point><coordinates>-98.625312,33.595083,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Battle of the Little Wichita</name>
-    <description><![CDATA[from Archer City, take FM 25 North about 2 miles to roadside park. Marker reported missing Mar. 2016.<br/><br/><b>Address:</b> Archer City<br/><br/><b>Marker Text:</b> In reaction to an Indian attack on a mail stage, Capt. Curwen B. McLellan set out on July 6, 1870, from Fort Richardson with 56 men of the 6th Cavalry. On July 12, McLellan's command encountered a war party of 250 Kiowas led by "Kicking Bird" near the north fork of the Little Wichita (6 miles NW). After a brief skirmish, McLellan ordered his troops into retreat, fighting a defensive battle across the middle and south forks of the Little Wichita. The Indians gave up the chase on the 13th. Corporal John Given and Private George Blume were killed; 13 Medals of Honor were awarded for heroism. (1974)]]></description>
-    <Point><coordinates>-98.672785,33.598826,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Bridwell Park</name>

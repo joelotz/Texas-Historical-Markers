@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Polk County — Unmapped Historical Markers</name>
-  <description>THC markers in Polk County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
+  <description>THC markers in Polk County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
   <Placemark>
     <name>Bold Springs Cemetery</name>
     <description><![CDATA[FM 350 N | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> FM 350 N, Livingston<br/><br/><b>Marker Text:</b> American settlement in this area began when families and enslaved persons from Louisiana arrived in the 1840s to engage in farming. The neighboring community of Colita grew, organizing Bethel Baptist Church in Colita in 1849. A few years later, the church built another church building in Bold Springs, also named Bethel Baptist Church, on two acres from Mary M. Poindexter. Services utilized the two buildings on a rotating schedule. The Bold Springs area became an attractive alternative in the 1860s when Colita experienced decline, and in 1871, Bethel Baptist Church officially moved to Bold Springs. Recognizing the need for a burial ground, the church set aside part of its land for that purpose. More land was added in 1893 from Thompson &amp; Tucker Lumber Company and in 1987 from Wirt Davis estates bringing the total land area for the cemetery to 3.41 acres.
@@ -81,11 +81,6 @@ HISTORIC TEXAS CEMETERY – 2022]]></description>
     <name>R.A. McCaghren Cemetery</name>
     <description><![CDATA[from Polk Co. courthouse, travel S. 2 mi. on S. Washington to entrance of Camp Cho-Yeh Presbyterian Encampment, from camp entrace road leads 1 mi. to cemetery<br/><br/><b>Address:</b> Livingston<br/><br/><b>Marker Text:</b> R.A. McCaghren Cemetery,established 1870. Historic Texas Cemetery-2002]]></description>
     <Point><coordinates>-94.928025,30.68501,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Site of Old Andress Inn</name>
-    <description><![CDATA[101 W. Mill St., Livingston, reported missing 2.25.2020, Replacement in progress (10/2020)<br/><br/><b>Address:</b> 101 W Mill St, Livingston<br/><br/><b>Marker Text:</b> Center civic, social and business affairs, early Polk County. Built about 1848 by James Andress, from South Carolina. Contained restaurant, saloon, grocery store, post office, stage station. Had livery stable nearby. Among noted guests was General Sam Houston. Recorded Texas Historic Landmark - 1967]]></description>
-    <Point><coordinates>-94.933459,30.709891,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sunflower Baptist Church</name>

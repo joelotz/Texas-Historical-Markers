@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Houston County — Unmapped Historical Markers</name>
-  <description>THC markers in Houston County without an HMDB id (isMissing excluded). 88 with THC coords; 0 geocoded from address; 29 omitted (no usable address).</description>
+  <description>THC markers in Houston County without an HMDB id (isMissing excluded). 86 with THC coords; 0 geocoded from address; 29 omitted (no usable address).</description>
   <Placemark>
     <name>A. E. Gossett Home</name>
     <description><![CDATA[from Crokett take SH 21 east about 1.7 miles<br/><br/><b>Address:</b> Crockett<br/><br/><b>Marker Text:</b> House of typical southern plan, with separate kitchen in back yard, Built 1835 by A. E. Gossett, owner of large land grant from Mexico. An early 1836 visitor was former Tennessee neighbor, Col. David Crockett, on his way to the Alamo, and camping with his company for a night at the spring nearby.]]></description>
@@ -149,11 +149,6 @@
     <Point><coordinates>-95.438593,31.482694,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Druso</name>
-    <description><![CDATA[Davy Crockett National Forest, 5.8 mi. E of Ratcliff, SH 7 at Forest Service Road 511. Marker reported missing Jan. 2008. Map dot approximate.<br/><br/><b>Address:</b> SH 7, Ratcliff<br/><br/><b>Marker Text:</b> When the Four-C Company built a large sawmill in nearby Ratcliff in 1900, the Eastern Texas Rail Line was built through the area for shipping. Druso was the only stop on the rail line between the Four-C mill and Lufkin, and changed from a farming to a logging boom town. Druso included a post office, cotton gin, general store, blacksmith and saloon. Children attended nearby Mt. Pisgah School. In 1920 the mill closed, the rail line was abandoned, and the town declined. Much of the land became part of the Davy Crockett National Forest in 1935. (1997)]]></description>
-    <Point><coordinates>-95.039896,31.388873,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Eastham Prison Farm</name>
     <description><![CDATA[16.5 miles southwest of Lovelady on FM 230<br/><br/><b>Address:</b> Lovelady<br/><br/><b>Marker Text:</b> The Eastham family purchased a 12, 790 acre plantation in 1891. Property was leased soon afterward to the Texas State Prison System for farming on a shared basis. The landowner supplied seed, machinery, tools and mules, while the state provided labor to plant, tend and harvest the crops. The state received 60 percent of the cotton and 50 percent of the sugar cane. The state bought the land in 1915 after the death of Mrs. Delha Eastham. Eastham Prison Farm was among the first to construct a maximum security building in 1919. The state ferry, erected in 1920 by convict labor, crossed the Trinity River into Madison County. Prisoners used picks and shovels to cut into the steep river banks to build a road wide enough for wagon travel. Unrest among the prisoners was curtailed when noted penologist O.B. Ellis, General Manager of the prison system including Eastham, ushered in more progressive treatment of the inmates. Advancements included improved living and working conditions, introduction of a library, gymnasium, craft shop and chapel, and an education program. Eastham continues to be a major part of the state's prison system. Community benefits include improved roads and a source of employment.]]></description>
     <Point><coordinates>-95.591789,30.968579,0</coordinates></Point>
@@ -249,11 +244,6 @@
     <Point><coordinates>-95.436977,31.541274,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>John Long</name>
-    <description><![CDATA[Glenwood Cemetery, south sector. Marker reported missing Jan. 2018.<br/><br/><b>Address:</b> E. Pease St., Crockett<br/><br/><b>Marker Text:</b> (May 7, 1792 - Oct. 17, 1859) Tennessee native John Long served in the War of 1812 before moving to Texas with his wife, Elizabeth, between 1836 and 1842. He and his sons, Samuel and William, were issued land certificates in Houston County and settled here, becoming involved in the early political and business development of the county. John Long served as the second chief justice (county judge) of Houston County and operated the Long Hotel and a general store on the courthouse square in Crockett. After Elizabeth's death, he married Emily Cash, and they were the parents of three children. Recorded - 2002]]></description>
-    <Point><coordinates>-95.46119,31.321302,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Joseph T. Bowman</name>
     <description><![CDATA[Guiceland Cemetery; 5 miles north of Grapeland on US Hwy 287, then east on Anderson CR 174 .7 mile<br/><br/><b>Marker Text:</b> A native of Illinois, Joseph T. Bowman was the son of Jesse B. Bowman, who died at the Alamo. Arriving in Texas in 1835, Joseph T. Bowman enlisted in a company known as U.S. Provisionals in Nacogdoches. In December 1835 he signed the Goliad Declaration of Independence, which resolved that Texas should become an independent Mexican state. Following the Texas Revolution, he served in the Republic of Texas Army. He and his family settled in this area about 1845. Married to the former Naphania Hardin, Joseph Bowman was the father of ten children.]]></description>
     <Point><coordinates>-95.480013,31.566654,0</coordinates></Point>
@@ -311,7 +301,7 @@
   <Placemark>
     <name>Old McCann Cemetery</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 331 Dogwood Lane West, Crockett<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-95.580170,31.408427,0</coordinates></Point>
+    <Point><coordinates>-95.58017,31.408427,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Shiloh Methodist Church and Campground</name>

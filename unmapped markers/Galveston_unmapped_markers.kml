@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Galveston County — Unmapped Historical Markers</name>
-  <description>THC markers in Galveston County without an HMDB id (isMissing excluded). 37 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Galveston County without an HMDB id (isMissing excluded). 35 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
   <Placemark>
     <name>[PENDING] Albertine Hall Yeager</name>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Marker pending<br/><br/><b>Address:</b> 1111 32nd St., Galveston]]></description>
@@ -37,16 +37,6 @@
     <name>Exploration of Galveston County</name>
     <description><![CDATA[Courthouse<br/><br/><b>Address:</b> 722 Moody Ave, Galveston<br/><br/><b>Marker Text:</b> --]]></description>
     <Point><coordinates>-95.086664,29.523195,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>First Lutheran Church</name>
-    <description><![CDATA[Marker reported missing Jun 2007.<br/><br/><b>Address:</b> 2415 Avenue G, Galveston<br/><br/><b>Marker Text:</b> One of earliest Evangelical Lutheran churches in Texas. Founded in 1850 by the Rev. G. Guebner, of the South Carolina Synod. Seven families were the charter members. The Rev. H. Wendt, second pastor, established day school. For the school and church, old Lyceum building was purchased in 1855. Modern building incorporates part of that structure. Church membership has rallied after hurricanes, yellow fever, war. Recorded Texas Historic Landmark - 1969]]></description>
-    <Point><coordinates>-97.35699,31.101634,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Flood &amp; Calvert Building</name>
-    <description><![CDATA[Marker reported missing Sep. 2008.<br/><br/><b>Address:</b> 2314 Strand, Galveston<br/><br/><b>Marker Text:</b> 1873. Has iron facade typical of thriving seaport cities. Erected by Weis Brothers, wholesale dealers and importers of staple and fancy dry goods, boots, shoes, hats, trunks and notions. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-94.795038,29.307137,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Galveston Chamber of Commerce</name>

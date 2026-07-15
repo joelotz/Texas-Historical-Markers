@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Orange County — Unmapped Historical Markers</name>
-  <description>THC markers in Orange County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in Orange County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
   <Placemark>
     <name>Abraham Winfree</name>
     <description><![CDATA[Winfree Cemetery #2, on Winfree Rd. 0.5 mi. W of SH 62/SH 73<br/><br/><b>Address:</b> 5185 Winfree Rd., Orangefield<br/><br/><b>Marker Text:</b> (1801-1865) A native of Louisiana, Abraham Winfree first came to present Orange County in 1830. He purchased land by 1831, and in 1833 brought his wife Millie and their five children to Texas. Their homestead on Cow Bayou was near the Opelousas Trail (La Bahia Road), an important early Texas travel route. Winfree made his living as a rancher, cattle drover, shingle maker, and logger. The Winfree home was the site of an election in November 1836 in which Claiborne West was elected to represent local citizens in the Congress of the Republic of Texas. The following year, Winfree was appointed county commissioner for his precinct. Eventually, the community that grew up in this area became known as Winfree. Abraham Winfree died in 1865 and was buried on his homestead in the same family graveyard where his wife Millie was interred. He requested that no stone be placed on his grave, and it remains unmarked. The cemetery became known as Winfree No. 1 after another family graveyard was established in the area. Winfree descendants continue to reside in Orange County. The community which still bears his name is testimony to the life of this pioneer Texas settler. (1992)]]></description>
@@ -21,7 +21,7 @@
   <Placemark>
     <name>City of West Orange</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2700 Western Ave., West Orange<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-93.761350,30.083707,0</coordinates></Point>
+    <Point><coordinates>-93.76135,30.083707,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>David Robert Wingate</name>
@@ -42,11 +42,6 @@
     <name>Jerome Swinford</name>
     <description><![CDATA[Evergreen Cemetery, Border and Jackson St.<br/><br/><b>Address:</b> Orange<br/><br/><b>Marker Text:</b> (Nov. 3, 1839 - July 13, 1906) Missouri native Jerome Swinford came to Sabine Pass in 1859 to enter the steamboat business. After serving in the Civil War, he moved to Orange where he worked in Alexander Gilmer's mill and later became a popular local merchant. An active Mason, Swinford served as mayor, school board member, and city alderman. He was also instrumental in the early planning of a ship channel at Sabine Pass. In 1888 he was elected to the Texas Legislature.]]></description>
     <Point><coordinates>-93.740807,30.083751,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>John Cole Homestead</name>
-    <description><![CDATA[3 mi. west on FM 2802 from SH 62, west of Marshall Willey Road. Marker reported missing Jun. 2012.<br/><br/><b>Address:</b> Texla Road (FM 2802), Mauriceville<br/><br/><b>Marker Text:</b> Pioneer settler John Cole (1805-75) migrated to Texas in 1828. An active resident of the Cow Bayou community, he served in the militia during the 1836 Texas War for Independence. Moving to this area, he built a log cabin on public land (5 mi. W). In 1848 he received a land grant for his homestead (.5 mi. N). Cole was a successful cattleman in northern Orange and southern Jasper counties. The community that developed around his land from 1830 to 1902 was known as the Cole settlement. He is buried in the family cemetery on his original homestead.]]></description>
-    <Point><coordinates>-93.92744,30.228228,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Linscomb Cemetery</name>

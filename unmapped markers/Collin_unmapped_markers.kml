@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Collin County — Unmapped Historical Markers</name>
-  <description>THC markers in Collin County without an HMDB id (isMissing excluded). 24 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
+  <description>THC markers in Collin County without an HMDB id (isMissing excluded). 23 with THC coords; 0 geocoded from address; 15 omitted (no usable address).</description>
   <Placemark>
     <name>Bowman Cemetery</name>
     <description><![CDATA[<b>Address:</b> 2700 Oak Grove, Plano<br/><br/><b>Marker Text:</b> BOWMAN CEMETERY ESTABLISHED 1868 HISTORIC TEXAS CEMETERY – 2008]]></description>
@@ -61,11 +61,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <name>Frognot Community</name>
     <description><![CDATA[FM 981 in the Frognot Community about 1/4 mile west of the intersection of Collin County Road 671<br/><br/><b>Address:</b> FM 981 (East), Blue Ridge<br/><br/><b>Marker Text:</b> Situated near creeks and branches in a valley east of Blue Ridge, the Frognot community (also known as Frog Not, Frog Nod, Frogknot) has a number of theories as to the origins of its name. Most of these theories involve frogs that appear in the nearby Indian Creek following a rain. Several theories are associated with the nearby Dixon consolidated school, which served as the foundation for the establishment of the community in the early 1900s. The school was founded in 1913 on land from Stephen Arnold Douglas Box. The school had a strict schoolmaster, Mr. Homer Parkins, who would not allow kids to bring frogs they captured in the creek to school. This policy evolved into several stories as to the origin of the community name. Another theory is that soon after the community was founded, the people attempted to eradicate the overabundant frog population. Within a short time, they virtually wiped out the frog populace, giving the community the name Frognot. Some believe that the community began as Frog Nod because the frogs were extremely loud while nodding off to sleep, and eventually became Frognot. Another theory is that the residents did not want a noisy railroad switch, which is also known as a railroad frog, and thus the community was named Frog Not. In the late 1930s, John and Ollie McGuffey opened the first general store. A second store was opened in the 1950s by Otis and Hazel Dixon. The Dixon Store served as the social center of the community and was the location of the foundation of the Frognot Water Supply Corporation. The concrete storm cellar from the Dixon School is all that remains of this rural community.]]></description>
     <Point><coordinates>-96.354716,33.303455,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Gough-Hughston House</name>
-    <description><![CDATA[1206 West Louisiana St. Marker reported missing Feb. 2011.<br/><br/><b>Address:</b> 1206 W. Louisiana, McKinney<br/><br/><b>Marker Text:</b> James Rowland Gough (1860-1916), a McKinney attorney, built this residence in 1898. He served as state representative and senator from this area. The home was sold to Wallace Hughston in 1918. Active in government, Hughston was elected to the Texas Senate and later served with the Texas Railroad Commission, State Board of Education and the Federal Housing Authority. The house is a good example of the Victorian style with Queen Anne detailing. Recorded Texas Historic Landmark - 1979]]></description>
-    <Point><coordinates>-96.626885,33.197331,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Granville Lively</name>

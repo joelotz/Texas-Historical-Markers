@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Nacogdoches County — Unmapped Historical Markers</name>
-  <description>THC markers in Nacogdoches County without an HMDB id (isMissing excluded). 23 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <description>THC markers in Nacogdoches County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
   <Placemark>
     <name>100th Anniversary of Oil in Nacogdoches County</name>
     <description><![CDATA[across from Old Stone Fort on Griffith &amp; Alumni, SFA Campus<br/><br/><b>Address:</b> Nacogdoches<br/><br/><b>Marker Text:</b> --]]></description>
@@ -74,15 +74,10 @@
     <Point><coordinates>-94.885761,31.821928,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Nicholas Adolphus Sterne</name>
-    <description><![CDATA[Oak Grove Cemetery. Marker reported missing Dec. 2017.<br/><br/><b>Address:</b> 196 N. Lanana St., Nacogdoches<br/><br/><b>Marker Text:</b> (April 5, 1801 - March 27, 1852) Arriving in New Orleans in 1817, German-Jewish emigrant Adolphus Sterne became a merchant and joined the Masonic Lodge. In 1826, when he settled in Nacogdoches, he became one of the first Scottish Rite Masons in Texas. He aided this cause of Texas independence during the Fredonian Rebellion and Texas Revolution. Sterne held several public offices locally and served in the State Legislature. He was married to Eva Catherine Rosine Ruff and had seven children.]]></description>
-    <Point><coordinates>-94.649927,31.603245,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Robert Bruce Blake</name>
     <description><![CDATA[101 W. Main St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 101 W. Main St., Nacogdoches<br/><br/><b>Marker Text:</b> Born in Moscow (Polk Co.), Texas, to Robert Bruce Blake Sr. and Sarah Elizabeth (Pratt) Blake, Robert Bruce Blake Jr. (1877-1955) was an important historian, translator and compiler of early Spanish, Mexican and Republic of Texas documents and archives in east Texas. Robert Jr. married Belle Patten in 1921, and the couple moved to Nacogdoches where Robert took a position as court reporter and county clerk. At the courthouse, he was exposed to the rich history of the old documents in the archives. He was inspired to painstakingly translate and type these old documents. During the approach of the Texas Centennial in 1936, the State of Texas authorized publication of numerous historical materials and tasked Blake with writing a booklet on Nacogdoches. Additionally, he was selected to determine the locations for granite markers honoring three Spanish missions, a presidio and other historic sites.  
   Several took notice of Blake’s work, and in 1942, Blake and his family moved to Austin where he continued his research at the Texas State Archives and the Barker Texas History Center Archives, where he was most likely assisted by Winnie Allen and her team. The cumulation of his research, 93 volumes of 300-400 pages each, is known as the Robert Bruce Blake Collection. In total, the collection is about 35,000 pages in length. Among the collection are documents relating to the Nacogdoches County clerk (1792-1837), the entire minutes of Nacogdoches town council (1828-1835), correspondence of Governors Salcedo and Martinez, applications for land grants, muster rolls for the Texas Revolution, boundary disputes and much more. Robert Blake’s contribution to early Texas history has proven invaluable to the generations of historians who benefit from his monumental work. (2022)]]></description>
-    <Point><coordinates>-94.656112,31.603870,0</coordinates></Point>
+    <Point><coordinates>-94.656112,31.60387,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sam P. Smith Place</name>
@@ -113,11 +108,6 @@
     <name>United States Occupation of Nacogdoches</name>
     <description><![CDATA[<b>Address:</b> 403 Weaver Street, Nacogdoches]]></description>
     <Point><coordinates>-94.661119,31.601507,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Zion Hill First Baptist Church</name>
-    <description><![CDATA[Corner of Boisdarc and Lanana streets. Marker reported missing Dec. 2017.<br/><br/><b>Address:</b> 324 N. Lanana St., Nacogdoches<br/><br/><b>Marker Text:</b> The Rev. Lawson Reed organized this black Baptist congregation in 1879 and led the first worship services under a brush arbor. This structure, erected in 1914 on land purchased from John Schmidt, was the third church building occupied by the membership. Designed by the noted German-born architect Dietrich Antone Wilhelm Rulfs (1848-1926), it combines Victorian styling with Gothic Revival detailing. Recorded Texas Historic Landmark - 1977]]></description>
-    <Point><coordinates>-94.648983,31.605094,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

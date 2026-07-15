@@ -1,4 +1,4 @@
-Goliad unmapped markers with NO usable address (7):
+Goliad unmapped markers with NO usable address (6):
 
   THC 738: Cart Wars
     addr: Goliad
@@ -19,10 +19,6 @@ Goliad unmapped markers with NO usable address (7):
   THC 23584: Stockton Charco Cemetery
     addr: 212 Stockton Charco Rd., Goliad
     https://atlas.thc.texas.gov/Details/5000023584
-
-  THC 14785: Treaty of 1824
-    addr: Goliad
-    https://atlas.thc.texas.gov/Details/5507014785
 
   THC 5673: W. J. Ed and Mary Elizabeth Lott House
     addr: Goliad

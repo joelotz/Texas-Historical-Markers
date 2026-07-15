@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Morris County — Unmapped Historical Markers</name>
-  <description>THC markers in Morris County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Morris County without an HMDB id (isMissing excluded). 8 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Hayes Cemetery</name>
     <description><![CDATA[<b>Address:</b> CR 1235, Daingerfield<br/><br/><b>Marker Text:</b> Hayes Cemetery Established c. 1850 Historic Texas Cemetery - 2004]]></description>
@@ -17,11 +17,6 @@
     <name>Ned Walker Home</name>
     <description><![CDATA[FM 144 about 2 mi. SW of Omaha<br/><br/><b>Address:</b> Omaha<br/><br/><b>Marker Text:</b> Built 1859, for pioneer J. G. Henderson. Hand-dressed pine in floors, ceilings, extra large interior doors were handmade. Recorded Texas Historic Landmark - 1967 Incise in base: Preserved by Mr. and Mrs. Ned Walker]]></description>
     <Point><coordinates>-94.755042,33.15328,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Omaha</name>
-    <description><![CDATA[Corner US 259 and 4th St. Marker reported missing Jan. 2008.<br/><br/><b>Address:</b> US 259, Omaha<br/><br/><b>Marker Text:</b> On Seidicum Line, the old Bowie-Red River counties boundary surveyed in 1840. Thompson Morris laid out "Morristown" in 1880, but post office was "Gravett." To arbitrate, a drawing from a hat suggested "Omaha," for old home of a settler from Alabama. Town is now a shipping center for plants and farm products. (1966)]]></description>
-    <Point><coordinates>-94.734175,33.184154,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rocky Branch</name>

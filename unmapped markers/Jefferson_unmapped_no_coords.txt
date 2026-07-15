@@ -1,4 +1,4 @@
-Jefferson unmapped markers with NO usable address (8):
+Jefferson unmapped markers with NO usable address (7):
 
   THC 15932: Beauxart Gardens
     addr: 8900 Block of Central Drive, Nederland
@@ -25,8 +25,4 @@ Jefferson unmapped markers with NO usable address (8):
   THC 22758: The Methodist Church in China
     addr: 205 W. Washington Ave., China
     https://atlas.thc.texas.gov/Details/5000022758
-
-  THC 10557: Visit Historic Sabine Pass
-    addr: Sabine Pass
-    https://atlas.thc.texas.gov/Details/5245010557
 

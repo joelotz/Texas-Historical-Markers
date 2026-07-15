@@ -2,16 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Edwards County — Unmapped Historical Markers</name>
-  <description>THC markers in Edwards County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <description>THC markers in Edwards County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
   <Placemark>
     <name>Hough-Haven</name>
     <description><![CDATA[corner of Austin and Sweeten Street; Rocksprings<br/><br/><b>Address:</b> Rocksprings<br/><br/><b>Marker Text:</b> Built 1897 by Samuel A. and Annie Bradford Hough. (Hough was one of first graduates, Texas A &amp; M) Home of attorneys, two county judges, district clerks. Scene of numerous social events. The Houghs still own the "Haven." Recorded Texas Historic Landmark, 1966.]]></description>
     <Point><coordinates>-100.208947,30.017528,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Stopping Place on the Fort Clark-Fort McKavett Military Road</name>
-    <description><![CDATA[From Rocksprings, US Highway 377 northeast approximately 20.5 miles. South side of the road east of South Llano River crossing, 12 miles NE of SH 41. Marker reported missing Nov. 2007.<br/><br/><b>Address:</b> US 377, Rocksprings<br/><br/><b>Marker Text:</b> One of many roads built to connect frontier cavalry posts in Texas, this route led south to Fort Clark and north to Fort McKavett (both established in 1852). Paint Rock Springs, located here at the head of the South Llano River, was a natural midway rest stop. In 1877 Major John B. Jones' Texas Rangers assembled here to begin a major offensive to capture frontier outlaws. In addition to its military uses, the Fort Clark-Fort McKavett Road provided an accessible route for immigrants, cattle drovers, pioneer ranchers, mail carriers, and freighters. (1968, 1990)]]></description>
-    <Point><coordinates>-100.004137,30.225994,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Turner-Davis Ranch Headquarters</name>

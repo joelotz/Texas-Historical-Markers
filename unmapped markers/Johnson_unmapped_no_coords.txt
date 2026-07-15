@@ -1,4 +1,4 @@
-Johnson unmapped markers with NO usable address (9):
+Johnson unmapped markers with NO usable address (8):
 
   THC 15636: Bennett Home on the Chisholm Trail
     addr: Rio Vista
@@ -22,10 +22,6 @@ Johnson unmapped markers with NO usable address (9):
 
   THC 3983: Riggs Pennington Home
     https://atlas.thc.texas.gov/Details/5251003983
-
-  THC 12673: Sam Bass Holdup
-    addr: Joshua
-    https://atlas.thc.texas.gov/Details/5251012673
 
   THC 12674: Site of Wardville
     addr: US 67, Cleburne

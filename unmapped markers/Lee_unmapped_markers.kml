@@ -11,7 +11,7 @@
   <Placemark>
     <name>Club 21 (Undertold)</name>
     <description><![CDATA[thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2311 Highway 21, Lincoln]]></description>
-    <Point><coordinates>-96.908876,30.334170,0</coordinates></Point>
+    <Point><coordinates>-96.908876,30.33417,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Early Chapel Cemetery</name>

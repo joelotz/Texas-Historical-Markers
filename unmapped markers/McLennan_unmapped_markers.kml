@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>McLennan County — Unmapped Historical Markers</name>
-  <description>THC markers in McLennan County without an HMDB id (isMissing excluded). 67 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
+  <description>THC markers in McLennan County without an HMDB id (isMissing excluded). 65 with THC coords; 0 geocoded from address; 12 omitted (no usable address).</description>
   <Placemark>
     <name>1923 West High School Building</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 406 W. Shook St., West<br/><br/><b>Marker Text:</b> marker pending]]></description>
@@ -96,11 +96,6 @@
     <Point><coordinates>-96.931439,31.618816,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Erath</name>
-    <description><![CDATA[NW intersection of FM 1637 and Tree Lake Rd. Marker reported missing 6.2021<br/><br/><b>Address:</b> FM 1637, China Spring<br/><br/><b>Marker Text:</b> This locale is one of the early settlements of McLennan County. Erath was one of the first voting precincts in the county in 1850, with settlers attracted by fertile agricultural lands between the Brazos and Bosque rivers. The community was named for George B. Erath, a soldier and legislator who surveyed Waco in 1849. At its peak the rural community had two churches, a school, two cotton gins, a gristmill, stores and a blacksmith shop. Erath post office operated from 1896 to 1907, and the Erath School was active until consolidating with China Spring in the 1920s. The area was sparsely populated through most of the 20th century; by the time the City of Waco annexed the area in the 1980s, only the Baptist church remained from historic Erath. (2008)]]></description>
-    <Point><coordinates>-97.264416,31.633673,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>First Baptist Church of Crawford</name>
     <description><![CDATA[First Baptist Crawford, S. Avenue D, W side between W. 5th and W. 6th streets. Marker is near entrance.<br/><br/><b>Address:</b> 110 S. Avenue D, Crawford<br/><br/><b>Marker Text:</b> W.B. Bowen and P. O’Keiffe organized this congregation on August 3, 1878, with about a dozen original members. O’Keiffe served as the first pastor and A.F. Damon and Phil Noland were the first deacons. The church met in the Crawford schoolhouse in its early years. Brother J.M. Wright, who pastored here for two different terms in the 1800s, led the church to join the Leon River Baptist Association. The congregation struggled with membership in its first years, but in 1884 a revival resulted in 45 baptisms and 23 additions by letter to increase the church to 80 members. After transferring to the McGregor Baptist Association, First Baptist Church of Crawford joined the Waco Baptist Association in 1890, where it has been a member for more than a century. Brother J.M.B. Gresham became pastor in 1893 and began work on the first meetinghouse for the church at 5th Street and Avenue D. Brother Gresham was also pastor at the rural communities of Coryell, Patton and Stampede. The one-room church sanctuary built at this site had curtains to divide the building into classrooms. Brother M. Hale oversaw construction of a new church building in 1923, which served the congregation for more than 40 years. Groups including the Baptist Young People’s Union, Women’s Auxiliary and a Girls’ Auxiliary organized over the years to extend community outreach. The church’s evangelical work has been aided by nearby Baylor University; George W. Truett conducted a revival here while a Baylor student in the 1890s, Josiah B. Tidwell served the church in 1913, and a formal program to train Baylor’s divinity students here began in the 1950s. Since early in Crawford’s history, the church has been a spiritual and community leader. (2008)]]></description>
     <Point><coordinates>-97.446733,31.53315,0</coordinates></Point>
@@ -139,11 +134,6 @@
     <name>Goodall Cemetery</name>
     <description><![CDATA[From Valley Mills go 4 mi NE on FM 1637; cemetery is off FM 1637 on Goodall farm (follow signs).<br/><br/><b>Address:</b> Valley Mills<br/><br/><b>Marker Text:</b> In 1846, W.H. Everett of Yellville, Marion County, Arkansas, settled on this 320 acres. He set aside this cemetery at the death of Sarah Hornbeak (1847-1851), daughter of Samuel and Harriet Hornbeak. In 1853 Everett brought his sister Nancy Everett Goodall, widow of William Goodall, and her eight children from Yellville. One of those children, W.B. Goodall (1849-1922), purchased this property from his uncle. There are 30 marked and about nine unmarked graves in this burial ground. Goodall Cemetery Association has established a perpetual care fund.]]></description>
     <Point><coordinates>-97.331058,31.582981,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Greenwood Cemetery</name>
-    <description><![CDATA[Greenwood Cemetery, SW corner Earle Ave. and Coffey St. Marker placed SW of Earle Ave. and Rice St. Marker reported missing Dec. 2014.<br/><br/><b>Address:</b> Earle Ave., Waco<br/><br/><b>Marker Text:</b> The city of Waco established Greenwood Cemetery in 1875, with equal acreage allocated for the White and Black communities. In the 1930s, Mrs. Emma Norwood and others began the the care now given this part of by People's Cemetery Association. Church, Masonic, and political leaders lie here beside people from many walks of life. The most famous is the great American baritone Jules Bledsoe (1899-1943), a native of Waco. Bledsoe studied abroad, starred in grand opera, and gave a classic to the world when he sang "Old Man River" in the original cast of "Showboat", a popular drama. (1976)]]></description>
-    <Point><coordinates>-97.112088,31.572807,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Groppe Barn</name>
@@ -269,7 +259,7 @@
     <name>St. Paul Lutheran Church</name>
     <description><![CDATA[140 Prairie Chapel Road | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 140 Prairie Chapel Road, Crawford<br/><br/><b>Marker Text:</b> In 1921, German-speaking settlers living between Crawford and McGregor came together to found a new Lutheran church to serve their spiritual needs. The community met at Wasp Creek School and organized a congregation, named Peace Lutheran Church. On July 25 of that year, H.W. Englebrecht sold two acres of land to be the location of the new church building. The building was dedicated on October 30 of the same year, and two months later, the church called its first pastor, August Beteit (1879-1967), who served until 1932. Beteit simultaneously served St. John’s Church in Coryell City, Coryell County. For several decades, the church held German language services semi-monthly. In the mid-1940s, regular services were increased to every Sunday and the language of worship changed to English, except every third Sunday, which remained in German.
   In October 1947, the church voted to move the congregation to three acres in Crawford purchased from G.H. Kelling. The same year, another vote changed the name of the church to St. Paul Lutheran Church. The church building was moved in its entirety to its new location on Prairie Chapel Road. The congregation grew at the new site, and several building projects, including additions to the structure and new structures, were undertaken, with all work being done by members of the congregation. The growth necessitated a new sanctuary, which was dedicated in early 1964. The church continued to be a gathering place, implementing youth programs and expanding meeting areas. From humble beginnings, St. Paul has continued to enrich the Crawford area for over a century. (2023)]]></description>
-    <Point><coordinates>-97.450040,31.533708,0</coordinates></Point>
+    <Point><coordinates>-97.45004,31.533708,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>St. Paul's Episcopal Church</name>

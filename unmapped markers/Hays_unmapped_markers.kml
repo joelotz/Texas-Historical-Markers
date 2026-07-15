@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hays County — Unmapped Historical Markers</name>
-  <description>THC markers in Hays County without an HMDB id (isMissing excluded). 36 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
+  <description>THC markers in Hays County without an HMDB id (isMissing excluded). 34 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
   <Placemark>
     <name>Alba Ranch</name>
     <description><![CDATA[<b>Address:</b> 2750 McGregor Ln., Dripping Springs]]></description>
@@ -12,11 +12,6 @@
     <name>Appoximate Site of the Missions</name>
     <description><![CDATA[Meadows Center for Water and the Environment, Texas State University, on restricted access/private property. Map dot approximate.<br/><br/><b>Address:</b> 211 San Marcos Springs Dr., San Marcos<br/><br/><b>Marker Text:</b> San Francisco Xavier de los Dolores, Nuestra Senora de la Candelaria, San Ildefonso. Originally established on the San Gabriel River by Franciscan missionaries in 1746-1749 with the hope of civilizing and Christianizing the Coco, Mayeye, Orcoquiza and other Indian tribes. The martyrdom of Padre Jose Ganzabal and the circumstances connected therewith caused the departure of the Indians and the friars and the removal of the missions to the San Marcos River in 1755. Reestablished on the banks of the San Saba, Nueces and Sabinal rivers for the conversion of the Lipan Apaches in 1757-1762. Erected by the State of Texas 1936]]></description>
     <Point><coordinates>-97.929246,29.893545,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Basil Dailey House</name>
-    <description><![CDATA[East side of W. San Antonio St., between Harvey and North streets. Marker reported missing Nov. 2018.<br/><br/><b>Address:</b> 411 W. San Antonio, San Marcos]]></description>
-    <Point><coordinates>-97.944577,29.88128,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Burleson Home</name>
@@ -165,11 +160,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
     <name>Stringtown</name>
     <description><![CDATA[3300 block Hunter Road, northwest side near Kissing Tree neighborhood entrance, 0.6 mi. NE of W. Centerpoint Rd. and 0.4 mi. SW of E. McCarty Ln.<br/><br/><b>Address:</b> Hunter Rd., San Marcos<br/><br/><b>Marker Text:</b> John Drayton Pitts (1798-1861) was born, according to family lore, on a ship as his parents sailed to America. A civil engineer by profession, Pitts became interested in politics and in 1841 became a member of the Georgia House of Representatives. The next year, Pitts and his brother-in-law, James Vickers, took a trip to Texas and encouraged family and friends to follow. Eleven families, including those of John’s brothers, William and Edward, settled in Grimes County. John D. Pitts became an influential politician, living in Austin while serving as adjutant general. In 1847, Pitts and his friend, General Edward Burleson, visited the land Burleson acquired after the Battle of San Jacinto, located six miles southwest of San Marcos Springs. Impressed by the idyllic setting, Pitts purchased the 640 acres from Burleson. This early organized colony in Hays County consisted of family and friends of John D. Pitts. Their farmhouses, strung out at half-mile intervals along the Austin-San Antonio Road, led to the name Stringtown. The farms, often referred to as model farms, survived early hardships and the 1857 drought. Although not a town, Stringtown soon rivaled San Marcos in population. Pitts donated land near his home for a church and school. Following the Civil War and emancipation, crops were divided evenly with former slaves, and many were given land. The labor void was filled by Mexican farmers who brought their vibrant culture to the area. Pitts Cemetery, located nearby, was established in 1851. It serves as a reminder of the determined pioneers who settled the area and braved the hardships of early Texas. (2017)]]></description>
     <Point><coordinates>-97.987317,29.839824,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Watkins Elm</name>
-    <description><![CDATA[Marker reported missing Feb. 2009.<br/><br/><b>Address:</b> 207 Hopkins St., San Marcos<br/><br/><b>Marker Text:</b> This elm was planted in 1868 by Confederate veteran Samuel M. Watkins (1826-1920) here at site afterward occupied for a century by his family.]]></description>
-    <Point><coordinates>-97.94003,29.883275,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Wesley Chapel A. M. E. Church</name>

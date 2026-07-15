@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Travis County — Unmapped Historical Markers</name>
-  <description>THC markers in Travis County without an HMDB id (isMissing excluded). 67 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
+  <description>THC markers in Travis County without an HMDB id (isMissing excluded). 65 with THC coords; 0 geocoded from address; 16 omitted (no usable address).</description>
   <Placemark>
     <name>Adams-Ziller House</name>
     <description><![CDATA[SW corner Guadalupe and W. 14th streets. RTHL medallion displayed, marker in storage.<br/><br/><b>Address:</b> 1306 Guadalupe, Austin<br/><br/><b>Marker Text:</b> Augusta Adams (ca. 1817-1907), a widow and native of Mecklenberg, Germany, immigrated to Texas and purchased land at this site in 1857. This modest structure was constructed circa 1868. Augusta later married Herman Hertel. Her two daughters, Mary and Theresa Adams, married brothers August and William Ziller, sons of one of Austin’s earliest settlers, Michael Ziller. The home remained in the Ziller family until 1955, and was saved from demolition during the 1990s. The one-story residence features a center-passage plan with chimneys on the gable ends, and buff brick laid in a common bond pattern.]]></description>
@@ -102,7 +102,7 @@
   <Placemark>
     <name>Felts-Moss House</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 2311 Woodlawn Blvd., Austin<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.758090,30.289952,0</coordinates></Point>
+    <Point><coordinates>-97.75809,30.289952,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>George H. Kinsolving Crypt</name>
@@ -195,19 +195,9 @@
     <Point><coordinates>-97.74646,30.268501,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Neill-Cochran House</name>
-    <description><![CDATA[Neill-Cochran House Museum. Marker reported missing Dec. 2003.<br/><br/><b>Address:</b> 2310 San Gabriel, Austin<br/><br/><b>Marker Text:</b> Greek Revival architecture, typical of the South. Erected about 1853 for Washington L. Hill by master builder Abner Cook. The hand-cut limestone walls were cemented with a mortar containing pig bristles. First Institute for the Blind in State of Texas, 1856. Hospital for Civil War soldiers, 1865. Home in 1880 of Republic of Texas patriot, Col. Andrew Neill; 1893-1913, Judge Thos. B. Cochran, Bar President, Masonic leader. Recorded Texas Historical Landmark - 1966]]></description>
-    <Point><coordinates>-97.748273,30.287484,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Old Depot Hotel</name>
     <description><![CDATA[(Carmelo's, formerly Mi Casa es Su Casa)<br/><br/><b>Address:</b> 504 E. 5th, Austin]]></description>
     <Point><coordinates>-97.738465,30.265869,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Old Land Office Building</name>
-    <description><![CDATA[Capitol Visitors Center, Texas State Capitol grounds, NW corner E. 11th St. and San Jacinto Blvd. Marker reported missing Jul. 2021.<br/><br/><b>Address:</b> 108 E.11th St., Austin<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-97.740949,30.272789,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Oliver Cemetery</name>
@@ -289,7 +279,7 @@
     <description><![CDATA[S side E. 3rd St. between Salina and Chicon streets. Map dot approximate. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 1805 E. 3rd St., Austin<br/><br/><b>Marker Text:</b> Since their arrival in east Austin, generations of the Herrera family dedicated their lives to education. In 1911, Valentin (1859-1942) and Josefa (1898-1963) Herrera, originally from Mexico, and their seven children moved into a house near the corner of 3rd and Chicon Streets. The house became the center of both a bakery run by Josefa and a Spanish-language school taught by Valentin. 
   Their daughters, Consuelo Herrera Méndez and Mary Grace Herrera, were some of the first Tejana women to teach in a major Texas school system. Consuelo began teaching in Austin Independent School District (AISD) at Comal Street School, a segregated escuelita from 1927-1935, located here at the current site of Comal Park, and Zavala Elementary from 1936-1956. After earning her bachelor’s degree from the University of Texas, Consuelo taught at Brooke Elementary School from 1956-1972. Mary Grace taught first at Fulmore Junior High, then at Palm School for over 35 years. Mary Grace also was the second generation to occupy the family home. Consuelo and her husband, Patricio J. Méndez, founded the Zavala Parent-Teacher Association and were active in local politics. In 1961, Consuelo became president of Ladies League of United Latin American Citizens (LULAC) Council No. 202 and served as chair of the state LULAC convention the same year. Mary Grace advocated on behalf of her students and was a key witness in a 1973 federal desegregation trial. Two years after Consuelo’s passing, AISD named the new Mendez Middle School in her honor.
   From the family home, third generation Diana Herrera Castañeda continued the Herrera’s legacy of education and advocacy until her death. She was elected to the AISD school board in 1992 and was active in LULAC. For three generations, the Herrera family tirelessly advocated on behalf of the students and residents of east Austin.  (2022)]]></description>
-    <Point><coordinates>-97.724749,30.259220,0</coordinates></Point>
+    <Point><coordinates>-97.724749,30.25922,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] The Manhattan Club</name>

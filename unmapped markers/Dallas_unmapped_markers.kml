@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Dallas County — Unmapped Historical Markers</name>
-  <description>THC markers in Dallas County without an HMDB id (isMissing excluded). 52 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <description>THC markers in Dallas County without an HMDB id (isMissing excluded). 52 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
   <Placemark>
     <name>A. J. Head Service Station</name>
     <description><![CDATA[southeast corner of Main Street and Third Street<br/><br/><b>Address:</b> 316 Main Street, Garland]]></description>
@@ -137,11 +137,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-96.75907,32.75255,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Governor W. Lee O'Daniel</name>
-    <description><![CDATA[Oaklawn; at Cedar Springs Triangle. Marker reported missing Oct. 1996.<br/><br/><b>Address:</b> 7405 W. Northwest Hwy, Dallas<br/><br/><b>Marker Text:</b> (March 11, 1890 - May 11, 1969) A native of Ohio, Wilbert Lee "Pappy" O'Daniel grew up in Kansas. He moved to Ft. Worth in 1925 as sales manager of a flour-milling company. There he became a radio personality and promoter of a western band, the Light Crust Doughboys. In 1938, after a show of support from his radio listeners, O'Daniel entered the Democratic race for governor, despite his lack of political experience. Campaigning with another band, The Hillbilly Boys, he advocated industrial growth, old-age assistance, and abolition of the Poll Tax. He amazed political experts by defeating 12 Democratic opponents without a runoff. His vast inaugural picnic on Jan. 17, 1939, was the first of many colorful public events which marked his administration. Although he failed to achieve many of his campaign goals, O'Daniel was re-elected in 1940 but served only part of his second term. In the summer of 1941, he won a special election to the U.S. Senate over future U.S. President Lyndon B. Johnson and other candidates. The next year, O'Daniel defeated two former Texas governors to win a full six-year Senate term. After leaving the Senate in 1949, he moved to Dallas and opened an insurance company near this site. Married to Merle Estella Butcher, he had 3 children. (1978)]]></description>
-    <Point><coordinates>-96.783729,32.865668,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Greater El Bethel Missionary Baptist Church</name>
     <description><![CDATA[Greater El Bethel Missionary Baptist Church, SW corner E. 9th and Cliff streets<br/><br/><b>Address:</b> 1130 E 9th St, Dallas<br/><br/><b>Marker Text:</b> Following Emancipation, formerly enslaved people often formed their own communities, schools and churches. Within these communities, churches acted as vital spiritual, cultural, economic and social resources for African Americans. In Oak Cliff's Tenth Street Historic District, Greater El Bethel Missionary Baptist Church traces its origins to the mid-1800s. The congregation included many prominent families who helped build the Tenth Street community. These local leaders, educators, merchants and developers pooled together funds to build churches, establish aid societies and provide services for Freedmen, women and children. In 1909, after moving several times, the congregation of Greater El Bethel Missionary Baptist Church began work on a new church building, digging out the basement with teams of mules and by hand. The congregation volunteered their time and worshiped in the basement until the sanctuary was completed in 1926, designed by noted African American architect William Sidney Pittman. Rev. William L. Dickson (c. 1865-1933) began as pastor at Greater El Bethel Missionary Baptist Church in 1926. He and his wife, Inez, set up a day nursery for African American working women and Rev. Dickson went on to act as a mediator for the Dallas community during an intense time of racism and injustice. Meetings were held at the church to counsel friendly relations with the Anglo community. In the first half of the 20th century, Tenth Street had one of the largest concentrations of churches per miles in the world. Now, only Greater El Bethel Missionary Baptist Church remains, marking more than one hundred years of lifting up the community through faith and service.   (2019)]]></description>
     <Point><coordinates>-96.807094,32.749484,0</coordinates></Point>
@@ -164,6 +159,11 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-96.81178,32.94678,0</coordinates></Point>
   </Placemark>
   <Placemark>
+    <name>Hilliard Memorial Golf Course</name>
+    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 6743 Mable St., Dallas<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <Point><coordinates>-96.834336,32.840156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
     <name>Horton Cemetery</name>
     <description><![CDATA[off Loop 12 Blvd. (Ledbetter Dr.)<br/><br/><b>Address:</b> 1500 S. Walton Walker Blvd., Dallas<br/><br/><b>Marker Text:</b> Enoch and Martha Horton left Virginia with their ten children and settled here as members of the Peters Colony in 1844. Family history recounts that their son, James Horton, set aside this site as a family cemetery in 1848. Enoch (d. 1851) and Martha (d. 1850) are believed to be buried here in unmarked graves. James and his sister, Sarah Horton Cockrell, operated one of the first grist mills in this area, and James donated land for a school and railroad right-of-way. Many Horton family members and other early settlers are buried here. The last interment was in 1951. Incise on reverse: Gift of Screna Horton Campbell, Barney C. Jones]]></description>
     <Point><coordinates>-96.918459,32.729758,0</coordinates></Point>
@@ -177,6 +177,11 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <name>John Neely Bryan Cabin</name>
     <description><![CDATA[Dallas Historical Plaza at Elm, Market &amp; Main, Dallas<br/><br/><b>Address:</b> Dallas]]></description>
     <Point><coordinates>-96.806699,32.779085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Johnny Graham and Graham's Barber Shop</name>
+    <description><![CDATA[<b>Address:</b> Hwy 352 &amp; Al Lipscomb Way, Dallas]]></description>
+    <Point><coordinates>-96.7650686,32.7774547,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Junction of the Texas &amp; Pacific and Houston &amp; Texas Central Railroads</name>
@@ -257,11 +262,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <name>Sachse Cemetery</name>
     <description><![CDATA[3033 Sixth Street<br/><br/><b>Address:</b> 3033 Sixth St, Sachse<br/><br/><b>Marker Text:</b> Sachse Cemetery Established 1899 Historic Texas Cemetery - 2003]]></description>
     <Point><coordinates>-96.593572,32.978537,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shady Grove Road Bridge</name>
-    <description><![CDATA[S side of E. Irving Blvd., E of E Shady Grove Rd. Marker reported missing May 2020.<br/><br/><b>Address:</b> E. Irving Blvd., Irving<br/><br/><b>Marker Text:</b> The Trinity River has played an important part in the history of Dallas County. Early navigation projects were instrumental in the area's economic development. Heavy rains often caused the river to overflow its banks and after a disastrous flood in 1908 officials began flood control planning. By 1930 the Dallas Levee Improvement District completed a project which modified the river's channels and reclaimed about 10,000 acres of land. The Shady Grove Road Bridge was built at this site in 1931. The main span was a Parker pony truss design and the bridge extended 1,778 feet in length. It connected southeast Irving to the new industrial district of west Dallas, thereby contributing significantly to the growth and development of the city of Irving. By 1984, when it was closed for safety considerations, the bridge was providing access to more than 14,000 vehicles per day. In 1990, through a joint effort of Dallas County, the State Department of Highways and Public Transportation, and the Federal Highway Administration, a new bridge was completed at the same site, replacing the 1931 structure. This continues to serve as a major traffic artery between Irving and Dallas. (1991)]]></description>
-    <Point><coordinates>-96.906418,32.802706,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] St. John Missionary Baptist Church</name>

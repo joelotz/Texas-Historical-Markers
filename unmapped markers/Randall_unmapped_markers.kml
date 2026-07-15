@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Randall County — Unmapped Historical Markers</name>
-  <description>THC markers in Randall County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Randall County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Francisco Vasquez de Coronado on the Texas Plains</name>
     <description><![CDATA[Located on SH 217 4 miles east of Canyon. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> SH 217 4 mi East of Canyon, Canyon<br/><br/><b>Marker Text:</b> On April 22, 1540, Francisco Vasquez De Coronado (1510-54) set out from Culiacan (in present Sinaloa, Mexico) with an expedition of 1500 men to search for seven golden cities reported far to the north. Coronado entered the present United States in Arizona and proceeded northeast to the Rio Grande pueblos in New Mexico where he spent the winter of 1540-41. On April 23, 1541, Coronado left the Rio Grande, traveling eastward to seek the Golden City of Quivira. A native guide called "El Turco" led the Conquistadores aimlessly across the arid plains in an attempt to get them lost. On May 29, 1541, with supplies depleted, Coronado entered Palo Duro Canyon, where wild fruit and water abounded. While in the canyon, Coronado discovered the guide's betrayal. On June 2, Coronado selected 30 men and started northward in quest of Quivira. The rest of the expedition, under command of Tristan De Arellano, remained in the canyon for 2 weeks before returning to the Rio Grande. According to legend, Fray Juan De Padilla conducted a feast of Thanksgiving for the group while in Palo Duro Canyon. In 1542, after failing to find the Seven Cities of Gold, Coronado returned to Mexico a broken man. (1973)]]></description>
@@ -14,11 +14,6 @@
     <Point><coordinates>-101.917412,34.979736,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Randall County</name>
-    <description><![CDATA[SH 217, south side of the road 0.2 mi. east of FM 1541 (S. Washington St.). Marker reported missing Jun. 2019.<br/><br/><b>Address:</b> SH 217, Canyon<br/><br/><b>Marker Text:</b> Created 1876; named for Confederate general Horace Randal. Settled 1877 by rancher Leigh Dyer, brother-in-law of Chas. Goodnight, man who brought first cattle to Panhandle. Organized in 1889. County seat: Canyon. Home of West Texas State University, Panhandle-Plains Historical Museum, Palo Duro State Park, Buffalo Lake. (1965)]]></description>
-    <Point><coordinates>-101.843616,34.984941,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Sam Wood Cabin</name>
     <description><![CDATA[West Texas A&amp;M University, inside Panhandle-Plains Museum, first floor near 1956 entrance (north side)<br/><br/><b>Address:</b> 2401 4th Ave, Canyon<br/><br/><b>Marker Text:</b> Sam Wood cabin. Built 1887 at Hog Town (now a ghost town). Wood, an Indian Scout, Union veteran of Civil War, buffalo hunter, was father of bride in first marriage recorded in the Panhandle, at Fort Elliott in 1877. Cabin housed 6 families during an Indian scare. In 1954 it was moved, restored. Recorded Texas Historic Landmark - 1966]]></description>
     <Point><coordinates>-101.917708,34.980676,0</coordinates></Point>
@@ -26,7 +21,7 @@
   <Placemark>
     <name>The Slemp-Cash House</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 3205 S. Hughes, Amarillo<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-101.849663,35.180160,0</coordinates></Point>
+    <Point><coordinates>-101.849663,35.18016,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

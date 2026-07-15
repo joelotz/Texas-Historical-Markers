@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Upshur County — Unmapped Historical Markers</name>
-  <description>THC markers in Upshur County without an HMDB id (isMissing excluded). 30 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
+  <description>THC markers in Upshur County without an HMDB id (isMissing excluded). 28 with THC coords; 0 geocoded from address; 17 omitted (no usable address).</description>
   <Placemark>
     <name>Alex Earp</name>
     <description><![CDATA[Hopewell Cemetery on FM 49, 8 mi. W of Gilmer<br/><br/><b>Address:</b> Gilmer<br/><br/><b>Marker Text:</b> Alex Earp, (Aug. 10, 1832-March 5, 1920). A lumber-boom sheriff. Won respect under great handicaps. Born in Alabama. Family moved to Texas; father was sheriff of Upshur County 1856-1860. Served as Confederate cavalry captain. Became Upshur County sheriff in 1880s when timber industry attracted a transient, rowdy population. In 1895-1896 served as county commissioner. Married Mary Ethel Decker Nations. Had three children: John B., Aphra, and Jim. Recorded, 1968]]></description>
@@ -109,11 +109,6 @@
     <Point><coordinates>-95.079678,32.742092,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Sam Houston Spoke Here</name>
-    <description><![CDATA[Henderson at Marshall St. Reported missing Jan. 2006.<br/><br/><b>Address:</b> 100 West Tyler Street, Gilmer<br/><br/><b>Marker Text:</b> On this Cherokee Trace site he had visited 25 years earlier, when he lived with the Indians, Sam Houston twice spoke as the leading Texas statesman-- on June 10, 1857, as U. S. Senator, and early in 1861 as governor. At both times he spoke against secession and in favor of the Union.]]></description>
-    <Point><coordinates>-94.94457,32.729191,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Site of an Indian Village</name>
     <description><![CDATA[Spring and Butler St. in Gilmer City Park<br/><br/><b>Address:</b> Gilmer<br/><br/><b>Marker Text:</b> Established early in the 19th century by a band of Cherokees. Inhabited until those Indians and their associated tribes were driven from Texas in 1839.]]></description>
     <Point><coordinates>-94.947897,32.72675,0</coordinates></Point>
@@ -127,11 +122,6 @@
     <name>Soules Chapel Methodist Church</name>
     <description><![CDATA[10 mi. NW of Gilmer on FM 556<br/><br/><b>Address:</b> Gilmer<br/><br/><b>Marker Text:</b> The Rev. Joshua Soule (1781-1867), original bishop of the Methodist Episcopal Church, South, visited East Texas in 1846. Worshiping in a log cabin across the road from this site as early as the 1850s, settlers gave his name to their church. The cemetery here was in use by 1856. L. E. Harkey and M. T. L. Williams on Dec. 21, 1871, deeded to Soules Chapel trustees James Bryce, Oran Hinson, Peter Hogan and Nathan H. Morris about six acres of land at this site. The present sanctuary was built after a destructive fire in 1977.]]></description>
     <Point><coordinates>-95.072865,32.829781,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Two Early Railroads</name>
-    <description><![CDATA[US 259, near FM 3245. Marker reported missing Sep. 1997. Map dot approximate.<br/><br/><b>Address:</b> US 259, Diana<br/><br/><b>Marker Text:</b> (Crossing, 400 yards east) The Marshall &amp; East Texas Railroad, chartered 1908 was part of a line built 1882. Operated a passenger train nicknamed the "Misery &amp; Eternal Torment," and ran a logging train until 1917. The Port Bolivar &amp; Iron Ore Line was founded 1911 to haul ore from Upshur County to the Texas Coast, but never built farther than Longview, 30 miles south. It ceased operations in 1929. The history of these lines is that of many "special interest" railroads. They thrived during the early days of Texas industry, but today have been abandoned or incorporated into larger lines. (1968)]]></description>
-    <Point><coordinates>-94.750541,32.690808,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Unknown Soldier</name>

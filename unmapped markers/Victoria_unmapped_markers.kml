@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Victoria County — Unmapped Historical Markers</name>
-  <description>THC markers in Victoria County without an HMDB id (isMissing excluded). 15 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Victoria County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>A. Goldman Home</name>
     <description><![CDATA[<b>Address:</b> 107 S. Liberty, Victoria]]></description>
@@ -27,11 +27,6 @@
     <name>Billy Kyle Ranch House</name>
     <description><![CDATA[From Nursery, take US 87 NW about 1/4 mile, go west at first cattleguard.  Follow private road west about 1/4 mile (Private).<br/><br/><b>Address:</b> 0.25 mi. NW on US 87; 0.25 mi. W on private ranch road, Nursery<br/><br/><b>Marker Text:</b> Texas Colonial ranch home. Built 1872 by W.H. "Uncle Billy" Kyle (1836-1907), trail driver, cattleman, Civil War veteran. Recorded Texas Historic Landmark - 1965]]></description>
     <Point><coordinates>-97.10806,28.926477,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>C. T. Beck Ranch</name>
-    <description><![CDATA[Salem Rd., 2.9 mi. NE of Loop 463 (Zac Lentz Pkwy). Marker reported missing Dec. 2021.<br/><br/><b>Address:</b> 3907 Salem Road, Victoria<br/><br/><b>Marker Text:</b> Born in 1846, Charles Theodore (C. T.) Beck migrated with his parents from their native Germany to the United States in 1851. The family landed at Indianola and made their way to Victoria. Though he was too young to serve in the Confederate Army during the Civil War, C. T. Beck worked for the cause. After the war he became a cattle driver. His father, Charles (Carl) August Beck (1810-1885) purchased 40 acres near this site for a family homestead in 1862. C. T. Beck married Johanna Lentz in 1872, and in 1893 the Becks purchased this additional acreage from George W. Norton. The main barn was erected between 1905 and 1906; the ranch house was crafted by Johanna Lentz Beck's brothers in 1907. A fever tick outbreak in the early 1920s prompted C. T. Beck to build a cattle dipping vat. Neighbors from miles away brought their cattle to the ranch's vats to fight the epidemic. C. T. Beck died in 1923 and ownership of the ranch passed to Willie T. Beck, the oldest of his and Johanna's seven children. Modernization came with the second half of the 20th century. After World War II, a small tractor and truck replaced the work animals. Electricity was furnished by the National Rural Electrification Administration in 1946. The first telephone was installed in the ranch house in 1952 and surrounding roads were paved in 1962. Though a significant portion of the original 20,000 acres was developed with the growth of the greater Victoria area, much of the ranch property continued to be held by the family at the end of the 20th century. (1999)]]></description>
-    <Point><coordinates>-96.965207,28.874038,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Memorial Square Cemetery</name>

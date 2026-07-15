@@ -2,12 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Willacy County — Unmapped Historical Markers</name>
-  <description>THC markers in Willacy County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
-  <Placemark>
-    <name>First Baptist Church of Lyford</name>
-    <description><![CDATA[Corner of S. Gulf Ave. and E. 2nd St. Marker reported missing Nov. 2017.<br/><br/><b>Address:</b> 7873 Gulf Ave., Lyford<br/><br/><b>Marker Text:</b> Lyford's Baptists began meeting for worship services about 1909, when the Rev. S. F. Marsh started traveling from Harlingen once a month to preach. Lyford Baptists founded the First Baptist Church in 1911, and Marsh became the First Pastor. The congregation met in community buildings until 1923, when the first church was built upon land donated by members of the Piper family. Baptisms were performed in a stock tank on a local farm until 1937. The congregation has been active in local mission efforts by establishing Spanish-speaking Baptist churches in the area. (1991)]]></description>
-    <Point><coordinates>-97.786907,26.406598,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Willacy County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
   <Placemark>
     <name>Old Lyford High School Building</name>
     <description><![CDATA[Lyford, Simon Gomez Ave.<br/><br/><b>Address:</b> Simon Gomez Ave., Lyford<br/><br/><b>Marker Text:</b> Designed by the architectural firm of Smith and Kelly of Galveston, this building was constructed in1923 for the high school students of Lyford and surrounding communities. The structure is a reminder of the importance of education of the early residents of Willacy County. Representative of the neo-classical style of school architecture, the building features an entrance marked by a pediemented cornice set above the doorway. (1985)]]></description>

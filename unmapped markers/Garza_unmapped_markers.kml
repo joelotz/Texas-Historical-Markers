@@ -2,11 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Garza County — Unmapped Historical Markers</name>
-  <description>THC markers in Garza County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
-  <Placemark>
-    <name>Old Close City School</name>
-    <description><![CDATA[Close City Community Center, from Post, take US 380 about 5 miles W to FM 399 N, and follow FM 399 about 1 mile North; MARKER REPORTED MISSING 9/09.<br/><br/><b>Address:</b> Post<br/><br/><b>Marker Text:</b> Built 1908 as a commissary school in colony of C. W. Post, cereal magnate. Named for his son-in-law, E. B. Close. In 1910, moved to this site. Became a common school district, 1916; independent district, 1918. First story was built 1919; second, 1921. Recorded Texas Historic Landmark, 1968.]]></description>
-    <Point><coordinates>-101.378639,33.192675,0</coordinates></Point>
-  </Placemark>
+  <description>THC markers in Garza County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+
 </Document>
 </kml>

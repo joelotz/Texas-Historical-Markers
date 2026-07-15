@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Llano County — Unmapped Historical Markers</name>
-  <description>THC markers in Llano County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 8 omitted (no usable address).</description>
+  <description>THC markers in Llano County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
   <Placemark>
     <name>Old Southern Hotel Building</name>
     <description><![CDATA[<b>Address:</b> Berry at Main Streets, NW of public square, Llano<br/><br/><b>Marker Text:</b> J.W. Owen had this hotel building constructed about 1880. Stonemasons J.K. Finlay and John Goodman built the original two-story structure, which was a stagecoach stop. The third floor was added during the ownership of Col. W.A.H. Miller, who bought it in 1883. An annex was later added to the west side of the building, and an addition on the north served as dining hall and kitchen. There, family-style meals were served until the business, then called the Colonial Inn, closed in the 1950s. The additions were removed in 1977. Recorded Texas Historic Landmark - 1980, 2003]]></description>
@@ -18,7 +18,7 @@
     <description><![CDATA[807 Wright St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 807 Wright St., Llano<br/><br/><b>Marker Text:</b> Robert E. Wilson (1862-1915) and his wife, Nancy (Byfield) (1866-1930), built this two-story home in 1912. Robert had previously been a successful Llano County cattle rancher and was a member of the Board of Trustees of the Llano public schools. The home passed to descendants. In 1927, respected chiropractor Dr. Lewis Theodore Schrank (1892-1967) and his wife, Gertrude (Carrington) (1897-1989), purchased the home. Gertrude was active in civic affairs, serving as Red Cross Home Nursing Course chairwoman for Llano County, girl scout leader, and executive committee member for the Llano Parent-Teacher Association. The home features original interior woodwork with dark natural finish, full-length galleries, doric columns and decorative cornice brackets.
 				
 RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
-    <Point><coordinates>-98.678339,30.750180,0</coordinates></Point>
+    <Point><coordinates>-98.678339,30.75018,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

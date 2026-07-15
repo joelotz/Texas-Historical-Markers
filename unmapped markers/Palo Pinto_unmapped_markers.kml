@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Palo Pinto County — Unmapped Historical Markers</name>
-  <description>THC markers in Palo Pinto County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Palo Pinto County without an HMDB id (isMissing excluded). 10 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
   <Placemark>
     <name>Alfred Lane</name>
     <description><![CDATA[SH 254, 2 miles east of Graford<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Called "A splendid brave man" by his brother-in-law, cattleman Charles Goodnight, Tennessee native Alfred Lane moved to Texas with his family in 1836 and settled in Robertson's colony on the Brazos River. He moved to the Black Springs area of Palo Pinto County in 1856, following his marriage to Elizabeth Goodnight, and raised horses on the open range. He scouted with the Texas Rangers during the Civil War. After helping Goodnight drive cattle west of Ft. Belknap, Lane was killed by Indians as he returned home. He is buried nearby in Crawford Cemetery (2 miles northeast). (1997)]]></description>
@@ -47,11 +47,6 @@
     <name>Pickwick-McAdams Cemetery</name>
     <description><![CDATA[from Graford take Sh west about 8 miles to PR 36, follow PR 36 W about 3 miles<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Tennessee native Capt. William Carroll McAdams (1825-1906) came to Texas in the 1840s, served as a Texas Ranger, and fought in the Mexican war (1846-1848). McAdams and his wife Ann (Alexander) acquired this land in 1854 and began cattle raising. The cemetery opened after the death of Mrs. McAdams. The first marked grave is that of Mary M. Couger in 1889. McAdams Cemetery served the Pickwick Community (now under the lake). In 1940 graves were moved here from Carter Bend Cemetery which was on the proposed Possum Kingdom Lake site. (1979)]]></description>
     <Point><coordinates>-98.436036,32.903229,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Reuben Vaughan</name>
-    <description><![CDATA[from Graford, take FM 4 north about 2 miles (MARKER REPORTED MISSING 6/23/2009)<br/><br/><b>Address:</b> Graford<br/><br/><b>Marker Text:</b> Alabama-born Reuben Vaughan (1819-1900) migrated to Texas in 1852. He and his wife Margaret (Truelove) and their three children moved to this area in 1854 and became the first permanent settlers in present Palo Pinto County. They erected a cabin of cedar and stone near this site. A farmer and stock raiser, Vaughan maintained friendly relations with the Indian tribes that roamed this region. During the Civil War, he served in a frontier battalion to protect pioneer settlements. Vaughan is buried in this family cemetery. (1979)]]></description>
-    <Point><coordinates>-98.247386,32.980973,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Simpson Crawford</name>

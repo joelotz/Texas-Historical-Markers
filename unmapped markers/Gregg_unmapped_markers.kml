@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Gregg County — Unmapped Historical Markers</name>
-  <description>THC markers in Gregg County without an HMDB id (isMissing excluded). 32 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <description>THC markers in Gregg County without an HMDB id (isMissing excluded). 31 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
   <Placemark>
     <name>[PENDING] 1919 Longview Race Riot</name>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>At the intersection of East Methvin St. and N. Sixth St.<br/><br/><b>Address:</b> 202 N. Sixth St., Longview]]></description>
@@ -17,11 +17,6 @@
     <name>Bethel Baptist Church</name>
     <description><![CDATA[<b>Address:</b> 323 S. Court St., Longview<br/><br/><b>Marker Text:</b> The Rev. Richard Perry and nine deacons organized this church in 1874. Services were held under a brush arbor on land donated by the Rev. Perry and his wife Betty until a sanctuary was erected later that year. A Sunday School was formed in 1875. A new church building was erected in 1884 and in 1890 a women's missionary society and a youth association were formed. A new sanctuary, built in 1906, was replaced by a fourth sanctuary erected here in 1956. A junior missionary society was organized in 1958. The church continues to serve the area's african American community. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
     <Point><coordinates>-94.744657,32.492576,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Brown-Birdsong House</name>
-    <description><![CDATA[Moved in May 2011 from 104 W. Whaley Street. Marker reported missing Oct. 2014.<br/><br/><b>Address:</b> 3406 Morrison Street, Longview<br/><br/><b>Marker Text:</b> Victorian home built 1879 by early settler, Rev. B. W. Brown, Methodist lay minister, who as a member of the Texas Legislature helped to create Gregg County in 1873. Only minor changes such as porch lattice. Residence of Mrs. Lawrence Birdsong. Recorded Texas Historic Landmark - 1965]]></description>
-    <Point><coordinates>-94.721374,32.45166,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Bumpus House</name>
@@ -160,7 +155,7 @@ RECORDED TEXAS HISTORIC LANDMARK – 2022]]></description>
   <Placemark>
     <name>Weldon School</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 314 E. Saunders St., Gladewater<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-94.946143,32.526500,0</coordinates></Point>
+    <Point><coordinates>-94.946143,32.5265,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>White's Drive-In and Motel</name>

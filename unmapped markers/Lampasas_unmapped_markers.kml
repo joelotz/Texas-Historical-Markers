@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Lampasas County — Unmapped Historical Markers</name>
-  <description>THC markers in Lampasas County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <description>THC markers in Lampasas County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
   <Placemark>
     <name>C.C. Abney House</name>
     <description><![CDATA[402 South Broad Street, Lampasas<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built in 1883 by P. M. Hargraves. Methodist parsonage, 1913-27. Construction featured beaded wainscoting and carved beveled glass. Recorded Texas Historic Landmark, 1964]]></description>
@@ -82,11 +82,6 @@
     <name>School Creek Baptist Church</name>
     <description><![CDATA[NE of Lampasas on CR 3420, W of intersection with FM 2527<br/><br/><b>Address:</b> CR 3420, FM 2527, Lampasas<br/><br/><b>Marker Text:</b> Named for a nearby stream, this church organized in 1879 and held its first worship service on November 2 of that year. A small schoolhouse close to School Creek was the first building to house the church. The Rev. L.R. Millican served as primary organizer and first pastor of the church. Members of the congregation in 1879 included Brothers Philip Smith, John W. Moore, Solan Mace, W.M. Wren, and J.I. Scott, and Sisters C.L. Smith, S. F. Moore, D. Mace, S.E. Wren, Harriet Holly, Rebecca Wilson, Sallie Mitchell, F.E. Scott, Wilson H. Hurst and Sally Hawkins. In 1900, plans began for construction of a church building, which was completed the next year on land donated by the Philip Smith family. Members built a tabernacle by 1920 and in 1956 converted it to an education building. The church added more buildings to its campus through the years, including a parsonage in 1947 and a multipurpose fellowship hall in 2005. School Creek Baptist Church has a history of ministry to children through its involvement in orphan homes, Sunday schools and Vacation Bible Schools. Historically, the church has supported mission work with such activities as organizing outreach programs and sponsoring youth mission trips. Members of the church have become licensed and ordained ministers, with many entering full-time mission work. Over a century after its founding, the church continues to provide a positive influence on lives in the Central Texas area and beyond. (2006)]]></description>
     <Point><coordinates>-98.115345,31.217239,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shade Denson House</name>
-    <description><![CDATA[From Lampasas take 190 east about 1 mile, then go north on CR 7 about 1.3 mile.  House is on south side of road just past Sparks Crossing. (MARKER REPORTED MISSING 6/23/2009)<br/><br/><b>Address:</b> Lampasas<br/><br/><b>Marker Text:</b> Built in Civil War era by Shadrick T. Denson, soldier of Forney's Brigade in the Confederate Army. Builder was Lampasas County sheriff, 1870-74, in time of deadly feuds. Shot in the line of duty, later died as result of wound. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-98.133354,31.069112,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Stanley Chapel Cemetery</name>

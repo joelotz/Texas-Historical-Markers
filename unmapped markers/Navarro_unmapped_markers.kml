@@ -93,7 +93,7 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
   <Placemark>
     <name>G.W. Jackson</name>
     <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 708 E. MLK Blvd., Corsicana<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.457223,32.094700,0</coordinates></Point>
+    <Point><coordinates>-96.457223,32.0947,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>George Taylor Jester</name>
