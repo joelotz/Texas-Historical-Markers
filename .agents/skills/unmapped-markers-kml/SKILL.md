@@ -135,7 +135,8 @@ Options:
 
 ## Output
 
-Files land in `unmapped markers/` (gitignored):
+Files land in `unmapped markers/`, which is **tracked in git** — a rebuild
+shows up as a real diff, so review it like any other change:
 
 | file                                       | meaning                                                                  |
 |--------------------------------------------|--------------------------------------------------------------------------|
