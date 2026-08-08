@@ -34,6 +34,7 @@ import shutil
 import sys
 from datetime import datetime
 from difflib import SequenceMatcher
+from html import unescape
 from pathlib import Path
 import re
 
@@ -81,8 +82,23 @@ REVIEW_COLUMNS = [
 CONFLICT_EXTRA_COLUMN = "atlas_existing_ref:hmdb"
 
 
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def strip_html(s: str) -> str:
+    """Drop HTML markup hmdb leaves in free-text fields.
+
+    hmdb exports carry raw markup in ``Title`` and ``Erected By`` — e.g.
+    ``<i>El Colegio Altamirano</i>`` or an unbalanced trailing ``</small>``.
+    Left in place the tags survive ``normalize_phrase`` as bare word
+    characters (``<i>`` becomes the token ``i``), which drags name
+    similarity below the auto-apply threshold for otherwise identical names.
+    """
+    return _HTML_TAG_RE.sub("", unescape(s or "")).strip()
+
+
 def normalize_phrase(s: str) -> str:
-    s = (s or "").lower()
+    s = strip_html(s).lower()
     s = re.sub(r"[^\w\s]", " ", s)
     return re.sub(r"\s+", " ", s).strip()
 
@@ -154,7 +170,7 @@ def _review_row(hmdb_row: dict, atlas_row: dict | None, score: float) -> dict:
     return {
         "ref:US-TX:thc": (hmdb_row.get("Marker No.") or "").strip(),
         "hmdb_MarkerID": (hmdb_row.get("MarkerID") or "").strip(),
-        "hmdb_Title": (hmdb_row.get("Title") or "").strip(),
+        "hmdb_Title": strip_html(hmdb_row.get("Title") or ""),
         "atlas_name": (atlas_row.get("name") or "").strip() if atlas_row else "",
         "name_similarity": f"{score:.3f}",
         "hmdb_Erected_By": (hmdb_row.get("Erected By") or "").strip(),
