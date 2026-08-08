@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Tarrant County — Unmapped Historical Markers</name>
-  <description>THC markers in Tarrant County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in Tarrant County without an HMDB id (isMissing excluded). 24 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
   <Placemark>
     <name>Ann Waggoner Hall</name>
     <description><![CDATA[Texas Wesleyan University,Ann Waggoner Fine Arts Building, northeast corner Wesleyan and E. Rosedale streets. https://txwes.edu/news-and-events/all-news/texas-sized-reputation/ann-waggoner-fine-arts-started-as-church-building/<br/><br/><b>Address:</b> 1309 Wesleyan Dr., Fort Worth]]></description>
@@ -75,6 +75,11 @@
     <Point><coordinates>-97.27858,32.7108,0</coordinates></Point>
   </Placemark>
   <Placemark>
+    <name>Post Oak-Parker Cemetery</name>
+    <description><![CDATA[<b>Address:</b> 1301 Cardinal Road, Hurst]]></description>
+    <Point><coordinates>-97.2049364681984,32.8095281202687,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
     <name>Rehoboth Cemetery</name>
     <description><![CDATA[Corner of T. O. Harris Rd. and FM 157 (Cooper St.), Arlington<br/><br/><b>Address:</b> Arlington<br/><br/><b>Marker Text:</b> The Rehoboth Cemetery began in 1871 with the burial of infant Mary Miller. The cemetery served the community of Sublett, named after John Sublett. The town consisted of a school, post office and church. The one-room schoolhouse, also used by the Rehoboth Baptist Church, once stood next to the cemetery. The 2.5 acre site contains more than 500 graves, although many of the headstones are illegible. Among those buried here are pioneer settlers and their descendants. Formed in 1970, the Rehoboth Cemetery Association maintains the site, which continues to serve the area. (1997)]]></description>
     <Point><coordinates>-97.13766,32.628194,0</coordinates></Point>
@@ -108,6 +113,11 @@
     <name>Tate Springs Baptist Church</name>
     <description><![CDATA[Pleasant Ridge Road and Little Road, Arlington<br/><br/><b>Address:</b> Pleasant Ridge Road &amp; Little Road, Arlington<br/><br/><b>Marker Text:</b> Prior to the formation of area churches, worship services were conducted at camp meetings on Village Creek. On Feb. 5, 1882, ten local residents met to organize the Tate Springs Baptist Church. Presiding over the meeting were elders M.T. Walker and D.B. Brown. The Joplin Schoolhouse (1 mi. E), located on land donated by E.C. Tate, served as the first chapel. The church moved to this site in 1895 and became the center of the rural settlement. A leader in community activities, Tate Springs Baptist Church experienced rapid growth in the 1970s as a result of nearby urban development.]]></description>
     <Point><coordinates>-97.1932265937568,32.6812095831704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The First Hundred Years of Texas Christian University</name>
+    <description><![CDATA[2800 S. University, Ft. Worth; Inside Foyer of M.E. Sadler Hall, Texas Christian University,<br/><br/><b>Address:</b> 2900 S University Drive, Fort Worth<br/><br/><b>Marker Text:</b> Founded during 19th century Christian Restoration Movement, by Joseph Addison Clark (1815-1901) and sons Addison (1842-1911) and Randolph (1844-1935). Joseph A. Clark, born in Illinois, came to Republic of Texas in 1839. A teacher, preacher, lawyer, surveyor, editor and publisher, he also was Fort Worth Postmaster in noisy cattle-trail and early railroad era. His sons, home from the Civil War, established a school in this city in 1869, on site which proved unsuitable. The family moved the school to Thorp Springs (33 MI. SW), where they founded Add-Ran Male and Female College in 1873. Church-related from its origin, the college was given in 1889 to the Christian Church Convention of Texas, and renamed Addran Christian University. Moved to Waco on Christmas Day, 1895, the school was renamed Texas Christian University (1902), and stayed there until the main building was destroyed by fire in 1910. When Fort Worth offered 52 acres of land for a campus and funds of $200,000 for building, Texas Christian University returned (1910) to the city first chosen as its location. By 1973, TCU had grown to 243 acres, 60 buildings, seven schools and colleges, and an average fall enrollment of 6500 students. Erected during Centennial Observance - 1973.]]></description>
+    <Point><coordinates>-97.3615096416982,32.7088583618939,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Vickery Inn Motel and Como Courts</name>
