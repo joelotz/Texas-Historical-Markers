@@ -32,6 +32,7 @@ from __future__ import annotations
 import csv
 import shutil
 import sys
+from collections import defaultdict
 from datetime import datetime
 from difflib import SequenceMatcher
 from html import unescape
@@ -142,14 +143,55 @@ def name_similarity(a: str, b: str) -> float:
     return SequenceMatcher(None, na, nb).ratio()
 
 
-def _load_atlas_by_thc(path: Path) -> dict[str, dict]:
-    by_thc: dict[str, dict] = {}
+def _group_atlas_by_thc(rows: list[dict]) -> dict[str, list[dict]]:
+    """Index atlas rows by THC number, keeping every row under that number.
+
+    A THC number can legitimately carry more than one atlas row: hmdb
+    sometimes catalogs two entries for what are really two separate
+    physical markers sharing a Marker No. Indexing to a single row would
+    hide all but the last one.
+    """
+    by_thc: dict[str, list[dict]] = defaultdict(list)
+    for row in rows:
+        thc = (row.get("ref:US-TX:thc") or "").strip()
+        if thc:
+            by_thc[thc].append(row)
+    return dict(by_thc)
+
+
+def _load_atlas_by_thc(path: Path) -> dict[str, list[dict]]:
     with path.open(newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            thc = (row.get("ref:US-TX:thc") or "").strip()
-            if thc:
-                by_thc[thc] = row
-    return by_thc
+        return _group_atlas_by_thc(list(csv.DictReader(f)))
+
+
+def _resolve_atlas_row(
+    atlas_rows: list[dict], hmdb_id: str, claimed: set[int] | None = None
+) -> tuple[dict, str]:
+    """Decide which row of a THC group a given hmdb entry belongs to.
+
+    Returns ``(row, disposition)`` where disposition is:
+
+    ``documented``
+        A row already carries this exact MarkerID — nothing to do.
+    ``open``
+        No row carries it, but one has an empty ``ref:hmdb`` and is free
+        to take it.
+    ``conflict``
+        Every row carries some other MarkerID, so a human must decide.
+
+    ``claimed`` holds ``id()`` values of rows already spoken for earlier
+    in the same pass, so two hmdb entries cannot both take one blank row.
+    """
+    for row in atlas_rows:
+        if (row.get("ref:hmdb") or "").strip() == hmdb_id:
+            return row, "documented"
+    for row in atlas_rows:
+        if (row.get("ref:hmdb") or "").strip():
+            continue
+        if claimed is not None and id(row) in claimed:
+            continue
+        return row, "open"
+    return atlas_rows[0], "conflict"
 
 
 def _load_hmdb_rows(path: Path) -> list[dict]:
@@ -157,13 +199,19 @@ def _load_hmdb_rows(path: Path) -> list[dict]:
         return list(csv.DictReader(f))
 
 
-def _load_hmdb_by_thc(path: Path) -> dict[str, dict]:
-    by_thc: dict[str, dict] = {}
+def _load_hmdb_by_id(path: Path) -> dict[str, dict]:
+    """Index hmdb rows by MarkerID.
+
+    Deliberately not by ``Marker No.``: hmdb can carry several entries
+    under one Marker No., so that index would collapse them and hand back
+    an arbitrary one. MarkerID is the only unique key.
+    """
+    by_id: dict[str, dict] = {}
     for row in _load_hmdb_rows(path):
-        thc = (row.get("Marker No.") or "").strip()
-        if thc:
-            by_thc[thc] = row
-    return by_thc
+        marker_id = (row.get("MarkerID") or "").strip()
+        if marker_id:
+            by_id[marker_id] = row
+    return by_id
 
 
 def _review_row(hmdb_row: dict, atlas_row: dict | None, score: float) -> dict:
@@ -232,6 +280,7 @@ def reconcile(
     name_mismatches: list[dict] = []
     conflicts: list[dict] = []
     auto_hmdb_by_thc: dict[str, dict] = {}
+    claimed: set[int] = set()
 
     for hmdb_row in hmdb_rows:
         if not is_thc_erected_by(hmdb_row.get("Erected By") or ""):
@@ -243,22 +292,33 @@ def reconcile(
             continue
         stats["thc_in_atlas"] += 1
 
-        atlas_row = atlas_by_thc[thc]
-        atlas_hmdb = (atlas_row.get("ref:hmdb") or "").strip()
+        atlas_rows = atlas_by_thc[thc]
         hmdb_id = (hmdb_row.get("MarkerID") or "").strip()
+        atlas_row, disposition = _resolve_atlas_row(atlas_rows, hmdb_id, claimed)
         score = name_similarity(hmdb_row.get("Title") or "", atlas_row.get("name") or "")
 
-        if atlas_hmdb and atlas_hmdb == hmdb_id:
+        if disposition == "documented":
             stats["already_documented"] += 1
             continue
 
-        if atlas_hmdb and atlas_hmdb != hmdb_id:
+        # Every row under this THC# already points somewhere else, or the one
+        # free row was taken by an earlier hmdb entry in this same pass.
+        if disposition == "conflict" or thc in auto_hmdb_by_thc:
             conflict = _review_row(hmdb_row, atlas_row, score)
-            conflict[CONFLICT_EXTRA_COLUMN] = atlas_hmdb
+            conflict[CONFLICT_EXTRA_COLUMN] = "; ".join(
+                sorted(
+                    {
+                        ref
+                        for r in atlas_rows
+                        if (ref := (r.get("ref:hmdb") or "").strip())
+                    }
+                )
+            )
             conflicts.append(conflict)
             stats["conflicts"] += 1
             continue
 
+        claimed.add(id(atlas_row))
         review = _review_row(hmdb_row, atlas_row, score)
         if score >= NAME_AUTO_APPLY_THRESHOLD:
             review["approve"] = "YES (auto)"
@@ -281,8 +341,7 @@ def reconcile(
     if auto_hmdb_by_thc:
         write_result = _write_atlas_enrichment(
             atlas_path,
-            auto_hmdb_by_thc,
-            set(auto_hmdb_by_thc),
+            list(auto_hmdb_by_thc.items()),
             make_backup=make_backup,
         )
         stats["backup_path"] = (
@@ -315,18 +374,28 @@ def is_approved(cell: str) -> bool:
     return (cell or "").strip().upper().startswith("YES")
 
 
-def _collect_approved_thc_ids(review_dir: Path) -> set[str]:
-    approved: set[str] = set()
+def _collect_approved(review_dir: Path) -> list[tuple[str, str]]:
+    """Return approved ``(thc, hmdb_MarkerID)`` pairs, in file order.
+
+    The MarkerID matters: a review file can approve a specific hmdb entry
+    under a Marker No. that carries several, and only the MarkerID says
+    which one the human meant.
+    """
+    approved: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
     for name in REVIEW_FILES_TO_APPLY:
         path = review_dir / name
         if not path.exists():
             continue
         with path.open(newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
-                if is_approved(row.get("approve", "")):
-                    thc = (row.get("ref:US-TX:thc") or "").strip()
-                    if thc:
-                        approved.add(thc)
+                if not is_approved(row.get("approve", "")):
+                    continue
+                thc = (row.get("ref:US-TX:thc") or "").strip()
+                marker_id = (row.get("hmdb_MarkerID") or "").strip()
+                if thc and marker_id and (thc, marker_id) not in seen:
+                    seen.add((thc, marker_id))
+                    approved.append((thc, marker_id))
     return approved
 
 
@@ -348,22 +417,16 @@ def _hmdb_to_enrichment(hmdb_row: dict) -> dict[str, str]:
 
 def _write_atlas_enrichment(
     atlas_path: Path,
-    hmdb_by_thc: dict[str, dict],
-    thc_ids: set[str],
+    targets: list[tuple[str, dict]],
     make_backup: bool,
 ) -> dict:
-    """Strict-overwrite ENRICHMENT_FIELDS on atlas rows whose ref:US-TX:thc is in thc_ids.
+    """Strict-overwrite ENRICHMENT_FIELDS for each ``(thc, hmdb_row)`` target.
 
-    Requires every id in ``thc_ids`` to be present in ``hmdb_by_thc``.
-    Backs up atlas before writing unless ``make_backup`` is False, then
-    skips the rewrite entirely if no rows were touched.
+    Each target enriches exactly one atlas row — the one already carrying
+    that MarkerID, else a free row under the same THC#. Backs up atlas
+    before writing unless ``make_backup`` is False, then skips the rewrite
+    entirely if no rows were touched.
     """
-    missing_in_hmdb = [t for t in thc_ids if t not in hmdb_by_thc]
-    if missing_in_hmdb:
-        raise SystemExit(
-            f"ERROR: requested THC IDs missing from hmdb data: {missing_in_hmdb}"
-        )
-
     with atlas_path.open(newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
@@ -375,15 +438,25 @@ def _write_atlas_enrichment(
             f"ERROR: atlas is missing expected columns: {missing_fields}"
         )
 
+    # A THC# can cover several atlas rows (two physical markers sharing a
+    # Marker No.). Enrich only the row this hmdb entry actually refers to,
+    # never the whole group — that would overwrite the sibling's ref:hmdb.
+    rows_by_thc = _group_atlas_by_thc(rows)
+
     updated_ids: list[str] = []
-    seen: set[str] = set()
-    for row in rows:
-        thc = (row.get("ref:US-TX:thc") or "").strip()
-        if thc not in thc_ids:
+    not_in_atlas: list[str] = []
+    claimed: set[int] = set()
+    for thc, hmdb_row in targets:
+        group = rows_by_thc.get(thc)
+        if not group:
+            not_in_atlas.append(thc)
             continue
-        seen.add(thc)
-        for k, v in _hmdb_to_enrichment(hmdb_by_thc[thc]).items():
-            row[k] = v
+        target, _ = _resolve_atlas_row(
+            group, (hmdb_row.get("MarkerID") or "").strip(), claimed
+        )
+        claimed.add(id(target))
+        for k, v in _hmdb_to_enrichment(hmdb_row).items():
+            target[k] = v
         updated_ids.append(thc)
 
     backup_path: Path | None = None
@@ -401,7 +474,7 @@ def _write_atlas_enrichment(
     return {
         "backup_path": backup_path,
         "updated_ids": updated_ids,
-        "not_in_atlas": sorted(set(thc_ids) - seen),
+        "not_in_atlas": sorted(set(not_in_atlas)),
     }
 
 
@@ -411,11 +484,19 @@ def apply_updates(
     review_dir: Path,
     make_backup: bool = True,
 ) -> dict:
-    approved = _collect_approved_thc_ids(review_dir)
-    hmdb_by_thc = _load_hmdb_by_thc(hmdb_path)
+    approved = _collect_approved(review_dir)
+    hmdb_by_id = _load_hmdb_by_id(hmdb_path)
+
+    missing = sorted({mid for _, mid in approved if mid not in hmdb_by_id})
+    if missing:
+        raise SystemExit(
+            f"ERROR: approved hmdb MarkerIDs missing from hmdb data: {missing}"
+        )
 
     result = _write_atlas_enrichment(
-        atlas_path, hmdb_by_thc, approved, make_backup=make_backup
+        atlas_path,
+        [(thc, hmdb_by_id[mid]) for thc, mid in approved],
+        make_backup=make_backup,
     )
 
     if result["not_in_atlas"]:
