@@ -160,7 +160,7 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
   <Placemark>
     <name>[PENDING] Hilliard Memorial Golf Course</name>
     <styleUrl>#pending</styleUrl>
-    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>marker pending | estimated:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 6743 Mable St., Dallas<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>marker pending<br/><br/><b>Address:</b> 6743 Mable St., Dallas<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-96.834336,32.840156,0</coordinates></Point>
   </Placemark>
   <Placemark>

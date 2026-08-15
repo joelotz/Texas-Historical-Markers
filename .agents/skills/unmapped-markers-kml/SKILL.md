@@ -128,6 +128,14 @@ Options:
 6. **Description content** (per placemark): Marker Notes → Address →
    (geocoded match note, if applicable) → full Marker Text. Designation
    and Atlas links are intentionally omitted — the user found them noisy.
+
+   **`Marker Notes` yes, `DATA_NOTE` never.** `Marker Notes` is written for
+   the person trying to find the marker — directions, landmarks, what to
+   look for. `DATA_NOTE` is for whoever maintains the data: coordinate
+   provenance, duplicate adjudications, sync history. It is noise to
+   somebody standing at a roadside and must stay out of the popup. If
+   data-management text ever turns up inside `Marker Notes`, move it to
+   `DATA_NOTE` rather than filtering it here.
 7. **Sidecar**: rows with no coords AND no usable address are dumped to
    `<county>_unmapped_no_coords.txt` so the user can locate them manually.
 

@@ -56,6 +56,15 @@ def is_pending(r: dict) -> bool:
 
 
 def desc(r: dict, geocoded_note: str | None = None) -> str:
+    """Popup body for one marker.
+
+    `Marker Notes` is written for the person trying to find the marker —
+    directions, landmarks, what to look for. It belongs here.
+
+    `DATA_NOTE` is for whoever maintains the data — coordinate provenance,
+    duplicate adjudications, sync history. It must never appear in the popup;
+    it is noise to a reader standing at a roadside.
+    """
     parts = []
     if is_pending(r):
         parts.append('<b>⚠ PENDING — marker may not yet be installed at this location.</b>')
