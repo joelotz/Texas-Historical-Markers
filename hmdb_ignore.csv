@@ -1,10 +1,12 @@
 hmdb_MarkerID,duplicates_thc,hmdb_title,hmdb_marker_no_as_filed,marker_no_matches,note,date_added
+301716,457,Borden County Jail,457,yes,duplicate page; phantom atlas row collapsed,2026-08-14
 200387,493,Brazos Indian Reservation School (1858-1859),493,yes,duplicate page for a marker the atlas already documents,2026-08-14
 38048,705,Capt. James W. Magoffin,705,yes,duplicate page for a marker the atlas already documents,2026-08-14
 69236,1995,Fort Mason-Camp Cooper Military Road,1995,yes,duplicate page for a marker the atlas already documents,2026-08-14
 270620,4069,Poolville,1469,NO,"duplicate page; hmdb files it under Marker No. 1469, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 222973,4086,Post Hospital,4086,yes,duplicate page for a marker the atlas already documents,2026-08-14
 118166,4269,Site of Rincon/Douglass School,4269,yes,duplicate page for a marker the atlas already documents,2026-08-14
+294026,4299,Robert Lee Bobbitt,4299,yes,duplicate page; phantom atlas row collapsed,2026-08-14
 163287,4601,Schmidtke-Callahan House,4061,NO,"duplicate page; hmdb files it under Marker No. 4061, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 83081,4695,Silver,4695,yes,duplicate page for a marker the atlas already documents,2026-08-14
 77944,4983,"Southern Overland Mail, 1858-1861",4983,yes,duplicate page for a marker the atlas already documents,2026-08-14
@@ -14,9 +16,13 @@ hmdb_MarkerID,duplicates_thc,hmdb_title,hmdb_marker_no_as_filed,marker_no_matche
 89966,6488,Site of Organization of the Texas Forestry Association,6448,NO,"duplicate page; hmdb files it under Marker No. 6448, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 75076,6572,Tonkawa Bank,6572,yes,duplicate page for a marker the atlas already documents,2026-08-14
 58071,7172,St. Mary's Cathedral,7172,yes,duplicate page for a marker the atlas already documents,2026-08-14
+255167,7335,Austin College,7335,yes,duplicate page; phantom atlas row collapsed,2026-08-14
 290779,7888,Methodist Parsonage,7888,yes,duplicate page for a marker the atlas already documents,2026-08-14
+305448,8308,The Brenham Maifest,8308,yes,duplicate page; phantom atlas row collapsed,2026-08-14
+287767,8661,Allen Military Academy,8661,yes,"separate physical copy at another site, same inscription",2026-08-14
 233996,8937,Site of Steger Opera House,8973,NO,"duplicate page; hmdb files it under Marker No. 8973, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 202455,9052,Town of Needville,9053,NO,"duplicate page; hmdb files it under Marker No. 9053, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
+238527,9433,Badu House,9433,yes,duplicate page; phantom atlas row collapsed,2026-08-14
 35864,10123,Vereins Kirche,10123,yes,duplicate page for a marker the atlas already documents,2026-08-14
 195613,10237,Belvin Street Historic District,10237,yes,duplicate page for a marker the atlas already documents,2026-08-14
 50136,10806,Wooster School,10806,yes,duplicate page for a marker the atlas already documents,2026-08-14
@@ -28,6 +34,7 @@ hmdb_MarkerID,duplicates_thc,hmdb_title,hmdb_marker_no_as_filed,marker_no_matche
 301101,12968,City of Lubbock Cemetery,12968,yes,duplicate page for a marker the atlas already documents,2026-08-14
 279993,13046,Sunny Point Cemetery,12088,NO,"duplicate page; hmdb files it under Marker No. 12088, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 150356,14149,Llano County,14149,yes,duplicate page for a marker the atlas already documents,2026-08-14
+241007,14150,Texas State Capitol,14150,yes,duplicate page; phantom atlas row collapsed,2026-08-14
 187130,15201,San Leon Cemetery,15200,NO,"duplicate page; hmdb files it under Marker No. 15200, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 165749,16277,First Presbyterian Church,16277,yes,duplicate page for a marker the atlas already documents,2026-08-14
 194597,16889,Chambersville,22666,NO,"duplicate page; hmdb files it under Marker No. 22666, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
