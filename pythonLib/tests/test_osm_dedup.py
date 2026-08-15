@@ -66,8 +66,12 @@ class TestFindDuplicate:
         assert match["name_similarity"] == 1.0
         assert match["distance_ft"] == 0.0
 
-    def test_returns_none_when_name_below_threshold(self):
-        nearby = [self._node(1, 30.0, -97.0, "Completely Different Plaque Title")]
+    def test_returns_none_when_name_below_threshold_and_not_adjacent(self):
+        """A different name is only exonerating once the node is far enough off.
+
+        ~24 m north: outside PROXIMITY_ONLY_FT, inside radius_ft.
+        """
+        nearby = [self._node(1, 30.00022, -97.0, "Completely Different Plaque Title")]
         match = osm_dedup.find_duplicate(
             candidate_lat=30.0,
             candidate_lon=-97.0,
@@ -77,6 +81,56 @@ class TestFindDuplicate:
             nearby_nodes=nearby,
         )
         assert match is None
+
+    def test_flags_an_adjacent_node_even_when_the_name_does_not_match(self):
+        """Two plaques do not share the same few feet.
+
+        Gating on the name before measuring distance let ~130 duplicates onto
+        the map beside community nodes that were unnamed or generically named.
+        """
+        nearby = [self._node(1, 30.0, -97.0, "Completely Different Plaque Title")]
+        match = osm_dedup.find_duplicate(
+            candidate_lat=30.0,
+            candidate_lon=-97.0,
+            candidate_name="Fort Worth Marker",
+            radius_ft=100.0,
+            name_threshold=0.80,
+            nearby_nodes=nearby,
+        )
+        assert match is not None
+        assert match["osm_id"] == 1
+        assert match["matched_on"] == "proximity"
+
+    def test_flags_an_adjacent_unnamed_node(self):
+        """42 of the real duplicates sat beside a community node with no name."""
+        nearby = [self._node(1, 30.0, -97.0, "")]
+        match = osm_dedup.find_duplicate(
+            candidate_lat=30.0,
+            candidate_lon=-97.0,
+            candidate_name="Fort Worth Marker",
+            radius_ft=100.0,
+            name_threshold=0.80,
+            nearby_nodes=nearby,
+        )
+        assert match is not None
+        assert match["matched_on"] == "proximity"
+
+    def test_name_match_wins_over_a_closer_unnamed_node(self):
+        """Report the likeliest twin, not merely the nearest thing."""
+        nearby = [
+            self._node(1, 30.0, -97.0, ""),                       # 0 m, unnamed
+            self._node(2, 30.00005, -97.0, "Fort Worth Marker"),  # ~5 m, exact
+        ]
+        match = osm_dedup.find_duplicate(
+            candidate_lat=30.0,
+            candidate_lon=-97.0,
+            candidate_name="Fort Worth Marker",
+            radius_ft=100.0,
+            name_threshold=0.80,
+            nearby_nodes=nearby,
+        )
+        assert match["osm_id"] == 2
+        assert match["matched_on"] == "name"
 
     def test_returns_none_when_outside_radius(self):
         # Far node ~ many miles north

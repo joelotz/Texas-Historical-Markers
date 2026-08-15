@@ -24,6 +24,13 @@ DEFAULT_USER_AGENT = (
     "thc-toolkit/0.2.3 (+https://github.com/joelotz/Texas-Historical-Markers)"
 )
 FEET_PER_METER = 3.28084
+
+# Within this distance, position alone flags a candidate for review even when
+# the names do not match. Set at ~15 m: two distinct historical markers can
+# stand at one site (a courthouse lawn holds several), but they are not
+# co-located to within a few metres, and the atlas records those as separate
+# rows with their own coordinates anyway.
+PROXIMITY_ONLY_FT = 50.0
 EARTH_RADIUS_M = 6_371_000.0
 
 
@@ -161,13 +168,29 @@ def find_duplicate(
 
     best: dict | None = None
     for node in nearby_nodes:
-        similarity = name_similarity(candidate_name, node.name)
-        if similarity < name_threshold:
-            continue
+        # Distance first. Gating on the name before measuring distance meant a
+        # node sitting on the exact same spot was discarded whenever its name
+        # was blank or generic ("Texas State Historical Marker"), because
+        # similarity scored 0 and the radius check never ran. That let ~130
+        # duplicates onto the map beside markers the community had already
+        # mapped; 42 of those community nodes carry no name at all.
         distance_ft = haversine_ft(candidate_lat, candidate_lon, node.lat, node.lon)
         if distance_ft > radius_ft:
             continue
-        if best is None or similarity > best["name_similarity"]:
+
+        similarity = name_similarity(candidate_name, node.name)
+
+        # Two plaques do not occupy the same few feet. Inside PROXIMITY_ONLY_FT
+        # the position alone is enough to demand human review, whatever the
+        # name says -- the community node may be unnamed, generically named, or
+        # named for the subject rather than the marker.
+        if similarity < name_threshold and distance_ft > PROXIMITY_ONLY_FT:
+            continue
+
+        # Prefer the strongest name match; fall back to the closest when
+        # nothing is named, so the report points at the most likely twin.
+        score = (similarity, -distance_ft)
+        if best is None or score > (best["name_similarity"], -best["distance_ft"]):
             best = {
                 "osm_id": node.osm_id,
                 "name": node.name,
@@ -175,6 +198,7 @@ def find_duplicate(
                 "lon": node.lon,
                 "distance_ft": round(distance_ft, 2),
                 "name_similarity": round(similarity, 4),
+                "matched_on": "name" if similarity >= name_threshold else "proximity",
                 "tags": node.tags,
             }
     return best
