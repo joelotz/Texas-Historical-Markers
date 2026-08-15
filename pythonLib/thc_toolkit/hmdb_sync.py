@@ -252,6 +252,7 @@ def reconcile(
     atlas_path: Path,
     out_dir: Path,
     make_backup: bool = True,
+    ignore_path: Path | None = None,
 ) -> dict:
     """Identify hmdb rows for atlas enrichment.
 
@@ -262,9 +263,13 @@ def reconcile(
     """
     hmdb_rows = _load_hmdb_rows(hmdb_path)
     atlas_by_thc = _load_atlas_by_thc(atlas_path)
+    if ignore_path is None:
+        ignore_path = atlas_path.parent / IGNORE_FILE_NAME
+    ignored = load_ignored_marker_ids(ignore_path)
 
     stats = {
         "hmdb_total": len(hmdb_rows),
+        "ignored": 0,
         "thc_filter_pass": 0,
         "thc_in_atlas": 0,
         "already_documented": 0,
@@ -286,6 +291,12 @@ def reconcile(
         if not is_thc_erected_by(hmdb_row.get("Erected By") or ""):
             continue
         stats["thc_filter_pass"] += 1
+
+        # A known duplicate page. Skipped before classification so it cannot
+        # resurface as a conflict or candidate on every pull.
+        if (hmdb_row.get("MarkerID") or "").strip() in ignored:
+            stats["ignored"] += 1
+            continue
 
         thc = (hmdb_row.get("Marker No.") or "").strip()
         if not thc or thc not in atlas_by_thc:
@@ -355,6 +366,28 @@ def reconcile(
 
 REVIEW_FILES_TO_APPLY = ("review_candidates.csv", "review_name_mismatches.csv")
 MISSING_FLAGS = {"reported missing", "confirmed missing"}
+IGNORE_FILE_NAME = "hmdb_ignore.csv"
+
+
+def load_ignored_marker_ids(path: Path | None) -> set[str]:
+    """MarkerIDs recorded as duplicate hmdb pages, to be skipped on reconcile.
+
+    hmdb sometimes carries a second page for a marker the atlas already
+    documents. Absorbing each into an extra atlas row made ``ref:US-TX:thc``
+    non-unique; recording them here keeps one row per marker instead.
+
+    Keyed on MarkerID, never ``Marker No.`` -- hmdb typos that field, so the
+    same entry can be filed under a number belonging to a different marker.
+    A missing file is not an error; it just means nothing is ignored.
+    """
+    if path is None or not path.exists():
+        return set()
+    with path.open(newline="", encoding="utf-8") as f:
+        return {
+            marker_id
+            for row in csv.DictReader(f)
+            if (marker_id := (row.get("hmdb_MarkerID") or "").strip())
+        }
 
 ENRICHMENT_FIELDS = (
     "ref:hmdb",
@@ -526,6 +559,7 @@ def run_reconcile(args) -> None:
     )
     print(f"hmdb rows read         : {stats['hmdb_total']}")
     print(f"  passed THC filter    : {stats['thc_filter_pass']}")
+    print(f"  skipped as duplicate : {stats['ignored']}    ← {IGNORE_FILE_NAME}")
     print(f"  with THC# in atlas   : {stats['thc_in_atlas']}")
     print(f"    already documented : {stats['already_documented']}")
     print(f"    auto-applied       : {stats['auto_applied']}    → {args.out_dir}/auto_applied.csv")
