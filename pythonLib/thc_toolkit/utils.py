@@ -236,7 +236,7 @@ def read_atlas(filename):
         "UTM Easting": "Int32",
         "UTM Northing": "Int32",
         "UTM Zone": "Int16",
-        "isTHC": "boolean",
+        "isActive": "boolean",
         "isHMDB": "boolean",
         "isOSM": "boolean",
         "isMissing": "boolean",

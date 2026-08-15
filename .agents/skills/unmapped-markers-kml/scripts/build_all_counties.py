@@ -48,6 +48,11 @@ def eligible_rows_by_county(atlas: Path) -> dict[str, list[dict]]:
                 continue
             if r["isMissing"].strip() == "True" or r["isPrivate"].strip() == "True":
                 continue
+            # Superseded/duplicate THC record: the marker is documented under
+            # another thc#. Must match build_kml's filter or change detection
+            # drifts from what actually lands in the KML.
+            if r["isActive"].strip() == "False":
+                continue
             out.setdefault(c, []).append(r)
     return out
 

@@ -30,10 +30,18 @@ Audit-mode trigger phrases:
 - "find <county> unmapped markers where the address and coord disagree"
 
 The build mode excludes `isMissing=True` markers (no point hunting for
-ones already confirmed missing) and `isPrivate=True` markers (no point
-hunting for ones on private property). The audit mode does **not** filter
-on `isMissing` or `isPrivate` — comparing stored coord to address is
-useful regardless.
+ones already confirmed missing), `isPrivate=True` markers (no point
+hunting for ones on private property), and `isActive=False` markers
+(superseded or duplicate THC atlas records — the same physical marker is
+documented under another thc#, which usually already carries a
+`ref:hmdb`). The audit mode does **not** filter on `isMissing` or
+`isPrivate` — comparing stored coord to address is useful regardless.
+
+The `isActive=False` exclusion matters because such a row has no `ref:hmdb`
+of its own and therefore *looks* unmapped, while the marker it describes
+is already recorded. Example: thc#15237 "First Presbyterian Church, USA,
+of Garland" is a duplicate record of thc#6702, which carries hmdb 148087
+and an OSM node — hunting it would be a wasted trip.
 
 ## How to run
 
@@ -97,7 +105,8 @@ Options:
 ## What build_kml.py does
 
 1. **Filter** atlas_db.csv to `addr:county == <county>` AND
-   `ref:hmdb` empty AND `isMissing != True` AND `isPrivate != True`.
+   `ref:hmdb` empty AND `isMissing != True` AND `isPrivate != True`
+   AND `isActive != False`.
 2. **Direct map**: rows with `thc:Latitude` + `thc:Longitude` go straight
    into the KML.
 3. **Geocode**: rows with no coords but a street-level address
@@ -189,6 +198,12 @@ shows up as a real diff, so review it like any other change:
 - `isMissing=True` excluded — user does not want to chase missing markers.
 - `isPrivate=True` excluded — user does not want to chase markers on private
   property.
+- `isActive=False` excluded (2026-08-15, column renamed from `isTHC` the same day) — Joe spotted thc#15237 in the Dallas
+  KML, a duplicate record of thc#6702 whose marker is already photographed on
+  hmdb. Empty `ref:hmdb` is a proxy for "not on hmdb" that fails for
+  superseded/duplicate THC records, since the *marker* is recorded even though
+  the *row* has no id. 3 such rows statewide, all in Dallas: thc#6692,
+  thc#6711, thc#15237.
 - `thc:designation` and the THC Atlas link removed from the popup body —
   noise.
 - Geocoded coords persist back to `atlas_db.csv` by default so the lookup

@@ -7,7 +7,7 @@ from thc_toolkit import hmdb_sync
 
 ATLAS_HEADER = (
     "ref:US-TX:thc,ref:hmdb,name,OsmNodeID,website,memorial:website,start_date,"
-    "isTHC,isHMDB,isMissing,isPending,isOSM,isPrivate,addr:full,addr:city,"
+    "isActive,isHMDB,isMissing,isPending,isOSM,isPrivate,addr:full,addr:city,"
     "addr:county,UTM Zone,UTM Easting,UTM Northing,thc:Latitude,thc:Longitude,"
     "hmdb:Latitude,hmdb:Longitude,Recorded Texas Historic Landmark,"
     "thc:designation,Marker Notes,wikimedia_commons,subject:wikimedia_commons,"

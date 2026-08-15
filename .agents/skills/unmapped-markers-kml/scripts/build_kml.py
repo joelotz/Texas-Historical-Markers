@@ -3,7 +3,7 @@
 Build a Google My Maps-ready KML of unmapped historical markers for a county.
 
 "Unmapped" = atlas_db.csv row where `ref:hmdb` is empty AND `isMissing` is not True
-AND `isPrivate` is not True.
+AND `isPrivate` is not True AND `isActive` is not False.
 
 Behavior:
   1. Filter atlas_db.csv to the requested county.
@@ -129,12 +129,17 @@ def main():
     kml_path = out_dir / f'{county}_unmapped_markers.kml'
     txt_path = out_dir / f'{county}_unmapped_no_coords.txt'
 
+    # isActive=False marks a superseded or duplicate THC atlas record -- the same
+    # physical marker is documented under another thc#, which usually already
+    # has a ref:hmdb. Such a row has no ref:hmdb of its own, so it looks
+    # unmapped and would send the user hunting for a marker already recorded.
     with atlas.open(newline='', encoding='utf-8') as f:
         rows = [r for r in csv.DictReader(f)
                 if r['addr:county'] == county
                 and not r['ref:hmdb'].strip()
                 and r['isMissing'].strip().lower() != 'true'
-                and r['isPrivate'].strip().lower() != 'true']
+                and r['isPrivate'].strip().lower() != 'true'
+                and r['isActive'].strip().lower() != 'false']
 
     if not rows:
         print(f'No unmapped markers found for county "{county}".', file=sys.stderr)
