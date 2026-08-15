@@ -1,42 +1,30 @@
 hmdb_MarkerID,duplicates_thc,hmdb_title,hmdb_marker_no_as_filed,marker_no_matches,note,date_added
-301716,457,Borden County Jail,457,yes,duplicate page; phantom atlas row collapsed,2026-08-14
-200387,493,Brazos Indian Reservation School (1858-1859),493,yes,duplicate page for a marker the atlas already documents,2026-08-14
+307902,457,Borden County Jail,457,yes,duplicate page; phantom atlas row collapsed; re-catalogued by hmdb 301716 -> 307902 on 2026-08-15,2026-08-14
 38048,705,Capt. James W. Magoffin,705,yes,duplicate page for a marker the atlas already documents,2026-08-14
-69236,1995,Fort Mason-Camp Cooper Military Road,1995,yes,duplicate page for a marker the atlas already documents,2026-08-14
-270620,4069,Poolville,1469,NO,"duplicate page; hmdb files it under Marker No. 1469, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-222973,4086,Post Hospital,4086,yes,duplicate page for a marker the atlas already documents,2026-08-14
-118166,4269,Site of Rincon/Douglass School,4269,yes,duplicate page for a marker the atlas already documents,2026-08-14
-294026,4299,Robert Lee Bobbitt,4299,yes,duplicate page; phantom atlas row collapsed,2026-08-14
-163287,4601,Schmidtke-Callahan House,4061,NO,"duplicate page; hmdb files it under Marker No. 4061, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
+307848,1995,Fort Mason-Camp Cooper Military Road,1995,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 69236 -> 307848 on 2026-08-15,2026-08-14
+307879,4086,Post Hospital,4086,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 222973 -> 307879 on 2026-08-15,2026-08-14
+307856,4269,Site of Rincon/Douglass School,4269,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 118166 -> 307856 on 2026-08-15,2026-08-14
+307900,4299,Robert Lee Bobbitt,4299,yes,duplicate page; phantom atlas row collapsed; re-catalogued by hmdb 294026 -> 307900 on 2026-08-15,2026-08-14
 83081,4695,Silver,4695,yes,duplicate page for a marker the atlas already documents,2026-08-14
 77944,4983,"Southern Overland Mail, 1858-1861",4983,yes,duplicate page for a marker the atlas already documents,2026-08-14
 35909,5315,The Crash at Crush,5315,yes,duplicate page for a marker the atlas already documents,2026-08-14
 33216,5448,The Waco Suspension Bridge,5448,yes,duplicate page for a marker the atlas already documents,2026-08-14
 201836,5652,Victoria County C.S.A.,5652,yes,duplicate page for a marker the atlas already documents,2026-08-14
-89966,6488,Site of Organization of the Texas Forestry Association,6448,NO,"duplicate page; hmdb files it under Marker No. 6448, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-75076,6572,Tonkawa Bank,6572,yes,duplicate page for a marker the atlas already documents,2026-08-14
-58071,7172,St. Mary's Cathedral,7172,yes,duplicate page for a marker the atlas already documents,2026-08-14
-255167,7335,Austin College,7335,yes,duplicate page; phantom atlas row collapsed,2026-08-14
-290779,7888,Methodist Parsonage,7888,yes,duplicate page for a marker the atlas already documents,2026-08-14
-305448,8308,The Brenham Maifest,8308,yes,duplicate page; phantom atlas row collapsed,2026-08-14
-287767,8661,Allen Military Academy,8661,yes,"separate physical copy at another site, same inscription",2026-08-14
-233996,8937,Site of Steger Opera House,8973,NO,"duplicate page; hmdb files it under Marker No. 8973, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-202455,9052,Town of Needville,9053,NO,"duplicate page; hmdb files it under Marker No. 9053, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-238527,9433,Badu House,9433,yes,duplicate page; phantom atlas row collapsed,2026-08-14
+307851,6572,Tonkawa Bank,6572,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 75076 -> 307851 on 2026-08-15,2026-08-14
+307847,7172,St. Mary's Cathedral,7172,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 58071 -> 307847 on 2026-08-15,2026-08-14
+307887,7335,Austin College,7335,yes,duplicate page; phantom atlas row collapsed; re-catalogued by hmdb 255167 -> 307887 on 2026-08-15,2026-08-14
+307895,7888,Methodist Parsonage,7888,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 290779 -> 307895 on 2026-08-15,2026-08-14
+307913,8308,The Brenham Maifest,8308,yes,duplicate page; phantom atlas row collapsed; re-catalogued by hmdb 305448 -> 307913 on 2026-08-15,2026-08-14
+307898,8661,Allen Military Academy,8661,yes,"separate physical copy at another site, same inscription; re-catalogued by hmdb 287767 -> 307898 on 2026-08-15",2026-08-14
+307881,8937,Site of Steger Opera House,8973,yes,duplicate page; re-catalogued by hmdb 233996 -> 307881 on 2026-08-15; hmdb corrected the Marker No. during the 2026-08-15 re-catalog,2026-08-14
+307882,9433,Badu House,9433,yes,duplicate page; phantom atlas row collapsed; re-catalogued by hmdb 238527 -> 307882 on 2026-08-15,2026-08-14
 35864,10123,Vereins Kirche,10123,yes,duplicate page for a marker the atlas already documents,2026-08-14
 195613,10237,Belvin Street Historic District,10237,yes,duplicate page for a marker the atlas already documents,2026-08-14
 50136,10806,Wooster School,10806,yes,duplicate page for a marker the atlas already documents,2026-08-14
-280108,10855,Dougherty Community Cemetery,10856,NO,"duplicate page; hmdb files it under Marker No. 10856, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 255360,11149,"General Braxton Bragg, C.S.A.",11149,yes,duplicate page for a marker the atlas already documents,2026-08-14
-183144,11878,Cedar Cemetery,11787,NO,"duplicate page; hmdb files it under Marker No. 11787, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-205031,12126,1919 Storm,12126,yes,duplicate page for a marker the atlas already documents,2026-08-14
-155849,12752,Hermann and Antoine Ingenhuett Homestead,12756,NO,"duplicate page; hmdb files it under Marker No. 12756, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-301101,12968,City of Lubbock Cemetery,12968,yes,duplicate page for a marker the atlas already documents,2026-08-14
-279993,13046,Sunny Point Cemetery,12088,NO,"duplicate page; hmdb files it under Marker No. 12088, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-150356,14149,Llano County,14149,yes,duplicate page for a marker the atlas already documents,2026-08-14
+307878,12126,1919 Storm,12126,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 205031 -> 307878 on 2026-08-15,2026-08-14
+307821,12968,City of Lubbock Cemetery,12968,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 301101 -> 307821 on 2026-08-15,2026-08-14
+307860,14149,Llano County,14149,yes,duplicate page for a marker the atlas already documents; re-catalogued by hmdb 150356 -> 307860 on 2026-08-15,2026-08-14
 241007,14150,Texas State Capitol,14150,yes,duplicate page; phantom atlas row collapsed,2026-08-14
-187130,15201,San Leon Cemetery,15200,NO,"duplicate page; hmdb files it under Marker No. 15200, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
 165749,16277,First Presbyterian Church,16277,yes,duplicate page for a marker the atlas already documents,2026-08-14
-194597,16889,Chambersville,22666,NO,"duplicate page; hmdb files it under Marker No. 22666, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-103074,18286,Galveston Orphans Home,1826,NO,"duplicate page; hmdb files it under Marker No. 1826, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
-295515,19979,Brown Cemetery,19989,NO,"duplicate page; hmdb files it under Marker No. 19989, which is wrong -- re-confirm after the next hmdb pull",2026-08-14
+307918,1094,Courthouses of San Patricio County,1094,yes,duplicate page; second atlas row removed by hand,2026-08-15
