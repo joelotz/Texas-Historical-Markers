@@ -30,6 +30,7 @@ from .utils import (
     normalize_match_key,
     normalize_match_series,
     assert_no_duplicate_ids,
+    resolve_coords,
 )
 
 DEFAULT_TILES = "CartoDB positron"
@@ -73,12 +74,7 @@ def filter_markers(df, county=None, city=None, unmapped=False):
 
     out = df.loc[mask].copy()
 
-    hmdb_lat = pd.to_numeric(out["verified:Latitude"], errors="coerce")
-    hmdb_lon = pd.to_numeric(out["verified:Longitude"], errors="coerce")
-    thc_lat = pd.to_numeric(out["estimated:Latitude"], errors="coerce")
-    thc_lon = pd.to_numeric(out["estimated:Longitude"], errors="coerce")
-    out["map_lat"] = hmdb_lat.fillna(thc_lat)
-    out["map_lon"] = hmdb_lon.fillna(thc_lon)
+    out["map_lat"], out["map_lon"] = resolve_coords(out, context="map input")
 
     out = out[out["map_lat"].notna() & out["map_lon"].notna()].copy()
     return out

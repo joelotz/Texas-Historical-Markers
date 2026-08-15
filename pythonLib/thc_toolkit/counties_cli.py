@@ -52,6 +52,8 @@ simple_fields = [
     "memorial:website",
     "addr:city",
     "addr:county",
+    "verified:Latitude",
+    "verified:Longitude",
     "estimated:Latitude",
     "estimated:Longitude",
 ]

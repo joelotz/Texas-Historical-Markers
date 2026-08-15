@@ -37,12 +37,14 @@ try:
         require_columns,
         coerce_nullable_int_series,
         assert_no_duplicate_ids,
+        resolve_coords,
     )
 except ImportError:  # pragma: no cover - compatibility for direct script execution
     from utils import (  # type: ignore
         require_columns,
         coerce_nullable_int_series,
         assert_no_duplicate_ids,
+        resolve_coords,
     )
 
 
@@ -105,11 +107,10 @@ def run_with_args(
 
     print(f"📄 Loading dataset → {data}")
     df = pd.read_csv(data, low_memory=False)
-    require_columns(
-        df,
-        ["ref:hmdb", "estimated:Latitude", "estimated:Longitude"],
-        context="route input",
-    )
+    # Coordinates are not required by name here: resolve_coords accepts either
+    # pair and raises if neither is present, so a file carrying only verified
+    # coordinates still works.
+    require_columns(df, ["ref:hmdb"], context="route input")
     assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="route input")
 
     # ---------- Filter Markers ----------
@@ -130,9 +131,10 @@ def run_with_args(
         tag = "all"
 
     # ---------- Spatial Filtering ----------
-    LAT, LON = "estimated:Latitude", "estimated:Longitude"
-    markers[LAT] = pd.to_numeric(markers[LAT], errors="coerce")
-    markers[LON] = pd.to_numeric(markers[LON], errors="coerce")
+    # Prefer the verified coordinate; fall back to the estimate. Reading the
+    # estimate alone put markers up to hundreds of metres off the route.
+    LAT, LON = "route_lat", "route_lon"
+    markers[LAT], markers[LON] = resolve_coords(markers, context="route input")
     dropped = int(markers[[LAT, LON]].isna().any(axis=1).sum())
     if dropped:
         print(f"⚠ Dropping {dropped} rows with invalid or missing coordinates")
@@ -232,6 +234,8 @@ def run_with_args(
             "memorial:website",
             "addr:city",
             "addr:county",
+            "verified:Latitude",
+            "verified:Longitude",
             "estimated:Latitude",
             "estimated:Longitude",
         ]

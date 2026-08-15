@@ -112,6 +112,42 @@ def assert_no_duplicate_ids(df, columns, context="dataframe"):
         raise ValueError(f"{context} has duplicate values in {col}: {sample}")
 
 
+VERIFIED_LAT, VERIFIED_LON = "verified:Latitude", "verified:Longitude"
+ESTIMATED_LAT, ESTIMATED_LON = "estimated:Latitude", "estimated:Longitude"
+
+
+def resolve_coords(df, context="dataframe"):
+    """Return (lat, lon) numeric Series preferring verified over estimated.
+
+    ``verified:`` comes from GPS embedded in a photo taken at the marker and is
+    accurate to a few metres. ``estimated:`` is a working hypothesis — the THC
+    atlas figure improved by geocoding and desk research — and can be wrong by
+    hundreds of metres or more.
+
+    Anything that positions a marker must prefer the verified pair and fall
+    back to the estimate only where no verified value exists. Reading the
+    estimate alone silently discards the good coordinate on the ~12,800 rows
+    that have one.
+
+    Either column may be absent (older exports, ``--simple`` slices); a missing
+    column is treated as all-NA rather than an error, so a file carrying only
+    one pair still resolves.
+    """
+    def _num(col):
+        if col not in df.columns:
+            return pd.Series(pd.NA, index=df.index, dtype="Float64")
+        return pd.to_numeric(df[col], errors="coerce")
+
+    if VERIFIED_LAT not in df.columns and ESTIMATED_LAT not in df.columns:
+        raise ValueError(
+            f"{context} has neither {VERIFIED_LAT} nor {ESTIMATED_LAT}"
+        )
+
+    lat = _num(VERIFIED_LAT).fillna(_num(ESTIMATED_LAT))
+    lon = _num(VERIFIED_LON).fillna(_num(ESTIMATED_LON))
+    return lat, lon
+
+
 # -------------- CSV Viewing Utilities -------------- #
 # Default PRETTY VIEW (shell formatting)
 def viewcsv_pretty(path):

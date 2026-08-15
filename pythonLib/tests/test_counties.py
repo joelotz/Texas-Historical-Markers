@@ -151,6 +151,10 @@ class TestCountiesCLI:
             "memorial:website",
             "addr:city",
             "addr:county",
+            # Both pairs are exported so the consumer can apply the same
+            # prefer-verified rule the toolkit does.
+            "verified:Latitude",
+            "verified:Longitude",
             "estimated:Latitude",
             "estimated:Longitude",
         ]

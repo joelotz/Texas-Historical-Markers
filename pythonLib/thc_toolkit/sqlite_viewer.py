@@ -36,6 +36,10 @@ DISPLAY_COLUMNS = (
     "website",
     "addr:city",
     "addr:county",
+    # Both pairs: showing only the estimate hides the accurate coordinate on
+    # the ~12,800 rows that have one.
+    "verified:Latitude",
+    "verified:Longitude",
     "estimated:Latitude",
     "estimated:Longitude",
 )
