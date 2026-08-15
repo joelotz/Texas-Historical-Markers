@@ -95,16 +95,50 @@ a few metres. A row gets a verified coordinate only after somebody has stood
 there. That is what earns the word: not a trustworthy source, but a confirmed
 visit.
 
+Almost every verified coordinate comes from hmdb.org; 65 come from another
+marker enthusiast's site where the same test was met. Which raises the
+question of how you tell.
+
+**How a third-party source earns the word.** Any site can publish a coordinate
+list. The test is whether its coordinates are *independent* of the THC's. Take
+the markers where the atlas holds both a THC estimate and an hmdb field
+coordinate, and measure how far the third-party value falls from each. A source
+that copied the THC atlas tracks the estimate; a source that measured the
+marker tracks the field coordinate. Run against
+[texashistoricalmarkers.weebly.com](https://texashistoricalmarkers.weebly.com/)
+over 6,267 markers with ground truth:
+
+| coordinate written as | median error | within 10 m |
+|---|---:|---:|
+| degrees + decimal minutes | **1 m** | 95.8% |
+| plain decimal | 52 m | 22.4% |
+| *the THC estimate itself* | *61 m* | *20.0%* |
+
+The same site, two formats, and only one of them is real. The decimal values
+are THC coordinates round-tripped — they beat the THC estimate on 49.6% of
+markers, which is a coin flip. The degrees-and-minutes values are what a GPS or
+a phone displays, and they are effectively exact.
+
+The lesson generalises: **a source derived from the THC atlas can never correct
+a THC error, however many markers it lists.** roadhistorical.app was used here
+for a while before it turned out to be a THC mirror, and every coordinate it
+contributed had to be discounted. Measure a candidate source against ground
+truth before trusting a single value from it.
+
 Two consequences worth knowing if you use this data:
 
 - **Only `verified:` coordinates are published to OpenStreetMap.** An estimate,
   however well-researched, is never good enough to put on the map.
-- **Prefer `verified:` and fall back to `estimated:`.** About 12,800 markers
-  have a verified position and roughly 14,400 have an estimate; about 950 have
-  neither and are still waiting to be located.
+- **Prefer `verified:` and fall back to `estimated:`.** Of 17,517 markers,
+  12,850 have a verified position and 14,377 have an estimate; **952 have
+  neither** and are still waiting to be located.
 
 An empty `verified:` pair is therefore not a gap in the data so much as a
 marker nobody has documented in person yet — the open work of this project.
+
+Those 952 are a strikingly uniform group: every one is an active marker with a
+THC atlas page, and not one of them appears on hmdb.org. They are not missing
+because a step was skipped — they are the markers nobody has photographed yet.
 
 ## For AI-assisted contributors
 
