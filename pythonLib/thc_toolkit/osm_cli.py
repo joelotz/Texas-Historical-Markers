@@ -383,6 +383,22 @@ def main():
     push.add_argument("--nodes", required=True)
 
     # find missing
+    # canonical statewide extract
+    ext = sub.add_parser(
+        "extract",
+        help=("Pull every TX memorial=plaque feature from Overpass. Uses a bbox "
+              "with a margin (the ISO3166-2 area filter drops markers on the "
+              "state line) and includes ways (9 exist, 2 with a THC ref)"),
+    )
+    ext.add_argument(
+        "--out", default="scripts/tmp/overpass_tx_memorial_plaques.json",
+        help="Where to write the raw Overpass JSON",
+    )
+    ext.add_argument(
+        "--nodes-only", action="store_true",
+        help="Legacy node-only query; reintroduces the way blind spot",
+    )
+
     fm = sub.add_parser("find-missing", help="Compare atlas against OSM GeoJSON")
     fm.add_argument("--csv", required=True)
     fm.add_argument("--geo", required=True)
@@ -497,7 +513,11 @@ def main():
     args = parser.parse_args()
 
     # Commands
-    if args.cmd == "load":
+    if args.cmd == "extract":
+        from . import osm_extract
+        osm_extract.run_extract(args)
+
+    elif args.cmd == "load":
         atlas = read_atlas(args.file)
         print(atlas.head())
         print(f"[INFO] rows: {len(atlas)}")
