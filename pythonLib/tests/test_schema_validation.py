@@ -12,12 +12,12 @@ def test_map_filter_markers_missing_required_column_raises():
 
 
 def test_route_require_columns_reports_missing():
-    df = pd.DataFrame([{"ref:hmdb": 1, "thc:Latitude": 30.0}])
+    df = pd.DataFrame([{"ref:hmdb": 1, "estimated:Latitude": 30.0}])
     with pytest.raises(
-        ValueError, match="missing required column\\(s\\): thc:Longitude"
+        ValueError, match="missing required column\\(s\\): estimated:Longitude"
     ):
         route_cli.require_columns(
-            df, ["ref:hmdb", "thc:Latitude", "thc:Longitude"], context="route input"
+            df, ["ref:hmdb", "estimated:Latitude", "estimated:Longitude"], context="route input"
         )
 
 
@@ -74,8 +74,8 @@ def test_osm_create_nodes_invalid_coords_raise():
                 "ref:US-TX:thc": "1001",
                 "ref:hmdb": "5001",
                 "website": "https://example.com",
-                "hmdb:Latitude": "bad-lat",
-                "hmdb:Longitude": "-97.0",
+                "verified:Latitude": "bad-lat",
+                "verified:Longitude": "-97.0",
             }
         ]
     )

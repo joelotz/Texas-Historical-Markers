@@ -7,7 +7,7 @@ AND `isPrivate` is not True AND `isActive` is not False.
 
 Behavior:
   1. Filter atlas_db.csv to the requested county.
-  2. Markers with `thc:Latitude`/`thc:Longitude` go straight into the KML.
+  2. Markers with `estimated:Latitude`/`estimated:Longitude` go straight into the KML.
   3. Markers without coords but with a street-level address (digit in addr:full)
      are geocoded via OSM Nominatim (1 req/sec, polite User-Agent).
   4. Geocoded coords are written back to atlas_db.csv by default so future
@@ -75,11 +75,31 @@ def desc(r: dict, geocoded_note: str | None = None) -> str:
     return '<br/><br/>'.join(parts)
 
 
+# Pending markers get an orange pin so they read as "do not drive out for this
+# yet" at a glance, without opening the popup. Google My Maps honors an
+# IconStyle whose href points at its own hosted icon set.
+STYLES = (
+    '  <Style id="normal">\n'
+    '    <IconStyle>\n'
+    '      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>\n'
+    '    </IconStyle>\n'
+    '  </Style>\n'
+    '  <Style id="pending">\n'
+    '    <IconStyle>\n'
+    '      <color>ff00a5ff</color>\n'          # KML is aabbggrr -> orange
+    '      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>\n'
+    '    </IconStyle>\n'
+    '  </Style>\n'
+)
+
+
 def placemark(r: dict, lon: str, lat: str, geocoded_note: str | None = None) -> str:
-    name_prefix = '[PENDING] ' if is_pending(r) else ''
+    pending = is_pending(r)
+    name_prefix = '[PENDING] ' if pending else ''
     return (
         '  <Placemark>\n'
         f'    <name>{escape(name_prefix + r["name"])}</name>\n'
+        f'    <styleUrl>#{"pending" if pending else "normal"}</styleUrl>\n'
         f'    <description><![CDATA[{desc(r, geocoded_note)}]]></description>\n'
         f'    <Point><coordinates>{lon},{lat},0</coordinates></Point>\n'
         '  </Placemark>'
@@ -87,7 +107,7 @@ def placemark(r: dict, lon: str, lat: str, geocoded_note: str | None = None) -> 
 
 
 def write_geocoded_to_atlas(atlas_path: Path, updates: dict[str, tuple[float, float]]):
-    """Update thc:Latitude/thc:Longitude for each {thc_id: (lat, lon)} pair.
+    """Update estimated:Latitude/estimated:Longitude for each {thc_id: (lat, lon)} pair.
 
     Reads, modifies in-memory, writes back preserving LF line endings.
     """
@@ -95,8 +115,8 @@ def write_geocoded_to_atlas(atlas_path: Path, updates: dict[str, tuple[float, fl
         reader = csv.reader(f)
         rows = list(reader)
     header = rows[0]
-    lat_i = header.index('thc:Latitude')
-    lon_i = header.index('thc:Longitude')
+    lat_i = header.index('estimated:Latitude')
+    lon_i = header.index('estimated:Longitude')
     id_i = header.index('ref:US-TX:thc')
     n = 0
     for row in rows[1:]:
@@ -145,8 +165,8 @@ def main():
         print(f'No unmapped markers found for county "{county}".', file=sys.stderr)
         sys.exit(1)
 
-    mapped = [r for r in rows if r['thc:Latitude'].strip() and r['thc:Longitude'].strip()]
-    needs_coord = [r for r in rows if not (r['thc:Latitude'].strip() and r['thc:Longitude'].strip())]
+    mapped = [r for r in rows if r['estimated:Latitude'].strip() and r['estimated:Longitude'].strip()]
+    needs_coord = [r for r in rows if not (r['estimated:Latitude'].strip() and r['estimated:Longitude'].strip())]
 
     geocoded = []
     still_unmapped = []
@@ -175,7 +195,7 @@ def main():
 
     placemarks = []
     for r in sorted(mapped, key=lambda x: x['name'].lower()):
-        placemarks.append(placemark(r, r['thc:Longitude'], r['thc:Latitude']))
+        placemarks.append(placemark(r, r['estimated:Longitude'], r['estimated:Latitude']))
     for r in sorted(geocoded, key=lambda x: x['name'].lower()):
         placemarks.append(placemark(
             r,
@@ -191,7 +211,9 @@ def main():
         f'  <name>{escape(county)} County — Unmapped Historical Markers</name>\n'
         f'  <description>THC markers in {escape(county)} County without an HMDB id (isMissing excluded). '
         f'{len(mapped)} with THC coords; {len(geocoded)} geocoded from address; '
-        f'{len(still_unmapped)} omitted (no usable address).</description>\n'
+        f'{len(still_unmapped)} omitted (no usable address). '
+        f'Orange pins are isPending=True — the marker may not be installed yet.</description>\n'
+        + STYLES
         + '\n'.join(placemarks)
         + '\n</Document>\n</kml>\n'
     )

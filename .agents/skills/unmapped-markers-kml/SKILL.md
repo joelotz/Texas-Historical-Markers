@@ -1,6 +1,6 @@
 ---
 name: unmapped-markers-kml
-description: County-scoped tooling for THC markers that have not been entered into hmdb.org. Two modes - (1) build a Google My Maps-ready KML for field hunting, (2) audit stored thc:Latitude/Longitude against the US Census Geocoder and flag rows where the address disagrees with the stored coord by more than 0.5 mi. Use whenever the user asks to "map unmapped markers in XX county" or "audit/verify unmapped coords in XX county".
+description: County-scoped tooling for THC markers that have not been entered into hmdb.org. Two modes - (1) build a Google My Maps-ready KML for field hunting, (2) audit stored estimated:Latitude/Longitude against the US Census Geocoder and flag rows where the address disagrees with the stored coord by more than 0.5 mi. Use whenever the user asks to "map unmapped markers in XX county" or "audit/verify unmapped coords in XX county".
 ---
 
 # Unmapped markers — KML build + coord audit
@@ -107,17 +107,24 @@ Options:
 1. **Filter** atlas_db.csv to `addr:county == <county>` AND
    `ref:hmdb` empty AND `isMissing != True` AND `isPrivate != True`
    AND `isActive != False`.
-2. **Direct map**: rows with `thc:Latitude` + `thc:Longitude` go straight
+2. **Direct map**: rows with `estimated:Latitude` + `estimated:Longitude` go straight
    into the KML.
 3. **Geocode**: rows with no coords but a street-level address
    (`addr:full` contains a digit) get geocoded via OSM **Nominatim**
    (1 req/sec, polite User-Agent).
 4. **Write-back**: by default geocoded coords are written back into
-   `thc:Latitude`/`thc:Longitude` so the next run skips the lookup. Pass
+   `estimated:Latitude`/`estimated:Longitude` so the next run skips the lookup. Pass
    `--no-write-coords` to skip this.
-5. **Pending flag**: rows with `isPending=True` get `[PENDING]` prefixed
-   on the KML `<name>` and a warning paragraph at the top of the
-   `<description>` so the user knows the marker may not yet be installed.
+5. **Pending flag**: rows with `isPending=True` get an **orange pin**
+   (`<styleUrl>#pending</styleUrl>` → `ms/icons/orange-dot.png`) plus
+   `[PENDING]` prefixed on the KML `<name>` and a warning paragraph at the
+   top of the `<description>`. Everything else uses `#normal` (red). The
+   colour is the point — a pending marker is visible as "don't drive out
+   for this yet" without opening the popup.
+
+   If Google My Maps ever flattens the imported icon styles, the
+   `[PENDING]` name prefix is still there, and My Maps can style by it
+   manually. Keep both signals for that reason.
 6. **Description content** (per placemark): Marker Notes → Address →
    (geocoded match note, if applicable) → full Marker Text. Designation
    and Atlas links are intentionally omitted — the user found them noisy.
@@ -127,7 +134,7 @@ Options:
 ## What audit_coords.py does
 
 1. **Filter** atlas_db.csv to `addr:county == <county>` AND `ref:hmdb`
-   empty AND has `thc:Latitude` + `thc:Longitude` AND has a street-level
+   empty AND has `estimated:Latitude` + `estimated:Longitude` AND has a street-level
    `addr:full` (contains a digit). (No `isMissing` filter here.)
 2. **Batch-geocode** all candidate addresses in a single POST to the US
    Census batch geocoder
@@ -135,7 +142,7 @@ Options:
    `benchmark=Public_AR_Current`). One HTTP call for all 60–80 rows;
    no per-request rate limiting to worry about.
 3. **Compute Haversine distance** between the stored
-   `thc:Latitude`/`thc:Longitude` and the Census-returned coord.
+   `estimated:Latitude`/`estimated:Longitude` and the Census-returned coord.
 4. **Flag** rows where distance > `--threshold-mi` (default 0.5) into
    `<county>_coord_audit_review.csv`, sorted by distance descending.
 5. **Report** unmatched rows (Census couldn't geocode) to stdout so the

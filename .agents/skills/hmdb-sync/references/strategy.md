@@ -121,8 +121,8 @@ atlas row in place:
 | `isPending`          | `False` — an hmdb ID means the marker is installed on the ground |
 | `addr:full`          | tarrant `Street Address`                   |
 | `addr:city`          | tarrant `City or Town`                     |
-| `hmdb:Latitude`      | tarrant `Latitude (minus=S)`               |
-| `hmdb:Longitude`     | tarrant `Longitude (minus=W)`              |
+| `verified:Latitude`      | tarrant `Latitude (minus=S)`               |
+| `verified:Longitude`     | tarrant `Longitude (minus=W)`              |
 | `Marker Notes`       | `""` — erased on update; hmdb `Location` is reachable through `memorial:website` |
 
 Strict overwrite is intentional: hmdb is treated as more trustworthy than

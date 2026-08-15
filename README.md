@@ -56,12 +56,12 @@ This section defines each data field. Field names follow OSM key conventions whe
 | 15     | [addr:city](https://wiki.openstreetmap.org/wiki/Key:addr:city) | String        | City where the marker is located.                            |
 | 16     | [addr:county](https://wiki.openstreetmap.org/wiki/Key:addr:county) | String        | County where the marker is located. Handy for filtering.    |
 | 17     | UTM Zone                                                     | 16-bit Integer | UTM zone calculated from the THC-provided UTM coordinates.   |
-| 18     | UTM Easting                                                  | 32-bit Integer | THC-provided UTM coordinate. Often inaccurate — the hmdb coordinates are far more reliable. |
-| 19     | UTM Northing                                                 | 32-bit Integer | THC-provided UTM coordinate. Often inaccurate — the hmdb coordinates are far more reliable. |
-| 20     | thc:Latitude                                                 | Float         | Decimal-degree latitude calculated from the THC UTM coordinates. |
-| 21     | thc:Longitude                                                | Float         | Decimal-degree longitude calculated from the THC UTM coordinates. |
-| 22     | hmdb:Latitude                                                | Float         | Decimal-degree latitude provided by hmdb.org contributors. Much more accurate than the THC location. |
-| 23     | hmdb:Longitude                                               | Float         | Decimal-degree longitude provided by hmdb.org contributors. Much more accurate than the THC location. |
+| 18     | UTM Easting                                                  | 32-bit Integer | THC-provided UTM coordinate. Often inaccurate — the verified coordinates are far more reliable. |
+| 19     | UTM Northing                                                 | 32-bit Integer | THC-provided UTM coordinate. Often inaccurate — the verified coordinates are far more reliable. |
+| 20     | estimated:Latitude                                           | Float         | Best available *estimate* of the marker's latitude — a working hypothesis, not a confirmed position. It begins as the THC atlas figure (derived from their UTM coordinates, and frequently well off) and is overwritten whenever better information turns up: a third-party marker site, study of satellite imagery and Street View, a county historical society's description, a GPS listing, or someone's account of where they found it. Its only job is to give the next visitor the best possible chance of locating the marker. Never published to OpenStreetMap. |
+| 21     | estimated:Longitude                                          | Float         | Longitude counterpart to `estimated:Latitude`. Same provenance and same caveats. |
+| 22     | verified:Latitude                                            | Float         | Confirmed latitude, accurate to within a few metres. Taken from the GPS position embedded in a close-up photograph shot at the marker itself — hmdb.org requires such a photo with every submission and reads the coordinates from it. Populated only once somebody has physically stood at the marker, which is what makes it *verified* rather than merely well-sourced. This is the coordinate published to OpenStreetMap. |
+| 23     | verified:Longitude                                           | Float         | Longitude counterpart to `verified:Latitude`. Same provenance and same guarantees. |
 | 24     | Recorded Texas Historic Landmark                             | Boolean       | Carried over from the THC Atlas data.                            |
 | 25     | thc:designation                                              | Enumeration   | One of [Historical Marker, Recorded Texas Historic Landmark], as provided by the THC. |
 | 26     | Marker Notes                                                 | String        | Supplementary notes, often carried over from the THC Atlas data.                      |
@@ -72,6 +72,39 @@ This section defines each data field. Field names follow OSM key conventions whe
 | 31     | Marker Text                                                  | String        | The marker's actual inscription.                        |
 | 32     | inscription_size                                             | Integer       | The character length of the marker text (inscription).          |
 | 33     | DATA_NOTE                                                    | String        | Internal notes captured during data reconciliation.                                                  |
+
+### Coordinates: estimated vs. verified
+
+Every marker carries two coordinate pairs, and the difference between them is
+the difference between *where we think it is* and *where it actually is*.
+
+**`estimated:`** is a working hypothesis. It starts as the THC atlas figure,
+which is often badly wrong — some are off by hundreds of metres, and a
+recurring defect in the source data shifts latitude by about 9°, dropping
+markers into the Gulf of Mexico. From there it improves as evidence
+accumulates: a third-party marker site, an hour with satellite imagery and
+Street View, a county historical society noting the marker sits on the left
+side of the road at a particular intersection, a GPS listing, someone's blog
+post about finding it. It exists so the next person to go looking has a
+fighting chance.
+
+**`verified:`** is the answer. hmdb.org requires a close-up photograph with
+every submission and reads the GPS position out of the image, so the
+coordinate comes from a device that was physically at the marker — accurate to
+a few metres. A row gets a verified coordinate only after somebody has stood
+there. That is what earns the word: not a trustworthy source, but a confirmed
+visit.
+
+Two consequences worth knowing if you use this data:
+
+- **Only `verified:` coordinates are published to OpenStreetMap.** An estimate,
+  however well-researched, is never good enough to put on the map.
+- **Prefer `verified:` and fall back to `estimated:`.** About 12,800 markers
+  have a verified position and roughly 14,400 have an estimate; about 950 have
+  neither and are still waiting to be located.
+
+An empty `verified:` pair is therefore not a gap in the data so much as a
+marker nobody has documented in person yet — the open work of this project.
 
 ## For AI-assisted contributors
 

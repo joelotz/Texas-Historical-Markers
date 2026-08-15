@@ -86,8 +86,8 @@ def create_nodes(df):
             "ref:US-TX:thc",
             "ref:hmdb",
             "website",
-            "hmdb:Latitude",
-            "hmdb:Longitude",
+            "verified:Latitude",
+            "verified:Longitude",
         ],
         context="create_nodes input",
     )
@@ -106,13 +106,13 @@ def create_nodes(df):
     for index, row in df.iterrows():
         try:
             lat = pd.to_numeric(
-                pd.Series([row["hmdb:Latitude"]]), errors="coerce"
+                pd.Series([row["verified:Latitude"]]), errors="coerce"
             ).iloc[0]
             lon = pd.to_numeric(
-                pd.Series([row["hmdb:Longitude"]]), errors="coerce"
+                pd.Series([row["verified:Longitude"]]), errors="coerce"
             ).iloc[0]
             if pd.isna(lat) or pd.isna(lon):
-                row_errors.append(f"row {index}: invalid hmdb:Latitude/hmdb:Longitude")
+                row_errors.append(f"row {index}: invalid verified:Latitude/verified:Longitude")
                 continue
 
             row_thc = thc_ref.iloc[index]

@@ -397,8 +397,8 @@ ENRICHMENT_FIELDS = (
     "isPending",
     "addr:full",
     "addr:city",
-    "hmdb:Latitude",
-    "hmdb:Longitude",
+    "verified:Latitude",
+    "verified:Longitude",
     "Marker Notes",
 )
 
@@ -442,8 +442,8 @@ def _hmdb_to_enrichment(hmdb_row: dict) -> dict[str, str]:
         "isPending": "False",
         "addr:full": (hmdb_row.get("Street Address") or "").strip(),
         "addr:city": (hmdb_row.get("City or Town") or "").strip(),
-        "hmdb:Latitude": (hmdb_row.get("Latitude (minus=S)") or "").strip(),
-        "hmdb:Longitude": (hmdb_row.get("Longitude (minus=W)") or "").strip(),
+        "verified:Latitude": (hmdb_row.get("Latitude (minus=S)") or "").strip(),
+        "verified:Longitude": (hmdb_row.get("Longitude (minus=W)") or "").strip(),
         "Marker Notes": "",
     }
 

@@ -192,8 +192,8 @@ class TestUtils:
 
     def test_create_nodes_invalid_coords_raise(self, sample_atlas_df):
         bad = sample_atlas_df.copy()
-        bad["hmdb:Latitude"] = bad["hmdb:Latitude"].astype("object")
-        bad.loc[0, "hmdb:Latitude"] = "oops"
+        bad["verified:Latitude"] = bad["verified:Latitude"].astype("object")
+        bad.loc[0, "verified:Latitude"] = "oops"
         with pytest.raises(ValueError, match="create_nodes input has invalid rows"):
             create_nodes(bad)
 

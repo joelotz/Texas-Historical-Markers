@@ -112,8 +112,8 @@ For each approved candidate, update the matched atlas row in place:
 | `isMissing`          | `True` iff tarrant `Missing` ∈ {Reported Missing, Confirmed Missing} |
 | `addr:full`          | tarrant `Street Address`                   |
 | `addr:city`          | tarrant `City or Town`                     |
-| `hmdb:Latitude`      | tarrant `Latitude (minus=S)`               |
-| `hmdb:Longitude`     | tarrant `Longitude (minus=W)`              |
+| `verified:Latitude`      | tarrant `Latitude (minus=S)`               |
+| `verified:Longitude`     | tarrant `Longitude (minus=W)`              |
 | `Marker Notes`       | tarrant `Location`                         |
 
 Never overwrite a non-empty existing atlas value without flagging it

@@ -85,8 +85,8 @@ What it does:
    | `isPending`          | `False` (an hmdb ID means the marker is installed)|
    | `addr:full`          | hmdb `Street Address`                             |
    | `addr:city`          | hmdb `City or Town`                               |
-   | `hmdb:Latitude`      | hmdb `Latitude (minus=S)`                         |
-   | `hmdb:Longitude`     | hmdb `Longitude (minus=W)`                        |
+   | `verified:Latitude`      | hmdb `Latitude (minus=S)`                         |
+   | `verified:Longitude`     | hmdb `Longitude (minus=W)`                        |
    | `Marker Notes`       | `""` (erased — hmdb Location is not preserved)    |
 
    Strict overwrite means existing curated atlas values in these ten

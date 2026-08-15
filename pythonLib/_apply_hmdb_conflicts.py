@@ -1,7 +1,7 @@
 """
 Step 8 — Apply HMDB conflict corrections to atlas_db.csv.
-Reads review_hmdb_conflicts.csv and updates ref:hmdb, hmdb:Latitude,
-hmdb:Longitude, isHMDB, and memorial:website using the test file values.
+Reads review_hmdb_conflicts.csv and updates ref:hmdb, verified:Latitude,
+verified:Longitude, isHMDB, and memorial:website using the test file values.
 """
 
 import pandas as pd
@@ -32,12 +32,12 @@ for _, row in diffs.iterrows():
         trow = test_idx.loc[thc_id]
         if isinstance(trow, pd.DataFrame):
             trow = trow.iloc[0]
-        lat = str(trow.get("hmdb:Latitude", "")).strip()
-        lon = str(trow.get("hmdb:Longitude", "")).strip()
+        lat = str(trow.get("verified:Latitude", "")).strip()
+        lon = str(trow.get("verified:Longitude", "")).strip()
         if lat not in ("", "nan"):
-            atlas.at[thc_id, "hmdb:Latitude"] = lat
+            atlas.at[thc_id, "verified:Latitude"] = lat
         if lon not in ("", "nan"):
-            atlas.at[thc_id, "hmdb:Longitude"] = lon
+            atlas.at[thc_id, "verified:Longitude"] = lon
 
     updated += 1
 

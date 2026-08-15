@@ -26,8 +26,8 @@ class TestCountiesCLI:
                     "ref:US-TX:thc": 1004,
                     "ref:hmdb": pd.NA,
                     "name": "Unmapped Target",
-                    "hmdb:Latitude": 30.5,
-                    "hmdb:Longitude": -97.5,
+                    "verified:Latitude": 30.5,
+                    "verified:Longitude": -97.5,
                     "isOSM": False,
                     "isMissing": False,
                     "isPrivate": False,
@@ -151,8 +151,8 @@ class TestCountiesCLI:
             "memorial:website",
             "addr:city",
             "addr:county",
-            "thc:Latitude",
-            "thc:Longitude",
+            "estimated:Latitude",
+            "estimated:Longitude",
         ]
         assert list(df_simple.columns) == expected_cols
         assert pd.isna(df_simple.iloc[0]["OsmNodeID"])

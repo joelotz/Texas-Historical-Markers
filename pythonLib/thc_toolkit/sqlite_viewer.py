@@ -36,8 +36,8 @@ DISPLAY_COLUMNS = (
     "website",
     "addr:city",
     "addr:county",
-    "thc:Latitude",
-    "thc:Longitude",
+    "estimated:Latitude",
+    "estimated:Longitude",
 )
 
 

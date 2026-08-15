@@ -1,7 +1,7 @@
 """
 Step 9 — Apply proposed HMDB additions to atlas_db.csv.
-Reads review_proposed_updates.csv and sets ref:hmdb, hmdb:Latitude,
-hmdb:Longitude, isHMDB=True, and memorial:website for rows that were
+Reads review_proposed_updates.csv and sets ref:hmdb, verified:Latitude,
+verified:Longitude, isHMDB=True, and memorial:website for rows that were
 previously missing a HMDB ID.
 """
 
@@ -19,8 +19,8 @@ for _, row in proposed.iterrows():
     if thc_id not in atlas.index:
         continue
     atlas.at[thc_id, "ref:hmdb"] = row["new_ref:hmdb"]
-    atlas.at[thc_id, "hmdb:Latitude"] = row["new_hmdb:Latitude"]
-    atlas.at[thc_id, "hmdb:Longitude"] = row["new_hmdb:Longitude"]
+    atlas.at[thc_id, "verified:Latitude"] = row["new_verified:Latitude"]
+    atlas.at[thc_id, "verified:Longitude"] = row["new_verified:Longitude"]
     atlas.at[thc_id, "isHMDB"] = "True"
     atlas.at[thc_id, "memorial:website"] = row["new_memorial:website"]
     updated += 1

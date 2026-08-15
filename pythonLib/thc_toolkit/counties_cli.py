@@ -52,8 +52,8 @@ simple_fields = [
     "memorial:website",
     "addr:city",
     "addr:county",
-    "thc:Latitude",
-    "thc:Longitude",
+    "estimated:Latitude",
+    "estimated:Longitude",
 ]
 
 # These must always be exported as integers

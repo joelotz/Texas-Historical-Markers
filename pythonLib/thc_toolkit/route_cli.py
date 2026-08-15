@@ -107,7 +107,7 @@ def run_with_args(
     df = pd.read_csv(data, low_memory=False)
     require_columns(
         df,
-        ["ref:hmdb", "thc:Latitude", "thc:Longitude"],
+        ["ref:hmdb", "estimated:Latitude", "estimated:Longitude"],
         context="route input",
     )
     assert_no_duplicate_ids(df, ["ref:US-TX:thc", "ref:hmdb"], context="route input")
@@ -130,7 +130,7 @@ def run_with_args(
         tag = "all"
 
     # ---------- Spatial Filtering ----------
-    LAT, LON = "thc:Latitude", "thc:Longitude"
+    LAT, LON = "estimated:Latitude", "estimated:Longitude"
     markers[LAT] = pd.to_numeric(markers[LAT], errors="coerce")
     markers[LON] = pd.to_numeric(markers[LON], errors="coerce")
     dropped = int(markers[[LAT, LON]].isna().any(axis=1).sum())
@@ -232,8 +232,8 @@ def run_with_args(
             "memorial:website",
             "addr:city",
             "addr:county",
-            "thc:Latitude",
-            "thc:Longitude",
+            "estimated:Latitude",
+            "estimated:Longitude",
         ]
 
         # Keep columns that exist in data (so it won't crash)

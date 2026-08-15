@@ -38,10 +38,10 @@ DEFAULT_TILES = "CartoDB positron"
 def filter_markers(df, county=None, city=None, unmapped=False):
     required = [
         "isMissing",
-        "hmdb:Latitude",
-        "hmdb:Longitude",
-        "thc:Latitude",
-        "thc:Longitude",
+        "verified:Latitude",
+        "verified:Longitude",
+        "estimated:Latitude",
+        "estimated:Longitude",
     ]
     if county:
         required.append("addr:county")
@@ -73,10 +73,10 @@ def filter_markers(df, county=None, city=None, unmapped=False):
 
     out = df.loc[mask].copy()
 
-    hmdb_lat = pd.to_numeric(out["hmdb:Latitude"], errors="coerce")
-    hmdb_lon = pd.to_numeric(out["hmdb:Longitude"], errors="coerce")
-    thc_lat = pd.to_numeric(out["thc:Latitude"], errors="coerce")
-    thc_lon = pd.to_numeric(out["thc:Longitude"], errors="coerce")
+    hmdb_lat = pd.to_numeric(out["verified:Latitude"], errors="coerce")
+    hmdb_lon = pd.to_numeric(out["verified:Longitude"], errors="coerce")
+    thc_lat = pd.to_numeric(out["estimated:Latitude"], errors="coerce")
+    thc_lon = pd.to_numeric(out["estimated:Longitude"], errors="coerce")
     out["map_lat"] = hmdb_lat.fillna(thc_lat)
     out["map_lon"] = hmdb_lon.fillna(thc_lon)
 

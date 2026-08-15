@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Audit thc:Latitude/Longitude against the US Census Geocoder for unmapped
+Audit estimated:Latitude/Longitude against the US Census Geocoder for unmapped
 markers in a county. Flag any row with > THRESHOLD_MI miles of separation.
 
 Uses the Census batch geocoder (free, no key, ~10k addresses per call):
@@ -130,8 +130,8 @@ def main():
         rows = [r for r in csv.DictReader(f)
                 if r['addr:county'] == args.county
                 and not r['ref:hmdb'].strip()
-                and r['thc:Latitude'].strip()
-                and r['thc:Longitude'].strip()
+                and r['estimated:Latitude'].strip()
+                and r['estimated:Longitude'].strip()
                 and r['addr:full'].strip()
                 and has_street_address(r['addr:full'])]
 
@@ -150,8 +150,8 @@ def main():
             unmatched.append(r)
             continue
         g_lat, g_lon, display = matches[uid]
-        thc_lat = float(r['thc:Latitude'])
-        thc_lon = float(r['thc:Longitude'])
+        thc_lat = float(r['estimated:Latitude'])
+        thc_lon = float(r['estimated:Longitude'])
         dist = haversine_miles(thc_lat, thc_lon, g_lat, g_lon)
         if dist > args.threshold_mi:
             flagged.append((r, g_lat, g_lon, display, dist))
@@ -159,7 +159,7 @@ def main():
     fieldnames = [
         'ref:US-TX:thc', 'name', 'distance_miles',
         'addr:full', 'addr:city',
-        'thc:Latitude', 'thc:Longitude',
+        'estimated:Latitude', 'estimated:Longitude',
         'geocoded:Latitude', 'geocoded:Longitude',
         'geocoded:matched_address', 'website',
     ]
@@ -173,8 +173,8 @@ def main():
                 'distance_miles': f'{dist:.2f}',
                 'addr:full': r['addr:full'],
                 'addr:city': r['addr:city'],
-                'thc:Latitude': r['thc:Latitude'],
-                'thc:Longitude': r['thc:Longitude'],
+                'estimated:Latitude': r['estimated:Latitude'],
+                'estimated:Longitude': r['estimated:Longitude'],
                 'geocoded:Latitude': f'{g_lat:.5f}',
                 'geocoded:Longitude': f'{g_lon:.5f}',
                 'geocoded:matched_address': display,

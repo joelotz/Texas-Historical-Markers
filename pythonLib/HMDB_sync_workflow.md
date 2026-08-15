@@ -6,7 +6,7 @@ This document describes the end-to-end process for synchronising HMDB data into 
 
 ## Overview
 
-The goal is to update `atlas_db.csv` with `ref:hmdb`, `hmdb:Latitude`, `hmdb:Longitude`, `isHMDB`, and `memorial:website` values sourced from an HMDB bulk export. `ref:US-TX:thc` is the joining key between the two datasets.
+The goal is to update `atlas_db.csv` with `ref:hmdb`, `verified:Latitude`, `verified:Longitude`, `isHMDB`, and `memorial:website` values sourced from an HMDB bulk export. `ref:US-TX:thc` is the joining key between the two datasets.
 
 ---
 
@@ -30,7 +30,7 @@ Use the built-in `convertHMDB` command to reformat the raw export into OSM-compa
 thc convertHMDB --input HMdb-Entries-in-Texas-YYYYMMDD.csv --output test.csv
 ```
 
-The resulting `test.csv` will have columns including: `ref:hmdb`, `ref:US-TX:thc`, `name`, `ErectedBy`, `hmdb:Latitude`, `hmdb:Longitude`, `addr:city`, `addr:county`, `isMissing`.
+The resulting `test.csv` will have columns including: `ref:hmdb`, `ref:US-TX:thc`, `name`, `ErectedBy`, `verified:Latitude`, `verified:Longitude`, `addr:city`, `addr:county`, `isMissing`.
 
 ---
 
@@ -136,7 +136,7 @@ Rows where the name in test.csv and atlas_db.csv differ enough to block automati
 Common causes: one file has "The …" prefix, subtitle differences, minor rewording. Many can be resolved by relaxing the name-matching threshold; others represent genuinely different markers with a shared THC number.
 
 ### `review_proposed_updates.csv`
-Rows where atlas is missing `ref:hmdb` and test has it. Columns: `ref:US-TX:thc`, `name`, `new_ref:hmdb`, `new_hmdb:Latitude`, `new_hmdb:Longitude`, `new_isHMDB`, `new_memorial:website`, `addr:county`, `addr:city`.
+Rows where atlas is missing `ref:hmdb` and test has it. Columns: `ref:US-TX:thc`, `name`, `new_ref:hmdb`, `new_verified:Latitude`, `new_verified:Longitude`, `new_isHMDB`, `new_memorial:website`, `addr:county`, `addr:city`.
 
 Typically 1,000+ rows on a fresh sync. Spot-check a sample before applying.
 
@@ -155,7 +155,7 @@ Once confirmed that the test values are correct:
 .venv/bin/python _apply_hmdb_conflicts.py
 ```
 
-Updates `ref:hmdb`, `hmdb:Latitude`, `hmdb:Longitude`, `isHMDB`, and `memorial:website` in atlas for all rows in `review_hmdb_conflicts.csv`.
+Updates `ref:hmdb`, `verified:Latitude`, `verified:Longitude`, `isHMDB`, and `memorial:website` in atlas for all rows in `review_hmdb_conflicts.csv`.
 
 ---
 
@@ -167,7 +167,7 @@ After reviewing `review_proposed_updates.csv`:
 .venv/bin/python _apply_proposed_updates.py
 ```
 
-Applies the same five fields (`ref:hmdb`, `hmdb:Latitude`, `hmdb:Longitude`, `isHMDB=True`, `memorial:website`) for all rows where atlas was previously missing a HMDB ID.
+Applies the same five fields (`ref:hmdb`, `verified:Latitude`, `verified:Longitude`, `isHMDB=True`, `memorial:website`) for all rows where atlas was previously missing a HMDB ID.
 
 ---
 
