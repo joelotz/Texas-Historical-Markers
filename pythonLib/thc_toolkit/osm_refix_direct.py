@@ -125,8 +125,12 @@ def close_changeset(
 
 
 def build_osmchange(updates: list[dict], changeset_id: int) -> bytes:
+    from .atlas_check import assert_no_float_formatted_tags
+
     parts = ['<osmChange version="0.6" generator="thc-toolkit"><modify>']
     for u in updates:
+        # a pandas float reaching OSM as ref:hmdb="202023.0" leaves a dead link
+        assert_no_float_formatted_tags(u["tags"])
         attrs = (
             f'id="{u["node_id"]}" version="{u["version"]}" '
             f'changeset="{changeset_id}" lat="{u["lat"]}" lon="{u["lon"]}"'

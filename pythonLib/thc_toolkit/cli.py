@@ -27,6 +27,7 @@ from . import sqlite_sync
 from . import sqlite_viewer
 from . import hmdb_sync
 from . import hmdb_fetch
+from . import atlas_check
 from . import atlas_cli
 from .utils import convert_hmdb_csv
 
@@ -423,6 +424,26 @@ def main():
         help="Where to write the fallback-lines report",
     )
     ar.set_defaults(func=atlas_cli.run_repair)
+
+    ac = ass_.add_parser(
+        "check",
+        help="Assert the data invariants: ignore list vs atlas refs, "
+        "memorial:website vs ref:hmdb, duplicate THC groups, and "
+        "(with --hmdb) that every reference is still live",
+    )
+    ac.add_argument(
+        "--path", default=atlas_check.DEFAULT_ATLAS,
+        help="Path to atlas_db.csv (default: atlas_db.csv)",
+    )
+    ac.add_argument(
+        "--ignore", default=None,
+        help="Path to hmdb_ignore.csv (default: alongside the atlas)",
+    )
+    ac.add_argument(
+        "--hmdb", default=None,
+        help="hmdb snapshot CSV; enables the liveness checks",
+    )
+    ac.set_defaults(func=atlas_check.run_check)
 
     args = parser.parse_args()
     args.func(args)
