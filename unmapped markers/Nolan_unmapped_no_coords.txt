@@ -1,6 +1,2 @@
-Nolan unmapped markers with NO usable address (1):
-
-  THC 16072: Nolan County
-    addr: Sweetwater
-    https://atlas.thc.texas.gov/Details/5507016072
+Nolan unmapped markers with NO usable address (0):
 

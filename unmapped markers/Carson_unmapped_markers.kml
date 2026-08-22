@@ -2,16 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Carson County — Unmapped Historical Markers</name>
-  <description>THC markers in Carson County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Carson County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Conway Community Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[405 Elsie Street, Panhandle (RTHL designation removed when church was relocated to present site--marker displayed inside building)<br/><br/><b>Address:</b> 405 Elsie Street, Panhandle<br/><br/><b>Marker Text:</b> Union church built 1912 by popular subscription. Only country church in this area in continuous use for more than 50 years. Serves great-grandchildren of the pioneers who contributed funds for its erection. Recorded Texas Historic Landmark, 1966.]]></description>
-    <Point><coordinates>-101.378916,35.34449,0</coordinates></Point>
+    <Point><coordinates>-101.379573870222,35.3455265195764,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Presbyterian Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 412 Doucette St., White Deer<br/><br/><b>Marker Text:</b> First church building in White Deer. Dedicated July 4, 1909. Financed mainly through gifts from pioneer members' home churches, and donations by other denominations. Also used by Methodists and Baptists for 11 years, with circuit pastors for the three congregations rotating their Sunday visits. A union Sunday School and missionary society were organized. All offerings were equally shared among the three churches. SUPPLEMENTAL PLAQUE: The First Presbyterian Church building served as a worship center from 1909 to 1969. The structure was moved from this site in 1978. (1979)]]></description>
-    <Point><coordinates>-101.173768,35.431345,0</coordinates></Point>
+    <Point><coordinates>-101.173760420615,35.4314074348858,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

@@ -1,14 +1,6 @@
-Calhoun unmapped markers with NO usable address (3):
-
-  THC 16053: Calhoun County
-    addr: Port Lavaca
-    https://atlas.thc.texas.gov/Details/5507016053
+Calhoun unmapped markers with NO usable address (1):
 
   THC 23873: Clark Station
     addr: FM 1679, Port Lavaca
     https://atlas.thc.texas.gov/Details/5000023873
-
-  THC 3478: Moses Johnson, M.D.
-    addr: Port Lavaca
-    https://atlas.thc.texas.gov/Details/5057003478
 

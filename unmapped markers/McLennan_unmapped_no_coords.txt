@@ -1,12 +1,8 @@
-McLennan unmapped markers with NO usable address (12):
+McLennan unmapped markers with NO usable address (9):
 
   THC 12071: Aquilla Creek Truss Bridge
     addr: Gholson
     https://atlas.thc.texas.gov/Details/5309012071
-
-  THC 832: China Spring Cemetery
-    addr: China Spring
-    https://atlas.thc.texas.gov/Details/5309000832
 
   THC 18409: Concord Cemetery
     addr: Ted Maehr Drive, Bellmead
@@ -15,10 +11,6 @@ McLennan unmapped markers with NO usable address (12):
   THC 23874: Dean Highland Trolley Car Station of the Texas Electric Railway
     addr: 29th Street, Waco
     https://atlas.thc.texas.gov/Details/5000023874
-
-  THC 2311: H. & T. C. Railroad
-    addr: Waco
-    https://atlas.thc.texas.gov/Details/5309002311
 
   THC 2390: Harris Creek Baptist Church
     https://atlas.thc.texas.gov/Details/5309002390
@@ -38,10 +30,6 @@ McLennan unmapped markers with NO usable address (12):
   THC 14672: Robertson, Generals Jerome & Felix
     addr: Waco
     https://atlas.thc.texas.gov/Details/5507014672
-
-  THC 22633: The Grange in Texas
-    addr: Hwy 84 ROW, McGregor
-    https://atlas.thc.texas.gov/Details/5000022633
 
   THC 15481: Waco-McLennan County
     addr: Waco

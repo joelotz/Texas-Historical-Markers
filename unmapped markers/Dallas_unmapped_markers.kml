@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Dallas County — Unmapped Historical Markers</name>
-  <description>THC markers in Dallas County without an HMDB id (isMissing excluded). 40 with THC coords; 0 geocoded from address; 5 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Dallas County without an HMDB id (isMissing excluded). 39 with THC coords; 0 geocoded from address; 5 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -40,12 +40,6 @@
 
 RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-96.74301,32.8248,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>California Crossing</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[in California Crossing Parkon California Crossing Road 2.5 miles west of Stemmons, off SH 114, Dallas<br/><br/><b>Address:</b> Dallas<br/><br/><b>Marker Text:</b> CALIFORNIA CROSSING (Some Five Hundred Feet North) Here thousands of 49'ers crossed Trinity River in heroic trek west--following California Gold discovery. Crossing was in shallow part of stream on Southern Transcontinental route to Pacific. Later used by stage lines, railroad; route passed through Dallas and Cedar Springs on to El Paso.]]></description>
-    <Point><coordinates>-96.9279581504007,32.8662032339564,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Central National Road</name>

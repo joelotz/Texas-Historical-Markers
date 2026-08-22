@@ -1,8 +1,4 @@
-Jefferson unmapped markers with NO usable address (7):
-
-  THC 15932: Beauxart Gardens
-    addr: 8900 Block of Central Drive, Nederland
-    https://atlas.thc.texas.gov/Details/5507015932
+Jefferson unmapped markers with NO usable address (5):
 
   THC 17106: Central Baptist Church
     https://atlas.thc.texas.gov/Details/5507017106
@@ -17,10 +13,6 @@ Jefferson unmapped markers with NO usable address (7):
   THC 14132: Oil Pipelines, Early Texas
     addr: Beaumont
     https://atlas.thc.texas.gov/Details/5507014132
-
-  THC 12334: Texas Company Refinery at Port Arthur (Port Arthur Works)
-    addr: Port Arthur
-    https://atlas.thc.texas.gov/Details/5245012334
 
   THC 22758: The Methodist Church in China
     addr: 205 W. Washington Ave., China

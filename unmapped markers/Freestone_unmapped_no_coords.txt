@@ -1,4 +1,4 @@
-Freestone unmapped markers with NO usable address (10):
+Freestone unmapped markers with NO usable address (6):
 
   THC 9885: Hopson Burleson Memorial Cemetery
     addr: Fairfield
@@ -14,18 +14,6 @@ Freestone unmapped markers with NO usable address (10):
   THC 15574: Palacios Presbyterian Church
     https://atlas.thc.texas.gov/Details/5507015574
 
-  THC 16645: Salem Cemetery
-    addr: Teague
-    https://atlas.thc.texas.gov/Details/5507016645
-
-  THC 15631: Shanks Cemetery
-    addr: Kirvin
-    https://atlas.thc.texas.gov/Details/5507015631
-
-  THC 23826: Sonny Sessions
-    addr: FM 1449, Kirvin
-    https://atlas.thc.texas.gov/Details/5000023826
-
   THC 24052: Tyus Cemetery
     addr: FCR 238, Fairfield
     https://atlas.thc.texas.gov/Details/5000024052
@@ -33,8 +21,4 @@ Freestone unmapped markers with NO usable address (10):
   THC 17236: Wilson Chapel Cemetery
     addr: 170 FCR 795, Donie
     https://atlas.thc.texas.gov/Details/5507017236
-
-  THC 9916: Wortham Schools
-    addr: 200 S. 4th St., Wortham
-    https://atlas.thc.texas.gov/Details/5161009916
 

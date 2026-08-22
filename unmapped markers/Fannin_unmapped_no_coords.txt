@@ -1,8 +1,4 @@
-Fannin unmapped markers with NO usable address (8):
-
-  THC 18914: Bank of Windom
-    addr: 501 Main Street, Windom
-    https://atlas.thc.texas.gov/Details/5507018914
+Fannin unmapped markers with NO usable address (6):
 
   THC 14934: Coontown Cemetery (Medallion only)
     addr: Savoy
@@ -27,8 +23,4 @@ Fannin unmapped markers with NO usable address (8):
   THC 20004: Oak Ridge Cemetery
     addr: 10368 E FM 1550, Ladonia
     https://atlas.thc.texas.gov/Details/5507020004
-
-  THC 15619: Trinity Episcopal Church
-    addr: Bonham
-    https://atlas.thc.texas.gov/Details/5507015619
 

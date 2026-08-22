@@ -1,4 +1,4 @@
-Trinity unmapped markers with NO usable address (13):
+Trinity unmapped markers with NO usable address (12):
 
   THC 23926: Baldwin Chapel Baptist Church
     addr: 288 Martin Luther King Blvd., Groveton
@@ -38,10 +38,6 @@ Trinity unmapped markers with NO usable address (13):
   THC 24238: Rice Cemetery
     addr: 3886 FSR 527, Kennard
     https://atlas.thc.texas.gov/Details/5000024238
-
-  THC 16101: Site of the Town of Sumpter
-    addr: Groveton
-    https://atlas.thc.texas.gov/Details/5507016101
 
   THC 7966: The Reese Family of Friendship Community
     addr: Pennington

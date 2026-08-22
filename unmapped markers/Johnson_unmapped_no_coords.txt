@@ -1,4 +1,4 @@
-Johnson unmapped markers with NO usable address (8):
+Johnson unmapped markers with NO usable address (3):
 
   THC 15636: Bennett Home on the Chisholm Trail
     addr: Rio Vista
@@ -8,26 +8,6 @@ Johnson unmapped markers with NO usable address (8):
     addr: CR 1118, Cleburne
     https://atlas.thc.texas.gov/Details/5000024285
 
-  THC 14478: Lake Pat Cleburne
-    addr: Cleburne
-    https://atlas.thc.texas.gov/Details/5507014478
-
-  THC 11966: Myers Cemetery
-    addr: Alvarado
-    https://atlas.thc.texas.gov/Details/5251011966
-
-  THC 23442: Oakland Cemetery
-    addr: FM 916, Grandview
-    https://atlas.thc.texas.gov/Details/5000023442
-
   THC 3983: Riggs Pennington Home
     https://atlas.thc.texas.gov/Details/5251003983
-
-  THC 12674: Site of Wardville
-    addr: US 67, Cleburne
-    https://atlas.thc.texas.gov/Details/5251012674
-
-  THC 5812: Wilkinson Family Cemetery
-    addr: Grandview
-    https://atlas.thc.texas.gov/Details/5251005812
 

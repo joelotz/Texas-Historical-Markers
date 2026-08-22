@@ -2,74 +2,99 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Victoria County — Unmapped Historical Markers</name>
-  <description>THC markers in Victoria County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 3 omitted (no usable address).</description>
+  <description>THC markers in Victoria County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>A. Goldman Home</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 107 S. Liberty, Victoria]]></description>
-    <Point><coordinates>-97.005196,28.798711,0</coordinates></Point>
+    <Point><coordinates>-97.005147750364,28.798752847968,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Abel Seymour Cunningham</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Evergreen Cemetery, Red River &amp; N. Vine Sts. (Section 1, Lot 42-47)<br/><br/><b>Address:</b> Victoria<br/><br/><b>Marker Text:</b> Soldier in the Texas War for Independence Soldier, Ranger and Congressman Republic of Texas. Erected by the State of Texas, 1962.]]></description>
-    <Point><coordinates>-97.009555,28.811463,0</coordinates></Point>
+    <Point><coordinates>-97.0092588077846,28.8115002031321,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Band Stand</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Constitution Square, Main &amp; Constitution Sts., Victoria<br/><br/><b>Address:</b> Main &amp; Constitution Sts., in Memorial Plaza, Victoria<br/><br/><b>Marker Text:</b> Originally built before 1885, on Constitution Street side of the public square, for public gatherings and concerts. Moved to center of public square and placed upon foundation of the old standpipe in 1923. Completely restored in 1962 by Mr. and Mrs. J.M. Pickering. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-97.006672,28.799329,0</coordinates></Point>
+    <Point><coordinates>-97.0064875887819,28.7997853804916,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Beck Ranch Headquarters</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 412 Magruder Dr., Victoria<br/><br/><b>Marker Text:</b> German native Charles (Carl) August Beck (1810-1885) purchased forty acres at this site in 1862. Ten years later he built this Greek Revival home as a wedding gift for his son Charles Theodore Beck (b. 1846). This house served as the headquarters for their cattle ranch which eventually grew to about 25,000 acres. In 1923 it became the center of Arthur Yariger's dairy business and has remained in the Yariger Family since that date. Recorded Texas Historic Landmark - 1980]]></description>
-    <Point><coordinates>-97.003172,28.842748,0</coordinates></Point>
+    <Point><coordinates>-97.0027945946292,28.8431263415981,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Billy Kyle Ranch House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[From Nursery, take US 87 NW about 1/4 mile, go west at first cattleguard.  Follow private road west about 1/4 mile (Private).<br/><br/><b>Address:</b> 0.25 mi. NW on US 87; 0.25 mi. W on private ranch road, Nursery<br/><br/><b>Marker Text:</b> Texas Colonial ranch home. Built 1872 by W.H. "Uncle Billy" Kyle (1836-1907), trail driver, cattleman, Civil War veteran. Recorded Texas Historic Landmark - 1965]]></description>
-    <Point><coordinates>-97.10806,28.926477,0</coordinates></Point>
+    <Point><coordinates>-97.1087852480756,28.9261656584056,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Memorial Square Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 402 North DeLeon, Victoria]]></description>
     <Point><coordinates>-97.001466,28.801038,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Nursery Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[842 Nursery Road<br/><br/><b>Address:</b> 842 Nursery Road, Nursery<br/><br/><b>Marker Text:</b> Established October 26, 1899 Historic Texas Cemetery - 2004]]></description>
-    <Point><coordinates>-97.097221,28.927759,0</coordinates></Point>
+    <Point><coordinates>-97.0956062519823,28.9361544361549,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Grist Mill</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[299 Mill Lane, Inez. Moved in 2011 from Memorial Square, 402 N. De Leon Street, Victoria.<br/><br/><b>Address:</b> 299 Mill Lane, Inez<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
     <Point><coordinates>-96.788906,28.849703,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Pioneer Marker</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Memorial Square, 400 block of E. Commercial<br/><br/><b>Address:</b> 400 East Commercial Street, Victoria<br/><br/><b>Marker Text:</b> To the memory of Texas soldiers and Victoria pioneer families who still lie buried in this sacred soil. A tribute from Colonel James W. Fannin Chapter of the Daughters of the Republic of Texas 1947.]]></description>
     <Point><coordinates>-97.001861,28.800806,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Salem</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[NW of Inez, FM 444 between Salem Rd. and Furhman Rd.<br/><br/><b>Address:</b> FM 444, Inez<br/><br/><b>Marker Text:</b> The community of Salem (“Peace” in Hebrew) developed in northeast Victoria county in the early 20th century. In 1910, Higginson Colonization Company mapped out acreage in this area to be developed as a townsite, orchards and farms. The company was organized by David Gehman (D.G.) Musselman and others, with Musselman working as colonization agent. He owned tracts of land which would become the heart of the Salem community. Many settlers came to Salem from other states, including Ohio, Kansas, Indiana and Pennsylvania. Settlers purchased small tracts of land in the community, also known as “Colony” and “Colony of Brotherly Love.” In 1911, a post office opened; soon, the town also had stores, a two-room schoolhouse and a multi-denominational church named Brethren in Christ. By 1915, dozens of settlers lived in Salem, with more residing nearby. Most early residents were farmers. By the 1930s, ranching also became a common activity. An early civic leader was D.G. Musselman’s wife, Rose (Lambert), who worked as a Mennonite missionary in Armenian Turkey before returning to the United States. She worked for a time as Salem’s postmaster, and operated a general store and filling station out of the couple’s homestead. Another important local figure was the Reverend T.A. Long, who pastored Salem’s church. The community declined in the late 1930s. Since agricultural yields were inconsistent, the small farm and orchard tracts in the community lost their appeal. However, today Salem continues to be remembered as a historic rural community and an early attempt at development in northeastern Victoria County. (2008)]]></description>
-    <Point><coordinates>-96.907956,28.984789,0</coordinates></Point>
+    <Point><coordinates>-96.9080535913719,28.9848311860342,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sengele Home</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 210 E. Forest St., Victoria]]></description>
     <Point><coordinates>-97.004511,28.799694,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Shillerville Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[From Victoria, take US 59 east about 4 mi to FM 1680. Go south/SE then SW on FM 1686 about 10.2 mi. Take CR West/ N about 1 mi to Cem.<br/><br/><b>Address:</b> 4 mi. E on US 59; 10.2 mi. S/SE then SW on FM 1680; 1 mi. W/N on CR, Victoria<br/><br/><b>Marker Text:</b> The community of Shillerville began when several Czechosovakian families came to this area in 1894. Among the first settlers was Jan Shiller, for whom the farm community was named. The first burial, that of Rosalie Balcar Jirasek, took place in 1897 on land given by Josef Lesikar and wife, Terezie Marek Lesikar. The graveyard was originally known as the Lesikar or Bohemian Burial ground. Additional land was donated in 1954 which increased the size of the cemetery to one acre. Some of the early grave markers are inscribed in Czech. (1986)]]></description>
-    <Point><coordinates>-96.849974,28.772472,0</coordinates></Point>
+    <Point><coordinates>-96.8502941971269,28.7729188611203,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Victoria Advocate</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 311 E. Constitution St., Victoria<br/><br/><b>Marker Text:</b> Second oldest existing newspaper in Texas. Established May 8, 1846 by Thomas Sterne --- John D. Logan. Among its editors have been John Henry Brown, Rev. H.S. Thrall, Victor R. Rose, Leopold Morris, historians. Gen. William R. Scurry, Gen. A.P. Bagby of military fame. George H French Publisher since 1901. Erected by the State of Texas 1936]]></description>
-    <Point><coordinates>-97.003919,28.798383,0</coordinates></Point>
+    <Point><coordinates>-97.0035385179016,28.7981906743039,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] William A. Wood Memorial School</name>
+    <styleUrl>#pending</styleUrl>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 101 Wood Hi School Rd., Inez]]></description>
     <Point><coordinates>-96.817981,28.803901,0</coordinates></Point>
   </Placemark>

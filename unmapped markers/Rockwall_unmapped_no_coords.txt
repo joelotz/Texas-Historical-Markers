@@ -1,8 +1,4 @@
-Rockwall unmapped markers with NO usable address (2):
-
-  THC 16359: Chandler Cemetery
-    addr: Heath
-    https://atlas.thc.texas.gov/Details/5507016359
+Rockwall unmapped markers with NO usable address (1):
 
   THC 24113: Nathan Butler Cemetery
     addr: Shores Blvd., Rockwall

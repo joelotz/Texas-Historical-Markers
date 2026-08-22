@@ -2,36 +2,72 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Goliad County — Unmapped Historical Markers</name>
-  <description>THC markers in Goliad County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <description>THC markers in Goliad County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Cabeza Creek Crossing on the La Bahia-Bexar Road</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 2078 FM 2043, Goliad<br/><br/><b>Marker Text:</b> The Cabeza Creek Crossing (1 mi. NW), a point on the San Antonio River tributary, is located on the La Bahía-Bexar road, a vital Texas transportation route. The crossing is on ranch property which belonged to Rafael Antonio Manchola, an alcalde of Goliad and state deputy of Coahuila y Tejas. The La Bahía-Bexar road, which was a segment of the Camino Real, connected Spanish territories to Mexico City. In 1749, the Presidio La Bahía and the Mission Espíritu Santo relocated nearby from the Guadalupe River area. The residents needed a trade route and made use of the road, charted by Capt. Manuel Ramírez de la Piscina in 1775 and mapped by Gov. Domingo Cabello y Robles in 1780. By mid-1830s, Stephen F. Austin had also mapped the route, as did French-Swiss naturalist Jean Louis Berlandier, who noted an abandoned ranch on the eastern approach to the crossing where Spanish artifacts dating to 1790 were later found. Through the years, the road and crossing were used by travelers, military personnel, and Spanish, Mexican and Anglo traders and ranchers. Later called the Goliad-San Antonio road and the San Antonio road, the route became a vital supply line between gulf ports and Bexar (San Antonio). During the 1840s, German immigrants traveled the road; some would settle in this county in communities such as Weesache, Schroeder and Ander, while others used the crossing and continued northwest. By the late 1800s, the road and crossing fell into disuse as railroads arrived and became a primary form of transportation. Today, the crossing and road are part of a national historic trail and continue to serve as a reminder of Goliad’s rich history. (2008)]]></description>
-    <Point><coordinates>-97.487531,28.656545,0</coordinates></Point>
+    <Point><coordinates>-97.4889678735287,28.6566805257972,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Elijah Ray House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[From Charco, take FM 2442 8 miles SW.<br/><br/><b>Address:</b> Charco<br/><br/><b>Marker Text:</b> A native of Alabama, Elijah Ray (1825 - 1902) first came to Texas in 1847. He purchased this property during the Civil War (1861-65) and built this home for his family. Like many early Texas dwellings, the structure has a central hallway and a two-story porch with decorative brackets. Elijah Ray's son George later acquired the homestead. A well-known stockman like his father, George Ray was also a noted oilman and banker. Recorded Texas Historic Landmark - 1984]]></description>
     <Point><coordinates>-97.689766,28.672484,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>J. W. Fannin</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[At corner of E. Franklin Street and S. Market Street, Goliad.<br/><br/><b>Address:</b> Goliad<br/><br/><b>Marker Text:</b> SOUTH SIDE OF MONUMENT: Erected in memory of J. W. Fannin and his comrades in arms April A.D. 1885 NORTH SIDE: Remember the Alamo, Remember Goliad EAST SIDE: Massacred March 27, A.D. 1836 WEST SIDE: Independence declared March 2, A.D. 1836, consummated April 21, A.D. 1836]]></description>
-    <Point><coordinates>-97.391515,28.667672,0</coordinates></Point>
+    <Point><coordinates>-97.3909057403419,28.6673932756382,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Kilgore Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 412 Kilgore Road, Goliad]]></description>
-    <Point><coordinates>-97.29711,28.77018,0</coordinates></Point>
+    <Point><coordinates>-97.2979890895792,28.769480720548,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Ramsey Home</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[205 Garden Street, Goliad.<br/><br/><b>Address:</b> 205 E. Garden Street, Goliad<br/><br/><b>Marker Text:</b> No Text]]></description>
     <Point><coordinates>-97.391136,28.6693,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>San Jacinto Cemetery</name>
-    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 4962 FM 1351, Goliad<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 4962 FM 1351, Goliad<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-97.535381,28.635627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Mission Nuestra Senora del Rosario</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Goliad State Park<br/><br/><b>Address:</b> Goliad<br/><br/><b>Marker Text:</b> Site of Mission Nuestra Senora del Rosario, Established in 1754 for the Cujane Nation, Here Faithful Franciscan Missionaries Attempted to Christianize and Civilize the Indians of the Region Until 1794]]></description>
+    <Point><coordinates>-97.4398823614627,28.6450725599233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stockton Charco Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> 212 Stockton Charco Rd., Goliad<br/><br/><b>Marker Text:</b> Stockton Charco Cemetery
+Established 1863]]></description>
+    <Point><coordinates>-97.6415699351271,28.7327459644705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>W. J. Ed and Mary Elizabeth Lott House</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[5 miles southwest of Goliad on US 59; 2 miles west on FM 1351<br/><br/><b>Address:</b> Goliad<br/><br/><b>Marker Text:</b> The Lott family settled in Goliad County in 1845. Walter Jerome "Ed" Lott, a prominent area cattleman, and his wife Mary Elizabeth (Stephens) purchased this property, originally part of Mission Rosario lands, in 1878. The Lotts built this vernacular Queen Anne house in 1887-88, attaching it to an I-house built about 1875. Its features include an 8-bay wraparound porch. The house has been occupied by five generations of the Lott family for more than 100 years. Recorded Texas Historic Landmark - 1996]]></description>
+    <Point><coordinates>-97.4873947498258,28.6401221523445,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

@@ -2,11 +2,23 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hale County — Unmapped Historical Markers</name>
-  <description>THC markers in Hale County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <description>THC markers in Hale County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Montgomery Ward Building</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 113 W 6th St, Plainview<br/><br/><b>Marker Text:</b> This commercial structure was built in 1929 for the Plainview Montgomery Ward store. Located on land owned by J.H. Slaton, Guy Jacob and others, the building housed the business for almost 40 years. The architectural style, which features detailing of glazed terra cotta and multicolored tile, was utilized in several of the company's other Texas stores. The building now serves as a reminder of Plainview's early commercial development. Recorded Texas Historic Landmark - 1982]]></description>
-    <Point><coordinates>-101.704277,34.183911,0</coordinates></Point>
+    <Point><coordinates>-101.703823779534,34.185509013749,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

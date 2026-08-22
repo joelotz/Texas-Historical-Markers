@@ -2,11 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Presidio County — Unmapped Historical Markers</name>
-  <description>THC markers in Presidio County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <description>THC markers in Presidio County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Ruidosa Church / La Corazon Sagrado de la Iglesia de Jesus</name>
-    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 12931 FM 170, Marfa<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 12931 FM 170, Marfa<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-104.674779,29.970278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Alamito</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[7 mi. S of Marfa on US 67, then 24 mi. S on FM 169 to Alamito Creek<br/><br/><b>Address:</b> Marfa vicinity<br/><br/><b>Marker Text:</b> Alamito Creek has been a passageway and the scene of human activity since prehistoric times. Spanish explorers began traveling through the region in 1535. Mexican families began to settle in the area about 1715 and established rancheros despite an Apache presence. Beginning in the 1850s, the infamous Chihuahua Trail, a route for heavy freight wagons from San Antonio to Chihuahua, Mexico, passed near Alamito. By 1870 Alamito was a community with several families farming and working on nearby ranches. John Davis, a pioneer from North Carolina, was a strong community leader. He married Francisca Herrera, the daughter of Carlos Herrera, one of the first Spanish settlers of Alamito, in 1875. They built a home with a chapel, one-room school, and a canal for crop irrigation. Davis was known for serving peach brandy to weary travelers who came through on the Chihuahua Trail. Francisca died in 1892 and was buried near the chapel in Alamito. The grief-stricken Davis went back to North Carolina and never returned to this area. The legendary railroad known as the "Road to Topolabampo" was the result of a longtime dream of A. E. Stilwell, railroad builder and urban promoter, for a rail line from Kansas City to Mexico's west coast. It passed through Alamito in 1930. The Railroad dug a deep well, constructed a tank to water the steam engines, built a section house for workers, and renamed the site Plata. At the end of the 20th century, only ruins of the Davis-Herrera home, school, cemetery and canal remain. Ruts of the Chihuahua Trail can still be seen in the bedrock north of Alamito. (2000)]]></description>
+    <Point><coordinates>-104.019007441523,29.8750696724003,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

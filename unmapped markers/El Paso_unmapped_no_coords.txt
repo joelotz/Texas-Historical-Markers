@@ -1,4 +1,4 @@
-El Paso unmapped markers with NO usable address (15):
+El Paso unmapped markers with NO usable address (12):
 
   THC 18606: Bailey Cemetery
     addr: Canutillo
@@ -24,10 +24,6 @@ El Paso unmapped markers with NO usable address (15):
     addr: Socorro
     https://atlas.thc.texas.gov/Details/5507014954
 
-  THC 14760: Old County Jail
-    addr: San Elizario
-    https://atlas.thc.texas.gov/Details/5507014760
-
   THC 16824: Olivas Villanueva Aoy
     addr: 1 Civic Center Plaza, El Paso
     https://atlas.thc.texas.gov/Details/5507016824
@@ -40,10 +36,6 @@ El Paso unmapped markers with NO usable address (15):
     addr: El Paso
     https://atlas.thc.texas.gov/Details/5507015193
 
-  THC 18738: San Elizario Cemetery
-    addr: Socorro at Thompson Roads, San Elizario
-    https://atlas.thc.texas.gov/Details/5507018738
-
   THC 24006: San Elizario Church Cemetery
     addr: Socorro Rd., San Elizario
     https://atlas.thc.texas.gov/Details/5000024006
@@ -55,8 +47,4 @@ El Paso unmapped markers with NO usable address (15):
   THC 16609: The Architecture of Henry C. Trost in El Paso
     addr: El Paso
     https://atlas.thc.texas.gov/Details/5507016609
-
-  THC 15485: Ysleta Mission
-    addr: El Paso
-    https://atlas.thc.texas.gov/Details/5507015485
 

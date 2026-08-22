@@ -1,4 +1,4 @@
-Montague unmapped markers with NO usable address (15):
+Montague unmapped markers with NO usable address (11):
 
   THC 23450: Boggess Cemetery
     addr: FM 677 N, Saint Jo
@@ -23,18 +23,6 @@ Montague unmapped markers with NO usable address (15):
     addr: Jim Harry Loop, Sunset
     https://atlas.thc.texas.gov/Details/5000023818
 
-  THC 4220: Red River Station
-    addr: Bowie
-    https://atlas.thc.texas.gov/Details/5337004220
-
-  THC 14095: Red River Station
-    addr: Nocona
-    https://atlas.thc.texas.gov/Details/5507014095
-
-  THC 14855: Red River Station
-    addr: Nocona
-    https://atlas.thc.texas.gov/Details/5507014855
-
   THC 14157: Rural Schools-Dye Mound
     addr: Montague
     https://atlas.thc.texas.gov/Details/5507014157
@@ -42,10 +30,6 @@ Montague unmapped markers with NO usable address (15):
   THC 14974: Rural Schools-Fruitland
     addr: Bowie
     https://atlas.thc.texas.gov/Details/5507014974
-
-  THC 14509: Rural Schools-Illinois Bend
-    addr: Saint Jo
-    https://atlas.thc.texas.gov/Details/5507014509
 
   THC 14773: Spanish Fort, Red River Station
     addr: Nocona

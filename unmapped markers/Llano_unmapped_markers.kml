@@ -2,20 +2,46 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Llano County — Unmapped Historical Markers</name>
-  <description>THC markers in Llano County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <description>THC markers in Llano County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 5 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Chew Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[8 mi. N of Llano on CR 405 to CR 438<br/><br/><b>Address:</b> Llano<br/><br/><b>Marker Text:</b> Born in West Virginia in 1832, George Oliver Chew came to Texas in 1839. He married Nancy Taylor prior to 1870, and they settled in western Llano County in 1883, purchasing 320 acres of land. This site probably was first used as a family cemetery about 1885 when their infant granddaughter was interred here. The second marked burial was that of a 2-year-old grandson, Osceola Chew, in 1887. George Oliver Chew was interred here in 1901. The Chew family continued to grow, operating a school and later a cotton gin. In 1927 they sold the land to another family, who donated back the one-acre cemetery twenty years later. There are more than 40 known graves in the Chew Cemetery. Both a Confederate and a Union soldier are interred here, as are veterans of other military conflicts. (1999)]]></description>
+    <Point><coordinates>-98.9494018373957,30.797140337749,0</coordinates></Point>
+  </Placemark>
   <Placemark>
     <name>Old Southern Hotel Building</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> Berry at Main Streets, NW of public square, Llano<br/><br/><b>Marker Text:</b> J.W. Owen had this hotel building constructed about 1880. Stonemasons J.K. Finlay and John Goodman built the original two-story structure, which was a stagecoach stop. The third floor was added during the ownership of Col. W.A.H. Miller, who bought it in 1883. An annex was later added to the west side of the building, and an addition on the north served as dining hall and kitchen. There, family-style meals were served until the business, then called the Colonial Inn, closed in the 1950s. The additions were removed in 1977. Recorded Texas Historic Landmark - 1980, 2003]]></description>
-    <Point><coordinates>-98.677075,30.748631,0</coordinates></Point>
+    <Point><coordinates>-98.6773180358725,30.750413743935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Packsaddle Mountain</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Near SH 71, about 15 miles southeast of Llano, private marker placed in 1938 atop Packsaddle Mountain.<br/><br/><b>Address:</b> Llano<br/><br/><b>Marker Text:</b> Packsaddle Mountain Indian Battle Fight, August 5, 1873. In honor of pioneers who fought Llano County's last Indian battle: James Moss - Robert Brown - Arch Martin - William B. Moss - Denver Harrington - 'Pink' Ayres - Eli Lloyd - Stephen B. Moss]]></description>
+    <Point><coordinates>-98.5180702121665,30.6111624305107,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Trinity Methodist Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Old Schoolhouse Road, off FM 152<br/><br/><b>Address:</b> Castell]]></description>
-    <Point><coordinates>-98.957865,30.700109,0</coordinates></Point>
+    <Point><coordinates>-98.9579122805853,30.700148884578,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Wilson-Schrank House</name>
-    <description><![CDATA[807 Wright St. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 807 Wright St., Llano<br/><br/><b>Marker Text:</b> Robert E. Wilson (1862-1915) and his wife, Nancy (Byfield) (1866-1930), built this two-story home in 1912. Robert had previously been a successful Llano County cattle rancher and was a member of the Board of Trustees of the Llano public schools. The home passed to descendants. In 1927, respected chiropractor Dr. Lewis Theodore Schrank (1892-1967) and his wife, Gertrude (Carrington) (1897-1989), purchased the home. Gertrude was active in civic affairs, serving as Red Cross Home Nursing Course chairwoman for Llano County, girl scout leader, and executive committee member for the Llano Parent-Teacher Association. The home features original interior woodwork with dark natural finish, full-length galleries, doric columns and decorative cornice brackets.
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[807 Wright St.<br/><br/><b>Address:</b> 807 Wright St., Llano<br/><br/><b>Marker Text:</b> Robert E. Wilson (1862-1915) and his wife, Nancy (Byfield) (1866-1930), built this two-story home in 1912. Robert had previously been a successful Llano County cattle rancher and was a member of the Board of Trustees of the Llano public schools. The home passed to descendants. In 1927, respected chiropractor Dr. Lewis Theodore Schrank (1892-1967) and his wife, Gertrude (Carrington) (1897-1989), purchased the home. Gertrude was active in civic affairs, serving as Red Cross Home Nursing Course chairwoman for Llano County, girl scout leader, and executive committee member for the Llano Parent-Teacher Association. The home features original interior woodwork with dark natural finish, full-length galleries, doric columns and decorative cornice brackets.
 				
 RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-98.678339,30.75018,0</coordinates></Point>

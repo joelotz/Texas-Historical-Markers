@@ -2,84 +2,141 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Hood County — Unmapped Historical Markers</name>
-  <description>THC markers in Hood County without an HMDB id (isMissing excluded). 16 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
+  <description>THC markers in Hood County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Antioch Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Tolar]]></description>
+    <Point><coordinates>-97.9658304195213,32.4231138245444,0</coordinates></Point>
+  </Placemark>
   <Placemark>
     <name>Antioch Community</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[3 mi. NW of Tolar at intersection of FM 56 and CR 108<br/><br/><b>Address:</b> FM 56, CR 108, Tolar<br/><br/><b>Marker Text:</b> Antioch, formerly an active farming community, is today a rural locale of western Hood County. The last Indian fight in the county, called Point of the Timbers or Battle of Lookout Point, occurred in this vicinity in September 1869. Organized settlement began in the 1870s, when families established ranches at the head of Stroud's Creek upstream from Thorp Spring. Stage routes from Fort Worth and Tolar also passed nearby. A Baptist church, school and cemetery begun two miles east in 1881 became a small settlement called Stroud's Creek. In August 1889, the congregation moved to this site and changed the church name to Antioch. The Musick family gave land for the church and an adjoining cemetery. The first grave in Antioch Cemetery, that of teenager Lottie Brown, dates to May 1890. Confederate veterans George Washington Brown (1811-1891) and Austin Musick (1826-1897) are also interred there. The cemetery became inactive in 1941. By 1956, membership of the Antioch Missionary Baptist Church had dwindled to twelve members, and so the congregation disbanded and the church building was moved to Paluxy. In 1894, Ellis School of Stroud's Creek split into Ellis, Asbury and Antioch schools. Early Antioch teacher Richard Mugg later became county school superintendent and county judge. Asbury merged with Antioch (known locally as Midway) in 1920. Classes ended in 1941 and students attended Tolar School, where the mascot of the Rattlers was inspired by a four-foot rattlesnake captured on Antioch's Jarvis Ranch. With the school and church buildings now gone, the cemetery marks the historic center of Antioch. (2006)]]></description>
-    <Point><coordinates>-97.966861,32.423097,0</coordinates></Point>
+    <Point><coordinates>-97.9667946890776,32.4230574495033,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Bowden Kennon House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 8081 Inner Circle Road, Granbury<br/><br/><b>Marker Text:</b> Built between 1908 and 1914 for the family of Ralph W. Bowden (1873-1954), this home features leaded glass windows and steeply pitched gables with flaring eaves. Bowden, a Granbury merchant, served as a city councilman and established an early telephone system for the area. The home was sold in 1914 to Perry H. Kennon (1864-1927), who served as Hood county tax assessor for ten years. The home stands as a reflection of Granbury's years of growth and prominence.]]></description>
-    <Point><coordinates>-97.793078,32.440035,0</coordinates></Point>
+    <Point><coordinates>-97.7922624740864,32.4402094980589,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Crockett's Bounty</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[From intersection of US 377 and FM 167, go north.  Marker is on the north-bound side of FM 167 (no pull-off area)<br/><br/><b>Address:</b> 2900 Temple Hall Highway, FM 167, Granbury<br/><br/><b>Marker Text:</b> David (Davy) Crockett (1786-1836), famed frontiersman and congress-man, came to Texas from Tennessee in early 1836. He signed a pledge of allegiance to the provisional Texian government and proceeded to San Antonio de Béxar, besieged by the Mexican Army during the Texas Revolution. Crockett reached the Alamo in early February, just weeks before Mexican General Antonio López de Santa Anna arrived with troops. Crockett died with the other Alamo defenders on March 6, 1836, and the battle inspired Texas forces. For Crockett’s service and sacrifice to the Texas Revolution, his heirs received almost 1,300 acres of land. In 1853, 17 years after her husband’s death, Elizabeth (Patton) Crockett, and sons, George Patton and Robert Crockett, arrived to claim Crockett’s bounty. They received land in this area and contracted with William L. Mitchell to locate and survey the acreage, exchanging half for his service. Here the Crocketts, later joined by other family members, built at least two log cabins and began clearing and farming the land. After Elizabeth’s death in 1860, the Crocketts continued to live on the property, later subdividing and selling it. The final tract sold in 1889, but the family remained active in the community, with grandson Ashley Crockett operating area newspapers. Subsequent owners of Crockett’s bounty included John Berry, a cattleman, and James Travis Shirley, whose family established the Rocky Point School, a chapel and a baptismal pool on the property. During the Great Depression, John Ward Harrison established a dairy on the land, providing jobs for many workers. In the 1940s, Herbert Calhoun began a cattle and quarter horse operation on Crockett’s bounty, continuing the legacy of the land and its stewards.]]></description>
-    <Point><coordinates>-97.7209,32.517761,0</coordinates></Point>
+    <Point><coordinates>-97.7206423425051,32.5187496708139,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Daniel-Harris Home</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 403 W. Bridge St., Granbury<br/><br/><b>Marker Text:</b> Early Granbury merchant and saloonkeeper Robert Randolph Daniel (1864-1918) had this house built about 1892. In 1899 it was sold to Wesley Smith Harris (1854-1930), a prominent local furniture dealer and undertaker. Representative of elegant turn-of-the-century homes in Granbury, the victorian residence reflects influences of the italianate and eastlake styles and features an ornate square tower and intricate ornamentation.]]></description>
-    <Point><coordinates>-97.791095,32.443147,0</coordinates></Point>
+    <Point><coordinates>-97.7911766997077,32.4431492109418,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Elizabeth Crockett</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Highway 167, Acton, in Acton Cemetery (Loc. about .5 miles South of intersection of FM 167 and FM 4, Acton)<br/><br/><b>Address:</b> Acton<br/><br/><b>Marker Text:</b> Wife of David Crockett]]></description>
-    <Point><coordinates>-97.685577,32.441701,0</coordinates></Point>
+    <Point><coordinates>-97.6840491387933,32.4401291144178,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Elm Flat Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 4950 Power Plant Court, Granbury<br/><br/><b>Marker Text:</b> A cemetery was established at this site in Nov. 1877 when Thomas B. and Elizabeth Stone (Anderson) Wells buried two young sons near their family cabin. Lucinda Wells, a freed slave who remained with the Wells family after emancipation, was buried here in 1889. In 1883, Elizabeth Wells donated 1.5 acres for the establishment of a church and school for the people of the rural community of Elm flat. Mrs. Wells moved to Grimes county just prior to her 1908 death, but before leaving, she deeded to the county this two acre site, assuring the permanence of her family cemetery, as well as providing a final resting place for the residents of Elm Glat. Her adopted son, W.A. Wells, was buried here in 1928, and the cemetery remains active.]]></description>
-    <Point><coordinates>-97.703465,32.404101,0</coordinates></Point>
+    <Point><coordinates>-97.7072077863306,32.3995400615294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Friendship Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[4955 Friendship Road (CR 104)<br/><br/><b>Address:</b> Granbury<br/><br/><b>Marker Text:</b> FRIENDSHIP CEMETERY ESTABLISHED 1877 HISTORIC TEXAS CEMETERY – 2012]]></description>
+    <Point><coordinates>-97.8651813233963,32.4176707909138,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Granbury Methodist Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Marker moved from 204 E. Pearl in 2005.<br/><br/><b>Address:</b> 301 Loop 567, Granbury<br/><br/><b>Marker Text:</b> The Rev. John R. Hill and seven charter members organized this congregation as the Granbury Methodist Episcopal Church, South, in 1871. They conducted worship services in a local schoolhouse until 1883, when they completed their first sanctuary near this site. Additional buildings were constructed over the years to meet the needs of the growing congregation. The name was changed to First United Methodist Church in 1968. Throughout its history, the congregation has served the community with a variety of worship, educational, and outreach programs. (1994)]]></description>
-    <Point><coordinates>-97.788872,32.465957,0</coordinates></Point>
+    <Point><coordinates>-97.7888125625781,32.4665422342674,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Holderness-Aiken House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 321 W. Bridge St., Granbury<br/><br/><b>Marker Text:</b> Contractor E.J. Holderness, credited with building numerous Victorian structures in Granbury, erected this home for his own family, in 1896. The front porch features intricate Eastlake style decoration. Enlarged before 1910, the one story frame house was occupied by Holderness until 1913. It was acquired in 1926 by Mary Narcissa Rylee (Mrs. Ed) Aiken (1856-1931), member of a Pioneer Hood County family. Her daughter, Mabel Aiken (Mrs. George) Bayer, has preserved the residence.]]></description>
-    <Point><coordinates>-97.790137,32.443137,0</coordinates></Point>
+    <Point><coordinates>-97.7907669277718,32.4430922931662,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] Keith Street School</name>
+    <styleUrl>#pending</styleUrl>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Lambert Branch Park<br/><br/><b>Address:</b> 500 N. Brazos, Granbury]]></description>
     <Point><coordinates>-97.771212,32.398714,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Lees-Bryan House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 121 W. Bluff St., Granbury<br/><br/><b>Marker Text:</b> This Eastlake style house was built in 1890 for Granbury Merchant J.C. Lees, a native of Canada. The home was sold to S.L. Bowden in 1895. Bowden's daughter Maude lived here after her marriage to Hardy H. Bryan in 1903. The corner porch entry and corner tower with fish-scale shingles and pyramidal roof are dominant features of the Lees-Bryan house, which remained in the Bryan family for nearly 70 years. Recorded Texas Historic Landmark - 1985]]></description>
-    <Point><coordinates>-97.787956,32.441171,0</coordinates></Point>
+    <Point><coordinates>-97.7885757478559,32.4411257637945,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Long Creek Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Granbury<br/><br/><b>Marker Text:</b> This burial ground, also known as Temple Hall Cemetery, is the last remaining vestige of two early pioneer communities in Hood County. It is named for Long Creek, also known as Bee Creek, which runs through the rich farmland of this region. The cemetery served Temple Hall, a community organized by the 1850s, which was thought to be named for an early masonic lodge. Residents of center mill, another area settlement that existed in the mid-to-late 1800s, also used the graveyard, which originated on land donated by area settler John Farrell. The earliest known burials in Long Creek Cemetery are for the Haley children, who died in 1864 and 1865, respectively. Others buried here include school superintendent, Hood County judge and amateur historian, W.L. Dent; Parker County commissioner Edward C. Atwood; and Hood County commissioner Albert Hall. Also buried here is Thomas Parkinson, who settled in this area around 1859. He built a grist mill on Long Creek and later a cotton gin. Other interments include early settlers, prominent community leaders and veterans of conflicts dating to the Civil War. The cemetery features hand-carved markers, curbing, ledger stones, vertical stones, obelisks, grave slabs, and masonic, odd fellows, eastern star and woodmen of the world grave markers. The Long Creek Cemetery Association, which formed as early as 1909, cares for the burial ground. Today, Long Creek Cemetery is the last visible reminder of early area settlements and serves as a record of the pioneers who settled this region of Hood County.]]></description>
+    <Point><coordinates>-97.7416298421812,32.5507679219452,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Nubbin Ridge Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[7.5 mi S on Hwy 144 to FM 2425, 0.5 mi. off FM 2425 on Nubbin Ridge Cemetery Rd<br/><br/><b>Address:</b> Nubbin Ridge Cemetery Rd, Granbury<br/><br/><b>Marker Text:</b> Nubbin Ridge Cemetery Established 1878 Historic Texas Cemetery - 2003]]></description>
-    <Point><coordinates>-97.739546,32.327171,0</coordinates></Point>
+    <Point><coordinates>-97.7391917815289,32.3273409756897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rock Church Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[6101 Rock Church Road. From junction of US 377 and Rock Church Road, FM 2870, in Tolar, south on Rock Church Road 6.8 miles. Cemetery is on the left. The junction of Loftin Road, CR-223, is on the left.<br/><br/><b>Address:</b> 6101 Rock Church Road, Tolar<br/><br/><b>Marker Text:</b> Located in a largely agricultural area of farmers and ranchers, the Rock Church community was settled by pioneers in the 1850s, including the Caraway, Cowan, Jackson, Jones, Pate, Baker and Wood families. Jesse Caraway was a pioneer who arrived in Texas in 1859 from Tennessee where he had been a neighbor of Texas hero Davy Crockett. Caraway allowed citizens to build a two-story cut stone structure on his property in 1871-72 which became the center of the community. In 1875, Caraway deeded land to be used as a church, school, masonic lodge and cemetery by the Rock Church community. The Rock Church Cemetery served as the burial ground for the Rock Church community as well as surrounding areas. The first burial is that of Sarah Brooks, wife of Zachariah Brooks, who died on May 30, 1873. Her tombstone is marked with the words, “the 1st put here.” Approximately 700 graves of pioneer residents, their descendants and others fill the cemetery. Many veterans, dating back to the Civil War, are interred here, including a highly decorated Vietnam veteran, 1st lt. David E. Yates. Woodmen of the World, Masons, Shriners and Order of the Eastern Star headstones are representative of the importance of community to the residents. The cemetery continues to draw people back to the Rock Church community for reunions and celebrations to remember and celebrate their heritage. HISTORIC TEXAS CEMETERY – 2016]]></description>
+    <Point><coordinates>-97.9601440732783,32.298792905319,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Smith-Savage House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 826 N. Thorp Spring Rd., Granbury<br/><br/><b>Marker Text:</b> Samuel Hancock Smith (1842-1906) had this residence built soon after he became Hood County tax assessor in 1883. Most of the decorative trim probably was added during an 1892 expansion of the home. From 1920 until 1956, this was the residence of the Savage family. William (1864-1933) and Emma (1878-1956) were Granbury merchants. Prominent features of the Smith-Savage house include its Eastlake porch and Italianate style bay window. Recorded Texas Historic Landmark - 1986 Incise on base: Marker secured by Alison, Claudia &amp; David Southern, owners since 1980.]]></description>
-    <Point><coordinates>-97.79236,32.450789,0</coordinates></Point>
+    <Point><coordinates>-97.7918786669045,32.4508332869709,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Stockton Bend</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Brazos Bend, 2100 Yucutan<br/><br/><b>Address:</b> 2100 Yucatan, Granbury<br/><br/><b>Marker Text:</b> THE RURAL COMMUNITY OF STOCKTON BEND WAS FIRST SETTLED IN WHAT WAS ORIGINALLY JOHNSON COUNTY. IN 1854, THOMAS “UNCLE TOMMY” LAMBERT AND AMON BOND LED A GROUP OF SETTLERS, MOSTLY FROM TENNESSEE, ACROSS THE BRAZOS RIVER INTO THE AREA WHICH WOULD BECOME STOCKTON BEND. LOCATED NEAR THE BANK, THE AREA OFFERED PROTECTION FROM INDIAN ATTACKS, WHILE TRAVELERS OFTEN CROSSED THE BRAZOS RIVER AT EITHER ABE’S CROSSING OR LANDERS FERRY, BOTH IN THE COMMUNITY. THE SETTLEMENT GREW AS OTHERS, INCLUDING MEMBERS OF THE NUTT AND LANDERS FAMILIES, CAME HERE AS WELL. BUSINESSES IN STOCKTON BEND INCLUDED A SALOON, BLACKSMITH, MERCANTILE STORE, AND GROCERY STORE. THE COMMUNITY ALSO HAD A SCHOOL. IN 1866, HOOD COUNTY WAS FORMED FROM A PORTION OF JOHNSON COUNTY. STOCKTON BEND PLAYED A MAJOR ROLE IN THE NEW COUNTY’S DEVELOPMENT, AS COMMUNITY RESIDENTS ABEL LANDERS AND A.J. WRIGHT WERE ELECTED COUNTY JUDGE AND SHERIFF, RESPECTIVELY. UNDER THE LEADERSHIP OF JUDGE LANDERS, AN ELECTION WAS ORDERED TO DETERMINE THE COUNTY SEAT. DISSATISFIED WITH THE RESULTS, LANDERS CONDUCTED FURTHER ELECTIONS BEFORE APPOINTING COMMISSIONERS FROM NEARBY COUNTIES TO MAKE A DECISION; THEY SETTLED ON GRANBURY. THE CONTROVERSY SURROUNDING THE DECISION EVENTUALLY LED TO THE ESTABLISHMENT OF SOMERVELL COUNTY SEPARATE FROM HOOD COUNTY. DURING THE PROCESS, COMMISSIONERS COURT MEETINGS AND OTHER SESSIONS WERE HELD IN STOCKTON BEND. BY THE EARLY 20TH CENTURY, THE TOWN HAD DECLINED, WITH THE SCHOOL CLOSING IN 1911. TODAY, THOUGH NO LONGER EXTANT, STOCKTON BEND’S SIGNIFICANCE REMAINS AS A COMMUNITY OF INDIVIDUALS WHO PLAYED A MAJOR ROLE IN HOOD COUNTY’S DEVELOPMENT.]]></description>
-    <Point><coordinates>-98.512067,31.099324,0</coordinates></Point>
+    <Point><coordinates>-97.758084,32.478073,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Stroud Creek Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 2800 Stroud Creek Ct., Tolar<br/><br/><b>Marker Text:</b> The Stroud Creek community developed in the late 1870s and early 1880s due to post-Civil War migration, land grants, a nearby stagecoach line, and cessation of area raids by Native Americans. Stroud Creek settlers began to use this property, located on the Elizabeth Windsor survey and owned by Benjamin Irby, for burials in 1883, and it was later used by residents of Tolar. The interred include community and religious leaders, merchants, educators, farmers, and military veterans. The cemetery features curbing, fraternal markers, and vertical stones. Today, Stroud Creek Cemetery continues to be used and remains a testament to the pioneering men and women of western Hood County.]]></description>
-    <Point><coordinates>-97.932999,32.42664,0</coordinates></Point>
+    <Point><coordinates>-97.9323975926555,32.4266637198725,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Temple Hall United Methodist Church</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Granbury<br/><br/><b>Marker Text:</b> Organized in 1854, Temple Hall United Methodist Church is one of the earliest institutions in Hood county. During the mid-1800s, residents formed the community of Center Mill. Needing a place of worship, they established two churches, including this one, originally called the Methodist Protestant Church. Thomas A. Parkinson, an early settler, provided this land for the church. Early church services reflected the pioneer life of area residents. Regular services began in 1855, when a pastor would hold worship once a month. Members attended church under a brush arbor and would sometimes end services early because of reports of Native Americans in the area. Around 1870, residents built a log building for use by the church, school and the temple of honor no. 23 lodge. Sam and Elvyria Crum granted the church property to the lodge in 1877. By 1900, members replaced the log building with a frame structure and the temple transferred ownership of land to the church. That building was used until members replaced it with the current structure. Throughout the years, Temple Hall United Methodist Church has played a vital role in and outside the community. Noted Hood county individuals have been members here, including W.l. Dent, a county judge and county school superintendent. Additionally, the church grounds have been used by many institutions and individuals. The church also has a rich history of contributing time and money to local needs as well as to national and global missions. Today, Temple Hall United Methodist Church continues to play a vital role as a spiritual leader in Hood county.]]></description>
+    <Point><coordinates>-97.7551284124008,32.5486744968912,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>W. D. and Essie Gafford House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[1 mile south of Lipan on FM 1189<br/><br/><b>Address:</b> 361 S. Caddo St., Lipan<br/><br/><b>Marker Text:</b> Constructed about 1916 for the family of William Doyle and Essie (Vandergriff) Gafford, this house is a good example of Craftsman bungalow design, popular in American architecture in the early 1900s. The Gaffords owned the general store in the Lipan community from 1911 until about 1929, in addition to farming and ranching enterprises on their Hood County property. W. D. Gafford (1894-1961) later operated city produce in Mineral Wells and established the local livestock auction. This historic farmhouse remained in the Gafford family throughout the 20th century. Recorded Texas Historic Landmark - 2001]]></description>
     <Point><coordinates>-98.050888,32.507085,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>W.M. Miller Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[2359 Miller Court<br/><br/><b>Address:</b> 2359 Miller Court, Granbury<br/><br/><b>Marker Text:</b> W.M. Miller Cemetery, established 1894. Historic Texas Cemetery-2008]]></description>
     <Point><coordinates>-97.743749,32.498644,0</coordinates></Point>
   </Placemark>

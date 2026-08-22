@@ -2,7 +2,23 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Reagan County — Unmapped Historical Markers</name>
-  <description>THC markers in Reagan County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
-
+  <description>THC markers in Reagan County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Stiles Courthouse</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Stiles community, Stiles Courthouse Loop, 0.1 mi. S of SH 137, 19 mi. NW of Big Lake<br/><br/><b>Address:</b> Stiles<br/><br/><b>Marker Text:</b> Built in 1911 from stone quarried half a mile away. Cost $20,000. Used until 1925 when the county seat moved to Big Lake. For many years after, it was a community center and (for one year) a school. Recorded Texas Historic Landmark - 1969]]></description>
+    <Point><coordinates>-101.566063,31.406565,0</coordinates></Point>
+  </Placemark>
 </Document>
 </kml>

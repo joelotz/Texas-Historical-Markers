@@ -1,12 +1,8 @@
-Wheeler unmapped markers with NO usable address (5):
+Wheeler unmapped markers with NO usable address (4):
 
   THC 14563: Britt Rock House
     addr: Wheeler
     https://atlas.thc.texas.gov/Details/5507014563
-
-  THC 15573: Farmers and Merchants State Bank
-    addr: Shamrock
-    https://atlas.thc.texas.gov/Details/5507015573
 
   THC 23709: Mount Zion Cemetery
     addr: Mobeetie

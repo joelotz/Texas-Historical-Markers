@@ -2,16 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Kleberg County — Unmapped Historical Markers</name>
-  <description>THC markers in Kleberg County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Kleberg County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Camp San Fernando</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Kingsville, take US 77 (business route) 3 miles north. Marker is on east side of road, between San Fernando Creek and Nueces County line. Marker damaged 2.10.14.<br/><br/><b>Address:</b> Business US 77, Kingsville<br/><br/><b>Marker Text:</b> Military post on San Fernando Creek, near this site. Guarded the lifeline of the Confederacy, the cotton road, export-import route that ran from the Sabine River in East Texas to the Rio Grande. Manned 1862 by 32nd Texas Calvary flying Bonnie Blue flag; in 1863, a banner lettered: "We fight for our rights". Temporarily occupied, November 1863, by Gen. H. P. Bee. In February 1864 a strong complement arrived under Col. J. S. (RIP) Ford. Col. Matt Nolan reported to Ford a victory over Federals under Capt. C. Balerio 50 miles southwest on Banquete. Winning troops were under Capt. Thomas Cater, Wm. Tate, Taylor, and A. J. Ware, plus home guard under Capt. Santiago Richardson. (Capt. Richard King, of King Ranch, also served in the home guard.) Col. Ford's "Cavalry of the West" included Maj. Felix A. Von Blucher, chief of staff; capts. H. C. Merritt and J. Littleton, commissaries; Col. Albert Walthersdorff, technician; Capt. W. G. M. Samuels, ordnance. On March 30, 1864, the Arizona companies of Lt. Col. Daniel Showalter reached Camp San Fernando. In April Col. Ford and Col. Santos Benavides attacked the Federals in the Rio Grande Valley. Cols. Nolan and B. F. Fry continued to watch over the cotton road and "keep an eye" on Corpus Christi.]]></description>
-    <Point><coordinates>-97.836955,27.553482,0</coordinates></Point>
+    <Point><coordinates>-97.8367841169955,27.553556313535,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Near Site of Hide and Tallow Plant ( King Ranch, 1866-69)</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Kingsville take SH 141 about 5.5 miles west, marker is on south side of road<br/><br/><b>Address:</b> Kingsville<br/><br/><b>Marker Text:</b> Business founded by Capt. Richard King to advance economic recovery after the Civil War had ended in 1865. The King Ranch beef herds were "money on the hoof", but cull animals also had value if by-products (hides for leather, tallow as a soap ingredient, etc.) could be salvaged from them. A slaughtering plant was built on Santa Gertrudis Creek, about two miles west of ranch headquarters and north of this marker. The tallow was rendered in round iron vats about 18 feet long and six feet in diameter. In service only a short time (plant closed within four years), two of these remained at the old site for 50 years. One of the two was later moved to the Kingsville oil field for use as a storage tank. When it proved unsatisfactory, it was returned and placed at sillo barro pens for water storage. Second vat was cut up for scrap iron during World War II. Site of the old plant is still called "Matanza" (slaughter) pasture. Descendants of the hide and tallow plant employees are working a century later as King Ranch cowboys.]]></description>
-    <Point><coordinates>-97.956216,27.532809,0</coordinates></Point>
+    <Point><coordinates>-97.9562131606736,27.532979938245,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

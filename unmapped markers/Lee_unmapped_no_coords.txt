@@ -1,4 +1,4 @@
-Lee unmapped markers with NO usable address (8):
+Lee unmapped markers with NO usable address (6):
 
   THC 8142: Dime Box
     addr: Dime Box
@@ -17,10 +17,6 @@ Lee unmapped markers with NO usable address (8):
     addr: Giddings
     https://atlas.thc.texas.gov/Details/5507014227
 
-  THC 8162: King's Highway - Camino Real - Old San Antonio Road
-    addr: Giddings
-    https://atlas.thc.texas.gov/Details/5287008162
-
   THC 14746: Lee, General Robert E.
     addr: Giddings
     https://atlas.thc.texas.gov/Details/5507014746
@@ -28,8 +24,4 @@ Lee unmapped markers with NO usable address (8):
   THC 22859: Scott Cemetery
     addr: CR 402, Old Dime Box
     https://atlas.thc.texas.gov/Details/5000022859
-
-  THC 12024: Site of Bethany Lutheran Church and School
-    addr: Giddings
-    https://atlas.thc.texas.gov/Details/5287012024
 

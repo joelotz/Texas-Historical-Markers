@@ -1,8 +1,4 @@
-Smith unmapped markers with NO usable address (10):
-
-  THC 15371: Barber Cemetery
-    addr: Winona
-    https://atlas.thc.texas.gov/Details/5507015371
+Smith unmapped markers with NO usable address (7):
 
   THC 14772: First United Methodist Church of Troup
     addr: Troup
@@ -11,14 +7,6 @@ Smith unmapped markers with NO usable address (10):
   THC 15286: Flint Cemetery
     addr: Flint
     https://atlas.thc.texas.gov/Details/5507015286
-
-  THC 7704: Frank Bell House
-    addr: Tyler
-    https://atlas.thc.texas.gov/Details/5423007704
-
-  THC 18824: Garden Valley
-    addr: intersection of FM16 and FM1253, Garden Valley
-    https://atlas.thc.texas.gov/Details/5507018824
 
   THC 14546: Henry Gary House
     addr: Starrville

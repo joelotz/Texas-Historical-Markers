@@ -1,8 +1,4 @@
-Hardin unmapped markers with NO usable address (6):
-
-  THC 15931: Bozeman Graveyard
-    addr: Silsbee
-    https://atlas.thc.texas.gov/Details/5507015931
+Hardin unmapped markers with NO usable address (4):
 
   THC 11714: Felps Cemetery
     addr: Saratoga
@@ -19,8 +15,4 @@ Hardin unmapped markers with NO usable address (6):
   THC 11162: Kaiser Burnout
     addr: Votaw
     https://atlas.thc.texas.gov/Details/5199011162
-
-  THC 18191: Waldo Mathews High School
-    addr: Ave. G, Silsbee
-    https://atlas.thc.texas.gov/Details/5507018191
 

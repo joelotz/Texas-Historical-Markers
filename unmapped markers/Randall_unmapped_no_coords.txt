@@ -1,8 +1,4 @@
-Randall unmapped markers with NO usable address (3):
-
-  THC 143: Amarillo
-    addr: Amarillo
-    https://atlas.thc.texas.gov/Details/5381000143
+Randall unmapped markers with NO usable address (2):
 
   THC 3125: Los Ciboleros (New Mexican Buffalo Hunters)
     addr: SH 217 East of Canyon, Canyon

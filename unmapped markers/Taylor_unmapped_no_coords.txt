@@ -1,12 +1,8 @@
-Taylor unmapped markers with NO usable address (4):
+Taylor unmapped markers with NO usable address (3):
 
   THC 14360: Abilene High School, Original Site of
     addr: Abilene
     https://atlas.thc.texas.gov/Details/5507014360
-
-  THC 14462: J. G. Higginbotham House
-    addr: Abilene
-    https://atlas.thc.texas.gov/Details/5507014462
 
   THC 14159: Ned, Jim, Creek
     addr: Tuscola

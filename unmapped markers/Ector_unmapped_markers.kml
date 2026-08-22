@@ -2,41 +2,77 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Ector County — Unmapped Historical Markers</name>
-  <description>THC markers in Ector County without an HMDB id (isMissing excluded). 7 with THC coords; 0 geocoded from address; 5 omitted (no usable address).</description>
+  <description>THC markers in Ector County without an HMDB id (isMissing excluded). 10 with THC coords; 0 geocoded from address; 2 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Bankhead Highway in Ector County</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 2710 East 8th St., Odessa]]></description>
-    <Point><coordinates>-102.331195,31.86418,0</coordinates></Point>
+    <Point><coordinates>-102.331195224099,31.864207457686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Captain Randolph B. Marcy's Southern Route Expedition</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> State Highway 302 West 8.7 miles from Loop 338, Odessa<br/><br/><b>Marker Text:</b> The California Gold Rush in 1849 prompted the U.S. government to appoint army captains to escort prospective gold seekers to California. Captain Randolph B. Marcy was one of these captains appointed by the Secretary of War to escort and protect the “Forty-Niners” on their journey as far as Santa Fe, New Mexico. Captain Marcy brought with him the famed Delaware Scout Black Beaver and topographical engineer Lieutenant James H. Simpson to map a wagon road from Ft. Smith to Santa Fe. This route was mapped for future gold seekers and other emigrants moving west. Captain Marcy and his detachment left Ft. Smith in 1849. Their expedition opened the Fort Smith-Santa Fe road which ran across the Texas panhandle, through north central New Mexico and ended in Santa fee. Once successfully reaching Santa Fe with the party of “Forty-Niners,” Captain Marcy decided to escort a wagon train traveling to El Paso. He escorted the wagon train to Dona Ana, sixty miles north of El Paso. His detachment then turned east with intent to survey and construct a route back to Ft. Smith from west Texas. Marcy employed Manuel, a famed Comanche guide. This new route linked El Paso with a wagon road via the Toyah Basin, the Trans-Pecos Region and the southern Llano Estacado. Manuel guided the party southward toward the Pecos River to what became known as emigrant crossing, about 20 miles below present day Pecos. After crossing the Pecos Captain Marcy’s party spent four days crossing the “sandy hills of the Monahan’s” and followed an old Comanche trail between Goldsmith and Odessa in Ector County, continuing northeast to Ft. Smith. The Marcy expedition forged a shorter, southern route from Ft. Smith to Dona Ana.]]></description>
+    <Point><coordinates>-102.561882287533,31.8967046093781,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Ector High School</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 809 W. Clements, Odessa<br/><br/><b>Marker Text:</b> With the discovery of oil in Ector County in 1926, the area saw a continuous influx of people to work in the oil fields. As the general population grew so did student enrollment in area schools. As a result, on March 10, 1955, the Ector County Independent School District (ECISD) school board approved plans for a new high school to be built on a twenty-acre tract of land in the 800 block of West Clements Avenue on the south side of Odessa. The final plans called for a 164,052-square-foot building with thirty-two classrooms, an auditorium, band hall, gymnasium, library, cafeteria and workshops. Named after General Mathew Ector, a Civil War veteran and Texas legislator, the new high school opened in the fall of 1957. Prior to the school's opening, ECISD established a student committee to select a mascot and school colors. Students selected the Eagles and Columbia blue and white respectively and Ector High School officiall opened September 3, with an enrollment of 306 students. Being considered a 'minority school,' Ector's students were predominately Hispanic and African American. Beginning in 1974, the community of South Odessa began exerting pressure on the school district to fully desegregate. In 1981, the Mexican American Legal Defense and Education Fund (MALDEF) filed a civil action to force ECISD to completely desegregate their schools. Instead of desegregating, Ector closed as a high school and became a junior high school while the current secondary students were sent to the other two area high schools. Ector High School's existence saw many successful athletic accomplishments including two state titles in basketball and one in track, produced many distinguished alumni and created multiple community leaders and social activitists. (2017)]]></description>
-    <Point><coordinates>-102.385364,31.82887,0</coordinates></Point>
+    <Point><coordinates>-102.370241745227,31.8320919897913,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Gardendale</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Corner North Gardendale Road and East Larkspur Lane<br/><br/><b>Address:</b> North Gardendale Road, Odessa<br/><br/><b>Marker Text:</b> Located in northern Ector County, Gardendale is an area known for horse ranches, oil production and pecan orchards. Prior to 1950, the area was owned by a Sherman physician and called Neathery Ranch. In the late 1950s, Odessa realtor and land developer Fred Gage and his associates purchased 6,500 acres of land for development. The new community quickly became an attractive option for people seeking a rural environment. The Gardendale Community Association, active since 1970, helped secure a community center and a fire department, along with other community enhancements such as park improvements, a horse arena and other recreational spaces. An annual fundraiser continues to fund community projects and organizations. During the 1970s and 1980s, Gardendale became known for its large pecan orchards, boasting almost 80,000 pecan trees. The local pecan processing facility played a significant role in Texas' rank as the second-largest producer of pecans in 1978. In the 1980s, Gardendale was home to several vineyards, including one of the only table grape vineyards in the state. Drought and harsh weather conditions affected both agricultural industries, despite the proximity to a ground water source known as the Midland Draw. Due to drought concerns, the greater Gardendale Water Supply Corp. Formed in 2000 to deliver reliable water to its residents. The area is also home to a 120-acre Odessa College Rodeo and Agricultural Graham Center and the nationally recognized Odessa College Rodeo Team. The citizens of Gardendale continue to honor their agricultural heritage and traditions.]]></description>
-    <Point><coordinates>-102.381238,32.023473,0</coordinates></Point>
+    <Point><coordinates>-102.381509467202,32.0231557435611,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] Ghost Towns and Vanished Communities of Ector County</name>
+    <styleUrl>#pending</styleUrl>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 400 N. Grant St., Odessa]]></description>
     <Point><coordinates>-102.368907,31.847554,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Homer Robert Henderson</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[In Mausoleum of Sunset Memorial Gardens along HI 20, East of loop 338, Odessa.<br/><br/><b>Address:</b> Odessa<br/><br/><b>Marker Text:</b> Texas Ranger; deputy sheriff; county commissioner in Ector and (later) in Crane County. Born in Wilson County; one of 12 children of Robert and Mary Elizabeth (O'Neal) Henderson. Came to Odessa as member of company a, Texas Rangers, under command of Capt. J. A. Brooks, in 1906. This was in period when Rangers kept the peace during citizen's filing of land claims. Married Annie Henderson here, October 8, 1908. Ranched in area.]]></description>
-    <Point><coordinates>-102.298295,31.881962,0</coordinates></Point>
+    <Point><coordinates>-102.297685598839,31.8833466683655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Odessa</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[From Odessa, take IH 20 West about 14 mile to Roadside Park<br/><br/><b>Address:</b> Odessa<br/><br/><b>Marker Text:</b> Founded 1881. Legend says name came from an Indian princess who wandered into camp of texas &amp; Pacific railroad construction gang. others say it was for Odessa on Russian plains--area west Texas resembles. County seat ever since Ector was organized, 1891. has had great growth since 1926 oil strike. Center for one of the two largest oil fields in the world. Has largest inland petrochemical complex in united states, alone with many other diversified industries. It is also the oilfield supply capital of the world. Odessa college has served area since 1946. City has 143 churches; a symphony orchestra; clubs for sports, service, culture. Recreational attractions include nation's second largest meteor crater; exact replica of shakespeare's 16th century globe theatre; 4 museums; a planetarium; industrial tours; "permian playhouse"; "Prairie Dog Pete" park; world's largest Jackrabbit statue; and 21 payground-parks. Unique "presidential room" depicts lives of U.S. presidents in art, documents, and memorabilia. Sandhill Hereford and quarterhouse show opens annual rodeo season for entire southwest. World famous permian basin oil show is held biennially.]]></description>
+    <Point><coordinates>-102.374548183988,31.8496700732601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prairie Dog</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Prairie Pete Park, 44th at East Co. Rd., Odessa<br/><br/><b>Address:</b> Odessa<br/><br/><b>Marker Text:</b> Actually a squirrel. Gets name from its bark. It was food for settlers, especially in drouths. Lives in cluster of burrows called a "Town". Burrows, hazardous to running horses, often have caused broken bones among horses and riders. Also prairie dogs ate grass roots, destroying cattle feed. One old-time town was 100 miles wide and extended, almost unbroken, 250 miles southward from prairie dog town fork of Red River. Extermination has wiped out most colonies. This colony was established in 1959 by Odessa rotary club.]]></description>
+    <Point><coordinates>-102.375166490739,31.889435202723,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>St. Joseph Catholic Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 907 S. Dixie Blvd, Odessa<br/><br/><b>Marker Text:</b> St. Joseph Catholic Church began in 1948 as a mission of St. Mary’s Church to provide for the needs of the Hispanic community of Odessa. The Catholic presence in west Texas can be traced back as far as the early 1500s with the arrival of explorers Cabeza de Vaca and Francisco Coronado, followed by Catholic missions. With westward expansion, settlements created the need for permanent church homes for the community. The first record of a Catholic priest ministering in Odessa was in 1904 when Monsignor Nolan preached at the old courthouse. Priests occasionally visited individual homes but no regularly scheduled services were held in Odessa until November 1937. St. Mary’s Church was established in 1938 and soon the need was evident for a Catholic church for the Hispanic community. In 1950, the church purchased an old army barracks to serve as the St. Joseph Mission. In 1955, father John Lucassen was the first full-time priest. The mission grew throughout the 1950s and, in 1965, the church was raised from a mission to a parish. The church continued to grow and serve the community of Odessa with spiritual guidance and outreach. St. Joseph established its own missions, including St. Martin de Porras and St. Anthony. St. Anthony quickly grew to be a recognized parish. From its humble beginnings as a mission to a thriving parish, serving more than 1,400 registered households, St. Joseph Catholic Church is a significant part of the Diocese of San Angelo, continuing to serve the spiritual needs of the catholic community of Odessa. (2017)]]></description>
-    <Point><coordinates>-102.353024,31.839707,0</coordinates></Point>
+    <Point><coordinates>-102.35295994546,31.8398342882363,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>W.T. Barrett Stadium</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[West end of Sports Complex track adjacent to parking lot on Hwy 302 on the Odessa College campus<br/><br/><b>Address:</b> Golder Ave. at Kermit Highway, Odessa<br/><br/><b>Marker Text:</b> As the focal point of the city of Odessa for over 30 years, W.T. Barrett Stadium was built in 1948. The stadium, built of steel and wood and nicknamed “W.T.,” witnessed thousands of west Texans compete for the win as football players, members of track teams and marching band participants. Prior to 1948 when “W.T.” was built, games and events were held at Fly Field, adjacent to Odessa High School. In 1946, Odessa High School won the state football championship. In honor of their accomplishment, the school board erected a new stadium to hold over 17,000 fans. The first game held at the stadium on october 15, 1948, boasted 15,000 people in attendance to see Odessa play Abilene High School. At times, the stadium held almost 20,000 people. In addition to football games, the stadium hosted University Interscholastic League marching band competitions. Bands from west Texas high schools hoped for the opportunity to march at “W.T.,” the largest stadium at the time between Abilene and El Paso. In 1950, a cinder track was installed making it the only one of its kind in west Texas. An advanced improvement at the time, the track helped cement “W.T.” As a first-class track facility. Eventually open to junior high through college students, the West Texas Relays crowd held at “W.T” totaled in the thousands and many competitors went on to be members of the U.S. Olympic team. From the first football game in 1948 to the last game in 1981, the W.T. Barrett Stadium was a place of excitement, enthusiasm and community spirit for generations. The stadium was sold and moved to Leander in 1983 but the memories live on through the community and competitors who experienced the “W.T.”]]></description>
-    <Point><coordinates>-102.387187,31.86473,0</coordinates></Point>
+    <Point><coordinates>-102.386354571402,31.8645293091682,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

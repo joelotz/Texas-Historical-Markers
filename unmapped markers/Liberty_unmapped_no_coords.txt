@@ -1,4 +1,4 @@
-Liberty unmapped markers with NO usable address (7):
+Liberty unmapped markers with NO usable address (5):
 
   THC 24262: Ames Freedom Colony
     addr: Hwy 90 E., Ames
@@ -12,17 +12,9 @@ Liberty unmapped markers with NO usable address (7):
     addr: Devers
     https://atlas.thc.texas.gov/Details/5291009638
 
-  THC 9667: Hugh B. Johnston
-    addr: Liberty
-    https://atlas.thc.texas.gov/Details/5291009667
-
   THC 22651: McGinnis Cemetery
     addr: McGinnis Rd., Tarkington
     https://atlas.thc.texas.gov/Details/5000022651
-
-  THC 16067: Mexican Hill
-    addr: Liberty
-    https://atlas.thc.texas.gov/Details/5507016067
 
   THC 23605: Pounds House
     addr: 3428 FM 770 North, Daisetta

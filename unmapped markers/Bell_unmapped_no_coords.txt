@@ -1,8 +1,4 @@
-Bell unmapped markers with NO usable address (14):
-
-  THC 708: Captain Andrew Caddell
-    addr: Belton
-    https://atlas.thc.texas.gov/Details/5027000708
+Bell unmapped markers with NO usable address (10):
 
   THC 22811: Carpenter Cemetery (HTC)
     addr: Charter Oak Drive, Temple
@@ -11,10 +7,6 @@ Bell unmapped markers with NO usable address (14):
   THC 23945: Comanche Hunting Grounds Battle
     addr: Almeda St and Merritt St, Temple
     https://atlas.thc.texas.gov/Details/5000023945
-
-  THC 15916: Dallas Cemetery
-    addr: Holland
-    https://atlas.thc.texas.gov/Details/5507015916
 
   THC 23332: Dyess Family Cemetery
     addr: Stringtown Rd., Temple
@@ -47,12 +39,4 @@ Bell unmapped markers with NO usable address (14):
   THC 17555: Temple College
     addr: Temple
     https://atlas.thc.texas.gov/Details/5507017555
-
-  THC 11736: Tennessee Valley
-    addr: Belton vicinity
-    https://atlas.thc.texas.gov/Details/5027011736
-
-  THC 14901: Willingham Cemetery
-    addr: Salado
-    https://atlas.thc.texas.gov/Details/5507014901
 

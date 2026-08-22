@@ -1,4 +1,4 @@
-Harris unmapped markers with NO usable address (15):
+Harris unmapped markers with NO usable address (13):
 
   THC 24099: Colored Carnegie Library
     addr: Bob Smith Park, Houston
@@ -23,14 +23,6 @@ Harris unmapped markers with NO usable address (15):
   THC 23535: Goose Creek Oil Field
     addr: Evergreen Rd, Baytown
     https://atlas.thc.texas.gov/Details/5000023535
-
-  THC 18499: Hammer-McFaddin-Harris Cemetery
-    addr: 12435 Redbluff Road, Pasadena
-    https://atlas.thc.texas.gov/Details/5507018499
-
-  THC 14921: Hollingsworth Family Cemetery
-    addr: Crosby
-    https://atlas.thc.texas.gov/Details/5507014921
 
   THC 14692: Houston
     addr: Houston

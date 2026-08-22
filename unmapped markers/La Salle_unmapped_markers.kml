@@ -2,16 +2,41 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>La Salle County — Unmapped Historical Markers</name>
-  <description>THC markers in La Salle County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in La Salle County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 2 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Cotulla Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> Medina St. &amp; FM 468, Cotulla]]></description>
     <Point><coordinates>-99.243199,28.440803,0</coordinates></Point>
   </Placemark>
   <Placemark>
+    <name>First Deep Artesian Well</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Cotulla<br/><br/><b>Marker Text:</b> For many years, water scarcity stunted settlements in La Salle County. Wells and windmills failed to solve the problem. In 1910 at this site, Joseph Cotulla (1844-1923) explored and brought in artesian water from a depth of 2200 feet. Situated on his own ranch, the well provided amply for his household, livestock, and irrigated fields. His success led the city of Cotulla to bore its own artesian wells and generate prosperous civic growth. Joseph Cotulla's well at this site flowed for 52 years, until capped in 1962.]]></description>
+    <Point><coordinates>-99.2353146766962,28.4360149035819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fort Ewell</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Cotulla<br/><br/><b>Marker Text:</b> Established here in 1852, guarded not only the frontier but the main San Antonio and Laredo Road, which crossed the Nueces River at this point, the Huajuco Crossing. The fort was abandoned in 1854, but when La Salle County was organized in 1880 Fort Ewell was its chief settlement. Near this site stood the first court house, a wooden building, later moved to La Mota Ranch. O. Henry came to Fort Ewell for his mail.]]></description>
+    <Point><coordinates>-99.0312227272892,28.1449836652872,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
     <name>William Ferdinand Evans</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Cotulla Cemetery - east end of road through entrance gate<br/><br/><b>Address:</b> Cotulla<br/><br/><b>Marker Text:</b> (Jan. 14, 1831 - Jan. 13, 1917) Born in Louisiana, W. F. Evans moved to Polk County, Texas, in 1850, and to Gonzales County in 1856. During the Civil War (1861-65), he served on Galveston Island in Texas coastal defenses, with Co. I, 2D Texas Regiment, Volunteer Infantry, and in Cunningham's Co. C, Mann's Regiment. He married Nancy M. Weathers, and after her death Malissa Justice. He had four children. Cotulla was his home from 1903 to 1917.]]></description>
-    <Point><coordinates>-99.243199,28.440803,0</coordinates></Point>
+    <Point><coordinates>-99.2422236625591,28.4410814838761,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

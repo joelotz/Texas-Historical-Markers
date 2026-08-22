@@ -2,21 +2,41 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Armstrong County — Unmapped Historical Markers</name>
-  <description>THC markers in Armstrong County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Armstrong County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>First Battle of the Palo Duro</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Wayside, take SH 207 8 miles north to roadside park<br/><br/><b>Address:</b> Wayside]]></description>
     <Point><coordinates>-101.443605,34.791474,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Site of Warner Building</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[101 North Trice Street, Claude.<br/><br/><b>Address:</b> 101 N. Trice, Claude<br/><br/><b>Marker Text:</b> Erected at this site in 1909 by civic leaders Dr. William A. (1864-1934) and Phebe K. (1866-1935) Warner, the Warner Building played an important role in Claude's development. Designed by the Amarillo architectural firm of Heckman and Hartley, the building housed Dr. Warner's medical office, the Warners' Gate City Drugstore, public rest rooms, a barber shop, the "Claude News" newspaper office, a public reading room, a lodge hall, and rental office space. After a fire destroyed the building in 1915, the Warners reopened their drugstore at another location.]]></description>
-    <Point><coordinates>-101.359172,35.110617,0</coordinates></Point>
+    <Point><coordinates>-101.359055473317,35.1100486327799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The Battle of Red River</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[8 mi. N of town on SH 207 in roadside park (SH 207 at RR 285)<br/><br/><b>Address:</b> Wayside<br/><br/><b>Marker Text:</b> In the opening battle of the U.S. Army's 1874 Indian campaign against the Southern Plains Indian Tribes, a force of 744 soldiers under Col. Nerlson A. Miles fought a 5-hour running battle with the Cheyenne, Comanche and Kiowa 10 mi. E. of this location. The army had been pursuing the bands for several days. The battle marked the first use of the Gatling Gun by the army west of the Mississippi River. Though the army destroyed several Indian villages, they failed to capture any of the Indiaans or force them back to reservations in Indian Territory (Oklahoma). Known today as the Red River War, the campaign against the Indians resulted in their ultimate removal from the Texas panhandle.]]></description>
+    <Point><coordinates>-101.43615964425,34.7984204297446,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Warner Memorial Community Center</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[400 Vine Street, Claude.<br/><br/><b>Address:</b> 400 Vine Street, Claude<br/><br/><b>Marker Text:</b> Frame structure, built about 1912 as Llano School (15 mi. SW of Claude), was vacated in 1930, used as rural community center, then moved 1939 to this site donated by Mr. and Mrs. J.T. Christian. Volunteers applied stucco and remodeled interior, using funds raised by the Armstrong County Federation of Women's Clubs. The center name honors Dr. and Mrs. Wm. A. Warner, pioneer leaders in social progress and culture. Recorded Texas Historic Landmark - 1962]]></description>
-    <Point><coordinates>-101.364255,35.106191,0</coordinates></Point>
+    <Point><coordinates>-101.366404397002,35.1079283164814,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

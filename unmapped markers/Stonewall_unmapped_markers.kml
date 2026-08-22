@@ -2,11 +2,35 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Stonewall County — Unmapped Historical Markers</name>
-  <description>THC markers in Stonewall County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Stonewall County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Aspermont High School</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 528 E. 7th St., Aspermont]]></description>
-    <Point><coordinates>-100.221221,33.137939,0</coordinates></Point>
+    <Point><coordinates>-100.222745306371,33.1377699908194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Glory Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Two miles southeast of Old Glory on Hwy 283, a half mile north on County Road 137 off of Hwy 283<br/><br/><b>Address:</b> CR 137, Old Glory]]></description>
+    <Point><coordinates>-100.018732008877,33.1082974193095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stonewall County</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Aspermont, US Hwy 83/380<br/><br/><b>Address:</b> Aspermont<br/><br/><b>Marker Text:</b> Stonewall County, formed from Young and Bexar territories. Created August 21, 1876, organized December 20, 1888. Named in honor of Thomas Jonathan (Stonewall) Jackson, 1824-1863, a Confederate General. County seat, Rayner, 1888, Aspermont, since 1898.]]></description>
+    <Point><coordinates>-100.228005673529,33.1401598842535,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

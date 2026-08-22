@@ -2,31 +2,83 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Kaufman County — Unmapped Historical Markers</name>
-  <description>THC markers in Kaufman County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <description>THC markers in Kaufman County without an HMDB id (isMissing excluded). 11 with THC coords; 0 geocoded from address; 0 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Ables Springs Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Terrell]]></description>
+    <Point><coordinates>-96.1194742399393,32.8141802091631,0</coordinates></Point>
+  </Placemark>
   <Placemark>
     <name>Birthplace of City of Kaufman; Site of King's Fort</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[607 N. Clay at Pyle St., Kaufman<br/><br/><b>Address:</b> Kaufman<br/><br/><b>Marker Text:</b> (Founded 1840) Established by Wm. P. King and 40 pioneers he led from Holly Springs, Miss.; this was then in Nacogdoches County, Republic of Texas. Caddo, Cherokee, Delaware and Kickapoo Indians roamed the area. Settlers built log cabins inside the fort. When the Indian menace lessened, Kingsboro (or early Kaufman) began to grow. Supplies came from San Antonio, in arduous yearly trips there. Hearing the Texas Republic was joining the United States, King in 1846 got patent to lands at the fort. Although he soon died, his widow carried on his plans for the colony. (1970) Incise on back: Kaufman County Historical Survey Committee]]></description>
-    <Point><coordinates>-96.311937,32.593489,0</coordinates></Point>
+    <Point><coordinates>-96.3116824538636,32.5932339338144,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Cedar Grove Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[NE on FM 2728, right on CR 346; E on int. with CR 343A<br/><br/><b>Address:</b> CR 346, Elmo<br/><br/><b>Marker Text:</b> Historic Texas Cemetery]]></description>
     <Point><coordinates>-96.087261,32.75814,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Founding of Terrell</name>
-    <description><![CDATA[NW corner of S. Alley and S. Adelaide streets. Marker pending. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 108 S. Adelaide St., Terrell<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.276314,32.736225,0</coordinates></Point>
+    <name>Cottonwood Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Scurry]]></description>
+    <Point><coordinates>-96.4010178018676,32.4586834540928,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Griffith House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[At the corner of First and Johnson Streets, North, 30 Degrees West of the center of the intersection of those streets in Terrell.<br/><br/><b>Address:</b> 801 First Street, Terrell<br/><br/><b>Marker Text:</b> This 1909 house was designed by noted Dallas architect, James E. Flanders, for Lycurgus Edward (L.E.) Griffith, Jr. (1865-1928), and his second wife, Netta Washington (Morrill) Griffith. The site originally housed the c.1876 home of early Terrell residents Jasper W. Johnson and his wife, Susan. The original basement and two outbuildings remain on the property. L.E. Griffith established the L.E. Griffith Drug Company, was president of First State Bank, active in the Terrell Chamber of Commerce, director of the local newspaper and a strong supporter of agricultural development. Recorded Texas Historic Landmark – 2017]]></description>
-    <Point><coordinates>-96.28367,32.742309,0</coordinates></Point>
+    <Point><coordinates>-96.2836263208557,32.7425302399839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hillcrest Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Forney<br/><br/><b>Marker Text:</b> After the community of Brooklyn was relocated and renamed Forney when the Texas and Pacific Railroad was built through here in 1873, its early burial ground was no longer convenient to the town. In 1878, a committee of civic leaders organized the Forney Graveyard Company and purchased a 5-acre tract of land. The earliest documented burials are those of Blanch Ivey and Isaac Sorey, both of whom died in 1879. The problem of irregular maintenance was first addressed in 1911, about the same time it became known as "Hill Crest Cemetery." A perpetual care endowment was established in 1976. Many veterans of U.S. and foreign wars are interred here, including more than 46 veterans of the Civil War. The cemetery continues to be a chronicle of Forney settlers. (1998)]]></description>
+    <Point><coordinates>-96.4729893654932,32.7530950899884,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>[PENDING] Kyser Cemetery</name>
-    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> CR 109, Kaufman]]></description>
+    <styleUrl>#pending</styleUrl>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> CR 109, Kaufman]]></description>
     <Point><coordinates>-96.303401,32.576494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oakland Memorial Park</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Terrell<br/><br/><b>Marker Text:</b> (supplemental plaque)]]></description>
+    <Point><coordinates>-96.2894702193679,32.7373136642894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pioneer Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Terrell]]></description>
+    <Point><coordinates>-96.3192235045141,32.5778018818656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rockwall and Brin Church of Christ</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Terrell]]></description>
+    <Point><coordinates>-96.2804228774283,32.7404223358749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Victorian Residence, 1883 (Cartwright House)</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Terrell]]></description>
+    <Point><coordinates>-96.2841091833949,32.7455727846441,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

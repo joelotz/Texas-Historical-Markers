@@ -1,4 +1,4 @@
-Gregg unmapped markers with NO usable address (6):
+Gregg unmapped markers with NO usable address (4):
 
   THC 23613: Butcher C. Christian Sr.
     addr: 1090 Shiloh Rd., Longview
@@ -7,14 +7,6 @@ Gregg unmapped markers with NO usable address (6):
   THC 9997: John Ben Shepperd
     addr: Gladewater vicinity
     https://atlas.thc.texas.gov/Details/5183009997
-
-  THC 16967: Longview Womack High School
-    addr: Longview
-    https://atlas.thc.texas.gov/Details/5507016967
-
-  THC 17734: New Hope Missionary Baptist Church
-    addr: Gladewater
-    https://atlas.thc.texas.gov/Details/5507017734
 
   THC 16968: Post Oak Christian Methodist Episcopal Church
     addr: 2675 FM 2906, Easton

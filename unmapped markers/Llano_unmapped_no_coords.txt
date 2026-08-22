@@ -1,8 +1,4 @@
-Llano unmapped markers with NO usable address (7):
-
-  THC 12033: Chew Cemetery
-    addr: Llano
-    https://atlas.thc.texas.gov/Details/5299012033
+Llano unmapped markers with NO usable address (5):
 
   THC 14106: First Known Religious Services
     addr: Castell
@@ -15,10 +11,6 @@ Llano unmapped markers with NO usable address (7):
   THC 9449: Matthew Mark Moss
     addr: Llano
     https://atlas.thc.texas.gov/Details/5299009449
-
-  THC 15169: Packsaddle Mountain
-    addr: Llano
-    https://atlas.thc.texas.gov/Details/5507015169
 
   THC 17421: Sandy Mountain Cemetery
     addr: Sunrise Beach Village

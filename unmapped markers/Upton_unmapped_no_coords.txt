@@ -1,8 +1,4 @@
-Upton unmapped markers with NO usable address (2):
-
-  THC 23839: Garden of Memories Cemetery
-    addr: US Hwy 385, McCamey
-    https://atlas.thc.texas.gov/Details/5000023839
+Upton unmapped markers with NO usable address (1):
 
   THC 5024: Square Top Mountain
     addr: Rankin

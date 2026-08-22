@@ -1,16 +1,8 @@
-Cass unmapped markers with NO usable address (7):
+Cass unmapped markers with NO usable address (5):
 
   THC 24247: Cheatham Cemetery
     addr: CR 2991, Hughes Springs
     https://atlas.thc.texas.gov/Details/5000024247
-
-  THC 9819: Harris Chapel Cemetery
-    addr: Hughes Springs
-    https://atlas.thc.texas.gov/Details/5067009819
-
-  THC 9822: Hickory Grove Cemetery
-    addr: Linden
-    https://atlas.thc.texas.gov/Details/5067009822
 
   THC 17465: Kildare Cemetery
     https://atlas.thc.texas.gov/Details/5507017465

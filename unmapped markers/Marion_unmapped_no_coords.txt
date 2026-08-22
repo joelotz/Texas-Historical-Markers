@@ -1,4 +1,4 @@
-Marion unmapped markers with NO usable address (26):
+Marion unmapped markers with NO usable address (21):
 
   THC 14440: Benefield Sr. Home
     addr: Jefferson
@@ -20,21 +20,9 @@ Marion unmapped markers with NO usable address (26):
     addr: Jefferson
     https://atlas.thc.texas.gov/Details/5507015543
 
-  THC 15238: Haggard, George E., Bldg. (RE 80)
-    addr: Jefferson
-    https://atlas.thc.texas.gov/Details/5507015238
-
-  THC 14604: Haggard, George E., Funeral Home
-    addr: Jefferson
-    https://atlas.thc.texas.gov/Details/5507014604
-
   THC 15137: Houston Street College
     addr: Jefferson
     https://atlas.thc.texas.gov/Details/5507015137
-
-  THC 15393: Jay Gould Railroad Car
-    addr: Jefferson
-    https://atlas.thc.texas.gov/Details/5507015393
 
   THC 16909: Jefferson Ordnance Magazine
     addr: Jefferson
@@ -55,14 +43,6 @@ Marion unmapped markers with NO usable address (26):
   THC 17659: Macedonia United Methodist Church
     addr: .4 miles south from the intersection of CR 726 and Macedonia Road, Jefferson
     https://atlas.thc.texas.gov/Details/5507017659
-
-  THC 15534: Manse, The
-    addr: Jefferson
-    https://atlas.thc.texas.gov/Details/5507015534
-
-  THC 14851: McCasland, Joe, Home
-    addr: Jefferson
-    https://atlas.thc.texas.gov/Details/5507014851
 
   THC 14240: Meat Packing Plant
     addr: Jefferson

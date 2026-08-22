@@ -2,11 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Crosby County — Unmapped Historical Markers</name>
-  <description>THC markers in Crosby County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Crosby County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Early Settlers of Ralls</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[City square, Watts and Main Streets, Ralls<br/><br/><b>Address:</b> Ralls]]></description>
     <Point><coordinates>-101.382884,33.678682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Headquarters of Half Circle S Ranch (L.R. French Ranch House)</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[From Crosbyton, take FM 651 south about 17 miles.<br/><br/><b>Address:</b> Crosbyton]]></description>
+    <Point><coordinates>-101.204846508915,33.4409045643012,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

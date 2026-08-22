@@ -1,12 +1,4 @@
-Jasper unmapped markers with NO usable address (14):
-
-  THC 10464: Andrew F. Smyth Home
-    addr: Jasper
-    https://atlas.thc.texas.gov/Details/5241010464
-
-  THC 22673: Bishop Cemetery
-    addr: Private Road 8001, Jasper
-    https://atlas.thc.texas.gov/Details/5000022673
+Jasper unmapped markers with NO usable address (12):
 
   THC 18539: Campground Cemetery
     addr: Jasper

@@ -1,8 +1,4 @@
-San Augustine unmapped markers with NO usable address (25):
-
-  THC 7588: Bland-Fisher Home
-    addr: San Augustine
-    https://atlas.thc.texas.gov/Details/5405007588
+San Augustine unmapped markers with NO usable address (22):
 
   THC 12423: Bobbitt Family Cemetery
     addr: San Augustine vicinity
@@ -86,14 +82,6 @@ San Augustine unmapped markers with NO usable address (25):
     addr: 1462 County Road 278, San Augustine
     https://atlas.thc.texas.gov/Details/5507015560
 
-  THC 12535: Price-Sossaman-Slaughter Cemetery
-    addr: San Augustine
-    https://atlas.thc.texas.gov/Details/5405012535
-
   THC 18761: Shiloh-New Hope Community Cemetery
     https://atlas.thc.texas.gov/Details/5507018761
-
-  THC 14365: Teel Family Burying Ground
-    addr: San Augustine
-    https://atlas.thc.texas.gov/Details/5507014365
 

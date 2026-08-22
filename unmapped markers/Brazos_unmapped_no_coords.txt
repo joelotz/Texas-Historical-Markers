@@ -1,4 +1,4 @@
-Brazos unmapped markers with NO usable address (6):
+Brazos unmapped markers with NO usable address (4):
 
   THC 17455: Alexander Methodist Church
     https://atlas.thc.texas.gov/Details/5507017455
@@ -13,12 +13,4 @@ Brazos unmapped markers with NO usable address (6):
   THC 24318: Della Love
     addr: Della Love Rd., Kurten
     https://atlas.thc.texas.gov/Details/5000024318
-
-  THC 22672: Grandview Cemetery
-    addr: Bryan
-    https://atlas.thc.texas.gov/Details/5000022672
-
-  THC 14268: Old Bethel Cemetery
-    addr: Bryan
-    https://atlas.thc.texas.gov/Details/5507014268
 

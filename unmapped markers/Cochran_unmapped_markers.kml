@@ -2,14 +2,33 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Cochran County — Unmapped Historical Markers</name>
-  <description>THC markers in Cochran County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Cochran County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Cochran County</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[.5 mi. E. of Morton, State Hwy 24<br/><br/><b>Address:</b> Morton<br/><br/><b>Marker Text:</b> Cochran County, Formed From Young and Bexar Territories, Created August 21, 1876, Organized May 6, 1924, Named in Honor of Robert Cochran, a Private Who Died at the Alamo, Morton, the County Seat]]></description>
+    <Point><coordinates>-102.75942451826,33.7257329784752,0</coordinates></Point>
+  </Placemark>
   <Placemark>
     <name>First Telephone Office in Cochran County</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[206 Southwest 1st Street<br/><br/><b>Address:</b> 206 Southwest 1st Street, Morton<br/><br/><b>Marker Text:</b> Erected 1925 at western terminus of South Plains &amp; Santa Fe Railway in Bledsoe (25 miles southwest), for Texas Telephone Company; moved to Morton in 1926. Outgrown for phone company use in 1949, building became county museum in 1968. Recorded Texas Historic Landmark - 1969]]></description>
     <Point><coordinates>-102.760497,33.724123,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Smith Office</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[116 North Main Street-Morton<br/><br/><b>Address:</b> 116 North Main Street, Morton<br/><br/><b>Marker Text:</b> The Texas Historical Building Medallion included. (destroyed)]]></description>
     <Point><coordinates>-102.75915,33.72547,0</coordinates></Point>
   </Placemark>

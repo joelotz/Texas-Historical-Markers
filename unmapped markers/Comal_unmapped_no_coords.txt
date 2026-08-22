@@ -1,8 +1,4 @@
-Comal unmapped markers with NO usable address (6):
-
-  THC 15322: Carolina Schwab Grave Site
-    addr: New Braunfels
-    https://atlas.thc.texas.gov/Details/5507015322
+Comal unmapped markers with NO usable address (4):
 
   THC 24217: Dittlinger Village - La Calera
     addr: Wald Road, New Braunfels
@@ -19,8 +15,4 @@ Comal unmapped markers with NO usable address (6):
   THC 24391: Stephen F. Austin School / Booker T. Washington School
     addr: 511 E. North St.
     https://atlas.thc.texas.gov/Details/5000024391
-
-  THC 15437: Weidner, Wilhelm, Cemetery
-    addr: New Braunfels
-    https://atlas.thc.texas.gov/Details/5507015437
 

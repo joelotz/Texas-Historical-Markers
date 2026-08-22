@@ -1,6 +1,2 @@
-Wichita unmapped markers with NO usable address (1):
-
-  THC 17118: Burkburnett Memorial Cemetery
-    addr: Burkburnett
-    https://atlas.thc.texas.gov/Details/5507017118
+Wichita unmapped markers with NO usable address (0):
 

@@ -2,96 +2,143 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Augustine County — Unmapped Historical Markers</name>
-  <description>THC markers in San Augustine County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 25 omitted (no usable address).</description>
+  <description>THC markers in San Augustine County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 22 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Anderson House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> end of No. Congress Ave., San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.108171,31.531843,0</coordinates></Point>
+    <Point><coordinates>-94.1079809581755,31.5323764226408,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Antioch Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[4 mi. north of San Augustine via SH 147<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> First used as early as the 1860s, this burial ground served the congregation of the Antioch Church of Christ, which was started in 1836. The property was deeded to Elders Thomas M. Baggett and N. W. Ware in 1880 by Stephen Passmore. The earliest marked graves here are for S. H. Dwire (1878-1883), John G. Baggett (1820-1886), Catherine Ware (1810-1886), and Calvin Bland (1820-1891). Other graves include those of several Confederate veterans of the Civil War and many pioneer settlers of the area. The cemetery is still used in association with the Antioch church.]]></description>
-    <Point><coordinates>-94.081821,31.580542,0</coordinates></Point>
+    <Point><coordinates>-94.0828847485886,31.5814006094245,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Antioch Church of Christ</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[4 mi. north on SH 147<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> William P. Defee, a medical doctor, arrived in Texas in 1833 and began preaching in homes. In 1836 he began this congregation. They met in a dirt-floored, log building on Rhoddy Anthony's property. The name "Antioch" was chosen because the disciples were first called Christians in Antioch. Anthony was selected elder and served for 50 years. About 1870 a new sanctuary was built on this land belonging to Stephen Passmore. The building served as a schoolhouse and community meeting place. This structure was completed in 1938.]]></description>
-    <Point><coordinates>-94.081821,31.580542,0</coordinates></Point>
+    <Point><coordinates>-94.0818156262805,31.5810067697214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bland-Fisher Home</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[5 mi. north of San Augustine off 1279 next to BNSF rail line<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> James Jefferson Bland (d. 1939) had this one-story galleried home built about 1912. It was the center of the Bland Lake community, which included Bland's general store, sawmill, cotton gin, grist mill, a school, Santa Fe Railroad, post office, and popular lakeside swimming facilities. Built of pine lumber from the mill, it features a widow's walk on the roof. Bland and his wife Mattie (Baggett) later sold the house to their daughter Lula and her husband Guy B. Fisher. Recorded Texas Historic Landmark - 1980]]></description>
+    <Point><coordinates>-94.1123319318596,31.590424855444,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Columbus-Cartwright House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[off SH 21 on Craft St.<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.099824,31.524264,0</coordinates></Point>
+    <Point><coordinates>-94.099182634627,31.523645497188,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Dickerson Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[On County Road 4255, 1/4 mile east off FM 3279<br/><br/><b>Address:</b> CR 4255, San Augustine<br/><br/><b>Marker Text:</b> William and Lucinda Dickerson established this burial ground after the death of a son, Levi, in 1858. The Dickerson family came from Florida, settling in Grapevine in 1839. The family opened the cemetery to neighbors and other family, and additional property was donated. A community church moved beside it in 1946; all denominations housed in the church, except for the Missionary Baptist Church, eventually moved to other buildings. Now a community burial ground, Dickerson Cemetery features curbing, grave slabs and vertical stones. Among those interred are veterans of conflicts dating to the Civil War. Today, it continues to serve Grapevine while providing a record of the area's early settlement. Historic Texas Cemetery - 2009]]></description>
     <Point><coordinates>-94.120651,31.38236,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>McRae Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[CR 220 (McRae Cemetery Road)<br/><br/><b>Address:</b> CR 220, San Augustine<br/><br/><b>Marker Text:</b> Minutes of the McRae church state that "at a place called Union Church, six miles southwest of the town of San Augustine, a number of persons assembled on this, the 15th day of October 1882 . . . The following persons at their own request, were dismissed from the First Presbyterian Church of San Augustine and were organized." The church was first named Wilson Church, after the organizer of the First Presbyterian Church in Texas, Rev. Hugh Wilson. However, the church’s name soon changed to McRae Church, in honor of Rev. D.A. McRae of North Carolina, who helped to organize the congregation and served as the first pastor. Captain T.W. Blount offered land at this site to the congregation for the construction of a church, and a frame structure was completed and dedicated in October of 1884. Captain Blount had signed over the property for the church and cemetery to the church trustees in February of 1884. The cemetery at this site had been in use for several years prior to the organization of the church. The oldest marked burial at the cemetery is that of Willy Myrick, who died in 1866. Willy was the son of John Myrick and Adeline Roundtree; John Myrick was listed in the church minutes as a member in 1883. Ela Jane Pritchett, the two-year-old daughter of founding member J.C. Pritchett, died just seven days after the church’s founding and was buried at the cemetery. On April 5, 1920, after forty years of service, Rev. D.A. McRae was laid to rest in the cemetery that bears his name. Although the church was dissolved by the Brazos Presbytery in 1969, the cemetery continues to be active and is cared for by the McRae Cemetery Association. Historic Texas Cemetery - 2007]]></description>
-    <Point><coordinates>-94.186422,31.532016,0</coordinates></Point>
+    <Point><coordinates>-94.1863980522821,31.5320529546264,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>McRae Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[CR 220 (McRae Cemetery Road)<br/><br/><b>Address:</b> CR 220, San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.186255,31.53218,0</coordinates></Point>
+    <Point><coordinates>-94.1862539296342,31.5321709333845,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Memorial Presbyterian Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Memorial Presbyterian Church, NW corner E. Livingston and N. Congress streets<br/><br/><b>Address:</b> 205 E. Livingston St., San Augustine<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-94.10895,31.531494,0</coordinates></Point>
+    <Point><coordinates>-94.1081451916789,31.5314435196552,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Garrett House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[SH 21, 10 mi. W of San Augustine, south side and west of CR 271<br/><br/><b>Address:</b> SH 21, San Augustine<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
-    <Point><coordinates>-94.28442,31.505232,0</coordinates></Point>
+    <Point><coordinates>-94.2844338371713,31.505220180401,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Wade Place</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[FM 705 about 9.5 mi. south of San Augustine<br/><br/><b>Address:</b> San Augustine]]></description>
     <Point><coordinates>-94.146505,31.35337,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Pet Sharp House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 105 N. Congress St., San Augustine]]></description>
-    <Point><coordinates>-94.108174,31.530397,0</coordinates></Point>
+    <Point><coordinates>-94.1081852192486,31.5308563539659,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Polk House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[SH 21 about 2 blocks west of junction Loop 547 and SH 21, south side of road<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.120162,31.531359,0</coordinates></Point>
+    <Point><coordinates>-94.1203448680661,31.5318290199384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Price-Sossaman-Slaughter Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[SH 21 right-of-way at Columbia St.<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> Little physical evidence remains of the family graveyard near this site that contains the burials of members of several early San Augustine families. The remaining historic tombstone, that of James H. C. Price, dates to 1852. James Price was the son of Col. Elijah Price (1791-1852) and Temperance Thomas Price (1805-1859), who came to San Augustine in the 1840s. Elijah Price was a prosperous planter and merchant; he and his wife are both buried in the cemetery, which, as was the custom, was located near the family home. Their son Albert married into the Slaughter family, and their daughter Cornelia married into the Sossaman family; hence, members of those two families are also interred in the Price family cemetery. (2001)]]></description>
+    <Point><coordinates>-94.0991224326545,31.5291877779125,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rev. Samuel A. Williams</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 1002 Barrett St., San Augustine<br/><br/><b>Marker Text:</b> Born in Tennessee about 1804, Samuel A. Williams became a Methodist minister. He was admitted to the Tennessee Conference of the Methodist Church in 1834, and also served as a minister in Alabama. Williams became the first Methodist minister regularly stationed in East Texas in 1838 when the Republic of Texas was made an official district of the Mississippi Conference of the Methodist Church. The first informal conference met in San Augustine that year and assigned Williams to the Nacogdoches circuit. In 1841 Williams married Terisa Kellogg, and in 1843 he was assigned to the newly created Lake Soda District that included Shelbyville, Harrison, Lake Soda, Henderson and Nacogdoches. Williams was elected chairman of the annual meeting of the East Texas Methodist Conference in 1850 and 1851. He was chosen as their delegate to the General Conference of the Methodist Episcopal Church, South, for several years. A powerful speaker and well-respected minister, Williams retired in 1863, and died in 1866. He was buried at his home in San Augustine. A grave marker was placed here in 1936. (1997)]]></description>
-    <Point><coordinates>-94.12705,31.535483,0</coordinates></Point>
+    <Point><coordinates>-94.123641256057,31.5361565628343,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Roberts Baptist Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[2.5 mi. south of San Augustine via FM 2213<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> Founded 1872 by the Rev. John Patton, in Brush Arbor. Members erected building on land (2.5 mi. NE) given by Elisha Roberts, but in 1918 bought present site. Member families are faithful for generations; so are pastors: the Rev. Jim Canton and son, the Rev. Hubert, were in the Roberts pulpit for 58 years. (1972)]]></description>
-    <Point><coordinates>-94.109046,31.494458,0</coordinates></Point>
+    <Point><coordinates>-94.108909963604,31.4946624130533,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Stephen W. Blount Home</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 503 E. Columbia St., San Augustine<br/><br/><b>Marker Text:</b> --]]></description>
-    <Point><coordinates>-94.113771,31.530959,0</coordinates></Point>
+    <Point><coordinates>-94.105365559718,31.5300814744528,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sublett House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[SH 21, 4 mi. east of San Augustine<br/><br/><b>Address:</b> San Augustine]]></description>
-    <Point><coordinates>-94.058145,31.51932,0</coordinates></Point>
+    <Point><coordinates>-94.0582657568994,31.5191587318565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Teel Family Burying Ground</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> This family cemetery was established in 1856 when George W. Teel was interred beneath a pear tree planted near his home. He and his wife, Rebecca (Johnson), came from Arkansas to Texas in 1824 as colonists with Stephen F. Austin’s old three hundred. Two years later they relocated from Austin’s colony to this area, where the couple operated a farm and inn. George Teel was also a trustee of San Augustine University, and a participant in the battle of Nacogdoches and the Texas War for Independence. Others interred are related to George and Rebecca Teel, including a son, Wyatt, who served as a confederate soldier, sheriff and county commissioner.]]></description>
+    <Point><coordinates>-94.2144292974566,31.5369345337743,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The Gatling House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[1 mi. south of San Augustine off FM 2213 (Liberty St.) in Gatling Manor<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> Built in 1890 for George E. Gatling, a first cousin of inventor of the Gatling gun. Classic Greek revival style. Native longleaf pine lumber. Fireplaces of handmade brick. Continuously occupied by five generations of the builder's family. Recorded Texas Historic Landmark - 1967]]></description>
-    <Point><coordinates>-94.111715,31.519795,0</coordinates></Point>
+    <Point><coordinates>-94.1118537486274,31.5191316995573,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>William Garrett House</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[1 mi. west of San Augustine via SH 21, north side of private road<br/><br/><b>Address:</b> San Augustine<br/><br/><b>Marker Text:</b> William Garrett (1808-84) purchased this land soon after coming to Texas in 1830. In 1861, he erected this two-story house using pine boards from his nearby sawmill. Built by slave labor, the structure had unusual free-standing columns in front and carved mantels over its six fireplaces. Garrett's home was often a stop for travelers on the Old San Antonio Road. The property was sold to Sam Parker in 1904. C. T. and Ruby (Parker) Dorsey are the current (1975) owners. Recorded Texas Historic Landmark - 1962]]></description>
-    <Point><coordinates>-94.13958,31.535275,0</coordinates></Point>
+    <Point><coordinates>-94.140427656664,31.5351180503217,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

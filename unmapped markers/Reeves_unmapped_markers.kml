@@ -2,16 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Reeves County — Unmapped Historical Markers</name>
-  <description>THC markers in Reeves County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address).</description>
+  <description>THC markers in Reeves County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Reeves County</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Cedar and First Sts. (West of Pecos Museum)in the Museum Courtyard Pecos<br/><br/><b>Address:</b> Cedar &amp; 1st St., Pecos<br/><br/><b>Marker Text:</b> Formed from Pecos County, created April 14, 1883. Organized November 4, 1884. Named in honor of George Robertson Reeves 1826-1882. A colonel in the Confederate army; member of the Texas Legislature. Pecos, the county seat. (1936)]]></description>
-    <Point><coordinates>-103.494929,31.426706,0</coordinates></Point>
+    <Point><coordinates>-103.495423365171,31.4274069949734,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Vicinity of Significant Neighbors Ford Trail</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[In Roadside Park on US 285, Northern City Limits of Pecos<br/><br/><b>Address:</b> US 285, N side of Pecos, Pecos<br/><br/><b>Marker Text:</b> First wagon road to El Paso from Austin. Opened 1849 by Maj. Robert S. neighbors and Dr. John S. "Rip" Ford, Texas Rangers and leading statesmen. With Indian guides Jime Shaw (a Delaware) and Guadalupe (a Comanche), they left the Pecos, followed Toyah Creek to Davis Mountains, then went west to the Rio Grande. On the return past Guadalupe Peak, Pecos River and Horsehead Crossing, rations gave out and they ate roasted mescal roots, panther and horse meat. Their route had water and wood and became a great stage, military and emigrant road. Recorded Texas Historic Landmark, 1966.]]></description>
-    <Point><coordinates>-103.498853,31.439237,0</coordinates></Point>
+    <Point><coordinates>-103.500427274384,31.4395764529548,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

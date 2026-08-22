@@ -1,4 +1,4 @@
-Presidio unmapped markers with NO usable address (5):
+Presidio unmapped markers with NO usable address (4):
 
   THC 16075: Apache Last Stand
     https://atlas.thc.texas.gov/Details/5507016075
@@ -14,8 +14,4 @@ Presidio unmapped markers with NO usable address (5):
   THC 8: Presidio - Oldest Town in America
     addr: Marfa
     https://atlas.thc.texas.gov/Details/5377000008
-
-  THC 7095: Site of Alamito
-    addr: Marfa vicinity
-    https://atlas.thc.texas.gov/Details/5377007095
 

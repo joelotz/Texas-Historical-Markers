@@ -2,31 +2,71 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Potter County — Unmapped Historical Markers</name>
-  <description>THC markers in Potter County without an HMDB id (isMissing excluded). 5 with THC coords; 0 geocoded from address; 9 omitted (no usable address).</description>
+  <description>THC markers in Potter County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 5 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Amarillo</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[8000 US 66 West, in front of "The Care Center", Amarillo.<br/><br/><b>Address:</b> 8000 US 66 W, The Care Center, Amarillo<br/><br/><b>Marker Text:</b> County seat, Potter County; founded in 1887. Incorporated 1892. Named for Arroyo Amarillo, Spanish name of nearby creek. Transportation, financial, cultural, and medical center. Gateway to: Alibates Flint Quarry National Monument, Lake Meredith, Palo Duro State Park, Panhandle-Plains Historical Museum, Boys Ranch. (1965).]]></description>
-    <Point><coordinates>-101.927776,35.191425,0</coordinates></Point>
+    <Point><coordinates>-101.92730530274,35.191272598712,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Amarillo</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[FM 1061, Cal Farley Rd.<br/><br/><b>Address:</b> Amarillo<br/><br/><b>Marker Text:</b> County seat, Potter County; founded in 1887. Incorporated 1892. Named for Arroyo Amarillo, Spanish name of nearby creek. Transportation, financial, cultural, and medical center. Gateway to: Alibates Flint Quarry National Monument, Lake Meredith, Palo Duro State Park, Panhandle-Plains Historical Museum, Boys Ranch. (1965).]]></description>
+    <Point><coordinates>-101.92730530274,35.191272598712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Amarillo</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[1100 N. Western St.<br/><br/><b>Address:</b> 1100 N Western St., Amarillo<br/><br/><b>Marker Text:</b> County Seat, Potter County; founded in 1887. Incorporated 1892. Named for Arroyo Amarillo, Spanish name of nearby creek. Transportation, financial, cultural and medical center. Gateway to: Alibates Flint Quarry National Monument, Lake Meredith, Palo Duro State Park, Panhandle-Plains Historical Museum, Boys Ranch. (1965)]]></description>
-    <Point><coordinates>-101.88402,35.225885,0</coordinates></Point>
+    <Point><coordinates>-101.92730530274,35.191272598712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Amarillo</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[U.S. 87 and Cherry<br/><br/><b>Address:</b> Amarillo<br/><br/><b>Marker Text:</b> County Seat, Potter County; founded in 1887. Incorporated 1892. Named for Arroyo Amarillo, Spanish name of nearby creek. Transportation, financial, cultural and medical center. Gateway to: Alibates Flint Quarry National Monument, Lake Meredith, Palo Duro State Park, Panhandle-Plains Historical Museum, Boys Ranch. (1965)]]></description>
+    <Point><coordinates>-101.92730530274,35.191272598712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Amarillo</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[St. Francis and Echo St.<br/><br/><b>Address:</b> Amarillo<br/><br/><b>Marker Text:</b> County Seat, Potter County; founded in 1887. Incorporated 1892. Named for Arroyo Amarillo, Spanish name of nearby creek. Transportation, financial, cultural and medical center. Gateway to: Alibates Flint Quarry National Monument, Lake Meredith, Palo Duro State Park, Panhandle-Plains Historic Museum, Boys Ranch. (1965)]]></description>
+    <Point><coordinates>-101.92730530274,35.191272598712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bivins Library (PLATE 81)</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Amarillo]]></description>
+    <Point><coordinates>-101.838168363564,35.2032124673215,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Frying Pan Ranch</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[IH-40, East of Bushland<br/><br/><b>Address:</b> Bushland<br/><br/><b>Marker Text:</b> First big cattle ranch fenced with barbed wire. Established to demonstrate effectiveness of barbed wire in controlling use of grass, in preserving herd bloodlines and in reducing ranch work forces. Owned by barbed wire inventor Joseph F. Glidden and his Texas sales agent, Henry B. Sanborn. Sanborn developed the ranch, devising the "Panhandle brand" -- immediately renamed "Frying Pan" by cowboys branding 12,000 head of cattle originally pastured here. Fencing began here in 1881 with wire freighted from Dodge City. Cedar posts were cut in Canadian River valley and Palo Duro Canyon (40 mi. SE). Ranch was successful in proving the advantages of barbed wire fencing: the most important contribution to the economic conquest of the Great Plains. Potter County was organized in 1887 with Amarillo the county seat. Glidden and Sanborn moved city one mile east to their townsite addition in 1889. In 1892 Sanborn traded his interest in the Frying Pan for Glidden's interest in the city. In time the eastern fence line of the ranch became Western Street in Amarillo. Heirs of Glidden still manage the family estate. The old ranch headquarters was located at Tecovas Springs (6 mi. NW). (1970)]]></description>
     <Point><coordinates>-102.063305,35.189388,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Gregg Trail</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[1400 North Grant, Amarillo - on Palo Duro High School grounds.<br/><br/><b>Address:</b> 1400 N Grant, Amarillo]]></description>
     <Point><coordinates>-101.825572,35.229269,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>St. Francis Catholic Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 5001 Klinke Rd, Amarillo<br/><br/><b>Marker Text:</b> St. Francis Church commemorates a century of Eucharistic clebrations growing in love of God, family, land and country as a strong fiath community-March 13, 2008.]]></description>
-    <Point><coordinates>-101.627767,35.262482,0</coordinates></Point>
+    <Point><coordinates>-101.62771977846,35.2628506077026,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

@@ -2,14 +2,32 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Patricio County — Unmapped Historical Markers</name>
-  <description>THC markers in San Patricio County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in San Patricio County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>N.R. Smith Building</name>
-    <description><![CDATA[500 Voss Ave. | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 500 Voss Ave., Odem<br/><br/><b>Marker Text:</b> Opened in 1922, the N.R. Smith building was an early mercantile structure built by Norman Reed Smith (1870-1952). Smith’s parents, Aaron and Rebecca, settled in Waco from their native Tennessee in the 1870s. In 1881, Aaron and a Waco neighbor, Isaac Parker, purchased 180 acres of ranchland in San Patricio County near present day Odem. When Aaron died in 1887, Norman’s older brother, Charles, took over the ranch. Norman, the third son, went to work at a mercantile store in Sharpsburg. Smith married Jean Isabell “Belle” Boyd (1878-1962) in 1893. Norman opened one of two mercantiles in the newly platted community of Angelita in 1906. Angelina was soon absorbed by the growing town of Odem. Smith sold his Angelita mercantile in 1913 and opened a mercantile in Odem in 1916 in a rented building. Norman and Belle purchased a property in 1917 that burned down sometime around 1920. 
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[500 Voss Ave.<br/><br/><b>Address:</b> 500 Voss Ave., Odem<br/><br/><b>Marker Text:</b> Opened in 1922, the N.R. Smith building was an early mercantile structure built by Norman Reed Smith (1870-1952). Smith’s parents, Aaron and Rebecca, settled in Waco from their native Tennessee in the 1870s. In 1881, Aaron and a Waco neighbor, Isaac Parker, purchased 180 acres of ranchland in San Patricio County near present day Odem. When Aaron died in 1887, Norman’s older brother, Charles, took over the ranch. Norman, the third son, went to work at a mercantile store in Sharpsburg. Smith married Jean Isabell “Belle” Boyd (1878-1962) in 1893. Norman opened one of two mercantiles in the newly platted community of Angelita in 1906. Angelina was soon absorbed by the growing town of Odem. Smith sold his Angelita mercantile in 1913 and opened a mercantile in Odem in 1916 in a rented building. Norman and Belle purchased a property in 1917 that burned down sometime around 1920. 
   The current N.R. Smith building was finished in August 1922. The one-story corner commercial building features a chamfered entry and decorative brickwork. Norman operated his mercantile until his retirement in 1932 but continued to own the building until his death in 1953. Wayman Tewes (1912-1997) opened a grocery business in the N.R. Smith building in 1933, complete with drug store and café. For a short time beginning in 1945, Tewes and Norman’s son, D.R. Smith, partnered together to open Tewes &amp; Smith Grocery. When that partnership dissolved, Tewes Grocery was established and served the Odem community for many generations. Notably, the grocery featured a seasonal section called “the granddaughter’s store,” operated by Tewes’ young granddaughter, selling a variety of used items. In the 1990s, the property was sold for other commercial uses. For over 100 years, the building has been at the center of Odem’s commercial architecture and history.
 
 RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-97.58183,27.951022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosita Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[From Hwy 181 turn south onto CR1074 to CR2849<br/><br/><b>Address:</b> Taft]]></description>
+    <Point><coordinates>-97.4725879912553,27.8697846325704,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

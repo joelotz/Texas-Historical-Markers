@@ -2,7 +2,18 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Parmer County — Unmapped Historical Markers</name>
-  <description>THC markers in Parmer County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
+  <description>THC markers in Parmer County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 2 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
 
 </Document>
 </kml>

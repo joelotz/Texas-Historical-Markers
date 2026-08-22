@@ -1,8 +1,4 @@
-Coryell unmapped markers with NO usable address (11):
-
-  THC 13539: Fort Gates
-    addr: Gatesville
-    https://atlas.thc.texas.gov/Details/5507013539
+Coryell unmapped markers with NO usable address (7):
 
   THC 1983: Fort Gates, Site of
     addr: Gatesville
@@ -28,16 +24,4 @@ Coryell unmapped markers with NO usable address (11):
 
   THC 17632: Ruth Cemetery
     https://atlas.thc.texas.gov/Details/5507017632
-
-  THC 22456: Seaton Cemetery
-    addr: 333 Seaton Rd., Gatesville
-    https://atlas.thc.texas.gov/Details/5000022456
-
-  THC 18777: Station Creek Cemetery
-    addr: Oglesby
-    https://atlas.thc.texas.gov/Details/5507018777
-
-  THC 17086: Weaver Chapel Cemetery
-    addr: Gatesville
-    https://atlas.thc.texas.gov/Details/5507017086
 

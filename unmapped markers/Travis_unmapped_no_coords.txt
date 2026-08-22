@@ -1,8 +1,4 @@
-Travis unmapped markers with NO usable address (16):
-
-  THC 22710: Banks-Wood Cemetery
-    addr: Blake Manor Road, Webberville
-    https://atlas.thc.texas.gov/Details/5000022710
+Travis unmapped markers with NO usable address (14):
 
   THC 16691: Dr. Lewis and Carolyn Mitchell
     addr: Austin
@@ -39,10 +35,6 @@ Travis unmapped markers with NO usable address (16):
   THC 14906: Palm School
     addr: Austin
     https://atlas.thc.texas.gov/Details/5507014906
-
-  THC 18633: Rector Cemetery
-    addr: 12801 Lexington, Manor
-    https://atlas.thc.texas.gov/Details/5507018633
 
   THC 15597: Robert Eanes
     addr: Austin

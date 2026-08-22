@@ -1,8 +1,4 @@
-Oldham unmapped markers with NO usable address (2):
-
-  THC 15436: Ft. Smith-Santa Fe Trail
-    addr: Vega
-    https://atlas.thc.texas.gov/Details/5507015436
+Oldham unmapped markers with NO usable address (1):
 
   THC 14482: L. S. Ranch
     addr: Boy's Ranch

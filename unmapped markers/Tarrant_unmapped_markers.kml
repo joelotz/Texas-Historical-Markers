@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Tarrant County — Unmapped Historical Markers</name>
-  <description>THC markers in Tarrant County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Tarrant County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -92,12 +92,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Fort Worth Botanic Garden, Fragrance Garden<br/><br/><b>Address:</b> 3220 Botanic Garden Blvd., Fort Worth<br/><br/><b>Marker Text:</b> (Nov. 11, 1880-Mar. 1, 1955) A botanist, musician, author and clubwoman, Fort Worth native Mary Daggett Lake played a prominent role in the civic life of her hometown throughout the first half of the 20th century. She chronicled the lives of pioneer Fort Worth families in a series of articles for the Star-Telegram in the 1920s and 1930s. Through her active involvement and leadership with the Fort Worth Garden Club, the Texas Federation of Garden Clubs, the Fort Worth Park Board and the National Council of State Garden Clubs, Mary gained widespread recognition for her efforts in landscape conservation and beautification. Her labors on behalf of the Fort Worth Garden Center led to a national award for its work. (2001)]]></description>
     <Point><coordinates>-97.366648,32.735718,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Post Oak-Parker Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 1301 Cardinal Road, Hurst]]></description>
-    <Point><coordinates>-97.2049364681984,32.8095281202687,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rehoboth Cemetery</name>

@@ -1,4 +1,4 @@
-Chambers unmapped markers with NO usable address (7):
+Chambers unmapped markers with NO usable address (6):
 
   THC 16043: Anahuac's First Cemetery
     https://atlas.thc.texas.gov/Details/5507016043
@@ -21,8 +21,4 @@ Chambers unmapped markers with NO usable address (7):
   THC 15618: Taylor White Ranch
     addr: Anahuac
     https://atlas.thc.texas.gov/Details/5507015618
-
-  THC 22752: Victoria Taylor Walker
-    addr: Mount Olive Ln., Baytown
-    https://atlas.thc.texas.gov/Details/5000022752
 

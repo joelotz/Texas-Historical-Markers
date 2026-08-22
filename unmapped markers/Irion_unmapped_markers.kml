@@ -2,7 +2,23 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Irion County — Unmapped Historical Markers</name>
-  <description>THC markers in Irion County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
-
+  <description>THC markers in Irion County without an HMDB id (isMissing excluded). 1 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Mertzon Central School</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[corner of Juanita and Third; marker is inside the school library<br/><br/><b>Address:</b> Juanita and Third, Mertzon<br/><br/><b>Marker Text:</b> --]]></description>
+    <Point><coordinates>-100.823350456396,31.2600539621386,0</coordinates></Point>
+  </Placemark>
 </Document>
 </kml>

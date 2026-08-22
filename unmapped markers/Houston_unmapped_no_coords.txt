@@ -1,12 +1,8 @@
-Houston unmapped markers with NO usable address (29):
+Houston unmapped markers with NO usable address (24):
 
   THC 24185: "Slocum Massacre" in Houston County
     addr: FM 2022, Grapeland
     https://atlas.thc.texas.gov/Details/5000024185
-
-  THC 7011: Archie Adams
-    addr: Lovelady
-    https://atlas.thc.texas.gov/Details/5225007011
 
   THC 11093: Bradford Davis Family
     https://atlas.thc.texas.gov/Details/5225011093
@@ -32,10 +28,6 @@ Houston unmapped markers with NO usable address (29):
     addr: Crockett
     https://atlas.thc.texas.gov/Details/5507014768
 
-  THC 20014: Fodice Cemetery
-    addr: 7446 County Rd. 4200, Lovelady
-    https://atlas.thc.texas.gov/Details/5507020014
-
   THC 12083: Hall Cemetery
     addr: Crockett
     https://atlas.thc.texas.gov/Details/5225012083
@@ -60,21 +52,13 @@ Houston unmapped markers with NO usable address (29):
 
   THC 23841: Lake Creek Cemetery
     addr: 5175 County Road 4545, Kennard
-    https://atlas.thc.texas.gov/Details/5000023386
-
-  THC 17104: Lovelady Evergreen Cemetery
-    addr: Lovelady
-    https://atlas.thc.texas.gov/Details/5507017104
+    https://atlas.thc.texas.gov/Details/5000023841
 
   THC 11249: Madden Massacre
     https://atlas.thc.texas.gov/Details/5225011249
 
   THC 11205: Nelson Box
     https://atlas.thc.texas.gov/Details/5225011205
-
-  THC 18281: Old Shady Grove Cemetery
-    addr: FSR 587, Kennard
-    https://atlas.thc.texas.gov/Details/5507018281
 
   THC 12373: Old Zion Cemetery
     addr: Kennard vicinity
@@ -86,10 +70,6 @@ Houston unmapped markers with NO usable address (29):
   THC 12080: Site of Center Grove School
     addr: Lovelady
     https://atlas.thc.texas.gov/Details/5225012080
-
-  THC 7921: Site of Daniel McLean Claim
-    addr: SH 21, Weches
-    https://atlas.thc.texas.gov/Details/5225007921
 
   THC 11244: Smith Brothers
     addr: Crockett

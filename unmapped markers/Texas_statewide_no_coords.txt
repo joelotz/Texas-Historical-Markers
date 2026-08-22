@@ -1,0 +1,3510 @@
+Texas unmapped markers with NO coordinate (900):
+
+  THC 8742 [Anderson]: C. S. A. Iron Works
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5001008742
+
+  THC 14421 [Anderson]: Gilmore's Chapel
+    addr: Palestine
+    https://atlas.thc.texas.gov/Details/5507014421
+
+  THC 24215 [Anderson]: Massey Lake School
+    addr: 130 County Road 2802, Tennessee Colony
+    https://atlas.thc.texas.gov/Details/5000024215
+
+  THC 17711 [Anderson]: New Hope Baptist Church
+    addr: 13400 FM 321, Tennessee Colony
+    https://atlas.thc.texas.gov/Details/5507017711
+
+  THC 24216 [Anderson]: St. James Missionary Baptist Church
+    addr: 2533 County Road 1204, Elkhart
+    https://atlas.thc.texas.gov/Details/5000024216
+
+  THC 17427 [Anderson]: Swanson Cemetery
+    https://atlas.thc.texas.gov/Details/5507017427
+
+  THC 6982 [Angelina]: Angelina County Lumber Company
+    addr: Lufkin
+    https://atlas.thc.texas.gov/Details/5005006982
+
+  THC 11653 [Angelina]: Beulah Congregational Methodist Church
+    addr: Lufkin vicinity
+    https://atlas.thc.texas.gov/Details/5005011653
+
+  THC 6985 [Angelina]: Cheeseland
+    addr: Lufkin vicinity
+    https://atlas.thc.texas.gov/Details/5005006985
+
+  THC 22857 [Angelina]: Lang Cemetery
+    addr: Redland
+    https://atlas.thc.texas.gov/Details/5000022857
+
+  THC 17428 [Angelina]: McCarty Cemetery
+    https://atlas.thc.texas.gov/Details/5507017428
+
+  THC 17441 [Angelina]: Renfro Cemetery #1
+    https://atlas.thc.texas.gov/Details/5507017441
+
+  THC 475 [Archer]: Bowman Cemetery
+    addr: Lakeside City
+    https://atlas.thc.texas.gov/Details/5009000475
+
+  THC 3207 [Archer]: Marcy Trail
+    addr: Windthorst
+    https://atlas.thc.texas.gov/Details/5009003207
+
+  THC 3749 [Armstrong]: Old Home Ranch
+    addr: Claude
+    https://atlas.thc.texas.gov/Details/5011003749
+
+  THC 23921 [Atascosa]: Edward Brown
+    addr: 169 Olivares Rd., Poteet
+    https://atlas.thc.texas.gov/Details/5000023921
+
+  THC 24679 [Atascosa]: Madre Dolorosa Cemetery
+    addr: Poteet
+    https://atlas.thc.texas.gov/Details/5000024679
+
+  THC 17445 [Atascosa]: Pleasanton City Cemetery
+    https://atlas.thc.texas.gov/Details/5507017445
+
+  THC 23360 [Atascosa]: Shiloh Community
+    addr: Shiloh Rd., Poteet
+    https://atlas.thc.texas.gov/Details/5000023360
+
+  THC 3185 [Austin]: Magruder-Cannon-Bryan Home
+    addr: Bellville
+    https://atlas.thc.texas.gov/Details/5015003185
+
+  THC 24292 [Austin]: Millheim Cemetery
+    addr: 11763 Cemetery Road, Bellville
+    https://atlas.thc.texas.gov/Details/5000024292
+
+  THC 23595 [Austin]: National Cemetery
+    addr: 802 Cemetery Road, Bellville
+    https://atlas.thc.texas.gov/Details/5000023595
+
+  THC 17446 [Austin]: Old Travis Cemetery
+    https://atlas.thc.texas.gov/Details/5507017446
+
+  THC 3725 [Bandera]: Old English-Crist House
+    addr: Pipe Creek vicinity
+    https://atlas.thc.texas.gov/Details/5019003725
+
+  THC 23417 [Bandera]: Pipe Creek Cemetery
+    addr: 1057 FM 1283, Pipe Creek
+    https://atlas.thc.texas.gov/Details/5000023417
+
+  THC 23519 [Bastrop]: Alum Creek DeShay Cemetery
+    addr: Loop 438, Cedar Creek
+    https://atlas.thc.texas.gov/Details/5000023519
+
+  THC 23846 [Bastrop]: Cunningham Cemetery
+    addr: 4145 Unger Rd, Smithville
+    https://atlas.thc.texas.gov/Details/5000023846
+
+  THC 17444 [Bastrop]: Elgin Cemetery
+    https://atlas.thc.texas.gov/Details/5507017444
+
+  THC 23621 [Bastrop]: Henry Barnett Family
+    addr: Shiloh Rd, Bastrop
+    https://atlas.thc.texas.gov/Details/5000023621
+
+  THC 23520 [Bastrop]: Mount Olive Evergreen Cemetery
+    addr: 107 Thorne Rd., Cedar Creek
+    https://atlas.thc.texas.gov/Details/5000023520
+
+  THC 9227 [Bastrop]: Sayers - Walton Ranch House
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009227
+
+  THC 9234 [Bastrop]: Trigg Home (Henry E. McGehee House)
+    addr: Bastrop
+    https://atlas.thc.texas.gov/Details/5021009234
+
+  THC 22811 [Bell]: Carpenter Cemetery (HTC)
+    addr: Charter Oak Drive, Temple
+    https://atlas.thc.texas.gov/Details/5000022811
+
+  THC 23945 [Bell]: Comanche Hunting Grounds Battle
+    addr: Almeda St and Merritt St, Temple
+    https://atlas.thc.texas.gov/Details/5000023945
+
+  THC 23332 [Bell]: Dyess Family Cemetery
+    addr: Stringtown Rd., Temple
+    https://atlas.thc.texas.gov/Details/5000023332
+
+  THC 17447 [Bell]: Little River-Wilson Valley Cemetery
+    addr: Little River
+    https://atlas.thc.texas.gov/Details/5507017447
+
+  THC 3233 [Bell]: Maruna Meadow
+    addr: Temple vicinity
+    https://atlas.thc.texas.gov/Details/5027003233
+
+  THC 11729 [Bell]: Miller Springs Bridge
+    addr: Belton vicinity
+    https://atlas.thc.texas.gov/Details/5027011729
+
+  THC 24284 [Bell]: Simmonsville and Marlboro Heights Communities
+    addr: South 42nd St., Killeen
+    https://atlas.thc.texas.gov/Details/5000024284
+
+  THC 18907 [Bell]: St. Paul Lutheran Cemetery
+    addr: Temple
+    https://atlas.thc.texas.gov/Details/5507018907
+
+  THC 17555 [Bell]: Temple College
+    addr: Temple
+    https://atlas.thc.texas.gov/Details/5507017555
+
+  THC 18835 [Bexar]: 9th Cavalry at San Pedro Springs
+    addr: West Myrtle at N. Flores, San Antonio
+    https://atlas.thc.texas.gov/Details/5507018835
+
+  THC 13334 [Bexar]: Bowie and Fannin, Site of Camp
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013334
+
+  THC 14403 [Bexar]: Confederate Cemetery
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507014403
+
+  THC 16676 [Bexar]: Council House Fight
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507016676
+
+  THC 13345 [Bexar]: Father of Mexican Independence
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013345
+
+  THC 13359 [Bexar]: Groos National Bank
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013359
+
+  THC 18579 [Bexar]: Polish Quarter
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507018579
+
+  THC 11750 [Bexar]: San Antonio River Walk (Paseo Del Rio)
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5029011750
+
+  THC 13353 [Bexar]: Site of First Portland Cement Plant
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507013353
+
+  THC 18838 [Bexar]: St. Michael's Roman Catholic Church
+    addr: 424 South Street, San Antonio
+    https://atlas.thc.texas.gov/Details/5507018838
+
+  THC 18578 [Bexar]: Westside Black Enclaves
+    addr: San Antonio
+    https://atlas.thc.texas.gov/Details/5507018578
+
+  THC 22494 [Bosque]: Greenock Community
+    addr: FM 2490, Laguna Park
+    https://atlas.thc.texas.gov/Details/5000022494
+
+  THC 3846 [Bosque]: Ole Pierson Homestead
+    addr: Clifton
+    https://atlas.thc.texas.gov/Details/5035003846
+
+  THC 20082 [Bosque]: Zion United Church of Christ
+    addr: 2114 FM 129, Womack
+    https://atlas.thc.texas.gov/Details/5507020082
+
+  THC 12408 [Bowie]: Bois d'Arc
+    addr: DeKalb
+    https://atlas.thc.texas.gov/Details/5037012408
+
+  THC 18944 [Bowie]: Sand Hill Cemetery
+    addr: Simms
+    https://atlas.thc.texas.gov/Details/5507018944
+
+  THC 12410 [Bowie]: Site of the Home of Hardin R. Runnels
+    addr: New Boston vicinity
+    https://atlas.thc.texas.gov/Details/5037012410
+
+  THC 15356 [Bowie]: Youngblood Memorial Presbyterian Church
+    https://atlas.thc.texas.gov/Details/5507015356
+
+  THC 24265 [Brazoria]: Greater St. Paul Baptist Church
+    addr: N. Brooks St., Brazoria
+    https://atlas.thc.texas.gov/Details/5000024265
+
+  THC 9567 [Brazoria]: Hicks Dairy Farm
+    addr: Manvel
+    https://atlas.thc.texas.gov/Details/5039009567
+
+  THC 17994 [Brazoria]: Mount Zion Cemetery
+    addr: Lake Jackson
+    https://atlas.thc.texas.gov/Details/5507017994
+
+  THC 9594 [Brazoria]: Site of The Home of Henry Smith
+    addr: Brazoria
+    https://atlas.thc.texas.gov/Details/5039009594
+
+  THC 16052 [Brazoria]: Site of the Home of James Walker Fannin
+    addr: Brazoria
+    https://atlas.thc.texas.gov/Details/5507016052
+
+  THC 23697 [Brazoria]: Thomas Cemetery
+    addr: CR 401, West Columbia
+    https://atlas.thc.texas.gov/Details/5000023697
+
+  THC 17455 [Brazos]: Alexander Methodist Church
+    https://atlas.thc.texas.gov/Details/5507017455
+
+  THC 8668 [Brazos]: Brazos River
+    https://atlas.thc.texas.gov/Details/5041008668
+
+  THC 23658 [Brazos]: City of College Station
+    addr: 1101 Texas Ave., College Station
+    https://atlas.thc.texas.gov/Details/5000023658
+
+  THC 24318 [Brazos]: Della Love
+    addr: Della Love Rd., Kurten
+    https://atlas.thc.texas.gov/Details/5000024318
+
+  THC 13328 [Brewster]: Alpine
+    addr: Alpine
+    https://atlas.thc.texas.gov/Details/5507013328
+
+  THC 23935 [Brewster]: First United Methodist Church
+    addr: 109 North 3rd St, Marathon
+    https://atlas.thc.texas.gov/Details/5000023935
+
+  THC 17423 [Brown]: Antioch Cemetery
+    addr: Blanket
+    https://atlas.thc.texas.gov/Details/5507017423
+
+  THC 17456 [Brown]: Eureka Cemetery
+    https://atlas.thc.texas.gov/Details/5507017456
+
+  THC 23944 [Brown]: May Cemetery
+    addr: 18002 Hwy 183 N., May
+    https://atlas.thc.texas.gov/Details/5000023944
+
+  THC 5168 [Brown]: Swinden Pecan Orchard
+    addr: Brownwood
+    https://atlas.thc.texas.gov/Details/5049005168
+
+  THC 17457 [Brown]: Zephyr Cemetery
+    https://atlas.thc.texas.gov/Details/5507017457
+
+  THC 23733 [Burleson]: African American Community in Clay (UNDERTOLD)
+    addr: FM 50, Clay
+    https://atlas.thc.texas.gov/Details/5000023733
+
+  THC 17458 [Burleson]: Caldwell Masonic Cemetery
+    https://atlas.thc.texas.gov/Details/5507017458
+
+  THC 24142 [Burleson]: Carr Cemetery
+    addr: CR 217, Caldwell
+    https://atlas.thc.texas.gov/Details/5000024142
+
+  THC 24458 [Burleson]: Sandy Grove Cemetery
+    addr: 10901 FM 111, Deanville
+    https://atlas.thc.texas.gov/Details/5000024458
+
+  THC 22511 [Burnet]: Haynie Flat Cemetery
+    addr: Hidden Springs Court, Spicewood
+    https://atlas.thc.texas.gov/Details/5000022511
+
+  THC 22675 [Burnet]: Haynie Flat Cemetery
+    addr: Hidden Springs Court, Spicewood
+    https://atlas.thc.texas.gov/Details/5000022675
+
+  THC 23740 [Burnet]: Mt. Moriah Cemetery
+    addr: CR 218, Briggs
+    https://atlas.thc.texas.gov/Details/5000023740
+
+  THC 17460 [Burnet]: Oatmeal Cemetery
+    https://atlas.thc.texas.gov/Details/5507017460
+
+  THC 24042 [Burnet]: Stringtown Cemetery
+    addr: CR 326A, Bertram
+    https://atlas.thc.texas.gov/Details/5000024042
+
+  THC 23233 [Caldwell]: Crayton-Spruill Cemetery
+    addr: CR 103, Martindale
+    https://atlas.thc.texas.gov/Details/5000023233
+
+  THC 24330 [Caldwell]: James Knox Hardeman and the FIS
+    addr: 290 Coastal Lane, Luling
+    https://atlas.thc.texas.gov/Details/5000024330
+
+  THC 17461 [Caldwell]: Johnson Perry Cemetery
+    https://atlas.thc.texas.gov/Details/5507017461
+
+  THC 17462 [Caldwell]: Lytton Springs Cemetery
+    https://atlas.thc.texas.gov/Details/5507017462
+
+  THC 24467 [Caldwell]: St. John Colony Cemetery (N&D)
+    addr: 1200 Chamblin Lane, Dale
+    https://atlas.thc.texas.gov/Details/5000024467
+
+  THC 23873 [Calhoun]: Clark Station
+    addr: FM 1679, Port Lavaca
+    https://atlas.thc.texas.gov/Details/5000023873
+
+  THC 14252 [Cameron]: Cavalry Barracks
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014252
+
+  THC 15294 [Cameron]: Commissary-Guard House
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507015294
+
+  THC 23694 [Cameron]: Gomez Cemetery
+    addr: Los Indios
+    https://atlas.thc.texas.gov/Details/5000023694
+
+  THC 14750 [Cameron]: Medical Laboratory
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014750
+
+  THC 14083 [Cameron]: Morgue Building
+    addr: Brownsville
+    https://atlas.thc.texas.gov/Details/5507014083
+
+  THC 16849 [Cameron]: Pitt House
+    addr: 1806 Palm Boulevard, Brownsville
+    https://atlas.thc.texas.gov/Details/5507016849
+
+  THC 17463 [Cameron]: The Old Weaver Cemetery
+    https://atlas.thc.texas.gov/Details/5507017463
+
+  THC 23393 [Cameron]: Ullman-Stern-Krausse Grocery Warehouse / Alamo Iron Works
+    addr: 730 McNair Family Drive, Brownsville
+    https://atlas.thc.texas.gov/Details/5000023393
+
+  THC 14176 [Carson]: Farm & Ranch Building
+    addr: 501 Elsie, Panhandle
+    https://atlas.thc.texas.gov/Details/5507014176
+
+  THC 14735 [Carson]: Wheatherlys, John F.
+    addr: Panhandle
+    https://atlas.thc.texas.gov/Details/5507014735
+
+  THC 24247 [Cass]: Cheatham Cemetery
+    addr: CR 2991, Hughes Springs
+    https://atlas.thc.texas.gov/Details/5000024247
+
+  THC 17465 [Cass]: Kildare Cemetery
+    https://atlas.thc.texas.gov/Details/5507017465
+
+  THC 24452 [Cass]: Love Chapel Freedmen's Community
+    https://atlas.thc.texas.gov/Details/5000024452
+
+  THC 17467 [Cass]: Pine Crest Cemetery
+    https://atlas.thc.texas.gov/Details/5507017467
+
+  THC 9823 [Cass]: Town of Hughes Springs
+    addr: Hughes Springs
+    https://atlas.thc.texas.gov/Details/5067009823
+
+  THC 16043 [Chambers]: Anahuac's First Cemetery
+    https://atlas.thc.texas.gov/Details/5507016043
+
+  THC 9120 [Chambers]: Cove
+    https://atlas.thc.texas.gov/Details/5071009120
+
+  THC 14707 [Chambers]: Harmon Saddle Shop
+    addr: Hankamer
+    https://atlas.thc.texas.gov/Details/5507014707
+
+  THC 9082 [Chambers]: Solomon Barrow
+    addr: Mont Belvieu
+    https://atlas.thc.texas.gov/Details/5071009082
+
+  THC 16247 [Chambers]: Stowell Community
+    addr: East 1st Street, Stowell
+    https://atlas.thc.texas.gov/Details/5507016247
+
+  THC 15618 [Chambers]: Taylor White Ranch
+    addr: Anahuac
+    https://atlas.thc.texas.gov/Details/5507015618
+
+  THC 6621 [Cherokee]: Birthplace of Thomas Mitchell Campbell
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073006621
+
+  THC 15287 [Cherokee]: Cherokee, Home of Grand Xinesi
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5507015287
+
+  THC 11800 [Cherokee]: First Baptist Church of Mixon
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5073011800
+
+  THC 18228 [Cherokee]: Gallatin School
+    https://atlas.thc.texas.gov/Details/5507018228
+
+  THC 11801 [Cherokee]: Hatchett's Ferry Inn
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073011801
+
+  THC 6613 [Cherokee]: Helena Dill Berryman
+    https://atlas.thc.texas.gov/Details/5073006613
+
+  THC 15038 [Cherokee]: Hogg, Gov. J. S., Birthplace of
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5507015038
+
+  THC 24199 [Cherokee]: Linwood Community
+    addr: 161 CR 2523, Alto
+    https://atlas.thc.texas.gov/Details/5000024199
+
+  THC 6774 [Cherokee]: New Birmingham
+    addr: Rusk
+    https://atlas.thc.texas.gov/Details/5073006774
+
+  THC 23937 [Cherokee]: New Hope Baptist Church
+    addr: 12580 FM 747 S., Jacksonville
+    https://atlas.thc.texas.gov/Details/5000023937
+
+  THC 6953 [Cherokee]: Odom-Crawford House
+    addr: FM 2138, Maydelle
+    https://atlas.thc.texas.gov/Details/5073006953
+
+  THC 12439 [Cherokee]: Pine Grove School
+    addr: Jacksonville vicinity
+    https://atlas.thc.texas.gov/Details/5073012439
+
+  THC 24153 [Cherokee]: Ragsdale Cemetery
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5000024153
+
+  THC 14557 [Cherokee]: Roark, William, Home
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5507014557
+
+  THC 11804 [Cherokee]: Site of Kilraven
+    addr: Salto
+    https://atlas.thc.texas.gov/Details/5073011804
+
+  THC 6839 [Cherokee]: Site of Old Larissa College
+    addr: Mount Selman
+    https://atlas.thc.texas.gov/Details/5073006839
+
+  THC 6615 [Cherokee]: Site of the Last Home of Bowles
+    addr: Alto
+    https://atlas.thc.texas.gov/Details/5073006615
+
+  THC 12361 [Cherokee]: Site of Wildhurst
+    addr: Forest
+    https://atlas.thc.texas.gov/Details/5073012361
+
+  THC 15251 [Cherokee]: Turney
+    addr: Jacksonville
+    https://atlas.thc.texas.gov/Details/5507015251
+
+  THC 15174 [Childress]: Loco, Community of
+    addr: Childress
+    https://atlas.thc.texas.gov/Details/5507015174
+
+  THC 24232 [Childress]: Olympus-Lonie Cemetery
+    addr: County Road L, Childress
+    https://atlas.thc.texas.gov/Details/5000024232
+
+  THC 3860 [Childress]: On Old Shoenail Ranch Land, Community of Loco
+    addr: Childress
+    https://atlas.thc.texas.gov/Details/5075003860
+
+  THC 24270 [Childress]: Tell Methodist Cemetery
+    addr: 15206 FM 94, Tell
+    https://atlas.thc.texas.gov/Details/5000024270
+
+  THC 591 [Clay]: Byers High School
+    addr: Byers
+    https://atlas.thc.texas.gov/Details/5077000591
+
+  THC 2870 [Clay]: Joy United Methodist Church
+    https://atlas.thc.texas.gov/Details/5077002870
+
+  THC 5522 [Cochran]: Town of Bledsoe
+    addr: Bledsoe
+    https://atlas.thc.texas.gov/Details/5079005522
+
+  THC 17974 [Coleman]: Mt. View Cemetery
+    addr: County Road 470, Coleman
+    https://atlas.thc.texas.gov/Details/5507017974
+
+  THC 24181 [Coleman]: Talpa Cemetery
+    addr: CR 409, Talpa
+    https://atlas.thc.texas.gov/Details/5000024181
+
+  THC 3906 [Coleman]: The Rock House on Day Ranch
+    addr: Leaday
+    https://atlas.thc.texas.gov/Details/5083003906
+
+  THC 24150 [Collin]: First Baptist Church of Copeville
+    addr: 15947 FM 1778, Copeville
+    https://atlas.thc.texas.gov/Details/5000024150
+
+  THC 23898 [Collin]: Glass-Chapman Cemetery
+    addr: CR 610, Farmersville
+    https://atlas.thc.texas.gov/Details/5000023898
+
+  THC 24246 [Collin]: Horn Cemetery
+    addr: CR 1006, McKinney
+    https://atlas.thc.texas.gov/Details/5000024246
+
+  THC 23603 [Collin]: Lair Cemetery
+    addr: 1114 Ferguson Pkwy., Anna
+    https://atlas.thc.texas.gov/Details/5000023603
+
+  THC 14689 [Collin]: Old Settlers Cemetery at Wilson Creek
+    addr: McKinney
+    https://atlas.thc.texas.gov/Details/5507014689
+
+  THC 22847 [Collin]: Princeton Cemetery (HTC)
+    addr: Yorkshire Dr., Princeton
+    https://atlas.thc.texas.gov/Details/5000022847
+
+  THC 23506 [Collin]: Ross Cemetery
+    addr: 201 Harry McKillop Blvd., McKinney
+    https://atlas.thc.texas.gov/Details/5000023506
+
+  THC 24272 [Collin]: Simpson's Dairy Farm
+    addr: 2235 CR 338, New Hope
+    https://atlas.thc.texas.gov/Details/5000024272
+
+  THC 23807 [Collin]: Sugar Hill
+    addr: Tatum/Jones-Yeary Cemetery, Farmersville
+    https://atlas.thc.texas.gov/Details/5000023807
+
+  THC 15179 [Collin]: Thompson Cemetery
+    addr: Copeville
+    https://atlas.thc.texas.gov/Details/5507015179
+
+  THC 23419 [Colorado]: Colonel Ike T. Pryor
+    addr: Columbus
+    https://atlas.thc.texas.gov/Details/5000023419
+
+  THC 24313 [Colorado]: Myrtle Cemetery
+    addr: CR 106, Rock Island
+    https://atlas.thc.texas.gov/Details/5000024313
+
+  THC 24217 [Comal]: Dittlinger Village - La Calera
+    addr: Wald Road, New Braunfels
+    https://atlas.thc.texas.gov/Details/5000024217
+
+  THC 22549 [Comal]: Franz Heimer
+    addr: 9666 W. State Hwy 46, New Braunfels
+    https://atlas.thc.texas.gov/Details/5000022549
+
+  THC 15327 [Comal]: Kneupper Chapel
+    addr: Bergheim
+    https://atlas.thc.texas.gov/Details/5507015327
+
+  THC 24391 [Comal]: Stephen F. Austin School / Booker T. Washington School
+    addr: 511 E. North St.
+    https://atlas.thc.texas.gov/Details/5000024391
+
+  THC 23539 [Comanche]: Bibb Community
+    addr: SH 36, Sidney
+    https://atlas.thc.texas.gov/Details/5000023539
+
+  THC 23583 [Comanche]: Board Church Cemetery
+    addr: 2870 CR 304, Gustine
+    https://atlas.thc.texas.gov/Details/5000023583
+
+  THC 838 [Comanche]: Choctaw Robinson Tree
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5093000838
+
+  THC 24154 [Comanche]: Downing Cemetery
+    addr: Hasse
+    https://atlas.thc.texas.gov/Details/5000024154
+
+  THC 18948 [Comanche]: Energy Cemetery
+    addr: FM 2486, Energy
+    https://atlas.thc.texas.gov/Details/5000018948
+
+  THC 2845 [Comanche]: Jones Crossing
+    addr: DeLeon vicinity
+    https://atlas.thc.texas.gov/Details/5093002845
+
+  THC 6015 [Comanche]: Mary Isham
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5093006015
+
+  THC 23273 [Comanche]: Sand Hill Cemetery
+    addr: CR 160, DeLeon
+    https://atlas.thc.texas.gov/Details/5000023273
+
+  THC 4714 [Comanche]: Sipe Springs Cemetery
+    addr: Sipe Springs vicinity
+    https://atlas.thc.texas.gov/Details/5093004714
+
+  THC 24160 [Comanche]: Stag Creek Cemetery
+    addr: FM 1477, Sidney
+    https://atlas.thc.texas.gov/Details/5000024160
+
+  THC 12358 [Comanche]: Taylor's Chapel (Concord) Cemetery
+    addr: Comanche vicinity
+    https://atlas.thc.texas.gov/Details/5093012358
+
+  THC 24155 [Comanche]: Zion Hill Cemetery
+    addr: Comanche
+    https://atlas.thc.texas.gov/Details/5000024155
+
+  THC 12484 [Cooke]: Nelson Log House
+    addr: Gainesville vicinity
+    https://atlas.thc.texas.gov/Details/5097012484
+
+  THC 1983 [Coryell]: Fort Gates, Site of
+    addr: Gatesville
+    https://atlas.thc.texas.gov/Details/5099001983
+
+  THC 24157 [Coryell]: Greenbriar Cemetery
+    addr: 319 Burt Lane, Gatesville
+    https://atlas.thc.texas.gov/Details/5000024157
+
+  THC 18207 [Coryell]: Lincolnville Community
+    https://atlas.thc.texas.gov/Details/5507018207
+
+  THC 12413 [Coryell]: Pidcoke Cemetery
+    addr: Gatesville vicinity
+    https://atlas.thc.texas.gov/Details/5099012413
+
+  THC 17686 [Coryell]: Pleasant Grove Cemetery
+    https://atlas.thc.texas.gov/Details/5507017686
+
+  THC 20068 [Coryell]: Prairie View Cemetery
+    addr: Prairie View Road, Turnersville
+    https://atlas.thc.texas.gov/Details/5507020068
+
+  THC 17632 [Coryell]: Ruth Cemetery
+    https://atlas.thc.texas.gov/Details/5507017632
+
+  THC 46 [Crosby]: A. B. Robertson Ranch
+    addr: Lorenzo vicinity
+    https://atlas.thc.texas.gov/Details/5107000046
+
+  THC 14743 [Culberson]: Bass Canyon
+    addr: Van Horn
+    https://atlas.thc.texas.gov/Details/5507014743
+
+  THC 24191 [Dallam]: Texline Cemetery
+    addr: Hwy 296, Texline
+    https://atlas.thc.texas.gov/Details/5000024191
+
+  THC 14054 [Dallas]: Assassination of JFK, Site of
+    addr: Dallas
+    https://atlas.thc.texas.gov/Details/5507014054
+
+  THC 16121 [Dallas]: Leadbelly in Deep Ellum
+    addr: Dallas
+    https://atlas.thc.texas.gov/Details/5507016121
+
+  THC 23757 [Dallas]: Robert Thomas Ashford
+    addr: N. Central Expy and NW of Swiss Ave, Dallas
+    https://atlas.thc.texas.gov/Details/5000023757
+
+  THC 15415 [Dallas]: Train Holdup
+    addr: Mesquite
+    https://atlas.thc.texas.gov/Details/5507015415
+
+  THC 15213 [Dallas]: W. W. Clover Cemetery
+    addr: Dallas
+    https://atlas.thc.texas.gov/Details/5507015213
+
+  THC 16057 [DeWitt]: Captain John York and James Madison Bell
+    https://atlas.thc.texas.gov/Details/5507016057
+
+  THC 24172 [DeWitt]: Sandy Gate Cemetery
+    addr: Yorktown
+    https://atlas.thc.texas.gov/Details/5000024172
+
+  THC 4806 [Deaf Smith]: Great Cowboy Strike, Site of
+    https://atlas.thc.texas.gov/Details/5117004806
+
+  THC 6929 [Delta]: Brushy Mound
+    https://atlas.thc.texas.gov/Details/5119006929
+
+  THC 17330 [Delta]: Camp Shed Cemetery
+    addr: FM 1742, Cooper
+    https://atlas.thc.texas.gov/Details/5507017330
+
+  THC 6931 [Delta]: Chapman Family Home
+    addr: Cooper
+    https://atlas.thc.texas.gov/Details/5119006931
+
+  THC 14751 [Delta]: Methodist-Episcopal Church South
+    addr: Ben Franklin
+    https://atlas.thc.texas.gov/Details/5507014751
+
+  THC 23259 [Denton]: Landrum Cemetery
+    addr: Frisco
+    https://atlas.thc.texas.gov/Details/5000023259
+
+  THC 23756 [Denton]: Tom Cook Blacksmith Shop
+    addr: FM 455, Bolivar
+    https://atlas.thc.texas.gov/Details/5000023756
+
+  THC 24245 [Donley]: Jericho Gap on Route 66
+    addr: SH 70, Clarendon
+    https://atlas.thc.texas.gov/Details/5000024245
+
+  THC 2769 [Duval]: John C. Duval
+    addr: Freer
+    https://atlas.thc.texas.gov/Details/5131002769
+
+  THC 15228 [Duval]: John C. Duval
+    addr: Freer
+    https://atlas.thc.texas.gov/Details/5507015228
+
+  THC 23538 [Duval]: Santa Cruz Cemetery
+    addr: San Diego
+    https://atlas.thc.texas.gov/Details/5000023538
+
+  THC 1371 [Eastland]: Eastland County
+    addr: Eastland
+    https://atlas.thc.texas.gov/Details/5133001371
+
+  THC 23817 [Eastland]: Texas Eleventh Court of Appeals
+    addr: Eastland County Courthouse, Eastland
+    https://atlas.thc.texas.gov/Details/5000023817
+
+  THC 14699 [Ector]: First Compressor Transmission Engine
+    addr: Odessa
+    https://atlas.thc.texas.gov/Details/5507014699
+
+  THC 3607 [Ector]: North Cowden
+    addr: North Cowden
+    https://atlas.thc.texas.gov/Details/5135003607
+
+  THC 12414 [Edwards]: Clinton LaFayette Smith
+    addr: Rocksprings
+    https://atlas.thc.texas.gov/Details/5137012414
+
+  THC 18606 [El Paso]: Bailey Cemetery
+    addr: Canutillo
+    https://atlas.thc.texas.gov/Details/5507018606
+
+  THC 14233 [El Paso]: El Paso Salt War
+    addr: San Elizario
+    https://atlas.thc.texas.gov/Details/5507014233
+
+  THC 17382 [El Paso]: Fort Bliss Enemy Alien Detention Site, WWII
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507017382
+
+  THC 18737 [El Paso]: La Isla Cemetery
+    addr: Wingo Reserve Road, Fabens
+    https://atlas.thc.texas.gov/Details/5507018737
+
+  THC 22664 [El Paso]: Marcelino Serna
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5000022664
+
+  THC 14954 [El Paso]: Mission de Nuestra Senora del Perpetua
+    addr: Socorro
+    https://atlas.thc.texas.gov/Details/5507014954
+
+  THC 16824 [El Paso]: Olivas Villanueva Aoy
+    addr: 1 Civic Center Plaza, El Paso
+    https://atlas.thc.texas.gov/Details/5507016824
+
+  THC 15058 [El Paso]: Presidio de San Elizario
+    addr: San Elizario
+    https://atlas.thc.texas.gov/Details/5507015058
+
+  THC 15193 [El Paso]: Presidio Nuestra Senora del Pilar y Glo. S.J.
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507015193
+
+  THC 24006 [El Paso]: San Elizario Church Cemetery
+    addr: Socorro Rd., San Elizario
+    https://atlas.thc.texas.gov/Details/5000024006
+
+  THC 18739 [El Paso]: Smelter Cemetery
+    addr: San Marcos Drive from Executive Center Blvd, El Paso
+    https://atlas.thc.texas.gov/Details/5507018739
+
+  THC 16609 [El Paso]: The Architecture of Henry C. Trost in El Paso
+    addr: El Paso
+    https://atlas.thc.texas.gov/Details/5507016609
+
+  THC 24005 [Ellis]: Brooks Family Cemetery
+    addr: E. Burnett St., Ennis
+    https://atlas.thc.texas.gov/Details/5000024005
+
+  THC 15183 [Ellis]: Jackson Cemetery
+    addr: Maypearl
+    https://atlas.thc.texas.gov/Details/5507015183
+
+  THC 23309 [Ellis]: Old Bardwell
+    addr: 6102 W State Hwy 34, Bardwell
+    https://atlas.thc.texas.gov/Details/5000023309
+
+  THC 24268 [Erath]: Harbin Community
+    addr: FM 847, Dublin
+    https://atlas.thc.texas.gov/Details/5000024268
+
+  THC 14914 [Erath]: Purves Live Oak Cemetery
+    addr: Dublin
+    https://atlas.thc.texas.gov/Details/5507014914
+
+  THC 17872 [Erath]: Purves Live Oak Cemetery
+    addr: Purves
+    https://atlas.thc.texas.gov/Details/5507017872
+
+  THC 23676 [Falls]: African American Education in Marlin
+    addr: 1005 BTW Pkwy., Marlin
+    https://atlas.thc.texas.gov/Details/5000023676
+
+  THC 1240 [Falls]: Dodson Place
+    addr: Lott
+    https://atlas.thc.texas.gov/Details/5145001240
+
+  THC 8834 [Falls]: Falls Health Spa
+    addr: Marlin
+    https://atlas.thc.texas.gov/Details/5145008834
+
+  THC 6525 [Falls]: Site of the Home of John Marlin
+    https://atlas.thc.texas.gov/Details/5145006525
+
+  THC 14934 [Fannin]: Coontown Cemetery (Medallion only)
+    addr: Savoy
+    https://atlas.thc.texas.gov/Details/5507014934
+
+  THC 23720 [Fannin]: F.I.S. College
+    addr: SH 34, Ladonia
+    https://atlas.thc.texas.gov/Details/5000023720
+
+  THC 23476 [Fannin]: Flat Prairie
+    addr: FM 2990, Bonham
+    https://atlas.thc.texas.gov/Details/5000023476
+
+  THC 11875 [Fannin]: Gober Cemetery
+    addr: Bonham
+    https://atlas.thc.texas.gov/Details/5147011875
+
+  THC 14967 [Fannin]: McFarland Cemetery
+    addr: Ladonia
+    https://atlas.thc.texas.gov/Details/5507014967
+
+  THC 20004 [Fannin]: Oak Ridge Cemetery
+    addr: 10368 E FM 1550, Ladonia
+    https://atlas.thc.texas.gov/Details/5507020004
+
+  THC 3460 [Fayette]: Colonel John H. Moore House
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149003460
+
+  THC 14199 [Fayette]: Cotton Oil Mill, First
+    addr: Schulenburg
+    https://atlas.thc.texas.gov/Details/5507014199
+
+  THC 15268 [Fayette]: Dawson Oak, The
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5507015268
+
+  THC 1365 [Fayette]: Earthman Farm
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5149001365
+
+  THC 5659 [Fayette]: John Vogt Homestead
+    https://atlas.thc.texas.gov/Details/5149005659
+
+  THC 22581 [Fayette]: Psencik Cemetery
+    addr: Rosanky Rd., Cistern
+    https://atlas.thc.texas.gov/Details/5000022581
+
+  THC 23536 [Fayette]: The Morgan Family of Plum
+    addr: 247 Main St., Plum
+    https://atlas.thc.texas.gov/Details/5000023536
+
+  THC 15655 [Fayette]: US Rural Mail Route in Texas, First
+    addr: La Grange
+    https://atlas.thc.texas.gov/Details/5507015655
+
+  THC 23288 [Fayette]: Willow Springs Road Bridge
+    addr: Willow Springs Rd., Fayetteville
+    https://atlas.thc.texas.gov/Details/5000023288
+
+  THC 8984 [Fort Bend]: Cartwright-McCrary House
+    addr: FM 1093, Clodine
+    https://atlas.thc.texas.gov/Details/5157008984
+
+  THC 24130 [Fort Bend]: Site of Fort Bend
+    addr: Richmond
+    https://atlas.thc.texas.gov/Details/5000024130
+
+  THC 24468 [Fort Bend]: Watts Cemetery
+    addr: 3700 Watts Plantation Road, Missouri City
+    https://atlas.thc.texas.gov/Details/5000024468
+
+  THC 15550 [Franklin]: Good Hope Cemetery
+    addr: Scroggins
+    https://atlas.thc.texas.gov/Details/5507015550
+
+  THC 14434 [Franklin]: Hagansport Cemetery
+    addr: Hagansport
+    https://atlas.thc.texas.gov/Details/5507014434
+
+  THC 9885 [Freestone]: Hopson Burleson Memorial Cemetery
+    addr: Fairfield
+    https://atlas.thc.texas.gov/Details/5161009885
+
+  THC 16253 [Freestone]: Kirven
+    https://atlas.thc.texas.gov/Details/5507016253
+
+  THC 14305 [Freestone]: Motley, Llewellyn
+    addr: Teague
+    https://atlas.thc.texas.gov/Details/5507014305
+
+  THC 15574 [Freestone]: Palacios Presbyterian Church
+    https://atlas.thc.texas.gov/Details/5507015574
+
+  THC 24052 [Freestone]: Tyus Cemetery
+    addr: FCR 238, Fairfield
+    https://atlas.thc.texas.gov/Details/5000024052
+
+  THC 17236 [Freestone]: Wilson Chapel Cemetery
+    addr: 170 FCR 795, Donie
+    https://atlas.thc.texas.gov/Details/5507017236
+
+  THC 8979 [Frio]: A Texas Ranger Camp
+    addr: Frio Town
+    https://atlas.thc.texas.gov/Details/5163008979
+
+  THC 12662 [Gaines]: Historic Hackberry Grove
+    addr: Seminole
+    https://atlas.thc.texas.gov/Details/5165012662
+
+  THC 14137 [Gaines]: Lake Mackenzie
+    addr: Seminole
+    https://atlas.thc.texas.gov/Details/5507014137
+
+  THC 7441 [Galveston]: First Hutchings-Sealy National Bank
+    addr: Galveston
+    https://atlas.thc.texas.gov/Details/5167007441
+
+  THC 7448 [Galveston]: First Wharf in Galveston
+    addr: Galveston
+    https://atlas.thc.texas.gov/Details/5167007448
+
+  THC 9405 [Garza]: Famous Post Picnic of 1906
+    addr: Post
+    https://atlas.thc.texas.gov/Details/5169009405
+
+  THC 15355 [Garza]: Post, Marjorie M.
+    addr: Post
+    https://atlas.thc.texas.gov/Details/5507015355
+
+  THC 10058 [Gillespie]: H. C. Keese Home
+    addr: Welgehausen Road, Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010058
+
+  THC 10057 [Gillespie]: Homestead of Karl Itz
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010057
+
+  THC 16447 [Gillespie]: Ludwig Doebbler House
+    addr: 542 Doebbler Rd., Fredericksburg
+    https://atlas.thc.texas.gov/Details/5507016447
+
+  THC 10098 [Gillespie]: Rausch Ranch Home
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010098
+
+  THC 10060 [Gillespie]: The Christian Kraus Homestead
+    addr: Fredericksburg
+    https://atlas.thc.texas.gov/Details/5171010060
+
+  THC 738 [Goliad]: Cart Wars
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5175000738
+
+  THC 22765 [Goliad]: Singer Cemetery
+    addr: 12515 FM 622, Schroeder
+    https://atlas.thc.texas.gov/Details/5000022765
+
+  THC 4885 [Goliad]: Site of September 1824 Indian Treaty
+    addr: Goliad
+    https://atlas.thc.texas.gov/Details/5175004885
+
+  THC 14880 [Gonzales]: Bunting Family Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014880
+
+  THC 929 [Gonzales]: Captain Philip Coe
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177000929
+
+  THC 14146 [Gonzales]: Gates Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014146
+
+  THC 1217 [Gonzales]: Ghost Town of Dewville
+    addr: Dewville
+    https://atlas.thc.texas.gov/Details/5177001217
+
+  THC 15284 [Gonzales]: Gonzales Cannon Dispute, Site of
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507015284
+
+  THC 11899 [Gonzales]: Greenwood Cemetery
+    addr: Greenwood
+    https://atlas.thc.texas.gov/Details/5177011899
+
+  THC 17095 [Gonzales]: Greenwood Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507017095
+
+  THC 23728 [Gonzales]: Harris Chapel - Rising Star Cemetery
+    addr: SH 80, Nixon
+    https://atlas.thc.texas.gov/Details/5000023728
+
+  THC 3258 [Gonzales]: Maurin Quarry
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177003258
+
+  THC 14074 [Gonzales]: Pilgrim Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014074
+
+  THC 837 [Gonzales]: Route of Old Chisholm Trail
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177000837
+
+  THC 4504 [Gonzales]: Sam Houston's Camp
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5177004504
+
+  THC 14293 [Gonzales]: Steen Cemetery
+    addr: Gonzales
+    https://atlas.thc.texas.gov/Details/5507014293
+
+  THC 2259 [Gray]: Gray County
+    https://atlas.thc.texas.gov/Details/5179002259
+
+  THC 24179 [Grayson]: Dixie Cemetery
+    addr: Whitesboro
+    https://atlas.thc.texas.gov/Details/5000024179
+
+  THC 24143 [Grayson]: Iron Ore Creek Cemetery
+    addr: Reba Dr., Denison
+    https://atlas.thc.texas.gov/Details/5000024143
+
+  THC 23672 [Grayson]: Kendall Chapel Cemetery
+    addr: Old Southmayd Rd., Southmayd
+    https://atlas.thc.texas.gov/Details/5000023672
+
+  THC 15272 [Grayson]: Milam, Eliza McKinney, Homestead
+    addr: Van Alstyne
+    https://atlas.thc.texas.gov/Details/5507015272
+
+  THC 23613 [Gregg]: Butcher C. Christian Sr.
+    addr: 1090 Shiloh Rd., Longview
+    https://atlas.thc.texas.gov/Details/5000023613
+
+  THC 9997 [Gregg]: John Ben Shepperd
+    addr: Gladewater vicinity
+    https://atlas.thc.texas.gov/Details/5183009997
+
+  THC 16968 [Gregg]: Post Oak Christian Methodist Episcopal Church
+    addr: 2675 FM 2906, Easton
+    https://atlas.thc.texas.gov/Details/5507016968
+
+  THC 11919 [Gregg]: Site of Shiloh School
+    addr: Longview
+    https://atlas.thc.texas.gov/Details/5183011919
+
+  THC 14266 [Grimes]: Allen Home
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014266
+
+  THC 14195 [Grimes]: Bennett, Rueben, House
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014195
+
+  THC 23918 [Grimes]: Camp Family Cemetery
+    addr: 8176 TX 90 South, Navasota
+    https://atlas.thc.texas.gov/Details/5000023918
+
+  THC 8627 [Grimes]: Grimes County
+    https://atlas.thc.texas.gov/Details/5185008627
+
+  THC 14076 [Grimes]: Martyrs of the Alamo
+    addr: Anderson
+    https://atlas.thc.texas.gov/Details/5507014076
+
+  THC 14720 [Grimes]: Red Top Cemetery
+    addr: Shiro
+    https://atlas.thc.texas.gov/Details/5507014720
+
+  THC 8583 [Grimes]: Rosanna Ward Britton Grimes and Jesse Grimes
+    addr: Navasota
+    https://atlas.thc.texas.gov/Details/5185008583
+
+  THC 24184 [Grimes]: Smith-Floyd Cemetery
+    addr: 6497 CR 207B, Plantersville
+    https://atlas.thc.texas.gov/Details/5000024184
+
+  THC 23670 [Grimes]: St. Louis Cemetery
+    addr: CR 103, Iola
+    https://atlas.thc.texas.gov/Details/5000023670
+
+  THC 24254 [Grimes]: Stephenson Harris Family Cemetery
+    addr: 5347 CR 325, Navasota
+    https://atlas.thc.texas.gov/Details/5000024254
+
+  THC 163 [Guadalupe]: Andrew Neill Church House
+    addr: Seguin
+    https://atlas.thc.texas.gov/Details/5187000163
+
+  THC 22785 [Guadalupe]: Lone Oak Cemetery
+    addr: Barbarossa Road, Seguin
+    https://atlas.thc.texas.gov/Details/5000022785
+
+  THC 23307 [Guadalupe]: Schertz-Cibolo Cemetery
+    addr: Schertz
+    https://atlas.thc.texas.gov/Details/5000023307
+
+  THC 24349 [Hale]: Seth Ward Cemetery
+    addr: 2320 County Road 65, Plainview
+    https://atlas.thc.texas.gov/Details/5000024349
+
+  THC 22537 [Hall]: Estelline Cemetery
+    addr: CR 29A, Estelline
+    https://atlas.thc.texas.gov/Details/5000022537
+
+  THC 22729 [Hall]: Hulver Cemetery
+    addr: Estelline
+    https://atlas.thc.texas.gov/Details/5000022729
+
+  THC 22512 [Hall]: Walls Family Cemetery
+    addr: Brice
+    https://atlas.thc.texas.gov/Details/5000022512
+
+  THC 11924 [Hamilton]: Carlton Cemetery
+    addr: Carlton
+    https://atlas.thc.texas.gov/Details/5193011924
+
+  THC 23644 [Hardeman]: The Demise of Joe Earle
+    addr: FM 2640, Quanah
+    https://atlas.thc.texas.gov/Details/5000023644
+
+  THC 11714 [Hardin]: Felps Cemetery
+    addr: Saratoga
+    https://atlas.thc.texas.gov/Details/5199011714
+
+  THC 11150 [Hardin]: Former Townsite of Concord
+    addr: Loeb
+    https://atlas.thc.texas.gov/Details/5199011150
+
+  THC 11932 [Hardin]: Hart-Herrington Cemetery
+    addr: Kountze
+    https://atlas.thc.texas.gov/Details/5199011932
+
+  THC 11162 [Hardin]: Kaiser Burnout
+    addr: Votaw
+    https://atlas.thc.texas.gov/Details/5199011162
+
+  THC 24099 [Harris]: Colored Carnegie Library
+    addr: Bob Smith Park, Houston
+    https://atlas.thc.texas.gov/Details/5000024099
+
+  THC 24219 [Harris]: Colt Stadium
+    addr: 1 Fannin St., Houston
+    https://atlas.thc.texas.gov/Details/5000024219
+
+  THC 24034 [Harris]: Evergreen Negro Cemetery
+    addr: Market Street, Houston
+    https://atlas.thc.texas.gov/Details/5000024034
+
+  THC 10795 [Harris]: First Attorney General of Texas David Thomas
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5201010795
+
+  THC 22720 [Harris]: Gaillard-Mitchell Cemetery
+    addr: Causeway Rd., Baytown
+    https://atlas.thc.texas.gov/Details/5000022720
+
+  THC 23535 [Harris]: Goose Creek Oil Field
+    addr: Evergreen Rd, Baytown
+    https://atlas.thc.texas.gov/Details/5000023535
+
+  THC 14692 [Harris]: Houston
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5507014692
+
+  THC 24033 [Harris]: Humble Black - Pipeyard Cemetery
+    addr: FM 1960 Bypass Road, Humble
+    https://atlas.thc.texas.gov/Details/5000024033
+
+  THC 14769 [Harris]: Moore, Jim
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5507014769
+
+  THC 10810 [Harris]: Sam Houston Crossed Buffalo Bayou
+    https://atlas.thc.texas.gov/Details/5201010810
+
+  THC 15799 [Harris]: Sam Houston High School
+    addr: 9400 Irvington Blvd., Houston
+    https://atlas.thc.texas.gov/Details/5507015799
+
+  THC 10588 [Harris]: Site of Academy of the Incarnate Word
+    addr: Houston
+    https://atlas.thc.texas.gov/Details/5201010588
+
+  THC 23593 [Harris]: Willis Wood Cemetery
+    addr: Saddlebend Dr., Houston
+    https://atlas.thc.texas.gov/Details/5000023593
+
+  THC 23774 [Harrison]: Center Cemetery
+    addr: FM 450 S, Harleton
+    https://atlas.thc.texas.gov/Details/5000023774
+
+  THC 23592 [Harrison]: Cooperville Rosenwald School
+    addr: 1919 Hut Horton Rd., Hallsville
+    https://atlas.thc.texas.gov/Details/5000023592
+
+  THC 10155 [Harrison]: Edgemont
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203010155
+
+  THC 18615 [Harrison]: Ewing Chapel Cemetery
+    addr: CR 3017, Marshall
+    https://atlas.thc.texas.gov/Details/5507018615
+
+  THC 10230 [Harrison]: Judge J. B. Williamson House
+    https://atlas.thc.texas.gov/Details/5203010230
+
+  THC 14890 [Harrison]: Lane, Walter Payne
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507014890
+
+  THC 22384 [Harrison]: Marshall Hebrew Cemetery (HTC)(Medallion only)
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5000022384
+
+  THC 18008 [Harrison]: Piney Cemetery
+    addr: 4710 Piney Cemetery, Harleton
+    https://atlas.thc.texas.gov/Details/5507018008
+
+  THC 22712 [Harrison]: Pope Cemetery
+    addr: Pope City Rd., Woodlawn
+    https://atlas.thc.texas.gov/Details/5000022712
+
+  THC 16126 [Harrison]: Sabine Farms
+    addr: FM 1186, Marshall
+    https://atlas.thc.texas.gov/Details/5507016126
+
+  THC 10151 [Harrison]: Site of Davidson Homestead
+    addr: Harleton
+    https://atlas.thc.texas.gov/Details/5203010151
+
+  THC 23271 [Harrison]: St. Paul's Episcopal Mission Church at Leigh
+    addr: 15481 FM 134, Leigh
+    https://atlas.thc.texas.gov/Details/5000023271
+
+  THC 15170 [Harrison]: Unknown Confederate Soldiers
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507015170
+
+  THC 11979 [Harrison]: Webster-Mimosa Hall Cemetery
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203011979
+
+  THC 10137 [Harrison]: William Bates Anderson Home
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5203010137
+
+  THC 23280 [Harrison]: Woodlawn Cemetery
+    addr: Memory Lane, Marshall
+    https://atlas.thc.texas.gov/Details/5000023280
+
+  THC 16061 [Harrison]: Wyalucing
+    addr: Marshall
+    https://atlas.thc.texas.gov/Details/5507016061
+
+  THC 14556 [Hartley]: XIT Ranch Headquarters
+    addr: Channing
+    https://atlas.thc.texas.gov/Details/5507014556
+
+  THC 18248 [Hays]: Calhoun Ranch
+    addr: Wimberley
+    https://atlas.thc.texas.gov/Details/5507018248
+
+  THC 14273 [Hays]: Harper's Hall, Site of
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507014273
+
+  THC 14249 [Hays]: Hector Family Cemetery
+    https://atlas.thc.texas.gov/Details/5507014249
+
+  THC 10278 [Hays]: Isham Jones Good
+    addr: Dripping Springs
+    https://atlas.thc.texas.gov/Details/5209010278
+
+  THC 15498 [Hays]: Rogers' Spring Lake Park Hotel
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507015498
+
+  THC 14235 [Hays]: Talbot, P.T.,  & Sons Building
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5507014235
+
+  THC 23772 [Hays]: The East Guadalupe Neighborhood
+    addr: Cheatham St., San Marcos
+    https://atlas.thc.texas.gov/Details/5000023772
+
+  THC 10333 [Hays]: Thompson Plantations
+    addr: San Marcos
+    https://atlas.thc.texas.gov/Details/5209010333
+
+  THC 22750 [Hays]: William B. Travis League
+    addr: 13551 RM 150, Driftwood
+    https://atlas.thc.texas.gov/Details/5000022750
+
+  THC 15047 [Henderson]: Coleman, Nat P., Home
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5507015047
+
+  THC 12383 [Henderson]: Cottonwood Cemetery
+    addr: Eustace vicinity
+    https://atlas.thc.texas.gov/Details/5213012383
+
+  THC 22779 [Henderson]: Eustace
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5000022779
+
+  THC 24124 [Henderson]: Fisher Robinson Cemetery
+    addr: Robbins Road, Athens
+    https://atlas.thc.texas.gov/Details/5000024124
+
+  THC 16042 [Henderson]: Lee Powell Simpson
+    https://atlas.thc.texas.gov/Details/5507016042
+
+  THC 22768 [Henderson]: Mt. Olive C.M.E. Church
+    addr: CR 3918, Athens
+    https://atlas.thc.texas.gov/Details/5000022768
+
+  THC 15935 [Henderson]: Myrtle Springs Cemetery
+    addr: ABOUT 5 MILES EAST OF LARUE, TEXAS ON CR 4336, LaRue
+    https://atlas.thc.texas.gov/Details/5507015935
+
+  THC 10372 [Henderson]: Pioneer Oak
+    addr: Athens
+    https://atlas.thc.texas.gov/Details/5213010372
+
+  THC 24109 [Hidalgo]: Colegio Jacinto Trevino
+    addr: S. Missouri Ave., Mercedes
+    https://atlas.thc.texas.gov/Details/5000024109
+
+  THC 23753 [Hidalgo]: Falcon Records
+    addr: Rafael Ramirez St., Mission
+    https://atlas.thc.texas.gov/Details/5000023753
+
+  THC 12059 [Hidalgo]: First Baptist Church of Edcouch
+    addr: 931 W. Santa Rosa Ave. (SH 107), Edcouch
+    https://atlas.thc.texas.gov/Details/5215012059
+
+  THC 18322 [Hidalgo]: Gloria Evangelina Anzaldúa
+    addr: 11th St., Hargill
+    https://atlas.thc.texas.gov/Details/5507018322
+
+  THC 17101 [Hidalgo]: Immaculate Conception Cemetery
+    addr: FM 2058, McCook
+    https://atlas.thc.texas.gov/Details/5507017101
+
+  THC 23252 [Hidalgo]: John and Silvia Webber Ranch
+    addr: Military Hwy., Donna
+    https://atlas.thc.texas.gov/Details/5000023252
+
+  THC 12063 [Hidalgo]: Laguna Seca Ranch
+    addr: Edinburg
+    https://atlas.thc.texas.gov/Details/5215012063
+
+  THC 22496 [Hidalgo]: Peñitas Common School
+    addr: Penitas
+    https://atlas.thc.texas.gov/Details/5000022496
+
+  THC 17531 [Hidalgo]: Station KRGV-TV5
+    https://atlas.thc.texas.gov/Details/5507017531
+
+  THC 23585 [Hill]: Bragg Williams Lynching
+    addr: Hillsboro
+    https://atlas.thc.texas.gov/Details/5000023585
+
+  THC 18532 [Hill]: Dodson Cemetery
+    https://atlas.thc.texas.gov/Details/5507018532
+
+  THC 14839 [Hill]: Files, F. Marion, Home
+    addr: Itasca
+    https://atlas.thc.texas.gov/Details/5507014839
+
+  THC 20062 [Hill]: Mesquite Cemetery (HTC)
+    addr: Mt. Calm
+    https://atlas.thc.texas.gov/Details/5507020062
+
+  THC 23960 [Hill]: St. Peter's Lutheran Church
+    addr: 133 PR 346, Malone
+    https://atlas.thc.texas.gov/Details/5000023960
+
+  THC 14363 [Hill]: Taylor, J.A., Home (MARKER GONE)
+    addr: Blum
+    https://atlas.thc.texas.gov/Details/5507014363
+
+  THC 23965 [Hill]: Walling Cemetery
+    addr: 538 HCR 3441, Malone
+    https://atlas.thc.texas.gov/Details/5000023965
+
+  THC 15612 [Hockley]: Casas Amarillas
+    addr: Levelland
+    https://atlas.thc.texas.gov/Details/5507015612
+
+  THC 12379 [Hood]: Martin Cemetery
+    addr: Lipan vicinity
+    https://atlas.thc.texas.gov/Details/5221012379
+
+  THC 14439 [Hopkins]: Woodland Cemetery
+    addr: Como
+    https://atlas.thc.texas.gov/Details/5507014439
+
+  THC 24185 [Houston]: "Slocum Massacre" in Houston County
+    addr: FM 2022, Grapeland
+    https://atlas.thc.texas.gov/Details/5000024185
+
+  THC 11093 [Houston]: Bradford Davis Family
+    https://atlas.thc.texas.gov/Details/5225011093
+
+  THC 11085 [Houston]: Captain Elisha Clapp
+    https://atlas.thc.texas.gov/Details/5225011085
+
+  THC 15607 [Houston]: Captain John English
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507015607
+
+  THC 11083 [Houston]: Cedar Point Church and Cemetery
+    https://atlas.thc.texas.gov/Details/5225011083
+
+  THC 11088 [Houston]: Creek Cemetery
+    https://atlas.thc.texas.gov/Details/5225011088
+
+  THC 12081 [Houston]: Elisha Clapp
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225012081
+
+  THC 14768 [Houston]: First National Bank Building
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014768
+
+  THC 12083 [Houston]: Hall Cemetery
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225012083
+
+  THC 15007 [Houston]: Hill Cemetery
+    addr: Kennard
+    https://atlas.thc.texas.gov/Details/5507015007
+
+  THC 14884 [Houston]: Jasper Cemetery
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014884
+
+  THC 11204 [Houston]: John A. Box
+    https://atlas.thc.texas.gov/Details/5225011204
+
+  THC 16239 [Houston]: King's Highway - Camino Real - Old San Antonio Road
+    https://atlas.thc.texas.gov/Details/5507016239
+
+  THC 15391 [Houston]: Kings Highway
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507015391
+
+  THC 23841 [Houston]: Lake Creek Cemetery
+    addr: 5175 County Road 4545, Kennard
+    https://atlas.thc.texas.gov/Details/5000023841
+
+  THC 11249 [Houston]: Madden Massacre
+    https://atlas.thc.texas.gov/Details/5225011249
+
+  THC 11205 [Houston]: Nelson Box
+    https://atlas.thc.texas.gov/Details/5225011205
+
+  THC 12373 [Houston]: Old Zion Cemetery
+    addr: Kennard vicinity
+    https://atlas.thc.texas.gov/Details/5225012373
+
+  THC 11206 [Houston]: Reverend Thomas Box
+    https://atlas.thc.texas.gov/Details/5225011206
+
+  THC 12080 [Houston]: Site of Center Grove School
+    addr: Lovelady
+    https://atlas.thc.texas.gov/Details/5225012080
+
+  THC 11244 [Houston]: Smith Brothers
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5225011244
+
+  THC 12087 [Houston]: William Preston and Rebecca Kate Conner House
+    addr: Ratcliff
+    https://atlas.thc.texas.gov/Details/5225012087
+
+  THC 15229 [Houston]: Wingate, Mrs. Isabella
+    addr: Grapeland
+    https://atlas.thc.texas.gov/Details/5507015229
+
+  THC 14314 [Houston]: Wortham, Major John
+    addr: Crockett
+    https://atlas.thc.texas.gov/Details/5507014314
+
+  THC 15187 [Howard]: Finch Building
+    addr: Big Spring
+    https://atlas.thc.texas.gov/Details/5507015187
+
+  THC 14279 [Howard]: Moss Springs
+    addr: Big Spring
+    https://atlas.thc.texas.gov/Details/5507014279
+
+  THC 7833 [Hunt]: Captain Henry W. Wade
+    addr: Quinlan
+    https://atlas.thc.texas.gov/Details/5231007833
+
+  THC 12089 [Hunt]: Clinton Cemetery
+    addr: Caddo Mills
+    https://atlas.thc.texas.gov/Details/5231012089
+
+  THC 15399 [Hunt]: Methodism, Centennial of
+    addr: Commerce
+    https://atlas.thc.texas.gov/Details/5507015399
+
+  THC 24306 [Hunt]: Mt. Zion Baptist Church
+    addr: 1700 Bois D Arc, Greenville
+    https://atlas.thc.texas.gov/Details/5000024306
+
+  THC 12092 [Hunt]: Roberts
+    addr: Quinlan
+    https://atlas.thc.texas.gov/Details/5231012092
+
+  THC 12094 [Hunt]: Stewart Cemetery
+    addr: Commerce
+    https://atlas.thc.texas.gov/Details/5231012094
+
+  THC 15028 [Hunt]: Sullivan Cemetery
+    addr: Campbell
+    https://atlas.thc.texas.gov/Details/5507015028
+
+  THC 24280 [Hutchinson]: Pringle Community
+    addr: Hwy 136, Stinnett
+    https://atlas.thc.texas.gov/Details/5000024280
+
+  THC 23941 [Hutchinson]: The Aluminum Dome
+    addr: 1113 Bulldog Blvd., Borger
+    https://atlas.thc.texas.gov/Details/5000023941
+
+  THC 19960 [Irion]: Arden Cemetery (HTC)
+    addr: CR 420, Mertzon
+    https://atlas.thc.texas.gov/Details/5000019960
+
+  THC 16612 [Jack]: Joplin Fairview Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507016612
+
+  THC 14437 [Jack]: Lynn Creek Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507014437
+
+  THC 16730 [Jack]: Salt Creek Cemetery
+    addr: Jacksboro
+    https://atlas.thc.texas.gov/Details/5507016730
+
+  THC 11939 [Jack]: Squaw Mountain Community
+    addr: Jacksboro vicinity
+    https://atlas.thc.texas.gov/Details/5237011939
+
+  THC 488 [Jackson]: Branch and Bonnot House
+    addr: CR 440, Edna
+    https://atlas.thc.texas.gov/Details/5239000488
+
+  THC 16847 [Jackson]: Francitas
+    addr: Francitas
+    https://atlas.thc.texas.gov/Details/5507016847
+
+  THC 2702 [Jackson]: Jackson County
+    https://atlas.thc.texas.gov/Details/5239002702
+
+  THC 24471 [Jackson]: McHenry Cemetery
+    addr: Lavaca Rio Ranch on CR 127, Edna
+    https://atlas.thc.texas.gov/Details/5000024471
+
+  THC 18539 [Jasper]: Campground Cemetery
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507018539
+
+  THC 14466 [Jasper]: Everett, Dr. Stephen, Home of
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507014466
+
+  THC 10461 [Jasper]: Hardy Pace Home
+    https://atlas.thc.texas.gov/Details/5241010461
+
+  THC 15707 [Jasper]: Ivory Joe Hunter
+    addr: South of Magnolia Springs on FM 1005 (east side) before intersection of FM 1005 with County Road 520, Magnolia Springs
+    https://atlas.thc.texas.gov/Details/5507015707
+
+  THC 10454 [Jasper]: Jasper News-Boy
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010454
+
+  THC 10472 [Jasper]: Original Town Site of Zavala
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010472
+
+  THC 14504 [Jasper]: Smyth, George W., Home of
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507014504
+
+  THC 10465 [Jasper]: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241010465
+
+  THC 11944 [Jasper]: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5241011944
+
+  THC 15070 [Jasper]: Tavern Oak
+    addr: Jasper
+    https://atlas.thc.texas.gov/Details/5507015070
+
+  THC 10449 [Jasper]: Thomas Holmes
+    addr: Call Junction
+    https://atlas.thc.texas.gov/Details/5241010449
+
+  THC 10470 [Jasper]: William J. Withers Home
+    addr: Buna
+    https://atlas.thc.texas.gov/Details/5241010470
+
+  THC 17106 [Jefferson]: Central Baptist Church
+    https://atlas.thc.texas.gov/Details/5507017106
+
+  THC 14837 [Jefferson]: Hebert Home
+    addr: Beaumont
+    https://atlas.thc.texas.gov/Details/5507014837
+
+  THC 10547 [Jefferson]: O'Brien Oak
+    https://atlas.thc.texas.gov/Details/5245010547
+
+  THC 14132 [Jefferson]: Oil Pipelines, Early Texas
+    addr: Beaumont
+    https://atlas.thc.texas.gov/Details/5507014132
+
+  THC 22758 [Jefferson]: The Methodist Church in China
+    addr: 205 W. Washington Ave., China
+    https://atlas.thc.texas.gov/Details/5000022758
+
+  THC 20140 [Jim Hogg]: El Colorado Ranch Cemetery (HTC)
+    addr: Guerra
+    https://atlas.thc.texas.gov/Details/5507020140
+
+  THC 15636 [Johnson]: Bennett Home on the Chisholm Trail
+    addr: Rio Vista
+    https://atlas.thc.texas.gov/Details/5507015636
+
+  THC 24285 [Johnson]: Brazos Point Bridge
+    addr: CR 1118, Cleburne
+    https://atlas.thc.texas.gov/Details/5000024285
+
+  THC 3983 [Johnson]: Riggs Pennington Home
+    https://atlas.thc.texas.gov/Details/5251003983
+
+  THC 23930 [Karnes]: Gillett-Lone Star Community Cemetery
+    addr: CR 263, Gillett
+    https://atlas.thc.texas.gov/Details/5000023930
+
+  THC 23492 [Kendall]: Casper Sueltenfuss
+    addr: Edge Falls Rd., Bergheim
+    https://atlas.thc.texas.gov/Details/5000023492
+
+  THC 14702 [Kendall]: Lex Sanitarium
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014702
+
+  THC 14328 [Kendall]: Ludwig von Herrf, Dr. Ferdinand
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014328
+
+  THC 16064 [Kendall]: Post Oak Spring Ranch
+    https://atlas.thc.texas.gov/Details/5507016064
+
+  THC 14825 [Kendall]: Potter, Chaplain A.J.
+    addr: Boerne
+    https://atlas.thc.texas.gov/Details/5507014825
+
+  THC 5286 [Kenedy]: The Armstrong Ranch
+    addr: Sarita
+    https://atlas.thc.texas.gov/Details/5261005286
+
+  THC 5287 [Kenedy]: The Armstrong Ranch House
+    addr: Sarita
+    https://atlas.thc.texas.gov/Details/5261005287
+
+  THC 23254 [Kerr]: Gate of Heaven Cemetery
+    addr: Sheppard Rees Rd., Kerrville
+    https://atlas.thc.texas.gov/Details/5000023254
+
+  THC 22757 [Kerr]: Live Oak Ranch
+    addr: 2798 Live Oak Road NW, Mountain Home
+    https://atlas.thc.texas.gov/Details/5000022757
+
+  THC 11994 [Kerr]: Site of Reservation School
+    addr: Mountain Home
+    https://atlas.thc.texas.gov/Details/5265011994
+
+  THC 23687 [Kimble]: Cobb Ranch House
+    addr: 5802 KC 420, London
+    https://atlas.thc.texas.gov/Details/5000023687
+
+  THC 3618 [Kimble]: Old Noxville School
+    addr: Junction
+    https://atlas.thc.texas.gov/Details/5267003618
+
+  THC 24178 [Kinney]: Fort Clark Post Headquarters Building
+    addr: 77 Patton Rd., Fort Clark Springs
+    https://atlas.thc.texas.gov/Details/5000024178
+
+  THC 2895 [Kinney]: Kinney County
+    addr: Brackettville
+    https://atlas.thc.texas.gov/Details/5271002895
+
+  THC 18 [Kinney]: Old Guardhouse - Fort Clark
+    addr: 4201 Andrews Highway
+    https://atlas.thc.texas.gov/Details/5271000018
+
+  THC 14125 [Kleberg]: King Ranch
+    addr: Kingsville
+    https://atlas.thc.texas.gov/Details/5507014125
+
+  THC 17808 [Kleberg]: Los Kinenos
+    addr: Kingsville
+    https://atlas.thc.texas.gov/Details/5000017808
+
+  THC 24233 [La Salle]: Cristo Rey Cemetery
+    addr: Garcia Road, Cotulla
+    https://atlas.thc.texas.gov/Details/5000024233
+
+  THC 8136 [La Salle]: John M. Ramsey
+    addr: Artesia Wells
+    https://atlas.thc.texas.gov/Details/5283008136
+
+  THC 23262 [Lamar]: Culbertson Fountain
+    addr: Downtown Plaza, Paris
+    https://atlas.thc.texas.gov/Details/5000023262
+
+  THC 15570 [Lamar]: Dr. Patrick W. Birmingham
+    addr: Biardstown
+    https://atlas.thc.texas.gov/Details/5507015570
+
+  THC 16733 [Lamar]: Hickory Grove  Black Cemetery
+    addr: HWY 137 - 3.6 miles east of Petty, Petty
+    https://atlas.thc.texas.gov/Details/5507016733
+
+  THC 8183 [Lamar]: J. M. Biard House
+    addr: Biardstown
+    https://atlas.thc.texas.gov/Details/5277008183
+
+  THC 8187 [Lamar]: James Henry Campbell Home
+    addr: Blossom
+    https://atlas.thc.texas.gov/Details/5277008187
+
+  THC 8193 [Lamar]: Site of First Anglo-American Settlement in Lamar County
+    addr: Powderly
+    https://atlas.thc.texas.gov/Details/5277008193
+
+  THC 14599 [Lamar]: Williams, Sheb, Home
+    addr: Howland
+    https://atlas.thc.texas.gov/Details/5507014599
+
+  THC 14804 [Lamar]: Williams, Wm. M. (Buckskin)
+    addr: Paris
+    https://atlas.thc.texas.gov/Details/5507014804
+
+  THC 3191 [Lamb]: Major George Littlefield
+    addr: US 84, Littlefield
+    https://atlas.thc.texas.gov/Details/5279003191
+
+  THC 15033 [Lamb]: Sacred Heart Catholic Church
+    https://atlas.thc.texas.gov/Details/5507015033
+
+  THC 14752 [Lamb]: Spade Ranch Headquarters, North
+    addr: Hartcamp
+    https://atlas.thc.texas.gov/Details/5507014752
+
+  THC 14325 [Lampasas]: Junior High School
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5507014325
+
+  THC 23317 [Lampasas]: Smith Cemetery
+    addr: CR 4700, Kempner
+    https://atlas.thc.texas.gov/Details/5000023317
+
+  THC 23688 [Lampasas]: Smith Cemetery at School Creek
+    addr: Lampasas
+    https://atlas.thc.texas.gov/Details/5000023688
+
+  THC 14708 [Lavaca]: Camp of Texas Army
+    addr: Moulton
+    https://atlas.thc.texas.gov/Details/5507014708
+
+  THC 22754 [Lavaca]: Dr. Frank M. Wagner
+    addr: 124 E. Wolters 2nd St., Shiner
+    https://atlas.thc.texas.gov/Details/5000022754
+
+  THC 14072 [Lavaca]: Hallett, John
+    addr: Hallettsville
+    https://atlas.thc.texas.gov/Details/5507014072
+
+  THC 22670 [Lavaca]: Klimitchek Cemetery
+    addr: Private Road 1080, Hallettsville
+    https://atlas.thc.texas.gov/Details/5000022670
+
+  THC 14902 [Lavaca]: Memorial Park Cemetery
+    addr: Hallettsville
+    https://atlas.thc.texas.gov/Details/5507014902
+
+  THC 23622 [Lavaca]: Pleasant Grove School
+    addr: CR 208, Hallettsville
+    https://atlas.thc.texas.gov/Details/5000023622
+
+  THC 17203 [Lavaca]: Rocky School
+    addr: FM 957, Moravia
+    https://atlas.thc.texas.gov/Details/5507017203
+
+  THC 19967 [Lavaca]: Ross Middlebrook Youngs
+    addr: 65 CR 350, Shiner
+    https://atlas.thc.texas.gov/Details/5000019967
+
+  THC 17109 [Lavaca]: Thompson School
+    addr: Sweet Home
+    https://atlas.thc.texas.gov/Details/5507017109
+
+  THC 8142 [Lee]: Dime Box
+    addr: Dime Box
+    https://atlas.thc.texas.gov/Details/5287008142
+
+  THC 17199 [Lee]: Globe Hill Baptist Church
+    addr: 4083 County Road 133
+4083 County Road 133, Giddings
+    https://atlas.thc.texas.gov/Details/5507017199
+
+  THC 12025 [Lee]: Gloyna School
+    addr: Lincoln
+    https://atlas.thc.texas.gov/Details/5287012025
+
+  THC 14227 [Lee]: King's Highway
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5507014227
+
+  THC 14746 [Lee]: Lee, General Robert E.
+    addr: Giddings
+    https://atlas.thc.texas.gov/Details/5507014746
+
+  THC 22859 [Lee]: Scott Cemetery
+    addr: CR 402, Old Dime Box
+    https://atlas.thc.texas.gov/Details/5000022859
+
+  THC 17415 [Leon]: Brushy Cemetery
+    https://atlas.thc.texas.gov/Details/5507017415
+
+  THC 14792 [Leon]: First Courthouse in County, Site of
+    addr: Leona
+    https://atlas.thc.texas.gov/Details/5507014792
+
+  THC 17416 [Leon]: Friendship Cemetery
+    https://atlas.thc.texas.gov/Details/5507017416
+
+  THC 9627 [Leon]: R. Baxter King
+    addr: Middleton
+    https://atlas.thc.texas.gov/Details/5289009627
+
+  THC 23570 [Leon]: Taylor Cemetery
+    addr: CR 212, Buffalo
+    https://atlas.thc.texas.gov/Details/5000023570
+
+  THC 24262 [Liberty]: Ames Freedom Colony
+    addr: Hwy 90 E., Ames
+    https://atlas.thc.texas.gov/Details/5000024262
+
+  THC 22680 [Liberty]: Concord Community Cemetery
+    addr: Hwy 146, Rye
+    https://atlas.thc.texas.gov/Details/5000022680
+
+  THC 9638 [Liberty]: Homestead of John S. and Jane Susanna Lee Brown, 1856
+    addr: Devers
+    https://atlas.thc.texas.gov/Details/5291009638
+
+  THC 22651 [Liberty]: McGinnis Cemetery
+    addr: McGinnis Rd., Tarkington
+    https://atlas.thc.texas.gov/Details/5000022651
+
+  THC 23605 [Liberty]: Pounds House
+    addr: 3428 FM 770 North, Daisetta
+    https://atlas.thc.texas.gov/Details/5000023605
+
+  THC 14338 [Limestone]: Focke Gin, Old (BURNED)
+    addr: Mexia
+    https://atlas.thc.texas.gov/Details/5507014338
+
+  THC 24240 [Limestone]: Hyden-Hughes Cemetery
+    addr: FM 937, Groesbeck
+    https://atlas.thc.texas.gov/Details/5000024240
+
+  THC 16068 [Limestone]: Limestone County
+    addr: Groesbeck
+    https://atlas.thc.texas.gov/Details/5507016068
+
+  THC 3228 [Limestone]: Martin House
+    addr: SH 14, S of Mexia, Mexia
+    https://atlas.thc.texas.gov/Details/5293003228
+
+  THC 17414 [Limestone]: Personville Cemetery
+    https://atlas.thc.texas.gov/Details/5507017414
+
+  THC 23551 [Limestone]: Prairie Grove Cemetery
+    addr: 2678 FM 1953, Mexia
+    https://atlas.thc.texas.gov/Details/5000023551
+
+  THC 6298 [Live Oak]: Jesse Robinson
+    addr: On Annarose County Road, off US 281, Latham
+    https://atlas.thc.texas.gov/Details/5297006298
+
+  THC 18272 [Live Oak]: Murphy Ranch House
+    https://atlas.thc.texas.gov/Details/5507018272
+
+  THC 20202 [Live Oak]: Oakville Cemetery (HTC)(Medallion only)
+    https://atlas.thc.texas.gov/Details/5507020202
+
+  THC 6294 [Live Oak]: Site of Fort Merrill
+    addr: 3.5 mi. NW of Dinero, off FM 534, Dinero
+    https://atlas.thc.texas.gov/Details/5297006294
+
+  THC 23398 [Live Oak]: Weston-Chapa Cemetery
+    addr: CR 164, George West
+    https://atlas.thc.texas.gov/Details/5000023398
+
+  THC 14106 [Llano]: First Known Religious Services
+    addr: Castell
+    https://atlas.thc.texas.gov/Details/5507014106
+
+  THC 9443 [Llano]: Lake Lyndon B. Johnson
+    addr: Kingland
+    https://atlas.thc.texas.gov/Details/5299009443
+
+  THC 9449 [Llano]: Matthew Mark Moss
+    addr: Llano
+    https://atlas.thc.texas.gov/Details/5299009449
+
+  THC 17421 [Llano]: Sandy Mountain Cemetery
+    addr: Sunrise Beach Village
+    https://atlas.thc.texas.gov/Details/5000017421
+
+  THC 24274 [Llano]: Thomas Henry Davis
+    addr: 8685 RR 2241, Bluffton
+    https://atlas.thc.texas.gov/Details/5000024274
+
+  THC 23606 [Lubbock]: Bess Hubbard
+    addr: Wolfforth
+    https://atlas.thc.texas.gov/Details/5000023606
+
+  THC 15470 [Lubbock]: Estacado High School (MISSING)
+    addr: Lubbock
+    https://atlas.thc.texas.gov/Details/5507015470
+
+  THC 12677 [Lubbock]: Lubbock
+    addr: US Hwy 84, Lubbock
+    https://atlas.thc.texas.gov/Details/5303012677
+
+  THC 12679 [Lubbock]: Lubbock Lake Site
+    addr: Hwy 84, approx. 1/2 mi NW of Loop 289 overpass, Lubbock
+    https://atlas.thc.texas.gov/Details/5303012679
+
+  THC 22806 [Lubbock]: School of Home Economics
+    addr: Broadway, Lubbock
+    https://atlas.thc.texas.gov/Details/5000022806
+
+  THC 15103 [Lubbock]: Singers' Store, G. W., Site of (MISSING)
+    addr: Lubbock
+    https://atlas.thc.texas.gov/Details/5507015103
+
+  THC 23628 [Lubbock]: Texas Tech University Administration Building
+    addr: 2625 Memorial Cir, Lubbock
+    https://atlas.thc.texas.gov/Details/5000023628
+
+  THC 15121 [Lynn]: T Bar Ranch Headquarters
+    addr: Tahoka
+    https://atlas.thc.texas.gov/Details/5507015121
+
+  THC 23823 [Madison]: Albert Lee School
+    addr: 6017 FM 247, Midway
+    https://atlas.thc.texas.gov/Details/5000023823
+
+  THC 22558 [Madison]: Ten Mile Cemetery
+    addr: 7546 FM 2289, Normangee
+    https://atlas.thc.texas.gov/Details/5000022558
+
+  THC 14440 [Marion]: Benefield Sr. Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014440
+
+  THC 15468 [Marion]: Carlson, Mary, Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015468
+
+  THC 14492 [Marion]: Deware, J. M., Residence
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014492
+
+  THC 14950 [Marion]: Early Bell Foundry, Site of
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014950
+
+  THC 15543 [Marion]: Graham, Capt. Charles G
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015543
+
+  THC 15137 [Marion]: Houston Street College
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015137
+
+  THC 16909 [Marion]: Jefferson Ordnance Magazine
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507016909
+
+  THC 24290 [Marion]: Jefferson's Public Square
+    addr: S. Main St., Jefferson
+    https://atlas.thc.texas.gov/Details/5000024290
+
+  THC 8065 [Marion]: Liberty Baptist Church
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315008065
+
+  THC 12044 [Marion]: Lockett Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315012044
+
+  THC 17659 [Marion]: Macedonia United Methodist Church
+    addr: .4 miles south from the intersection of CR 726 and Macedonia Road, Jefferson
+    https://atlas.thc.texas.gov/Details/5507017659
+
+  THC 14240 [Marion]: Meat Packing Plant
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014240
+
+  THC 15382 [Marion]: Methodist Church
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015382
+
+  THC 15495 [Marion]: Moseley, J.B., Home
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015495
+
+  THC 14108 [Marion]: Oakwood Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014108
+
+  THC 14142 [Marion]: Oakwood Cemetery (Medallion Only)
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507014142
+
+  THC 8081 [Marion]: Red River Warehouse
+    addr: Lake St. near Walnut, Jefferson
+    https://atlas.thc.texas.gov/Details/5315008081
+
+  THC 8089 [Marion]: St. Louis Commission Company Warehouse
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315008089
+
+  THC 15405 [Marion]: Synagogue:Sinai Hebrew Cong. of Beth-El, 1876
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5507015405
+
+  THC 12045 [Marion]: Taylor Cemetery
+    addr: Jefferson
+    https://atlas.thc.texas.gov/Details/5315012045
+
+  THC 14690 [Marion]: Wilkinson Cemetery
+    addr: Smithland
+    https://atlas.thc.texas.gov/Details/5507014690
+
+  THC 23896 [Mason]: Hilda Community
+    addr: RR 783, Mason
+    https://atlas.thc.texas.gov/Details/5000023896
+
+  THC 23717 [Matagorda]: Allenhurst - Mt. Zion Cemetery
+    addr: Allenhurst Rd., Van Vleck
+    https://atlas.thc.texas.gov/Details/5000023717
+
+  THC 23642 [Matagorda]: Allenhurst Community and Cemetery
+    addr: Allenhurst Rd., Van Vleck
+    https://atlas.thc.texas.gov/Details/5000023642
+
+  THC 15968 [Matagorda]: Bethlehem Christian Church
+    addr: CR 279, Cedar Lake
+    https://atlas.thc.texas.gov/Details/5507015968
+
+  THC 2774 [Matagorda]: John Duncan
+    https://atlas.thc.texas.gov/Details/5321002774
+
+  THC 23934 [Matagorda]: Jones-Jackson Cemetery
+    addr: 1975 FM 1301, Pledger
+    https://atlas.thc.texas.gov/Details/5000023934
+
+  THC 24025 [Matagorda]: King Van Estate Cemetery
+    addr: 426 CR 176, Cedar Lane
+    https://atlas.thc.texas.gov/Details/5000024025
+
+  THC 23220 [Matagorda]: Partain Cemetery
+    addr: Blessing
+    https://atlas.thc.texas.gov/Details/5000023220
+
+  THC 15346 [Matagorda]: Saint Mark's Episcopal Church (Bay City)
+    addr: Bay City
+    https://atlas.thc.texas.gov/Details/5507015346
+
+  THC 15688 [Matagorda]: St. Mark Missionary Baptist Church
+    addr: Cedar Lane
+    https://atlas.thc.texas.gov/Details/5507015688
+
+  THC 18192 [Maverick]: Chittim Ranch
+    addr: 17703-18509 US Hwy 277, Eagle Pass
+    https://atlas.thc.texas.gov/Details/5507018192
+
+  THC 1148 [Maverick]: Deadman's Hill
+    https://atlas.thc.texas.gov/Details/5323001148
+
+  THC 18547 [Maverick]: Dos Chimeneas Ranch House
+    addr: 17703-18509 U.S. Highway 277, Eagle Pass
+    https://atlas.thc.texas.gov/Details/5507018547
+
+  THC 3679 [McCulloch]: Ogden Home
+    addr: Brady vicinity
+    https://atlas.thc.texas.gov/Details/5307003679
+
+  THC 12071 [McLennan]: Aquilla Creek Truss Bridge
+    addr: Gholson
+    https://atlas.thc.texas.gov/Details/5309012071
+
+  THC 18409 [McLennan]: Concord Cemetery
+    addr: Ted Maehr Drive, Bellmead
+    https://atlas.thc.texas.gov/Details/5507018409
+
+  THC 23874 [McLennan]: Dean Highland Trolley Car Station of the Texas Electric Railway
+    addr: 29th Street, Waco
+    https://atlas.thc.texas.gov/Details/5000023874
+
+  THC 2390 [McLennan]: Harris Creek Baptist Church
+    https://atlas.thc.texas.gov/Details/5309002390
+
+  THC 23875 [McLennan]: M. Denton Stanford Lodge No. 594
+    addr: 300 FM 2837, Lorena
+    https://atlas.thc.texas.gov/Details/5000023875
+
+  THC 23321 [McLennan]: Pleasant Grove Baptist Church
+    addr: 399 Wagoner Rd., Gholson
+    https://atlas.thc.texas.gov/Details/5000023321
+
+  THC 24108 [McLennan]: Robert Lloyd Smith (Undertold)
+    addr: Greenwood Cemetery, Waco
+    https://atlas.thc.texas.gov/Details/5000024108
+
+  THC 14672 [McLennan]: Robertson, Generals Jerome & Felix
+    addr: Waco
+    https://atlas.thc.texas.gov/Details/5507014672
+
+  THC 15481 [McLennan]: Waco-McLennan County
+    addr: Waco
+    https://atlas.thc.texas.gov/Details/5507015481
+
+  THC 14959 [McMullen]: Stringfield, Thomas & Sarah
+    addr: Tilden
+    https://atlas.thc.texas.gov/Details/5507014959
+
+  THC 24165 [Medina]: Lytle Masonic Cemetery
+    addr: SH 132, Lytle
+    https://atlas.thc.texas.gov/Details/5000024165
+
+  THC 12538 [Medina]: Oefinger House
+    addr: Quihi vicinity
+    https://atlas.thc.texas.gov/Details/5325012538
+
+  THC 4674 [Menard]: Sheriff John L. Jones
+    https://atlas.thc.texas.gov/Details/5327004674
+
+  THC 23453 [Menard]: Waddell Cemetery
+    addr: Waddell Lane, Menard
+    https://atlas.thc.texas.gov/Details/5000023453
+
+  THC 15318 [Midland]: Fairgrounds Road
+    addr: Midland
+    https://atlas.thc.texas.gov/Details/5507015318
+
+  THC 14438 [Midland]: Lawrence Home
+    addr: Midland
+    https://atlas.thc.texas.gov/Details/5507014438
+
+  THC 14715 [Milam]: Friendship School, Site of
+    addr: Davilla
+    https://atlas.thc.texas.gov/Details/5507014715
+
+  THC 7977 [Milam]: Green-Batte House
+    addr: Cameron
+    https://atlas.thc.texas.gov/Details/5331007977
+
+  THC 12314 [Milam]: Lilac Cemetery
+    addr: Davilla vicinity
+    https://atlas.thc.texas.gov/Details/5331012314
+
+  THC 17438 [Milam]: North Elm Cemetery
+    https://atlas.thc.texas.gov/Details/5507017438
+
+  THC 12457 [Milam]: Urban Cemetery
+    addr: Sharp vicinity
+    https://atlas.thc.texas.gov/Details/5331012457
+
+  THC 17666 [Milam]: Wilson-Ledbetter Park
+    addr: Cameron
+    https://atlas.thc.texas.gov/Details/5507017666
+
+  THC 16752 [Mills]: Duren Cemetery
+    addr: 22 CR 128, Mullin
+    https://atlas.thc.texas.gov/Details/5507016752
+
+  THC 15522 [Mitchell]: Permian Basin Discovery Well
+    addr: Westbrook
+    https://atlas.thc.texas.gov/Details/5507015522
+
+  THC 23626 [Mitchell]: Spade Community
+    addr: SH 163, Colorado City
+    https://atlas.thc.texas.gov/Details/5000023626
+
+  THC 23450 [Montague]: Boggess Cemetery
+    addr: FM 677 N, Saint Jo
+    https://atlas.thc.texas.gov/Details/5000023450
+
+  THC 1708 [Montague]: First Christian Church of Bowie
+    addr: E. Wise St., Bowie
+    https://atlas.thc.texas.gov/Details/5337001708
+
+  THC 17112 [Montague]: Illinois Bend Cemetery
+    https://atlas.thc.texas.gov/Details/5507017112
+
+  THC 12232 [Montague]: Molsbee Chapel Cemetery
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5337012232
+
+  THC 17363 [Montague]: Montague County Poor Farm
+    addr: Highway 455, Montague
+    https://atlas.thc.texas.gov/Details/5507017363
+
+  THC 23818 [Montague]: Pleasant Hill Cemetery
+    addr: Jim Harry Loop, Sunset
+    https://atlas.thc.texas.gov/Details/5000023818
+
+  THC 14157 [Montague]: Rural Schools-Dye Mound
+    addr: Montague
+    https://atlas.thc.texas.gov/Details/5507014157
+
+  THC 14974 [Montague]: Rural Schools-Fruitland
+    addr: Bowie
+    https://atlas.thc.texas.gov/Details/5507014974
+
+  THC 14773 [Montague]: Spanish Fort, Red River Station
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5507014773
+
+  THC 12231 [Montague]: Starkey Cemetery
+    addr: Nocona
+    https://atlas.thc.texas.gov/Details/5337012231
+
+  THC 23816 [Montague]: Sunset Cemetery
+    addr: Cemetery Road, Sunset
+    https://atlas.thc.texas.gov/Details/5000023816
+
+  THC 15369 [Montgomery]: Bennett's Early Homesite
+    addr: Montgomery
+    https://atlas.thc.texas.gov/Details/5507015369
+
+  THC 24243 [Montgomery]: Lake Conroe Dam and Reservoir
+    addr: Hwy 105 West, Conroe
+    https://atlas.thc.texas.gov/Details/5000024243
+
+  THC 15190 [Montgomery]: Secretaries of State
+    addr: Montgomery
+    https://atlas.thc.texas.gov/Details/5507015190
+
+  THC 15456 [Montgomery]: Simonton Home
+    addr: Montgomery
+    https://atlas.thc.texas.gov/Details/5507015456
+
+  THC 24058 [Montgomery]: Tamina Freedom Colony
+    addr: 19500 Main St, Conroe
+    https://atlas.thc.texas.gov/Details/5000024058
+
+  THC 7907 [Montgomery]: The Richard Williams Cemetery
+    addr: Willis
+    https://atlas.thc.texas.gov/Details/5339007907
+
+  THC 12234 [Morris]: County Line Baptist Church and Cemetery
+    addr: Daingerfield
+    https://atlas.thc.texas.gov/Details/5343012234
+
+  THC 12684 [Morris]: Morris County
+    addr: US 67 E in roadside park, Naples
+    https://atlas.thc.texas.gov/Details/5343012684
+
+  THC 24350 [Motley]: Whiteflat Cemetery
+    addr: CR 105, Matador
+    https://atlas.thc.texas.gov/Details/5000024350
+
+  THC 14791 [Nacogdoches]: Barret, Lyne, Texas Oil Man
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507014791
+
+  THC 14472 [Nacogdoches]: Bivouac & Banq. for New Orleans' Greys
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507014472
+
+  THC 23349 [Nacogdoches]: El Salto
+    addr: CR 723, Nacogdoches
+    https://atlas.thc.texas.gov/Details/5000023349
+
+  THC 18594 [Nacogdoches]: Jacobs Chapel Cemetery
+    addr: CR 551, Woden
+    https://atlas.thc.texas.gov/Details/5507018594
+
+  THC 15572 [Nacogdoches]: Mission Concepcion, 1716 Site of
+    addr: Douglass
+    https://atlas.thc.texas.gov/Details/5507015572
+
+  THC 15580 [Nacogdoches]: Oil Springs, Texas First Oil Well
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507015580
+
+  THC 15877 [Nacogdoches]: Rock Springs Cemetery
+    addr: Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507015877
+
+  THC 16619 [Nacogdoches]: Site of the Mission San Jose de Los Nazonis
+    addr: Cushing
+    https://atlas.thc.texas.gov/Details/5507016619
+
+  THC 17219 [Nacogdoches]: The Homesite of Raphael D'Ortolan
+    addr: The Bluffs at Mill Branch subdivision on County Road 775, Nacogdoches
+    https://atlas.thc.texas.gov/Details/5507017219
+
+  THC 17202 [Navarro]: Davidson Family Cemetery
+    addr: Vista Ridge Development on the left about 1300 feet from the road, Corsicana
+    https://atlas.thc.texas.gov/Details/5507017202
+
+  THC 23646 [Navarro]: Meritt Drane
+    addr: 410 N. 45th St., Corsicana
+    https://atlas.thc.texas.gov/Details/5000023646
+
+  THC 24293 [Navarro]: Park High School
+    addr: 201 SH 309, Kerens
+    https://atlas.thc.texas.gov/Details/5000024293
+
+  THC 12341 [Navarro]: Site of Tuckertown
+    addr: Corsicana
+    https://atlas.thc.texas.gov/Details/5349012341
+
+  THC 12551 [Navarro]: Squire Josiah Daniel Home
+    addr: Kerens vicinity
+    https://atlas.thc.texas.gov/Details/5349012551
+
+  THC 14383 [Navarro]: Trading Post of Dr. G. W. Hill
+    addr: Dawson
+    https://atlas.thc.texas.gov/Details/5507014383
+
+  THC 23831 [Navarro]: White Church Cemetery
+    addr: NW Co. Road 2250, Blooming Grove
+    https://atlas.thc.texas.gov/Details/5000023831
+
+  THC 11104 [Newton]: Colonel John R. Burke Home Site
+    addr: Newton
+    https://atlas.thc.texas.gov/Details/5351011104
+
+  THC 11113 [Newton]: Farrsville
+    addr: SH 63 W, Newton
+    https://atlas.thc.texas.gov/Details/5351011113
+
+  THC 16625 [Newton]: Garlington Cemetery
+    https://atlas.thc.texas.gov/Details/5507016625
+
+  THC 23952 [Newton]: Hughes Cemetery
+    addr: CR 4040 South, Newton
+    https://atlas.thc.texas.gov/Details/5000023952
+
+  THC 12398 [Newton]: Pine Grove Missionary Baptist Church
+    addr: Burkeville vicinity
+    https://atlas.thc.texas.gov/Details/5351012398
+
+  THC 18912 [Newton]: Sand Ridge Cemetery
+    addr: CR 4045, Newton
+    https://atlas.thc.texas.gov/Details/5507018912
+
+  THC 15149 [Newton]: Tatum House
+    addr: Newton
+    https://atlas.thc.texas.gov/Details/5507015149
+
+  THC 17184 [Nueces]: Corpus Christi and the Gulf Intracoastal Waterway
+    addr: James Strong Pavilion, Corpus Christi
+    https://atlas.thc.texas.gov/Details/5507017184
+
+  THC 24297 [Nueces]: Epworth-by-the-Sea
+    addr: 2921 N. Shoreline, Corpus Christi
+    https://atlas.thc.texas.gov/Details/5000024297
+
+  THC 24426 [Nueces]: New Bayview Cemetery
+    addr: Corpus Christi
+    https://atlas.thc.texas.gov/Details/5000024426
+
+  THC 23812 [Nueces]: Nueces County Junior Livestock Show
+    addr: 1213 Terry Shamsie Blvd, Robstown
+    https://atlas.thc.texas.gov/Details/5000023812
+
+  THC 14482 [Oldham]: L. S. Ranch
+    addr: Boy's Ranch
+    https://atlas.thc.texas.gov/Details/5507014482
+
+  THC 15564 [Orange]: Linscomb, Joseph
+    addr: Orange
+    https://atlas.thc.texas.gov/Details/5507015564
+
+  THC 18242 [Orange]: Mauriceville
+    addr: Mauriceville
+    https://atlas.thc.texas.gov/Details/5507018242
+
+  THC 15013 [Panola]: Adams Cemetery
+    addr: Deadwood
+    https://atlas.thc.texas.gov/Details/5507015013
+
+  THC 23319 [Panola]: Fair Play Baptist Church
+    addr: 7216 FM 124 West, Beckville
+    https://atlas.thc.texas.gov/Details/5000023319
+
+  THC 10842 [Panola]: Pulaski
+    addr: Carthage
+    https://atlas.thc.texas.gov/Details/5365010842
+
+  THC 12138 [Panola]: Reeves-McMillan Cemetery
+    addr: Carthage
+    https://atlas.thc.texas.gov/Details/5365012138
+
+  THC 24156 [Parker]: Dicey Cemetery
+    addr: 200 Cutter MC Ln., Weatherford
+    https://atlas.thc.texas.gov/Details/5000024156
+
+  THC 14853 [Parker]: First District Court in Parker County, Site
+    addr: Weatherford
+    https://atlas.thc.texas.gov/Details/5507014853
+
+  THC 23612 [Parker]: Martha Elizabeth Cockburn Tucker
+    addr: 6904 Tucker Dr., Weatherford
+    https://atlas.thc.texas.gov/Details/5000023612
+
+  THC 15554 [Parmer]: Bank Building, Old
+    addr: Farwell
+    https://atlas.thc.texas.gov/Details/5507015554
+
+  THC 15167 [Parmer]: Lakeview School
+    addr: Friona
+    https://atlas.thc.texas.gov/Details/5507015167
+
+  THC 24200 [Pecos]: Garza-Torres Irrigation District
+    addr: Warnock Road, Fort Stockton
+    https://atlas.thc.texas.gov/Details/5000024200
+
+  THC 3974 [Pecos]: Pecos County Camptosaur Tracks
+    addr: Ft. Stockton Warehouse, Ft Stockton
+    https://atlas.thc.texas.gov/Details/5371003974
+
+  THC 14319 [Polk]: Abbott Springs Meadows Cemetery
+    addr: Corrigan
+    https://atlas.thc.texas.gov/Details/5507014319
+
+  THC 18246 [Polk]: Bluewater Cemetery
+    https://atlas.thc.texas.gov/Details/5507018246
+
+  THC 23491 [Polk]: Bluff Creek Cemetery
+    addr: 169 Bluff Creek Cemetery Rd., Livingston
+    https://atlas.thc.texas.gov/Details/5000023491
+
+  THC 12150 [Polk]: Feagin Cemetery
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373012150
+
+  THC 10403 [Polk]: John C. Leggett House
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010403
+
+  THC 10402 [Polk]: John Kale House
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010402
+
+  THC 15566 [Polk]: Magnolia Hill Cemetery
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5507015566
+
+  THC 14061 [Polk]: Moscow Baptist Church
+    addr: Moscow
+    https://atlas.thc.texas.gov/Details/5507014061
+
+  THC 10416 [Polk]: Moscow Masonic Male and Female Academy
+    addr: Moscow
+    https://atlas.thc.texas.gov/Details/5373010416
+
+  THC 12164 [Polk]: Nelson Henry Rice Cemetery
+    addr: Leggett
+    https://atlas.thc.texas.gov/Details/5373012164
+
+  THC 10384 [Polk]: Old Bean Place
+    https://atlas.thc.texas.gov/Details/5373010384
+
+  THC 10418 [Polk]: Paddlewheels on the Trinity
+    addr: Livingston
+    https://atlas.thc.texas.gov/Details/5373010418
+
+  THC 10423 [Polk]: Saxon Family Homestead
+    addr: Corrigan
+    https://atlas.thc.texas.gov/Details/5373010423
+
+  THC 12518 [Polk]: Site of Smithfield
+    addr: Livingston vicinity
+    https://atlas.thc.texas.gov/Details/5373012518
+
+  THC 23498 [Polk]: Wright Cemetery
+    addr: Wright Cemetery Rd., Onalaska
+    https://atlas.thc.texas.gov/Details/5000023498
+
+  THC 695 [Potter]: Canadian River Municipal Water Authority - Canadian River Project
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375000695
+
+  THC 696 [Potter]: Canadian River Project
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5375000696
+
+  THC 15383 [Potter]: Ft. Smith-Santa Fe Trail, Marcy Rt. 1849 (RE81)
+    addr: Amarillo
+    https://atlas.thc.texas.gov/Details/5507015383
+
+  THC 24323 [Potter]: Ranching Origins of Amarillo
+    addr: Amarillo Blvd., Amarillo
+    https://atlas.thc.texas.gov/Details/5000024323
+
+  THC 5215 [Potter]: Tecovas Springs
+    addr: Bushland
+    https://atlas.thc.texas.gov/Details/5375005215
+
+  THC 16075 [Presidio]: Apache Last Stand
+    https://atlas.thc.texas.gov/Details/5507016075
+
+  THC 20158 [Presidio]: Cementerio del Barrio de los Lipanes
+    addr: Market Street, Presidio
+    https://atlas.thc.texas.gov/Details/5507020158
+
+  THC 20159 [Presidio]: Native Peoples of La Junta de los Rios
+    addr: FM 170, Presidio
+    https://atlas.thc.texas.gov/Details/5507020159
+
+  THC 3125 [Randall]: Los Ciboleros (New Mexican Buffalo Hunters)
+    addr: SH 217 East of Canyon, Canyon
+    https://atlas.thc.texas.gov/Details/5381003125
+
+  THC 5214 [Randall]: Tecovas Springs
+    https://atlas.thc.texas.gov/Details/5381005214
+
+  THC 2284 [Reagan]: Grierson Spring
+    https://atlas.thc.texas.gov/Details/5383002284
+
+  THC 6483 [Refugio]: John White Bower
+    addr: Off US 77, along private road W of Vidauri, Vidauri
+    https://atlas.thc.texas.gov/Details/5391006483
+
+  THC 2817 [Refugio]: Site of the Home of John White Bower
+    addr: Off US 77, W along private road from Vidauri, Vidauri
+    https://atlas.thc.texas.gov/Details/5391002817
+
+  THC 23872 [Robertson]: Shiloh Cemetery
+    addr: 10057 Shiloh Cemetery Road, Franklin
+    https://atlas.thc.texas.gov/Details/5000023872
+
+  THC 24113 [Rockwall]: Nathan Butler Cemetery
+    addr: Shores Blvd., Rockwall
+    https://atlas.thc.texas.gov/Details/5000024113
+
+  THC 23523 [Runnels]: Fairview Cemetery
+    addr: Loop 438, Winters
+    https://atlas.thc.texas.gov/Details/5000023523
+
+  THC 22707 [Rusk]: Anadarco Slaves Legacy (UNDERTOLD)
+    addr: 13406 FM 1662 W, Laneville vicinity
+    https://atlas.thc.texas.gov/Details/5000022707
+
+  THC 10975 [Rusk]: Cherokee Indian Village
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5401010975
+
+  THC 23978 [Rusk]: Concord Rosenwald School
+    addr: 19447 FM 95 South, Mount Enterprise
+    https://atlas.thc.texas.gov/Details/5000023978
+
+  THC 23571 [Rusk]: Gage Cemetery
+    addr: CR 437, Laneville
+    https://atlas.thc.texas.gov/Details/5000023571
+
+  THC 12497 [Rusk]: Hunt Cemetery
+    addr: Henderson vicinity
+    https://atlas.thc.texas.gov/Details/5401012497
+
+  THC 23559 [Rusk]: Laneville Cemetery
+    addr: FM 225, Laneville
+    https://atlas.thc.texas.gov/Details/5000023559
+
+  THC 16817 [Rusk]: Miles Cemetery
+    addr: Concord
+    https://atlas.thc.texas.gov/Details/5507016817
+
+  THC 11021 [Rusk]: Monte Verdi
+    https://atlas.thc.texas.gov/Details/5401011021
+
+  THC 23861 [Rusk]: Mt. Zion Baptist Church
+    addr: 18098 County Road 3223 South, Mount Enterprise
+    https://atlas.thc.texas.gov/Details/5000023861
+
+  THC 11053 [Rusk]: Old House of Dr. Wm. M. Ross
+    https://atlas.thc.texas.gov/Details/5401011053
+
+  THC 11052 [Rusk]: Richardson-Lowe House
+    addr: Lanevile
+    https://atlas.thc.texas.gov/Details/5401011052
+
+  THC 14648 [Rusk]: Smith, Captain Robert W.
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5507014648
+
+  THC 14894 [Rusk]: Smith, General James
+    addr: Henderson
+    https://atlas.thc.texas.gov/Details/5507014894
+
+  THC 15764 [Sabine]: Bayou
+    addr: FM 944, Hemphill
+    https://atlas.thc.texas.gov/Details/5507015764
+
+  THC 17853 [Sabine]: CCC Camp 2887 F-18-T
+    addr: SH 21, Milam
+    https://atlas.thc.texas.gov/Details/5507017853
+
+  THC 16735 [Sabine]: Geneva Myrtle Springs Cemetery
+    addr: State Farm Road 330 or 1.6 miles North of Milam, TX on west side of State Farm Road 330, Geneva
+    https://atlas.thc.texas.gov/Details/5507016735
+
+  THC 17154 [Sabine]: James Frederick Gomer Cemetery
+    addr: End of Gomer Cemetery Road, Hemphill
+    https://atlas.thc.texas.gov/Details/5507017154
+
+  THC 23455 [Sabine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023455
+
+  THC 23456 [Sabine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023456
+
+  THC 23457 [Sabine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023457
+
+  THC 23458 [Sabine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023458
+
+  THC 23459 [Sabine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5000023459
+
+  THC 12174 [Sabine]: McGown Cemetery
+    addr: Milam
+    https://atlas.thc.texas.gov/Details/5403012174
+
+  THC 22526 [Sabine]: McMahan Chapel Cemetery
+    addr: 2240 McMahan Chapel Rd., Geneva
+    https://atlas.thc.texas.gov/Details/5000022526
+
+  THC 12175 [Sabine]: Springhill Cemetery
+    addr: Hemphill
+    https://atlas.thc.texas.gov/Details/5403012175
+
+  THC 12423 [San Augustine]: Bobbitt Family Cemetery
+    addr: San Augustine vicinity
+    https://atlas.thc.texas.gov/Details/5405012423
+
+  THC 7595 [San Augustine]: China Grove - Dr. B. F. Sharp House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007595
+
+  THC 12177 [San Augustine]: Chinquapin Cemetery (Loggins Family Burial Ground)
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405012177
+
+  THC 23370 [San Augustine]: Circa 1900 Cotton Gin
+    addr: Columbia St., San Augustine
+    https://atlas.thc.texas.gov/Details/5000023370
+
+  THC 7644 [San Augustine]: Col. Philip A. Sublett
+    https://atlas.thc.texas.gov/Details/5405007644
+
+  THC 7597 [San Augustine]: Crocket House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007597
+
+  THC 7635 [San Augustine]: Elisha Roberts
+    https://atlas.thc.texas.gov/Details/5405007635
+
+  THC 14706 [San Augustine]: Fonville Cemetery
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5507014706
+
+  THC 7612 [San Augustine]: Horatio Hanks House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007612
+
+  THC 7622 [San Augustine]: Inlow Lee Mathews House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007622
+
+  THC 7620 [San Augustine]: Ketchum Place
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007620
+
+  THC 23460 [San Augustine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023460
+
+  THC 23461 [San Augustine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023461
+
+  THC 23462 [San Augustine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023462
+
+  THC 23463 [San Augustine]: King's Highway - Camino Real - Old San Antonio Road
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5000023463
+
+  THC 12472 [San Augustine]: Little Flock Cemetery
+    addr: San Augustine vicinity
+    https://atlas.thc.texas.gov/Details/5405012472
+
+  THC 14786 [San Augustine]: Mathews, Inlow and Jeanette, House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5507014786
+
+  THC 7609 [San Augustine]: Old Greer House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007609
+
+  THC 7628 [San Augustine]: Old Mott House
+    addr: San Augustine
+    https://atlas.thc.texas.gov/Details/5405007628
+
+  THC 18667 [San Augustine]: Old Sardis Cemetery
+    addr: 14.3 miles from the Courthouse. West HWY 21 to North HWY 96 to FM 711 to CR 246 travel west 5.6 miles to 246S crossroad, turn left 0.3 miles cemetery on left., San Augustine
+    https://atlas.thc.texas.gov/Details/5507018667
+
+  THC 15560 [San Augustine]: Old Union School
+    addr: 1462 County Road 278, San Augustine
+    https://atlas.thc.texas.gov/Details/5507015560
+
+  THC 18761 [San Augustine]: Shiloh-New Hope Community Cemetery
+    https://atlas.thc.texas.gov/Details/5507018761
+
+  THC 16089 [San Jacinto]: Site of Council Hill
+    addr: Coldspring
+    https://atlas.thc.texas.gov/Details/5507016089
+
+  THC 15060 [San Patricio]: Bethel Baptist Church of Christ
+    addr: Odem
+    https://atlas.thc.texas.gov/Details/5507015060
+
+  THC 17410 [San Saba]: Harmony Ridge Cemetery
+    addr: San Saba
+    https://atlas.thc.texas.gov/Details/5507017410
+
+  THC 3046 [San Saba]: Lathum Cemetery
+    addr: Did Not Locate, Lathum
+    https://atlas.thc.texas.gov/Details/5411003046
+
+  THC 17411 [San Saba]: Shiloh Cemetery
+    addr: Richland Spring
+    https://atlas.thc.texas.gov/Details/5507017411
+
+  THC 14419 [Scurry]: Harrell Ranch House
+    addr: Snyder
+    https://atlas.thc.texas.gov/Details/5507014419
+
+  THC 22717 [Shackelford]: Alice Reynolds
+    addr: Albany
+    https://atlas.thc.texas.gov/Details/5000022717
+
+  THC 22718 [Shackelford]: Berta Hart Nance
+    addr: Albany
+    https://atlas.thc.texas.gov/Details/5000022718
+
+  THC 14723 [Shelby]: Camp Center, World War II Prisoner of War Camp
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014723
+
+  THC 7677 [Shelby]: Elder William Brittain and Rosanna Wright Brittain
+    addr: Patroon
+    https://atlas.thc.texas.gov/Details/5419007677
+
+  THC 17116 [Shelby]: Haley Bush Cemetery
+    addr: 101 Haley Bush Cemetery Drive, San Augustine
+    https://atlas.thc.texas.gov/Details/5507017116
+
+  THC 7689 [Shelby]: Myrick's Ferry Log House
+    addr: Shelbyville
+    https://atlas.thc.texas.gov/Details/5419007689
+
+  THC 24366 [Shelby]: New Prospect Cemetery
+    addr: 4930 FM 1645, Timpson
+    https://atlas.thc.texas.gov/Details/5000024366
+
+  THC 14693 [Shelby]: Price Cemetery
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014693
+
+  THC 23284 [Shelby]: Providence Missionary Baptist Church
+    addr: CR 1265, Center
+    https://atlas.thc.texas.gov/Details/5000023284
+
+  THC 7691 [Shelby]: Roberts' Hill
+    https://atlas.thc.texas.gov/Details/5419007691
+
+  THC 14081 [Shelby]: Sardis Church
+    addr: Center
+    https://atlas.thc.texas.gov/Details/5507014081
+
+  THC 24186 [Shelby]: Shelby County Jail
+    addr: 100 Courthouse Square A, Center
+    https://atlas.thc.texas.gov/Details/5000024186
+
+  THC 24043 [Shelby]: Short Cemetery
+    addr: CR 1005, Center
+    https://atlas.thc.texas.gov/Details/5000024043
+
+  THC 14586 [Shelby]: Spivey, Site of 1870s-1900 Town of
+    addr: Paxton
+    https://atlas.thc.texas.gov/Details/5507014586
+
+  THC 17492 [Shelby]: Westview Cemetery
+    addr: Bolton Street, Center
+    https://atlas.thc.texas.gov/Details/5507017492
+
+  THC 7702 [Shelby]: William Harrison Wall Homestead
+    addr: Tenaha
+    https://atlas.thc.texas.gov/Details/5419007702
+
+  THC 14772 [Smith]: First United Methodist Church of Troup
+    addr: Troup
+    https://atlas.thc.texas.gov/Details/5507014772
+
+  THC 15286 [Smith]: Flint Cemetery
+    addr: Flint
+    https://atlas.thc.texas.gov/Details/5507015286
+
+  THC 14546 [Smith]: Henry Gary House
+    addr: Starrville
+    https://atlas.thc.texas.gov/Details/5507014546
+
+  THC 7754 [Smith]: Sartain Homestead
+    addr: Arp
+    https://atlas.thc.texas.gov/Details/5423007754
+
+  THC 23954 [Smith]: Siloam Missionary Baptist Church
+    addr: CR 371, Winona
+    https://atlas.thc.texas.gov/Details/5000023954
+
+  THC 18695 [Smith]: Texas College
+    addr: Grand and 26th, Lindale
+    https://atlas.thc.texas.gov/Details/5507018695
+
+  THC 7750 [Smith]: The George R. Philips House
+    addr: Tyler
+    https://atlas.thc.texas.gov/Details/5423007750
+
+  THC 15571 [Somervell]: Marks-English Hospital
+    addr: Glen Rose
+    https://atlas.thc.texas.gov/Details/5507015571
+
+  THC 14283 [Starr]: Early Commerical Center
+    addr: Roma
+    https://atlas.thc.texas.gov/Details/5507014283
+
+  THC 24250 [Starr]: Las Escobas Ranch
+    addr: Las Escobas Road, Rio Grande City
+    https://atlas.thc.texas.gov/Details/5000024250
+
+  THC 18733 [Stephens]: Fort Davis Cemetery
+    addr: Breckenridge
+    https://atlas.thc.texas.gov/Details/5507018733
+
+  THC 23736 [Stephens]: Harpersville Cemetery
+    addr: Breckenridge
+    https://atlas.thc.texas.gov/Details/5000023736
+
+  THC 5109 [Stephens]: Stephens County
+    addr: US 80, about 5 miles east of Breckenridge, Breckenridge
+    https://atlas.thc.texas.gov/Details/5429005109
+
+  THC 15252 [Tarrant]: Indian Creek Cemetery
+    addr: Newark
+    https://atlas.thc.texas.gov/Details/5507015252
+
+  THC 14639 [Tarrant]: Snider Cemetery
+    addr: Kennedale
+    https://atlas.thc.texas.gov/Details/5507014639
+
+  THC 5985 [Tarrant]: Tarrant, Gen. Edward H.
+    https://atlas.thc.texas.gov/Details/5439005985
+
+  THC 15056 [Tarrant]: Tom B. Yarbrough House
+    addr: Fort Worth
+    https://atlas.thc.texas.gov/Details/5507015056
+
+  THC 14360 [Taylor]: Abilene High School, Original Site of
+    addr: Abilene
+    https://atlas.thc.texas.gov/Details/5507014360
+
+  THC 14159 [Taylor]: Ned, Jim, Creek
+    addr: Tuscola
+    https://atlas.thc.texas.gov/Details/5507014159
+
+  THC 15023 [Taylor]: Ned, Jim, Creek (stolen)
+    addr: Lawn
+    https://atlas.thc.texas.gov/Details/5507015023
+
+  THC 19988 [Terrell]: Chandler Ranch
+    addr: 535 Independence Creek Rd., Dryden
+    https://atlas.thc.texas.gov/Details/5000019988
+
+  THC 12324 [Titus]: Bridges Chapel Cemetery
+    addr: Mount Pleasant vicinity
+    https://atlas.thc.texas.gov/Details/5449012324
+
+  THC 11182 [Titus]: Stonewall School
+    addr: Mt. Pleasant
+    https://atlas.thc.texas.gov/Details/5449011182
+
+  THC 11183 [Titus]: West New Hope United Methodist Church
+    addr: Mt. Pleasant
+    https://atlas.thc.texas.gov/Details/5449011183
+
+  THC 1340 [Tom Green]: Early City School
+    addr: N. Magdalen St., San Angelo
+    https://atlas.thc.texas.gov/Details/5451001340
+
+  THC 4733 [Tom Green]: Site of Bismarck Farm
+    https://atlas.thc.texas.gov/Details/5451004733
+
+  THC 16691 [Travis]: Dr. Lewis and Carolyn Mitchell
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016691
+
+  THC 23966 [Travis]: Father Joe Znotas
+    addr: Father Joe Znotas St., Austin
+    https://atlas.thc.texas.gov/Details/5000023966
+
+  THC 16093 [Travis]: General Land Office
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016093
+
+  THC 24180 [Travis]: Gray Family Cemetery
+    addr: Nameless Road, Leander
+    https://atlas.thc.texas.gov/Details/5000024180
+
+  THC 23785 [Travis]: Integration of Barton Springs
+    addr: 2131 William Barton Dr., Austin
+    https://atlas.thc.texas.gov/Details/5000023785
+
+  THC 20052 [Travis]: Mueller Airport
+    addr: Berkman Dr., Austin
+    https://atlas.thc.texas.gov/Details/5507020052
+
+  THC 16142 [Travis]: Old Courtroom of the Supreme Court of Texas
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016142
+
+  THC 16144 [Travis]: Organization of First Protestant Worship in Austin
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507016144
+
+  THC 14906 [Travis]: Palm School
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507014906
+
+  THC 15597 [Travis]: Robert Eanes
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507015597
+
+  THC 14627 [Travis]: Site of Republic of Texas President's House
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507014627
+
+  THC 24314 [Travis]: St. John Community
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5000024314
+
+  THC 23421 [Travis]: Tarleton-Young Cemetery
+    addr: West Lake Hills
+    https://atlas.thc.texas.gov/Details/5000023421
+
+  THC 15432 [Travis]: Travis County Courthouse, First
+    addr: Austin
+    https://atlas.thc.texas.gov/Details/5507015432
+
+  THC 23926 [Trinity]: Baldwin Chapel Baptist Church
+    addr: 288 Martin Luther King Blvd., Groveton
+    https://atlas.thc.texas.gov/Details/5000023926
+
+  THC 16036 [Trinity]: Boontown Cemetery
+    https://atlas.thc.texas.gov/Details/5507016036
+
+  THC 12445 [Trinity]: Chita Cemetery
+    addr: Groveton vicinity
+    https://atlas.thc.texas.gov/Details/5455012445
+
+  THC 19971 [Trinity]: Ellis Prairie Cemetery (HTC)
+    addr: Groveton
+    https://atlas.thc.texas.gov/Details/5000019971
+
+  THC 17144 [Trinity]: Flat Prairie Congregational Methodist Church
+    addr: Groveton
+    https://atlas.thc.texas.gov/Details/5507017144
+
+  THC 12253 [Trinity]: Glendale Cemetery
+    addr: Trinity
+    https://atlas.thc.texas.gov/Details/5455012253
+
+  THC 12578 [Trinity]: Holly Cemetery
+    addr: Lovelady vicinity
+    https://atlas.thc.texas.gov/Details/5225012578
+
+  THC 12339 [Trinity]: North Cedar Community
+    addr: Groveton vicinity
+    https://atlas.thc.texas.gov/Details/5455012339
+
+  THC 24127 [Trinity]: Parker Ridge Cemetery
+    addr: FM 2912, Groveton
+    https://atlas.thc.texas.gov/Details/5000024127
+
+  THC 24238 [Trinity]: Rice Cemetery
+    addr: 3886 FSR 527, Kennard
+    https://atlas.thc.texas.gov/Details/5000024238
+
+  THC 7966 [Trinity]: The Reese Family of Friendship Community
+    addr: Pennington
+    https://atlas.thc.texas.gov/Details/5455007966
+
+  THC 22433 [Trinity]: Zion Hill Cemetery
+    addr: Friday
+    https://atlas.thc.texas.gov/Details/5000022433
+
+  THC 11355 [Tyler]: Alabama-Coushattas of Texas
+    addr: Woodville
+    https://atlas.thc.texas.gov/Details/5457011355
+
+  THC 11364 [Tyler]: Early Law Office
+    addr: Beaver Street, Woodville
+    https://atlas.thc.texas.gov/Details/5457011364
+
+  THC 19973 [Tyler]: Fellowship Cemetery
+    addr: Warren
+    https://atlas.thc.texas.gov/Details/5507019973
+
+  THC 18471 [Tyler]: Ferrell Cemetery
+    addr: 200 County Rd 3770, Colmesneil
+    https://atlas.thc.texas.gov/Details/5507018471
+
+  THC 11367 [Tyler]: Fort Teran Park
+    addr: Colmesneil
+    https://atlas.thc.texas.gov/Details/5457011367
+
+  THC 11368 [Tyler]: Fort Teran, Site of
+    addr: Chester
+    https://atlas.thc.texas.gov/Details/5457011368
+
+  THC 18374 [Tyler]: Mount Hope Methodist Church
+    addr: CR 2615, Chester
+    https://atlas.thc.texas.gov/Details/5507018374
+
+  THC 11454 [Tyler]: Sturrock Cemetery
+    addr: Rockland
+    https://atlas.thc.texas.gov/Details/5457011454
+
+  THC 11457 [Tyler]: Town Bluff
+    addr: Woodville
+    https://atlas.thc.texas.gov/Details/5457011457
+
+  THC 11336 [Upshur]: Ben Phillips Place
+    addr: 5 mi. N of Gladewater on US 271
+    https://atlas.thc.texas.gov/Details/5459011336
+
+  THC 23980 [Upshur]: Bruce School
+    addr: Bruce St., Gilmer
+    https://atlas.thc.texas.gov/Details/5000023980
+
+  THC 23297 [Upshur]: Concord Cemetery
+    addr: 6995 Concord Church Rd., Gilmer
+    https://atlas.thc.texas.gov/Details/5000023297
+
+  THC 19980 [Upshur]: Dickson Colored Orphanage Cemetery
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5000019980
+
+  THC 11308 [Upshur]: Edwards Cemetery
+    addr: Longview
+    https://atlas.thc.texas.gov/Details/5459011308
+
+  THC 11327 [Upshur]: Lewis T. Mackey
+    https://atlas.thc.texas.gov/Details/5459011327
+
+  THC 12255 [Upshur]: Mattox Cemetery
+    addr: New Diana
+    https://atlas.thc.texas.gov/Details/5459012255
+
+  THC 11328 [Upshur]: McDonald House
+    addr: 1 mi. E of Gilmer on Hwy 154
+    https://atlas.thc.texas.gov/Details/5459011328
+
+  THC 11304 [Upshur]: Old Alexander Cook Home
+    addr: Souls Chapel Community, 12 mi. NW of Gilmer, Gilmer
+    https://atlas.thc.texas.gov/Details/5459011304
+
+  THC 11317 [Upshur]: Old Hart Home
+    addr: 1 mi. from Gilmer
+    https://atlas.thc.texas.gov/Details/5459011317
+
+  THC 11343 [Upshur]: Sand Hill
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5459011343
+
+  THC 12856 [Upshur]: Shady Grove Cemetery
+    addr: FM 1002, Gilmer
+    https://atlas.thc.texas.gov/Details/5459012856
+
+  THC 14573 [Upshur]: Sheppherd, Elvey
+    addr: Gilmer
+    https://atlas.thc.texas.gov/Details/5507014573
+
+  THC 23698 [Upshur]: Simpsonville Cemetery
+    addr: FM 2088, Gilmer
+    https://atlas.thc.texas.gov/Details/5000023698
+
+  THC 23631 [Upshur]: St. James Baptist Church
+    addr: 107 S. Rodeo, Gladewater
+    https://atlas.thc.texas.gov/Details/5000023631
+
+  THC 17366 [Upshur]: Union Grove Cemetery
+    addr: Gladewater
+    https://atlas.thc.texas.gov/Details/5507017366
+
+  THC 18816 [Upshur]: Valley View High School
+    addr: Gardenia, Gilmer
+    https://atlas.thc.texas.gov/Details/5507018816
+
+  THC 5024 [Upton]: Square Top Mountain
+    addr: Rankin
+    https://atlas.thc.texas.gov/Details/5461005024
+
+  THC 15528 [Uvalde]: Habermacher Home
+    addr: Sabinal
+    https://atlas.thc.texas.gov/Details/5507015528
+
+  THC 20197 [Val Verde]: Comstock Cemetery (HTC)
+    https://atlas.thc.texas.gov/Details/5507020197
+
+  THC 18123 [Val Verde]: Langtry Cemetery
+    addr: Langtry
+    https://atlas.thc.texas.gov/Details/5507018123
+
+  THC 23511 [Van Zandt]: 1964 Canton Eagles Football Team
+    addr: 1110 State Hwy 243, Canton
+    https://atlas.thc.texas.gov/Details/5000023511
+
+  THC 14835 [Van Zandt]: Cherokee Boundary Line
+    addr: Fruitvale
+    https://atlas.thc.texas.gov/Details/5507014835
+
+  THC 11423 [Van Zandt]: Jones Cemetery
+    addr: Wills Point
+    https://atlas.thc.texas.gov/Details/5467011423
+
+  THC 12427 [Van Zandt]: Liberty Cemetery
+    addr: Edom vicinity
+    https://atlas.thc.texas.gov/Details/5467012427
+
+  THC 15885 [Van Zandt]: Mt. Pisgah
+    https://atlas.thc.texas.gov/Details/5507015885
+
+  THC 23429 [Van Zandt]: Mt. Pisgah Cemetery
+    addr: CR 4105, Canton
+    https://atlas.thc.texas.gov/Details/5000023429
+
+  THC 23372 [Van Zandt]: Myrtle Springs Cemetery
+    addr: CR 3442, Myrtle Springs
+    https://atlas.thc.texas.gov/Details/5000023372
+
+  THC 17930 [Van Zandt]: Philip Nolan Expeditions Into Spanish Texas
+    addr: 3502 CR 3804, Wills Point
+    https://atlas.thc.texas.gov/Details/5507017930
+
+  THC 23540 [Van Zandt]: Railroad Spur Line to Van Oil Field
+    addr: CR 1501, Van
+    https://atlas.thc.texas.gov/Details/5000023540
+
+  THC 23897 [Van Zandt]: Texas Short Line Railway
+    addr: US 80, Grand Saline
+    https://atlas.thc.texas.gov/Details/5000023897
+
+  THC 24483 [Van Zandt]: Zion Hill Cemetery
+    addr: 6956 FM 1861, Canton
+    https://atlas.thc.texas.gov/Details/5000024483
+
+  THC 15818 [Victoria]: Crescent Valley Cemetery
+    addr: 6679 State Hwy 185, Victoria
+    https://atlas.thc.texas.gov/Details/5507015818
+
+  THC 15051 [Victoria]: Garza, Carlos de la
+    addr: Victoria
+    https://atlas.thc.texas.gov/Details/5507015051
+
+  THC 14399 [Victoria]: Mission Nuestra S. Del E. Santo De Zuniga
+    addr: Victoria
+    https://atlas.thc.texas.gov/Details/5507014399
+
+  THC 22398 [Walker]: Burials of Enslaved People in McAdams Cemetery (UNDERTOLD)
+    addr: 1251 FM 1696 W, Huntsville
+    https://atlas.thc.texas.gov/Details/5000022398
+
+  THC 18194 [Walker]: Jasper Missionary Baptist Church
+    https://atlas.thc.texas.gov/Details/5507018194
+
+  THC 8436 [Walker]: Site of Cincinnati
+    https://atlas.thc.texas.gov/Details/5471008436
+
+  THC 8477 [Walker]: Walker County
+    https://atlas.thc.texas.gov/Details/5471008477
+
+  THC 16113 [Waller]: John Frelan Winters
+    https://atlas.thc.texas.gov/Details/5507016113
+
+  THC 24419 [Waller]: Mary E.V. Edwards Hunter (Undertold)
+    https://atlas.thc.texas.gov/Details/5000024419
+
+  THC 15637 [Washington]: Allcorn-McNeese Cemetery
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015637
+
+  THC 15324 [Washington]: Anson Jones Home
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015324
+
+  THC 15329 [Washington]: Armistead, Robert Starke (grave marker)
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015329
+
+  THC 16115 [Washington]: Baylor University State Park
+    addr: Independence
+    https://atlas.thc.texas.gov/Details/5507016115
+
+  THC 22781 [Washington]: Cegielski Cemetery
+    addr: 6200 Chadwick-Hogan Rd., Chappell Hill
+    https://atlas.thc.texas.gov/Details/5000022781
+
+  THC 22556 [Washington]: Farquhar Cemetery
+    addr: 7331 Lone Star Rd., Washington
+    https://atlas.thc.texas.gov/Details/5000022556
+
+  THC 14253 [Washington]: George Clark Red Homestead
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507014253
+
+  THC 18280 [Washington]: Harmon School
+    addr: Burton
+    https://atlas.thc.texas.gov/Details/5507018280
+
+  THC 24317 [Washington]: Krueger Cemetery
+    addr: Krueger Road, Washington
+    https://atlas.thc.texas.gov/Details/5000024317
+
+  THC 15148 [Washington]: Mill Creek Farm
+    addr: Brenham
+    https://atlas.thc.texas.gov/Details/5507015148
+
+  THC 22516 [Washington]: Motley-Cummings Cemetery
+    addr: 7145 Gibbs Creek Rd., Chappell Hill
+    https://atlas.thc.texas.gov/Details/5000022516
+
+  THC 15054 [Washington]: Mt. Calvary Cemetery
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507015054
+
+  THC 14398 [Washington]: The Brown-Woodlief Log House
+    addr: Washington
+    https://atlas.thc.texas.gov/Details/5507014398
+
+  THC 17032 [Washington]: The Hunt-Hardy House
+    addr: Gay Hill
+    https://atlas.thc.texas.gov/Details/5507017032
+
+  THC 15404 [Washington]: The Hutchinson-Korth Home
+    addr: Washington
+    https://atlas.thc.texas.gov/Details/5507015404
+
+  THC 17540 [Washington]: Whiting Cemetery
+    addr: 10251 Lone Star Rd, Brenham
+    https://atlas.thc.texas.gov/Details/5507017540
+
+  THC 1393 [Webb]: Education in Mirando City
+    addr: Panther Drive, Mirando City
+    https://atlas.thc.texas.gov/Details/5479001393
+
+  THC 17129 [Webb]: Lala's Café
+    addr: Mirando City
+    https://atlas.thc.texas.gov/Details/5507017129
+
+  THC 3854 [Webb]: Oliver Winfield Killam
+    addr: FM 649, Mirando City
+    https://atlas.thc.texas.gov/Details/5479003854
+
+  THC 15175 [Webb]: Poblacion De Dolores
+    addr: Laredo
+    https://atlas.thc.texas.gov/Details/5507015175
+
+  THC 4271 [Webb]: Rio Grande and Eagle Pass Railroad (Pecos and Rio Grande Railroad)
+    addr: FM 1472, NW of Laredo, Laredo
+    https://atlas.thc.texas.gov/Details/5479004271
+
+  THC 24261 [Wharton]: "Sea of Mud"
+    addr: Hwy 90A, East Bernard
+    https://atlas.thc.texas.gov/Details/5000024261
+
+  THC 20137 [Wharton]: Irrigation and the Development of Agriculture in Lane City, Texas
+    addr: County Road 116, Lane City
+    https://atlas.thc.texas.gov/Details/5507020137
+
+  THC 24253 [Wharton]: Louise Community Cemetery
+    addr: Louise
+    https://atlas.thc.texas.gov/Details/5000024253
+
+  THC 22749 [Wharton]: Newgulf Campo Santo (HTC)
+    addr: CR 101, Newgulf
+    https://atlas.thc.texas.gov/Details/5000022749
+
+  THC 22745 [Wharton]: Old Jerusalem Cemetery (HTC)
+    addr: 5611 FM 1161 West, Glen Flora
+    https://atlas.thc.texas.gov/Details/5000022745
+
+  THC 23638 [Wharton]: Roberts Family Cemetery
+    addr: CR 125, Burr
+    https://atlas.thc.texas.gov/Details/5000023638
+
+  THC 14686 [Wharton]: Webb, Mack Hardware Store
+    addr: El Campo
+    https://atlas.thc.texas.gov/Details/5507014686
+
+  THC 14563 [Wheeler]: Britt Rock House
+    addr: Wheeler
+    https://atlas.thc.texas.gov/Details/5507014563
+
+  THC 23709 [Wheeler]: Mount Zion Cemetery
+    addr: Mobeetie
+    https://atlas.thc.texas.gov/Details/5000023709
+
+  THC 23799 [Wheeler]: Pakan Cemetery
+    addr: CR X, Shamrock
+    https://atlas.thc.texas.gov/Details/5000023799
+
+  THC 23267 [Wheeler]: The Battle of Sweetwater Creek
+    addr: FM 1046, Mobeetie
+    https://atlas.thc.texas.gov/Details/5000023267
+
+  THC 12297 [Willacy]: Old Alice Road
+    addr: La Jarita
+    https://atlas.thc.texas.gov/Details/5489012297
+
+  THC 24286 [Williamson]: Oak Grove Cumberland Presbyterian Church and Tabernacle
+    addr: 12951 Ranch Road 2338, Andice
+    https://atlas.thc.texas.gov/Details/5000024286
+
+  THC 24148 [Williamson]: Perry Cemetery
+    addr: CR 211, Liberty Hill
+    https://atlas.thc.texas.gov/Details/5000024148
+
+  THC 23956 [Williamson]: Welfare Workers Club
+    addr: 903 East MLK Jr. Blvd., Taylor
+    https://atlas.thc.texas.gov/Details/5000023956
+
+  THC 24206 [Wise]: Harding-Gregg Log Cabin
+    addr: 575 CR 4226, Decatur
+    https://atlas.thc.texas.gov/Details/5000024206
+
+  THC 23739 [Wise]: Sweetwater Cemetery
+    addr: Decatur
+    https://atlas.thc.texas.gov/Details/5000023739
+
+  THC 23673 [Wood]: East Texas Serenaders
+    addr: Commerce St., Mineola
+    https://atlas.thc.texas.gov/Details/5000023673
+
+  THC 23964 [Wood]: Jack Rhodes
+    addr: Commerce St., Mineola
+    https://atlas.thc.texas.gov/Details/5000023964
+
+  THC 23916 [Wood]: Lloyd Common School No. 17
+    addr: FM 515, Quitman
+    https://atlas.thc.texas.gov/Details/5000023916
+
+  THC 23677 [Wood]: New Hope Common School District No. 33
+    addr: FM 1801, Mineola
+    https://atlas.thc.texas.gov/Details/5000023677
+
+  THC 20196 [Wood]: Pleasant Ridge Cemetery
+    addr: SH 182, Alba
+    https://atlas.thc.texas.gov/Details/5507020196
+
+  THC 18156 [Wood]: Removal of Cherokees
+    addr: CR 2724 at entrance to Mineola Nature Preserve, Mineola
+    https://atlas.thc.texas.gov/Details/5507018156
+
+  THC 22420 [Wood]: Webster Community
+    addr: Winnsboro
+    https://atlas.thc.texas.gov/Details/5000022420
+
+  THC 23397 [Wood]: William Richard Phillips
+    addr: FM 2422, Mineola
+    https://atlas.thc.texas.gov/Details/5000023397
+
+  THC 1493 [Young]: Episcopal Parish Church
+    addr: Possum Kingdom Lake, Graham
+    https://atlas.thc.texas.gov/Details/5503001493
+
+  THC 14868 [Young]: Graves of Seven Teamsters
+    addr: Newcastle
+    https://atlas.thc.texas.gov/Details/5507014868
+
+  THC 16693 [Zapata]: Falcon International Reservoir
+    https://atlas.thc.texas.gov/Details/5507016693
+

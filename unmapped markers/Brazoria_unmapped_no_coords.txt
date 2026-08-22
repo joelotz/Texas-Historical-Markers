@@ -1,4 +1,4 @@
-Brazoria unmapped markers with NO usable address (7):
+Brazoria unmapped markers with NO usable address (6):
 
   THC 24265: Greater St. Paul Baptist Church
     addr: N. Brooks St., Brazoria
@@ -11,10 +11,6 @@ Brazoria unmapped markers with NO usable address (7):
   THC 17994: Mount Zion Cemetery
     addr: Lake Jackson
     https://atlas.thc.texas.gov/Details/5507017994
-
-  THC 9583: Perkins Family Cemetery
-    addr: West Columbia vicinity
-    https://atlas.thc.texas.gov/Details/5039009583
 
   THC 9594: Site of The Home of Henry Smith
     addr: Brazoria

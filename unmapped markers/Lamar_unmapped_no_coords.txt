@@ -1,8 +1,4 @@
-Lamar unmapped markers with NO usable address (9):
-
-  THC 17581: Campbell Cemetery
-    addr: Paris
-    https://atlas.thc.texas.gov/Details/5507017581
+Lamar unmapped markers with NO usable address (8):
 
   THC 23262: Culbertson Fountain
     addr: Downtown Plaza, Paris

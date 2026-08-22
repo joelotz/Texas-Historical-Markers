@@ -2,20 +2,40 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Nueces County — Unmapped Historical Markers</name>
-  <description>THC markers in Nueces County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in Nueces County without an HMDB id (isMissing excluded). 4 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Early History of Port of Corpus Christi</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[under High Bridge at north end of Water Street, Corpus Christi<br/><br/><b>Address:</b> Water St., under high bridge, Corpus Christi<br/><br/><b>Marker Text:</b> Protected by offshore islands, the shallow waters of Corpus Christi Bay were a haven for smugglers before the Texas Revolution (1836). Commercial activity began when Henry L. Kinney (1814-1860) opened a trading post here about 1838. After the Mexican War (1846-1848), Corpus Christi became a departure point for the California Gold Rush (1849) and a main stop on the route between San Antonio and the Rio Grande Valley. In 1854 the city authorized dredging operations to make the harbor accessible to deep water vessels. In 1857 a circuitous 32-mile long channel was opened from Corpus Christi Bay to Aransas Pass. Blockaded by Federal ships during the Civil War (1861-1865), Corpus Christi remained a major port for Confederate trade with Mexico until the harbor was captured in 1864. The ship channel was widened and deepened in 1874. Elihu Harrison Ropes of New Jersey came to Corpus Christi in 1890 with ambitious plans for development of the city and port. Using a steam dredge, he began digging a 14-mile long, 15-foot deep pass across Mustang Island. The "Ropes Boom" collapsed in the Panic of 1893, but Ropes' efforts laid a foundation for the opening of the Port of Corpus Christi on Sept. 15, 1926, and its success as one of the nation's largest seaports. (1977)]]></description>
-    <Point><coordinates>-97.39555,27.811508,0</coordinates></Point>
+    <Point><coordinates>-97.3962019380241,27.8117197764348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nueces County</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[under high bridge at north end of Water street, Corpus Christi<br/><br/><b>Address:</b> Corpus Christi<br/><br/><b>Marker Text:</b> Created April 18, 1846, Organized July 13, 1846 Named for the river which, in 1689, Alonso de Leon called the Nueces because of the many Pecan trees on its banks. Corpus Christi county seat]]></description>
+    <Point><coordinates>-97.394594,27.811605,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Old Bayview Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Old Bayview Cemetery, Ramirez and Waco streets<br/><br/><b>Address:</b> 1150 Ramirez St., Corpus Christi<br/><br/><b>Marker Text:</b> Established 1845 Historic Texas Cemetery-2002]]></description>
-    <Point><coordinates>-97.399696,27.800701,0</coordinates></Point>
+    <Point><coordinates>-97.3994725206737,27.8005430146904,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Todd-Budd House</name>
-    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 805 Park Ave., Corpus Christi<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 805 Park Ave., Corpus Christi<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-97.399676,27.786134,0</coordinates></Point>
   </Placemark>
 </Document>

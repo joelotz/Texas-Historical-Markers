@@ -1,4 +1,4 @@
-Bexar unmapped markers with NO usable address (12):
+Bexar unmapped markers with NO usable address (11):
 
   THC 18835: 9th Cavalry at San Pedro Springs
     addr: West Myrtle at N. Flores, San Antonio
@@ -39,10 +39,6 @@ Bexar unmapped markers with NO usable address (12):
   THC 18838: St. Michael's Roman Catholic Church
     addr: 424 South Street, San Antonio
     https://atlas.thc.texas.gov/Details/5507018838
-
-  THC 16016: Vogel Cemetery
-    addr: 9590 Lower Smithson Valley Road, Bulverde
-    https://atlas.thc.texas.gov/Details/5507016016
 
   THC 18578: Westside Black Enclaves
     addr: San Antonio

@@ -2,36 +2,71 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>San Jacinto County — Unmapped Historical Markers</name>
-  <description>THC markers in San Jacinto County without an HMDB id (isMissing excluded). 6 with THC coords; 0 geocoded from address; 4 omitted (no usable address).</description>
+  <description>THC markers in San Jacinto County without an HMDB id (isMissing excluded). 9 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>George Tyler Wood</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Robinson Cemetery, SW of Robinson Way, 0.3 mi. SE of Gov. Wood Dr. Granite obelisk at gravesite. Map dot approximate. See also historical markers for Governor Wood in San Jacinto County from 1936 (5507016088), 1970 (5407007674) and 1976 (5407007675).<br/><br/><b>Address:</b> Robinson Way, Point Blank<br/><br/><b>Marker Text:</b> Born March 12, 1795, at Cuthbert, Randolph County Georgia. Died September 3, 1858. Was a member of the Congress of the Republic of Texas in 1841-2, and was Governor of the State of Texas in 1847-9. Here sleeps a just man.]]></description>
-    <Point><coordinates>-95.208226,30.739829,0</coordinates></Point>
+    <Point><coordinates>-95.2082710613548,30.7398459784092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrell Plantation Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> from Point Blank, south on Hwy. 156 four mi. then turn east on Harrell Cemetery Road. Cemetery is at end of road., Point Blank]]></description>
+    <Point><coordinates>-95.1743773927517,30.703128485107,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Isaac Jones</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Isaac Jones Cemetery at Jones Bluff just west off US 190, about 4 mi. east of Point Blank<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> (October 4, 1793 - May 27, 1878) Individualistic pioneer of Texas. Born in Mississippi; moved here 1834, receiving Mexican land grant on west bank of Trinity River. Served 3 months in army of Texas Republic 1836-38. Operated ferry at Jones Bluff 1858, 1861. Wife: Elizabeth (Martin).]]></description>
-    <Point><coordinates>-95.167886,30.798123,0</coordinates></Point>
+    <Point><coordinates>-95.1677368530113,30.798429494913,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Mount Capers Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[take US 190 E about 3 mi. to FM 980, go north on FM 980 2.5 mi. to Old Staley Rd., go west about 2 mi. to Mount Capers Cemetery Rd., go south to cemetery<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> Sarah Washington Ricks Durdin Chrznowski (1819-94) donated land for this cemetery from estate of her late husband, James. T. Durdin (d. 1859), probably in 1860s, although no deed exists. Cemetery was named for adjacent Mount Capers Baptist Chapel, built by the Rev. L. R. Capers. According to tradition, first grave was for Elisha Williams; James Tarpley Knight, an infant grandson of land donor, was interred in Dec. 1871. Oldest legible headstone is dated 1873. The Mount Capers Cemetery Association received in Aug. 1971 a deed to four acres of land here. There are 100 or more graves.]]></description>
-    <Point><coordinates>-95.271023,30.817779,0</coordinates></Point>
+    <Point><coordinates>-95.2584636057809,30.8252940844008,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Mount Zion Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[south of SH 156, 3 mi. SE of Point Blank<br/><br/><b>Address:</b> Point Blank<br/><br/><b>Marker Text:</b> John R. Johnson, whose 1849 land grant included this property, gave 4.25 acres in 1850 to Mount Zion Methodist Church. Churchyard burials may have begun earlier, but oldest gravestone is dated 1870. The church building was dismantled in 1928 after it fell into ruin. In 1958, descendants of Harrells' settlement, Mount Zion, and Stephens Creek pioneers began a yearly homecoming here at the sole public landmark of their ancestors, the cemetery. As of 1976, there are about 250 graves-- most of them identified and a number marked through efforts of a special committee.]]></description>
-    <Point><coordinates>-95.194576,30.711655,0</coordinates></Point>
+    <Point><coordinates>-95.1944694318784,30.7114891642684,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Oakhurst Center Hill Church and Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Oakhurst, east on US 190 about .9 mi., then south .1 mi. on dirt road<br/><br/><b>Address:</b> Oakhurst<br/><br/><b>Marker Text:</b> In area settled by 1830s, five successive buildings -- the first a log cabin, Hibbetts Church -- have stood here as community worship centers. Since all faiths used early building, it came to be called "Union Center," then "Center Hill." Site was actually privately owned until Sept. 3, 1882, when Russell Roark deeded 5-acre cemetery and church site to Center Hill community. In the 1890s, a Baptist group assumed care of cemetery and church. In 1938, Annual Homecoming (fourth Sunday in June) was instituted.]]></description>
-    <Point><coordinates>-95.304249,30.741198,0</coordinates></Point>
+    <Point><coordinates>-95.3035255204313,30.742325555527,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Pine Valley Cemetery and Missionary Baptist Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[16 mi. west of Coldspring off FM 2693 via SH 150<br/><br/><b>Address:</b> Coldspring<br/><br/><b>Marker Text:</b> The organizational meeting for this church was held about 1868 in the smokehouse of David Pursley. The earliest sanctuary was a log building constructed by the members, and the Rev. Lewin Adams (1822-1899), who is buried here, served as the first pastor. The community burial ground also served the pioneer settlers of the area. The earliest marked grave is that of Susan Henley Irby (1825-1878) who died here while on a visit from Mississippi. An early member of the Tryon Baptist Association, the church celebrates homecoming here each May.]]></description>
-    <Point><coordinates>-95.323848,30.592062,0</coordinates></Point>
+    <Point><coordinates>-95.3246010819786,30.5930406079684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Raven Hill</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[3 mi. SE on FM 946, 2 mi. off road<br/><br/><b>Address:</b> Oakhurst<br/><br/><b>Marker Text:</b> Plantation home of General Sam Houston who was called "The Raven" by the Cherokee Indians. Built in 1844; sold before 1860.]]></description>
+    <Point><coordinates>-95.3002797878119,30.6871362371244,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>William Rolfe Kelley and Dinah Rush</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[NE corner of HWY 946 and FM 3018<br/><br/><b>Address:</b> Oakhurst<br/><br/><b>Marker Text:</b> William (Bill) Kelley and Dinah Rush raised a family in 19th century Texas despite state and federal laws which banned their union. Kelley was born in 1832 in Buckingham Co., Virginia, to Radford and Susan Kelley. Bill’s oldest sister, Martha, married Pleasant Jennings in 1839 and moved to this area (then in Polk County), where Pleasant became an overseer on the hightower plantation. Bill became the head of his family when his father died of an unknown illness. By 1851 he joined his sister and brother-in-law in Texas, accepting a job as an overseer on the Todd Robinson Plantation. Dinah rush was born a slave in Alabama in 1848. Her owner and likely father, Otis Rush, arrived in this area around 1852. According to an 1860 census, he owned 17 slaves including Dinah, who was described as Mulatto (mixed African-American and Caucasian heritage). Bill Kelley served in the 25th regiment of the Texas Cavalry, C.S.A., during the Civil War. In 1863, he was taken prisoner at Fort Hindman, Arkansas, and was later transferred to Fort Butler, Illinois. In 1867, he bought 154 acres of land; ultimately the Kelley farm would comprise nearly 700 acres and become known for its hogs, potatoes, yams and cotton. Bill Kelley and Dinah Rush had ten children: Eliza, Lawson, Mittie, Harley, Lois, Herndon, Susan, Will, Fanny, and John. Laws against interracial marriage prevented Dinah from marrying the father of her children or sharing their surname. In 1884 Dinah died shortly after delivering her tenth child. Bill died in 1922 surrounded by his children and grandchildren. Today descendants include leaders in business, law, medicine, and education, the products of a loving union and enduring values.]]></description>
+    <Point><coordinates>-95.3088964432836,30.7244267039435,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

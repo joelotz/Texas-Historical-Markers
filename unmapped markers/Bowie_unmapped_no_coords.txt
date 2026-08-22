@@ -1,24 +1,8 @@
-Bowie unmapped markers with NO usable address (8):
-
-  THC 12405: Black Cherry Tree
-    addr: E. Entrance Ave., Hooks
-    https://atlas.thc.texas.gov/Details/5037012405
+Bowie unmapped markers with NO usable address (4):
 
   THC 12408: Bois d'Arc
     addr: DeKalb
     https://atlas.thc.texas.gov/Details/5037012408
-
-  THC 12406: Phillip A. Dalby Homestead
-    addr: DeKalb vicinity
-    https://atlas.thc.texas.gov/Details/5037012406
-
-  THC 22682: Read Hill Cemetery
-    addr: CR 4005, New Boston
-    https://atlas.thc.texas.gov/Details/5000022682
-
-  THC 9504: Rochelle Place
-    addr: Texarkana vicinity
-    https://atlas.thc.texas.gov/Details/5037009504
 
   THC 18944: Sand Hill Cemetery
     addr: Simms

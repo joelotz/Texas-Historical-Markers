@@ -2,16 +2,35 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Throckmorton County — Unmapped Historical Markers</name>
-  <description>THC markers in Throckmorton County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address).</description>
+  <description>THC markers in Throckmorton County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 0 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>First Christian Church</name>
-    <description><![CDATA[200 Highway 183 N | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 200 Highway 183 N, Woodson<br/><br/><b>Marker Text:</b> The area’s earliest ranching families worshipped in each other’s homes, occasionally organizing circuit rider visits and camp meetings. After a camp meeting in 1904, O.J. Wood conveyed land for a church site. Members constructed the church building and dedicated it in early 1905. Soon after, members elected deacons and elders and formally organized First Christian Church, with a Brother Weaver as the first pastor. An early community school met in the church building. The church built additional structures in the latter half of the 20th century. For over one hundred years, First Christian Church has continued to serve the spiritual needs of the Woodson community.]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[200 Highway 183 N<br/><br/><b>Address:</b> 200 Highway 183 N, Woodson<br/><br/><b>Marker Text:</b> The area’s earliest ranching families worshipped in each other’s homes, occasionally organizing circuit rider visits and camp meetings. After a camp meeting in 1904, O.J. Wood conveyed land for a church site. Members constructed the church building and dedicated it in early 1905. Soon after, members elected deacons and elders and formally organized First Christian Church, with a Brother Weaver as the first pastor. An early community school met in the church building. The church built additional structures in the latter half of the 20th century. For over one hundred years, First Christian Church has continued to serve the spiritual needs of the Woodson community.]]></description>
     <Point><coordinates>-99.054509,33.016318,0</coordinates></Point>
   </Placemark>
   <Placemark>
+    <name>Lynching of Tom Farrar</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[1/4 mile east of County Road 206 on Lake Road at the old Water Treatment Plant<br/><br/><b>Address:</b> Throckmorton<br/><br/><b>Marker Text:</b> In October 1886, 19-year-old Tom Farrar was one of several African American cowboys working on area ranches. On his way to the Buchanan Ranch, he stopped at a sheepherder’s dugout. The bodies of a father and daughter were discovered there the next day. Deputy Tom McCarver recognized a unique horseshoe print at the crime scene. Farrar was arrested and brought to the calaboose, where he confessed to the killings and sent a note to his family. During the night, a mob of dozens of men broke into the jail, put a rope around Farrar’s neck, dragged him behind a horse, then hung his body from an elm tree on the creek near this site. This act of vigilantism affected generations, with African Americans virtually disappearing from Throckmorton County.]]></description>
+    <Point><coordinates>-99.1858791508834,33.1738555697788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
     <name>Old Throckmorton Jail</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[South Eagle and West Chestnut<br/><br/><b>Address:</b> Throckmorton]]></description>
-    <Point><coordinates>-99.622509,33.054274,0</coordinates></Point>
+    <Point><coordinates>-99.1808076765819,33.1781420583475,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

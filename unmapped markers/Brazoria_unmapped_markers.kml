@@ -2,69 +2,99 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Brazoria County — Unmapped Historical Markers</name>
-  <description>THC markers in Brazoria County without an HMDB id (isMissing excluded). 13 with THC coords; 0 geocoded from address; 7 omitted (no usable address).</description>
+  <description>THC markers in Brazoria County without an HMDB id (isMissing excluded). 14 with THC coords; 0 geocoded from address; 6 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abraham B. Marshall High School</name>
-    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 300 Parrish St., Angleton<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 300 Parrish St., Angleton<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-95.437205,29.165455,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Columbia (First Capital of Texas)</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 100 E. Brazos Avenue, West Columbia<br/><br/><b>Marker Text:</b> In 1836 and 1837, the town of Columbia (now West Columbia) served as the capital of the Republic of Texas. Josiah Hughes Bell, a colonist with Stephen F. Austin’s Old Three Hundred, surveyed and platted Columbia in 1824 to serve as a center for shipping activities. In the mid-1830s, Columbia played an important part in the Texas War for Independence, as residents adopted resolutions for sovereignty. In July 1836, ad interim President of the Republic of Texas, David G. Burnet, named Columbia as the location for the country’s first capital. He selected the town because it had adequate housing for legislators and possessed a newspaper, the Telegraph and Texas Register. The first Congress of the Republic convened in Columbia, and Sam Houston, the first elected President, was inaugurated here on October 22, 1836. The new government addressed a number of important issues while in Columbia, including the reorganization of the Republic’s army and navy; the organization of a post office department and general land office; the establishment of a court system; and the approval of a national seal and national flags. The first Congress adjourned in December 1836, with plans to meet for a second session in the newly built city of Houston. Although Congress began to meet in Houston, the executive branch remained here, conducting official duties until April 1837, when President Houston moved his executive office to his namesake city. Although Columbia no longer served as capital, the legislation passed here in 1836 continued to play a vital role throughout the years of the Republic. Today, Columbia is revered as a historic community and first capital of the Republic of Texas.(2008)]]></description>
-    <Point><coordinates>-95.647835,29.144632,0</coordinates></Point>
+    <Point><coordinates>-95.6475366703444,29.1446236791337,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Dr. James Aeneas Phelps</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[SH 35 E, then north on concrete road on west side of Brazos River for 11 miles<br/><br/><b>Address:</b> West Columbia vicinity<br/><br/><b>Marker Text:</b> Hospital surgeon at San Jacinto. Born in Mississippi; came to Texas in 1822; died in 1847.]]></description>
-    <Point><coordinates>-95.578676,29.253133,0</coordinates></Point>
+    <Point><coordinates>-95.5769339607158,29.2542170626695,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Durazno Plantation</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[end of Durazno Rd., 1 mi. S of SH 36, in Jones Creek<br/><br/><b>Address:</b> Jones Creek<br/><br/><b>Marker Text:</b> Originally a part of Stephen F. Austin's 1828 Mexican land grant, Durazno (Spanish for "peach") plantation was willed by Austin to his sister, Emily Austin Bryan Perry, upon his death in December 1836. The property was deeded in 1847 to Emily's son, William Joel Bryan, who developed it into a cotton and sugar plantation. The land remained in the family until 1928, when it was purchased by Robert E. L. Stringfellow. Among the structures on the plantation were a main house, plantation office, log carriage house, barns and other outbuildings, and a number of slave cabins. (1991)]]></description>
-    <Point><coordinates>-95.449906,28.95627,0</coordinates></Point>
+    <Point><coordinates>-95.449896011389,28.95785500055,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Methodist Church of Sweeny</name>
-    <description><![CDATA[marker pending | thc:Latitude/Longitude is a general geocoded approximation from the street address (US Census geocoder), not field-verified.<br/><br/><b>Address:</b> 207 E. First Street, Sweeny<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 207 E. First Street, Sweeny<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-95.697251,29.038986,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Presbyterian Church of Angleton</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 130 S. Arcola St., Angleton<br/><br/><b>Marker Text:</b> The First Presbyterian Church of Angleton was organized by the Rev. R. H. Byers and fifteen charter members in 1896. Recovery efforts following the 1900 storm led to the construction of a Presbyterian church. The Ladies' Auxiliary, formed in 1901, was instrumental in fundraising for this and later projects. The first services were held in the new building in 1902. In 1906, when the building debt was paid, there were 27 members of the congregation. By 1954 a larger, brick edifice was dedicated. The congregation continued to grow, acquiring additional land and structures as needed. In 1997 the membership reached 243. (1998)]]></description>
-    <Point><coordinates>-95.429163,29.164169,0</coordinates></Point>
+    <Point><coordinates>-95.4291832745518,29.163870794868,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Gulf Prairie Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[off SH 36 on Gulf Prairie Rd., Jones Creek<br/><br/><b>Address:</b> 231 Gulf Prairie Rd., Jones Creek<br/><br/><b>Marker Text:</b> ESTABLISHED CA. 1833 HISTORIC TEXAS CEMETERY - 2009]]></description>
-    <Point><coordinates>-95.472085,28.979124,0</coordinates></Point>
+    <Point><coordinates>-95.4728918686253,28.9761634459802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Perkins Family Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[county road 5, 3 miles off SH 36, 5 miles northwest of West Columbia<br/><br/><b>Address:</b> West Columbia vicinity<br/><br/><b>Marker Text:</b> Stephen William Perkins (1808-1876) and his wife Anna Elizabeth (Walcott) came to Texas in 1840. They settled first in Montgomery County, and later in Velasco. In 1842 they built a home near this site. The Perkins family began a small family graveyard on their farm when one of their children died. the grave is not marked, but it is believed that William Collins Perkins (1842-1843) was the first person buried here. A daughter, three-year-old Mary Joplin Perkins, died in 1849 and was probably interred next to her brother. When Anna Perkins died in 1854, she was buried near her children. Eventually, four of the five Perkins children were interred here, although the grave of son Stephen Edward (1840-1885) is the only marked burial. Also interred here are a number of slaves. Stephen W. Perkins served as a representative from Brazoria County to the Republic of Texas Congress and the State Legislature. He represented Brazoria, Wharton, and Matagorda counties in the State Senate in 1847-1848, and later was chief justice of Brazoria County for twelve years. He was captain of a Texas volunteer company during the Civil War. He died in 1876 while visiting his daughter, Annie Eugenia Cayce, in Coryell County, and was buried there. (1990)]]></description>
+    <Point><coordinates>-95.7218649303007,29.1929474793212,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sandy Point Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[FM 521 about 3 mi. north of Rosharon<br/><br/><b>Address:</b> Rosharon<br/><br/><b>Marker Text:</b> Early county cemetery. Started before 1845. Land once part of great sugar and cotton plantations. Buried in this tract are veterans of 1836 Texas Revolution and Civil War (1861-65); also members of ill-fated Mier Expedition. Col. B. F. Terry, organizer of Terry's Texas Rangers, was formerly buried here. (1970)]]></description>
     <Point><coordinates>-95.4804,29.383048,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Sandy Point Cemetery</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[approx. 1/2 mile down dirt road SW of intersection of CR 42 and SH 521<br/><br/><b>Address:</b> Sandy Point<br/><br/><b>Marker Text:</b> Sandy Point Cemetery Established circa 1850 Historic Texas Cemetery - 2003]]></description>
     <Point><coordinates>-95.484982,29.377063,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Site of Orozimbo</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[CR 255 off CR 25 via SH 35 north of West Columbia<br/><br/><b>Address:</b> West Columbia<br/><br/><b>Marker Text:</b> Home of Dr. James Aeneas Phelps, a member of "Old Three Hundred" of Austin's colony, hospital surgeon of the Texas Army at San Jacinto. Here Santa Anna was detained as a prisoner from July to November, 1836.]]></description>
-    <Point><coordinates>-95.578707,29.253151,0</coordinates></Point>
+    <Point><coordinates>-95.5776253926464,29.2535729008099,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>St. Paul Missionary Baptist Church</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[From Sweeny, turn on CR 316 for 4.2 miles, turn right on CR 318 for 1.5 miles<br/><br/><b>Address:</b> 9302 CR 318, Brazoria]]></description>
-    <Point><coordinates>-95.632214,28.93043,0</coordinates></Point>
+    <Point><coordinates>-95.6325155621163,28.9297968760356,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The Hon. Nathan H. Haller</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 515 N. Velasco, Angleton]]></description>
     <Point><coordinates>-95.432079,29.168716,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>The Lively</name>
+    <styleUrl>#normal</styleUrl>
     <description><![CDATA[Surfside City Hall. Bronze plaque on pink granite boulder.<br/><br/><b>Address:</b> 1304 Monument Drive, Surfside Beach<br/><br/><b>Marker Text:</b> The Lively, first vessel with emigrants to Austin's colony landed here December 23, 1821. The Battle of Velasco was fought here June 26, 1832. Public and secret treaties of peace between the Republic of Texas and General Santa Anna were signed here May 14, 1836. Dedicated May 14, 1936.]]></description>
     <Point><coordinates>-95.299723,28.942867,0</coordinates></Point>
   </Placemark>

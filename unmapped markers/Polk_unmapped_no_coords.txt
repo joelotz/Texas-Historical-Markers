@@ -1,12 +1,8 @@
-Polk unmapped markers with NO usable address (17):
+Polk unmapped markers with NO usable address (15):
 
   THC 14319: Abbott Springs Meadows Cemetery
     addr: Corrigan
     https://atlas.thc.texas.gov/Details/5507014319
-
-  THC 15987: Adams Cemetery
-    addr: Moscow
-    https://atlas.thc.texas.gov/Details/5507015987
 
   THC 18246: Bluewater Cemetery
     https://atlas.thc.texas.gov/Details/5507018246
@@ -49,10 +45,6 @@ Polk unmapped markers with NO usable address (17):
   THC 10418: Paddlewheels on the Trinity
     addr: Livingston
     https://atlas.thc.texas.gov/Details/5373010418
-
-  THC 10399: Roscoe D. Holliday
-    addr: Goodrich
-    https://atlas.thc.texas.gov/Details/5373010399
 
   THC 10423: Saxon Family Homestead
     addr: Corrigan

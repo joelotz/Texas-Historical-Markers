@@ -2,7 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Crane County — Unmapped Historical Markers</name>
-  <description>THC markers in Crane County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 2 omitted (no usable address).</description>
-
+  <description>THC markers in Crane County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 0 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Castle Gap</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[6 miles south of Crane on Hwy 385<br/><br/><b>Address:</b> Crane<br/><br/><b>Marker Text:</b> When day breaks and the morning sun rises above Castle Mountain, a distinct landmark appears on the outer perimeter of the Chihuahuan Desert. The landmark of Castle Gap is a natural gap in the Castle Mountain Range, which protrudes from the King Mountain range in Upton County. In prehistoric times, nomadic Native American Indians traversed the area, as evidenced by flint arrow points found there. As men began to move west and explore the unknown region of west Texas, they saw in the distance a mountain that looked like a castle with a hole in the wall. As a result the hole became known as the gap in Castle Mountains, but is now called Castle Gap. This gap provided easy and time-saving access to the other side of the mountain range. Within the gap on the north wall was a seeping source of fresh water, a much needed life-sustaining source. The first recorded European visitors were Spanish Explorers in 1535. Many more pioneers followed, as the gold prospectors travelling to California stopped for rest. From 1858 to 1861, the Butterfield Overland Mail Coaches rumbled through the pass on their 24-day journey from St. Louis to San Francisco, stopping at the small adobe walled castle gap station only long enough for fresh teams, then moving on to ford the Pecos River at Horse Head Crossing, 12 miles to the southwest. By 1866 the Goodnight-Loving Cattle Trail was well established, through the gap, funneling tens of thousands of longhorn cattle to the northern markets. During the same time, legend holds, a treasure-laden aide of Emperor Maximillian of Mexico, fleeing the country, buried his gold and jewels as he stopped to rest in the gap. All the pioneer trails are now dormant.]]></description>
+    <Point><coordinates>-102.348787772629,31.2920050739361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Horsehead Crossing of The Pecos</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Located in the Crane TxDot scrapyard, US 385 1 mile N of Crane<br/><br/><b>Address:</b> Crane<br/><br/><b>Marker Text:</b> Well known to frontiersmen and used by emigrants for several years preceding, this crossing was an important point on the southern overland mail (Butterfield route) which Linked St. Louis and San Francisco with a semi-weekly mail and stage service 1858-1861.]]></description>
+    <Point><coordinates>-102.357367865033,31.422075963447,0</coordinates></Point>
+  </Placemark>
 </Document>
 </kml>

@@ -1,20 +1,8 @@
-Wharton unmapped markers with NO usable address (11):
+Wharton unmapped markers with NO usable address (7):
 
   THC 24261: "Sea of Mud"
     addr: Hwy 90A, East Bernard
     https://atlas.thc.texas.gov/Details/5000024261
-
-  THC 14496: Boling United Methodist Church
-    addr: Boling
-    https://atlas.thc.texas.gov/Details/5507014496
-
-  THC 14843: Egypt Plantation
-    addr: Egypt
-    https://atlas.thc.texas.gov/Details/5507014843
-
-  THC 15077: Garrett, John and Sophie, House
-    addr: Wharton
-    https://atlas.thc.texas.gov/Details/5507015077
 
   THC 20137: Irrigation and the Development of Agriculture in Lane City, Texas
     addr: County Road 116, Lane City
@@ -39,8 +27,4 @@ Wharton unmapped markers with NO usable address (11):
   THC 14686: Webb, Mack Hardware Store
     addr: El Campo
     https://atlas.thc.texas.gov/Details/5507014686
-
-  THC 22748: Wharton Hispanic Cemetery
-    addr: Grove St., Wharton
-    https://atlas.thc.texas.gov/Details/5000022748
 

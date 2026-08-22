@@ -1,4 +1,4 @@
-Lavaca unmapped markers with NO usable address (10):
+Lavaca unmapped markers with NO usable address (9):
 
   THC 14708: Camp of Texas Army
     addr: Moulton
@@ -19,10 +19,6 @@ Lavaca unmapped markers with NO usable address (10):
   THC 14902: Memorial Park Cemetery
     addr: Hallettsville
     https://atlas.thc.texas.gov/Details/5507014902
-
-  THC 17225: Old Kinkler Cemetery
-    addr: Hallettsville
-    https://atlas.thc.texas.gov/Details/5507017225
 
   THC 23622: Pleasant Grove School
     addr: CR 208, Hallettsville

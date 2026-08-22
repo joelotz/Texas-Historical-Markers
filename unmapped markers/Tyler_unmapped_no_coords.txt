@@ -1,12 +1,8 @@
-Tyler unmapped markers with NO usable address (10):
+Tyler unmapped markers with NO usable address (9):
 
   THC 11355: Alabama-Coushattas of Texas
     addr: Woodville
     https://atlas.thc.texas.gov/Details/5457011355
-
-  THC 22404: Davis Cemetery
-    addr: CR 3840, Colmesneil
-    https://atlas.thc.texas.gov/Details/5000022404
 
   THC 11364: Early Law Office
     addr: Beaver Street, Woodville

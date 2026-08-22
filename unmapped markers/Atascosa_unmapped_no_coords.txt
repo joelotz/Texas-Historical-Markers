@@ -1,4 +1,4 @@
-Atascosa unmapped markers with NO usable address (5):
+Atascosa unmapped markers with NO usable address (4):
 
   THC 23921: Edward Brown
     addr: 169 Olivares Rd., Poteet
@@ -10,10 +10,6 @@ Atascosa unmapped markers with NO usable address (5):
 
   THC 17445: Pleasanton City Cemetery
     https://atlas.thc.texas.gov/Details/5507017445
-
-  THC 20148: Rancho del Atascoso
-    addr: FM 476, Poteet
-    https://atlas.thc.texas.gov/Details/5507020148
 
   THC 23360: Shiloh Community
     addr: Shiloh Rd., Poteet

@@ -2,7 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Childress County — Unmapped Historical Markers</name>
-  <description>THC markers in Childress County without an HMDB id (isMissing excluded). 0 with THC coords; 0 geocoded from address; 6 omitted (no usable address).</description>
-
+  <description>THC markers in Childress County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <Style id="normal">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="pending">
+    <IconStyle>
+      <color>ff00a5ff</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Childress Army Air Field</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[15716 FM 164<br/><br/><b>Address:</b> 15716 FM 164, Childress<br/><br/><b>Marker Text:</b> During WWII, U.S. Army air forces initiated a bombardier and navigation school on about 2,400 acres west of Childress. By Oct. 1942 the field was active. Col. John W. White commanded Army Airfields (AAF) at Childress and Midland during the war. The first cadets arrived in Feb. 1943 to train for 18 weeks. “skip-bombing” practice at Lake Childress often drew large crowds. Practice targets were also located across several nearby counties. Childress AAF hosted six other fields for the first “All-American Precision Bombing Olympics” in May 1943. More than a tenth of all bombardiers (4,791) trained here. The war dept. also placed a prisoner of war camp at Childress AAF. After the field closed in Dec. 1945, the city received the land for a municipal airport and other public uses. (2022)]]></description>
+    <Point><coordinates>-100.281313220058,34.4321892097407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Site of Buck Creek Stage Stand</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[Johnson property, from Childress, take Highway 82/83 about 17 miles north.<br/><br/><b>Address:</b> Childress<br/><br/><b>Marker Text:</b> Established in 1882 by Frank Chriss. A stop on the mail route from Wichita Falls to Tascosa. Abandoned in 1886 after the Ft. Worth and Denver Railroad reached this region.]]></description>
+    <Point><coordinates>-100.202845876918,34.642474813423,0</coordinates></Point>
+  </Placemark>
 </Document>
 </kml>
