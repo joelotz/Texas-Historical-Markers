@@ -55,7 +55,7 @@ def is_pending(r: dict) -> bool:
     return r['isPending'].strip().lower() == 'true'
 
 
-def desc(r: dict, geocoded_note: str | None = None) -> str:
+def desc(r: dict, geocoded_note: str | None = None, county: str | None = None) -> str:
     """Popup body for one marker.
 
     `Marker Notes` is written for the person trying to find the marker —
@@ -74,6 +74,10 @@ def desc(r: dict, geocoded_note: str | None = None) -> str:
     addr = ', '.join(b for b in addr_bits if b)
     if addr:
         parts.append(f'<b>Address:</b> {escape(addr)}')
+    # Statewide builds pass `county`; a county-scoped KML already says it in the
+    # document title, so it stays out of the popup there.
+    if county:
+        parts.append(f'<b>County:</b> {escape(county)}')
     if geocoded_note:
         parts.append(
             f'<i>Coordinates derived by geocoding the address — may be approximate. '
