@@ -130,13 +130,13 @@ Two consequences worth knowing if you use this data:
 - **Only `verified:` coordinates are published to OpenStreetMap.** An estimate,
   however well-researched, is never good enough to put on the map.
 - **Prefer `verified:` and fall back to `estimated:`.** Of 17,517 markers,
-  12,850 have a verified position and 14,377 have an estimate; **952 have
+  12,862 have a verified position and 14,377 have an estimate; **946 have
   neither** and are still waiting to be located.
 
 An empty `verified:` pair is therefore not a gap in the data so much as a
 marker nobody has documented in person yet — the open work of this project.
 
-Those 952 are a strikingly uniform group: every one is an active marker with a
+Those 946 are a strikingly uniform group: every one is an active marker with a
 THC atlas page, and not one of them appears on hmdb.org. They are not missing
 because a step was skipped — they are the markers nobody has photographed yet.
 
