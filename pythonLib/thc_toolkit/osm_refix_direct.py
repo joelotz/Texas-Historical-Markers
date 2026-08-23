@@ -124,6 +124,63 @@ def close_changeset(
     r.raise_for_status()
 
 
+class RefPlanError(ValueError):
+    """A proposed set of writes would leave OSM in an invalid state."""
+
+
+def validate_ref_plan(
+    updates: list[dict],
+    world: dict[int, dict],
+    tag: str = "ref:US-TX:thc",
+) -> dict:
+    """Check the world state a plan would PRODUCE, not the reasoning behind it.
+
+    On 2026-08-22 a plan to retag 11 nodes was validated by two signals that
+    agreed unanimously -- the node's own ``source:website`` and a name-plus-
+    position match against the atlas. Both answered "which marker is this
+    node?". Neither answered "is that marker already mapped by some other
+    node?", which is what decides whether the write is safe. Every one of the
+    11 target refs was already held by a different node, so applying the plan
+    would have created 11 duplicate refs. Unanimity among redundant signals is
+    not corroboration.
+
+    ``updates`` are the node dicts about to be uploaded (``node_id`` + ``tags``).
+    ``world`` maps node id -> current tags for every node that carries ``tag``
+    today; it must be fetched live, not from a cache.
+
+    Raises :class:`RefPlanError` if any ref would end up on more than one node,
+    naming the ref and the nodes involved. Returns a summary otherwise.
+    """
+    after: dict[str, set[int]] = {}
+    for nid, tags in world.items():
+        ref = str(tags.get(tag) or "").strip()
+        if ref:
+            after.setdefault(ref, set()).add(int(nid))
+    changed = set()
+    for u in updates:
+        nid = int(u["node_id"])
+        changed.add(nid)
+        for holders in after.values():
+            holders.discard(nid)
+        ref = str((u.get("tags") or {}).get(tag) or "").strip()
+        if ref:
+            after.setdefault(ref, set()).add(nid)
+
+    after = {r: n for r, n in after.items() if n}     # a ref nobody holds any more is simply gone
+    collisions = {r: sorted(n) for r, n in after.items() if len(n) > 1}
+    if collisions:
+        lines = [f"{tag}={r} would be on nodes {', '.join(map(str, n))}"
+                 for r, n in sorted(collisions.items())]
+        raise RefPlanError(
+            f"{len(collisions)} ref(s) would be held by more than one node after this "
+            f"plan:\n  " + "\n  ".join(lines) +
+            "\n(validate the state a plan produces, not the reasoning behind it)"
+        )
+    return {"nodes_written": len(changed),
+            "refs_after": len(after),
+            "world_size": len(world)}
+
+
 def build_osmchange(updates: list[dict], changeset_id: int) -> bytes:
     from .atlas_check import assert_no_float_formatted_tags
 
