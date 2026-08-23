@@ -132,6 +132,7 @@ def validate_ref_plan(
     updates: list[dict],
     world: dict[int, dict],
     tag: str = "ref:US-TX:thc",
+    allow_shared: set[str] | None = None,
 ) -> dict:
     """Check the world state a plan would PRODUCE, not the reasoning behind it.
 
@@ -148,37 +149,66 @@ def validate_ref_plan(
     ``world`` maps node id -> current tags for every node that carries ``tag``
     today; it must be fetched live, not from a cache.
 
-    Raises :class:`RefPlanError` if any ref would end up on more than one node,
-    naming the ref and the nodes involved. Returns a summary otherwise.
+    A few refs legitimately sit on two nodes: THC issues one marker number and
+    two identical markers are installed, as with thc#5448 at the two ends of
+    the Waco Suspension Bridge, thc#493 and thc#10596. Those must be named
+    explicitly in ``allow_shared`` -- the caller has to assert the exception,
+    because the whole point of this check is that a shared ref is indistinguish-
+    able from the mistake it is meant to catch.
+
+    Raises :class:`RefPlanError` if any other ref would end up on more than one
+    node, naming the ref and the nodes involved. Returns a summary otherwise.
     """
-    after: dict[str, set[int]] = {}
-    for nid, tags in world.items():
-        ref = str(tags.get(tag) or "").strip()
-        if ref:
-            after.setdefault(ref, set()).add(int(nid))
+    allow_shared = {str(r).strip() for r in (allow_shared or ())}
+
+    def holders(state: dict[int, dict]) -> dict[str, set[int]]:
+        out: dict[str, set[int]] = {}
+        for nid, tags in state.items():
+            ref = str(tags.get(tag) or "").strip()
+            if ref:
+                out.setdefault(ref, set()).add(int(nid))
+        return out
+
+    before = holders(world)
+    after = {r: set(n) for r, n in before.items()}
     changed = set()
     for u in updates:
         nid = int(u["node_id"])
         changed.add(nid)
-        for holders in after.values():
-            holders.discard(nid)
+        for hs in after.values():
+            hs.discard(nid)
         ref = str((u.get("tags") or {}).get(tag) or "").strip()
         if ref:
             after.setdefault(ref, set()).add(nid)
+    after = {r: n for r, n in after.items() if n}   # a ref nobody holds any more is simply gone
 
-    after = {r: n for r, n in after.items() if n}     # a ref nobody holds any more is simply gone
-    collisions = {r: sorted(n) for r, n in after.items() if len(n) > 1}
-    if collisions:
+    # Only judge what this plan does. The world already contains shared refs
+    # this plan neither created nor touched; raising on those would make the
+    # check unusable and train people to bypass it.
+    caused, preexisting = {}, {}
+    for ref, nodes in after.items():
+        if len(nodes) < 2 or ref in allow_shared:
+            continue
+        was = before.get(ref, set())
+        if len(was) > 1 and nodes <= was:
+            preexisting[ref] = sorted(nodes)
+        else:
+            caused[ref] = sorted(nodes)
+
+    if caused:
         lines = [f"{tag}={r} would be on nodes {', '.join(map(str, n))}"
-                 for r, n in sorted(collisions.items())]
+                 for r, n in sorted(caused.items())]
         raise RefPlanError(
-            f"{len(collisions)} ref(s) would be held by more than one node after this "
-            f"plan:\n  " + "\n  ".join(lines) +
-            "\n(validate the state a plan produces, not the reasoning behind it)"
+            f"this plan would put {len(caused)} ref(s) on more than one node:\n  "
+            + "\n  ".join(lines) +
+            "\n(validate the state a plan produces, not the reasoning behind it; "
+            "pass allow_shared={...} only for markers genuinely issued twice)"
         )
     return {"nodes_written": len(changed),
             "refs_after": len(after),
-            "world_size": len(world)}
+            "world_size": len(world),
+            "shared_allowed": sorted(r for r in allow_shared if len(after.get(r, ())) > 1),
+            "preexisting_shared": preexisting}
 
 
 def build_osmchange(updates: list[dict], changeset_id: int) -> bytes:

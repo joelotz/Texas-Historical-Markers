@@ -52,3 +52,40 @@ def test_the_real_2026_08_22_plan_would_have_been_rejected():
     with pytest.raises(RefPlanError) as e:
         validate_ref_plan(updates, world)
     assert "2 ref(s)" in str(e.value)
+
+
+def test_shared_ref_must_be_declared_not_assumed():
+    """thc#5448 really is on two nodes -- but the caller has to say so."""
+    world = {111: {"ref:US-TX:thc": "5448"}, 222: {"ref:US-TX:thc": "13294"}}
+    updates = [{"node_id": 222, "tags": {"ref:US-TX:thc": "5448"}}]
+    with pytest.raises(RefPlanError):
+        validate_ref_plan(updates, world)
+    ok = validate_ref_plan(updates, world, allow_shared={"5448"})
+    assert ok["shared_allowed"] == ["5448"]
+
+
+def test_allow_shared_does_not_excuse_other_collisions():
+    world = {111: {"ref:US-TX:thc": "5448"}, 222: {"ref:US-TX:thc": "999"},
+             333: {"ref:US-TX:thc": "111"}}
+    updates = [{"node_id": 222, "tags": {"ref:US-TX:thc": "5448"}},
+               {"node_id": 333, "tags": {"ref:US-TX:thc": "999"}}]
+    world[444] = {"ref:US-TX:thc": "999"}
+    with pytest.raises(RefPlanError) as e:
+        validate_ref_plan(updates, world, allow_shared={"5448"})
+    assert "999" in str(e.value) and "5448" not in str(e.value)
+
+
+def test_preexisting_collisions_are_reported_not_raised():
+    """A plan is judged by what it causes, not by mess it never touched."""
+    world = {1: {"ref:US-TX:thc": "A"}, 2: {"ref:US-TX:thc": "A"},   # already shared
+             3: {"ref:US-TX:thc": "B"}}
+    updates = [{"node_id": 3, "tags": {"ref:US-TX:thc": "C"}}]
+    res = validate_ref_plan(updates, world)
+    assert res["preexisting_shared"] == {"A": [1, 2]}
+
+
+def test_adding_a_third_node_to_an_existing_collision_still_raises():
+    world = {1: {"ref:US-TX:thc": "A"}, 2: {"ref:US-TX:thc": "A"}, 3: {"ref:US-TX:thc": "B"}}
+    updates = [{"node_id": 3, "tags": {"ref:US-TX:thc": "A"}}]
+    with pytest.raises(RefPlanError):
+        validate_ref_plan(updates, world)
