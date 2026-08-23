@@ -134,5 +134,22 @@ def test_real_ignore_file_is_well_formed():
     ids = [r["hmdb_MarkerID"].strip() for r in rows]
     assert all(ids), "every row needs an hmdb_MarkerID"
     assert len(ids) == len(set(ids)), "duplicate MarkerIDs in the ignore file"
-    assert all(r["duplicates_thc"].strip().isdigit() for r in rows), \
-        "duplicates_thc must name the THC number the entry duplicates"
+    # The file holds two kinds of entry:
+    #   duplicate     -- a second hmdb page for a marker the atlas documents.
+    #                    duplicates_thc names that THC number.
+    #   out of scope  -- a page for a marker the atlas does not cover at all,
+    #                    listed only because its "Marker No." collides with a
+    #                    real THC number (the Rockport walking-tour series).
+    #                    duplicates_thc is blank, and marker_no_matches is "no"
+    #                    to record that the number is not really this marker's.
+    for r in rows:
+        dup = r["duplicates_thc"].strip()
+        if dup:
+            assert dup.isdigit(), \
+                f"duplicates_thc must be a THC number, got {dup!r}"
+        else:
+            assert r["marker_no_matches"].strip().lower() == "no", \
+                (f"hmdb {r['hmdb_MarkerID']} has no duplicates_thc, so it must be an "
+                 f"out-of-scope entry with marker_no_matches=no")
+            assert r["note"].strip(), \
+                f"hmdb {r['hmdb_MarkerID']} is out of scope and needs a note saying why"

@@ -164,6 +164,21 @@ def _load_atlas_by_thc(path: Path) -> dict[str, list[dict]]:
         return _group_atlas_by_thc(list(csv.DictReader(f)))
 
 
+def _all_atlas_hmdb_ids(path: Path) -> set[str]:
+    """Every ref:hmdb the atlas carries, regardless of which row holds it.
+
+    The by-THC index cannot answer "is this MarkerID already documented?",
+    because a second physical marker sharing a Marker No. is filed on its own
+    row -- often a row with a blank ref:US-TX:thc, which the index drops
+    entirely. Without this, such a page is reported as a conflict on every
+    single run and can never be cleared: ignore-listing it is forbidden while
+    an atlas row carries it.
+    """
+    with path.open(newline="", encoding="utf-8") as f:
+        return {ref for row in csv.DictReader(f)
+                if (ref := (row.get("ref:hmdb") or "").strip())}
+
+
 def _resolve_atlas_row(
     atlas_rows: list[dict], hmdb_id: str, claimed: set[int] | None = None
 ) -> tuple[dict, str]:
@@ -263,6 +278,7 @@ def reconcile(
     """
     hmdb_rows = _load_hmdb_rows(hmdb_path)
     atlas_by_thc = _load_atlas_by_thc(atlas_path)
+    atlas_hmdb_ids = _all_atlas_hmdb_ids(atlas_path)
     if ignore_path is None:
         ignore_path = atlas_path.parent / IGNORE_FILE_NAME
     ignored = load_ignored_marker_ids(ignore_path)
@@ -309,6 +325,13 @@ def reconcile(
         score = name_similarity(hmdb_row.get("Title") or "", atlas_row.get("name") or "")
 
         if disposition == "documented":
+            stats["already_documented"] += 1
+            continue
+
+        # Some other atlas row already carries this MarkerID -- typically the
+        # second marker of a pair sharing a Marker No., filed under its own
+        # row. Documented, not a conflict.
+        if disposition == "conflict" and hmdb_id in atlas_hmdb_ids:
             stats["already_documented"] += 1
             continue
 
