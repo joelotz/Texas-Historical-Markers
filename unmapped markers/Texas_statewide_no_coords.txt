@@ -1,4 +1,4 @@
-Texas unmapped markers with NO coordinate (900):
+Texas unmapped markers with NO coordinate (836):
 
   THC 8742 [Anderson]: C. S. A. Iron Works
     addr: Palestine
@@ -12,10 +12,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: 130 County Road 2802, Tennessee Colony
     https://atlas.thc.texas.gov/Details/5000024215
 
-  THC 17711 [Anderson]: New Hope Baptist Church
-    addr: 13400 FM 321, Tennessee Colony
-    https://atlas.thc.texas.gov/Details/5507017711
-
   THC 24216 [Anderson]: St. James Missionary Baptist Church
     addr: 2533 County Road 1204, Elkhart
     https://atlas.thc.texas.gov/Details/5000024216
@@ -26,10 +22,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 6982 [Angelina]: Angelina County Lumber Company
     addr: Lufkin
     https://atlas.thc.texas.gov/Details/5005006982
-
-  THC 11653 [Angelina]: Beulah Congregational Methodist Church
-    addr: Lufkin vicinity
-    https://atlas.thc.texas.gov/Details/5005011653
 
   THC 6985 [Angelina]: Cheeseland
     addr: Lufkin vicinity
@@ -103,9 +95,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: 4145 Unger Rd, Smithville
     https://atlas.thc.texas.gov/Details/5000023846
 
-  THC 17444 [Bastrop]: Elgin Cemetery
-    https://atlas.thc.texas.gov/Details/5507017444
-
   THC 23621 [Bastrop]: Henry Barnett Family
     addr: Shiloh Rd, Bastrop
     https://atlas.thc.texas.gov/Details/5000023621
@@ -153,10 +142,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 18907 [Bell]: St. Paul Lutheran Cemetery
     addr: Temple
     https://atlas.thc.texas.gov/Details/5507018907
-
-  THC 17555 [Bell]: Temple College
-    addr: Temple
-    https://atlas.thc.texas.gov/Details/5507017555
 
   THC 18835 [Bexar]: 9th Cavalry at San Pedro Springs
     addr: West Myrtle at N. Flores, San Antonio
@@ -237,10 +222,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Manvel
     https://atlas.thc.texas.gov/Details/5039009567
 
-  THC 17994 [Brazoria]: Mount Zion Cemetery
-    addr: Lake Jackson
-    https://atlas.thc.texas.gov/Details/5507017994
-
   THC 9594 [Brazoria]: Site of The Home of Henry Smith
     addr: Brazoria
     https://atlas.thc.texas.gov/Details/5039009594
@@ -252,9 +233,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 23697 [Brazoria]: Thomas Cemetery
     addr: CR 401, West Columbia
     https://atlas.thc.texas.gov/Details/5000023697
-
-  THC 17455 [Brazos]: Alexander Methodist Church
-    https://atlas.thc.texas.gov/Details/5507017455
 
   THC 8668 [Brazos]: Brazos River
     https://atlas.thc.texas.gov/Details/5041008668
@@ -275,10 +253,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: 109 North 3rd St, Marathon
     https://atlas.thc.texas.gov/Details/5000023935
 
-  THC 17423 [Brown]: Antioch Cemetery
-    addr: Blanket
-    https://atlas.thc.texas.gov/Details/5507017423
-
   THC 17456 [Brown]: Eureka Cemetery
     https://atlas.thc.texas.gov/Details/5507017456
 
@@ -296,9 +270,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 23733 [Burleson]: African American Community in Clay (UNDERTOLD)
     addr: FM 50, Clay
     https://atlas.thc.texas.gov/Details/5000023733
-
-  THC 17458 [Burleson]: Caldwell Masonic Cemetery
-    https://atlas.thc.texas.gov/Details/5507017458
 
   THC 24142 [Burleson]: Carr Cemetery
     addr: CR 217, Caldwell
@@ -320,9 +291,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: CR 218, Briggs
     https://atlas.thc.texas.gov/Details/5000023740
 
-  THC 17460 [Burnet]: Oatmeal Cemetery
-    https://atlas.thc.texas.gov/Details/5507017460
-
   THC 24042 [Burnet]: Stringtown Cemetery
     addr: CR 326A, Bertram
     https://atlas.thc.texas.gov/Details/5000024042
@@ -337,9 +305,6 @@ Texas unmapped markers with NO coordinate (900):
 
   THC 17461 [Caldwell]: Johnson Perry Cemetery
     https://atlas.thc.texas.gov/Details/5507017461
-
-  THC 17462 [Caldwell]: Lytton Springs Cemetery
-    https://atlas.thc.texas.gov/Details/5507017462
 
   THC 24467 [Caldwell]: St. John Colony Cemetery (N&D)
     addr: 1200 Chamblin Lane, Dale
@@ -365,10 +330,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Brownsville
     https://atlas.thc.texas.gov/Details/5507014750
 
-  THC 14083 [Cameron]: Morgue Building
-    addr: Brownsville
-    https://atlas.thc.texas.gov/Details/5507014083
-
   THC 16849 [Cameron]: Pitt House
     addr: 1806 Palm Boulevard, Brownsville
     https://atlas.thc.texas.gov/Details/5507016849
@@ -379,10 +340,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 23393 [Cameron]: Ullman-Stern-Krausse Grocery Warehouse / Alamo Iron Works
     addr: 730 McNair Family Drive, Brownsville
     https://atlas.thc.texas.gov/Details/5000023393
-
-  THC 14176 [Carson]: Farm & Ranch Building
-    addr: 501 Elsie, Panhandle
-    https://atlas.thc.texas.gov/Details/5507014176
 
   THC 14735 [Carson]: Wheatherlys, John F.
     addr: Panhandle
@@ -408,9 +365,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 16043 [Chambers]: Anahuac's First Cemetery
     https://atlas.thc.texas.gov/Details/5507016043
 
-  THC 9120 [Chambers]: Cove
-    https://atlas.thc.texas.gov/Details/5071009120
-
   THC 14707 [Chambers]: Harmon Saddle Shop
     addr: Hankamer
     https://atlas.thc.texas.gov/Details/5507014707
@@ -434,13 +388,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 15287 [Cherokee]: Cherokee, Home of Grand Xinesi
     addr: Alto
     https://atlas.thc.texas.gov/Details/5507015287
-
-  THC 11800 [Cherokee]: First Baptist Church of Mixon
-    addr: Jacksonville
-    https://atlas.thc.texas.gov/Details/5073011800
-
-  THC 18228 [Cherokee]: Gallatin School
-    https://atlas.thc.texas.gov/Details/5507018228
 
   THC 11801 [Cherokee]: Hatchett's Ferry Inn
     addr: Rusk
@@ -469,10 +416,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: FM 2138, Maydelle
     https://atlas.thc.texas.gov/Details/5073006953
 
-  THC 12439 [Cherokee]: Pine Grove School
-    addr: Jacksonville vicinity
-    https://atlas.thc.texas.gov/Details/5073012439
-
   THC 24153 [Cherokee]: Ragsdale Cemetery
     addr: Jacksonville
     https://atlas.thc.texas.gov/Details/5000024153
@@ -485,10 +428,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Salto
     https://atlas.thc.texas.gov/Details/5073011804
 
-  THC 6839 [Cherokee]: Site of Old Larissa College
-    addr: Mount Selman
-    https://atlas.thc.texas.gov/Details/5073006839
-
   THC 6615 [Cherokee]: Site of the Last Home of Bowles
     addr: Alto
     https://atlas.thc.texas.gov/Details/5073006615
@@ -496,10 +435,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 12361 [Cherokee]: Site of Wildhurst
     addr: Forest
     https://atlas.thc.texas.gov/Details/5073012361
-
-  THC 15251 [Cherokee]: Turney
-    addr: Jacksonville
-    https://atlas.thc.texas.gov/Details/5507015251
 
   THC 15174 [Childress]: Loco, Community of
     addr: Childress
@@ -555,10 +490,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 23603 [Collin]: Lair Cemetery
     addr: 1114 Ferguson Pkwy., Anna
     https://atlas.thc.texas.gov/Details/5000023603
-
-  THC 14689 [Collin]: Old Settlers Cemetery at Wilson Creek
-    addr: McKinney
-    https://atlas.thc.texas.gov/Details/5507014689
 
   THC 22847 [Collin]: Princeton Cemetery (HTC)
     addr: Yorkshire Dr., Princeton
@@ -636,17 +567,9 @@ Texas unmapped markers with NO coordinate (900):
     addr: CR 160, DeLeon
     https://atlas.thc.texas.gov/Details/5000023273
 
-  THC 4714 [Comanche]: Sipe Springs Cemetery
-    addr: Sipe Springs vicinity
-    https://atlas.thc.texas.gov/Details/5093004714
-
   THC 24160 [Comanche]: Stag Creek Cemetery
     addr: FM 1477, Sidney
     https://atlas.thc.texas.gov/Details/5000024160
-
-  THC 12358 [Comanche]: Taylor's Chapel (Concord) Cemetery
-    addr: Comanche vicinity
-    https://atlas.thc.texas.gov/Details/5093012358
 
   THC 24155 [Comanche]: Zion Hill Cemetery
     addr: Comanche
@@ -666,10 +589,6 @@ Texas unmapped markers with NO coordinate (900):
 
   THC 18207 [Coryell]: Lincolnville Community
     https://atlas.thc.texas.gov/Details/5507018207
-
-  THC 12413 [Coryell]: Pidcoke Cemetery
-    addr: Gatesville vicinity
-    https://atlas.thc.texas.gov/Details/5099012413
 
   THC 17686 [Coryell]: Pleasant Grove Cemetery
     https://atlas.thc.texas.gov/Details/5507017686
@@ -778,10 +697,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: North Cowden
     https://atlas.thc.texas.gov/Details/5135003607
 
-  THC 12414 [Edwards]: Clinton LaFayette Smith
-    addr: Rocksprings
-    https://atlas.thc.texas.gov/Details/5137012414
-
   THC 18606 [El Paso]: Bailey Cemetery
     addr: Canutillo
     https://atlas.thc.texas.gov/Details/5507018606
@@ -866,9 +781,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Marlin
     https://atlas.thc.texas.gov/Details/5145008834
 
-  THC 6525 [Falls]: Site of the Home of John Marlin
-    https://atlas.thc.texas.gov/Details/5145006525
-
   THC 14934 [Fannin]: Coontown Cemetery (Medallion only)
     addr: Savoy
     https://atlas.thc.texas.gov/Details/5507014934
@@ -889,10 +801,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Ladonia
     https://atlas.thc.texas.gov/Details/5507014967
 
-  THC 20004 [Fannin]: Oak Ridge Cemetery
-    addr: 10368 E FM 1550, Ladonia
-    https://atlas.thc.texas.gov/Details/5507020004
-
   THC 3460 [Fayette]: Colonel John H. Moore House
     addr: La Grange
     https://atlas.thc.texas.gov/Details/5149003460
@@ -911,10 +819,6 @@ Texas unmapped markers with NO coordinate (900):
 
   THC 5659 [Fayette]: John Vogt Homestead
     https://atlas.thc.texas.gov/Details/5149005659
-
-  THC 22581 [Fayette]: Psencik Cemetery
-    addr: Rosanky Rd., Cistern
-    https://atlas.thc.texas.gov/Details/5000022581
 
   THC 23536 [Fayette]: The Morgan Family of Plum
     addr: 247 Main St., Plum
@@ -1184,10 +1088,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Brice
     https://atlas.thc.texas.gov/Details/5000022512
 
-  THC 11924 [Hamilton]: Carlton Cemetery
-    addr: Carlton
-    https://atlas.thc.texas.gov/Details/5193011924
-
   THC 23644 [Hardeman]: The Demise of Joe Earle
     addr: FM 2640, Quanah
     https://atlas.thc.texas.gov/Details/5000023644
@@ -1338,9 +1238,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: San Marcos
     https://atlas.thc.texas.gov/Details/5507014273
 
-  THC 14249 [Hays]: Hector Family Cemetery
-    https://atlas.thc.texas.gov/Details/5507014249
-
   THC 10278 [Hays]: Isham Jones Good
     addr: Dripping Springs
     https://atlas.thc.texas.gov/Details/5209010278
@@ -1369,10 +1266,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Athens
     https://atlas.thc.texas.gov/Details/5507015047
 
-  THC 12383 [Henderson]: Cottonwood Cemetery
-    addr: Eustace vicinity
-    https://atlas.thc.texas.gov/Details/5213012383
-
   THC 22779 [Henderson]: Eustace
     addr: Athens
     https://atlas.thc.texas.gov/Details/5000022779
@@ -1381,16 +1274,9 @@ Texas unmapped markers with NO coordinate (900):
     addr: Robbins Road, Athens
     https://atlas.thc.texas.gov/Details/5000024124
 
-  THC 16042 [Henderson]: Lee Powell Simpson
-    https://atlas.thc.texas.gov/Details/5507016042
-
   THC 22768 [Henderson]: Mt. Olive C.M.E. Church
     addr: CR 3918, Athens
     https://atlas.thc.texas.gov/Details/5000022768
-
-  THC 15935 [Henderson]: Myrtle Springs Cemetery
-    addr: ABOUT 5 MILES EAST OF LARUE, TEXAS ON CR 4336, LaRue
-    https://atlas.thc.texas.gov/Details/5507015935
 
   THC 10372 [Henderson]: Pioneer Oak
     addr: Athens
@@ -1442,10 +1328,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Itasca
     https://atlas.thc.texas.gov/Details/5507014839
 
-  THC 20062 [Hill]: Mesquite Cemetery (HTC)
-    addr: Mt. Calm
-    https://atlas.thc.texas.gov/Details/5507020062
-
   THC 23960 [Hill]: St. Peter's Lutheran Church
     addr: 133 PR 346, Malone
     https://atlas.thc.texas.gov/Details/5000023960
@@ -1484,9 +1366,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Crockett
     https://atlas.thc.texas.gov/Details/5507015607
 
-  THC 11083 [Houston]: Cedar Point Church and Cemetery
-    https://atlas.thc.texas.gov/Details/5225011083
-
   THC 11088 [Houston]: Creek Cemetery
     https://atlas.thc.texas.gov/Details/5225011088
 
@@ -1497,10 +1376,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 14768 [Houston]: First National Bank Building
     addr: Crockett
     https://atlas.thc.texas.gov/Details/5507014768
-
-  THC 12083 [Houston]: Hall Cemetery
-    addr: Crockett
-    https://atlas.thc.texas.gov/Details/5225012083
 
   THC 15007 [Houston]: Hill Cemetery
     addr: Kennard
@@ -1530,10 +1405,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 11205 [Houston]: Nelson Box
     https://atlas.thc.texas.gov/Details/5225011205
 
-  THC 12373 [Houston]: Old Zion Cemetery
-    addr: Kennard vicinity
-    https://atlas.thc.texas.gov/Details/5225012373
-
   THC 11206 [Houston]: Reverend Thomas Box
     https://atlas.thc.texas.gov/Details/5225011206
 
@@ -1544,10 +1415,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 11244 [Houston]: Smith Brothers
     addr: Crockett
     https://atlas.thc.texas.gov/Details/5225011244
-
-  THC 12087 [Houston]: William Preston and Rebecca Kate Conner House
-    addr: Ratcliff
-    https://atlas.thc.texas.gov/Details/5225012087
 
   THC 15229 [Houston]: Wingate, Mrs. Isabella
     addr: Grapeland
@@ -1568,10 +1435,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 7833 [Hunt]: Captain Henry W. Wade
     addr: Quinlan
     https://atlas.thc.texas.gov/Details/5231007833
-
-  THC 12089 [Hunt]: Clinton Cemetery
-    addr: Caddo Mills
-    https://atlas.thc.texas.gov/Details/5231012089
 
   THC 15399 [Hunt]: Methodism, Centennial of
     addr: Commerce
@@ -1604,10 +1467,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 19960 [Irion]: Arden Cemetery (HTC)
     addr: CR 420, Mertzon
     https://atlas.thc.texas.gov/Details/5000019960
-
-  THC 16612 [Jack]: Joplin Fairview Cemetery
-    addr: Jacksboro
-    https://atlas.thc.texas.gov/Details/5507016612
 
   THC 14437 [Jack]: Lynn Creek Cemetery
     addr: Jacksboro
@@ -1754,10 +1613,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 22757 [Kerr]: Live Oak Ranch
     addr: 2798 Live Oak Road NW, Mountain Home
     https://atlas.thc.texas.gov/Details/5000022757
-
-  THC 11994 [Kerr]: Site of Reservation School
-    addr: Mountain Home
-    https://atlas.thc.texas.gov/Details/5265011994
 
   THC 23687 [Kimble]: Cobb Ranch House
     addr: 5802 KC 420, London
@@ -1913,13 +1768,6 @@ Texas unmapped markers with NO coordinate (900):
 
   THC 17415 [Leon]: Brushy Cemetery
     https://atlas.thc.texas.gov/Details/5507017415
-
-  THC 14792 [Leon]: First Courthouse in County, Site of
-    addr: Leona
-    https://atlas.thc.texas.gov/Details/5507014792
-
-  THC 17416 [Leon]: Friendship Cemetery
-    https://atlas.thc.texas.gov/Details/5507017416
 
   THC 9627 [Leon]: R. Baxter King
     addr: Middleton
@@ -2169,10 +2017,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Bay City
     https://atlas.thc.texas.gov/Details/5507015346
 
-  THC 15688 [Matagorda]: St. Mark Missionary Baptist Church
-    addr: Cedar Lane
-    https://atlas.thc.texas.gov/Details/5507015688
-
   THC 18192 [Maverick]: Chittim Ranch
     addr: 17703-18509 US Hwy 277, Eagle Pass
     https://atlas.thc.texas.gov/Details/5507018192
@@ -2188,10 +2032,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Brady vicinity
     https://atlas.thc.texas.gov/Details/5307003679
 
-  THC 12071 [McLennan]: Aquilla Creek Truss Bridge
-    addr: Gholson
-    https://atlas.thc.texas.gov/Details/5309012071
-
   THC 18409 [McLennan]: Concord Cemetery
     addr: Ted Maehr Drive, Bellmead
     https://atlas.thc.texas.gov/Details/5507018409
@@ -2199,9 +2039,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 23874 [McLennan]: Dean Highland Trolley Car Station of the Texas Electric Railway
     addr: 29th Street, Waco
     https://atlas.thc.texas.gov/Details/5000023874
-
-  THC 2390 [McLennan]: Harris Creek Baptist Church
-    https://atlas.thc.texas.gov/Details/5309002390
 
   THC 23875 [McLennan]: M. Denton Stanford Lodge No. 594
     addr: 300 FM 2837, Lorena
@@ -2214,10 +2051,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 24108 [McLennan]: Robert Lloyd Smith (Undertold)
     addr: Greenwood Cemetery, Waco
     https://atlas.thc.texas.gov/Details/5000024108
-
-  THC 14672 [McLennan]: Robertson, Generals Jerome & Felix
-    addr: Waco
-    https://atlas.thc.texas.gov/Details/5507014672
 
   THC 15481 [McLennan]: Waco-McLennan County
     addr: Waco
@@ -2257,17 +2090,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 7977 [Milam]: Green-Batte House
     addr: Cameron
     https://atlas.thc.texas.gov/Details/5331007977
-
-  THC 12314 [Milam]: Lilac Cemetery
-    addr: Davilla vicinity
-    https://atlas.thc.texas.gov/Details/5331012314
-
-  THC 17438 [Milam]: North Elm Cemetery
-    https://atlas.thc.texas.gov/Details/5507017438
-
-  THC 12457 [Milam]: Urban Cemetery
-    addr: Sharp vicinity
-    https://atlas.thc.texas.gov/Details/5331012457
 
   THC 17666 [Milam]: Wilson-Ledbetter Park
     addr: Cameron
@@ -2411,10 +2233,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 24293 [Navarro]: Park High School
     addr: 201 SH 309, Kerens
     https://atlas.thc.texas.gov/Details/5000024293
-
-  THC 12341 [Navarro]: Site of Tuckertown
-    addr: Corsicana
-    https://atlas.thc.texas.gov/Details/5349012341
 
   THC 12551 [Navarro]: Squire Josiah Daniel Home
     addr: Kerens vicinity
@@ -2916,14 +2734,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Tenaha
     https://atlas.thc.texas.gov/Details/5419007702
 
-  THC 14772 [Smith]: First United Methodist Church of Troup
-    addr: Troup
-    https://atlas.thc.texas.gov/Details/5507014772
-
-  THC 15286 [Smith]: Flint Cemetery
-    addr: Flint
-    https://atlas.thc.texas.gov/Details/5507015286
-
   THC 14546 [Smith]: Henry Gary House
     addr: Starrville
     https://atlas.thc.texas.gov/Details/5507014546
@@ -3038,17 +2848,9 @@ Texas unmapped markers with NO coordinate (900):
     addr: 2131 William Barton Dr., Austin
     https://atlas.thc.texas.gov/Details/5000023785
 
-  THC 20052 [Travis]: Mueller Airport
-    addr: Berkman Dr., Austin
-    https://atlas.thc.texas.gov/Details/5507020052
-
   THC 16142 [Travis]: Old Courtroom of the Supreme Court of Texas
     addr: Austin
     https://atlas.thc.texas.gov/Details/5507016142
-
-  THC 16144 [Travis]: Organization of First Protestant Worship in Austin
-    addr: Austin
-    https://atlas.thc.texas.gov/Details/5507016144
 
   THC 14906 [Travis]: Palm School
     addr: Austin
@@ -3057,14 +2859,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 15597 [Travis]: Robert Eanes
     addr: Austin
     https://atlas.thc.texas.gov/Details/5507015597
-
-  THC 14627 [Travis]: Site of Republic of Texas President's House
-    addr: Austin
-    https://atlas.thc.texas.gov/Details/5507014627
-
-  THC 24314 [Travis]: St. John Community
-    addr: Austin
-    https://atlas.thc.texas.gov/Details/5000024314
 
   THC 23421 [Travis]: Tarleton-Young Cemetery
     addr: West Lake Hills
@@ -3078,13 +2872,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: 288 Martin Luther King Blvd., Groveton
     https://atlas.thc.texas.gov/Details/5000023926
 
-  THC 16036 [Trinity]: Boontown Cemetery
-    https://atlas.thc.texas.gov/Details/5507016036
-
-  THC 12445 [Trinity]: Chita Cemetery
-    addr: Groveton vicinity
-    https://atlas.thc.texas.gov/Details/5455012445
-
   THC 19971 [Trinity]: Ellis Prairie Cemetery (HTC)
     addr: Groveton
     https://atlas.thc.texas.gov/Details/5000019971
@@ -3092,10 +2879,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 17144 [Trinity]: Flat Prairie Congregational Methodist Church
     addr: Groveton
     https://atlas.thc.texas.gov/Details/5507017144
-
-  THC 12253 [Trinity]: Glendale Cemetery
-    addr: Trinity
-    https://atlas.thc.texas.gov/Details/5455012253
 
   THC 12578 [Trinity]: Holly Cemetery
     addr: Lovelady vicinity
@@ -3255,13 +3038,6 @@ Texas unmapped markers with NO coordinate (900):
     addr: Edom vicinity
     https://atlas.thc.texas.gov/Details/5467012427
 
-  THC 15885 [Van Zandt]: Mt. Pisgah
-    https://atlas.thc.texas.gov/Details/5507015885
-
-  THC 23429 [Van Zandt]: Mt. Pisgah Cemetery
-    addr: CR 4105, Canton
-    https://atlas.thc.texas.gov/Details/5000023429
-
   THC 23372 [Van Zandt]: Myrtle Springs Cemetery
     addr: CR 3442, Myrtle Springs
     https://atlas.thc.texas.gov/Details/5000023372
@@ -3281,10 +3057,6 @@ Texas unmapped markers with NO coordinate (900):
   THC 24483 [Van Zandt]: Zion Hill Cemetery
     addr: 6956 FM 1861, Canton
     https://atlas.thc.texas.gov/Details/5000024483
-
-  THC 15818 [Victoria]: Crescent Valley Cemetery
-    addr: 6679 State Hwy 185, Victoria
-    https://atlas.thc.texas.gov/Details/5507015818
 
   THC 15051 [Victoria]: Garza, Carlos de la
     addr: Victoria
@@ -3381,21 +3153,9 @@ Texas unmapped markers with NO coordinate (900):
     addr: Panther Drive, Mirando City
     https://atlas.thc.texas.gov/Details/5479001393
 
-  THC 17129 [Webb]: Lala's Café
-    addr: Mirando City
-    https://atlas.thc.texas.gov/Details/5507017129
-
-  THC 3854 [Webb]: Oliver Winfield Killam
-    addr: FM 649, Mirando City
-    https://atlas.thc.texas.gov/Details/5479003854
-
   THC 15175 [Webb]: Poblacion De Dolores
     addr: Laredo
     https://atlas.thc.texas.gov/Details/5507015175
-
-  THC 4271 [Webb]: Rio Grande and Eagle Pass Railroad (Pecos and Rio Grande Railroad)
-    addr: FM 1472, NW of Laredo, Laredo
-    https://atlas.thc.texas.gov/Details/5479004271
 
   THC 24261 [Wharton]: "Sea of Mud"
     addr: Hwy 90A, East Bernard
