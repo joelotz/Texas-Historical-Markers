@@ -41,3 +41,6 @@ thc-browser = "thc_toolkit.sqlite_viewer:main"
 Homepage = "https://github.com/joelotz/Texas-Historical-Markers"
 Repository = "https://github.com/joelotz/Texas-Historical-Markers"
 Issues = "https://github.com/joelotz/Texas-Historical-Markers/issues"
+
+[tool.setuptools.package-data]
+thc_toolkit = ["hmdb_login.js"]

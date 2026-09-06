@@ -16,6 +16,12 @@ unified CLI as `thc hmdb reconcile` and `thc hmdb apply`. See
 
 ## Read first
 
+For the routine "update from hmdb" cycle (fetch → report → approve → apply
+→ OSM) use the `hmdb-update` skill; it drives the two phases below and adds
+the snapshot-diff / re-catalogue / missing-flip analysis this skill does not
+cover.
+
+
 Read [references/strategy.md](references/strategy.md) before running. It
 explains the filter rules, classification table, fuzzy thresholds, and the
 ten enrichment-field mapping.

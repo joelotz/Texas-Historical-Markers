@@ -386,6 +386,7 @@ def main():
         default=None,
         help=f"Session cookie file (default: {hmdb_fetch.DEFAULT_COOKIE_PATH})",
     )
+    hmdb_fetch.add_auth_flags(hsf)
     hsf.set_defaults(func=hmdb_fetch.run_fetch)
 
     # -------- Atlas encoding integrity --------

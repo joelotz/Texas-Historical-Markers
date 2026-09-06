@@ -11,7 +11,9 @@ Authentication: HMDB's sign-in dance sets a session cookie through a
 browser-only path we can't fully replay with raw HTTP (likely TLS/header
 fingerprinting or a JS-set precondition). So this module reads a
 pre-captured session cookie from disk and reuses it. The cookie persists
-server-side for weeks (classic ASP session). When it expires, refresh it
+server-side for weeks (classic ASP session). When it expires, ``run_fetch``
+re-logs in automatically through ``hmdb_login.js`` (a headed real Chrome:
+Cloudflare blocks headless sign-in since 2026-09), or refresh it
 through the ``hmdb-fetch`` agent skill, which drives a Playwright browser
 through the login and writes a fresh cookie file.
 
@@ -106,6 +108,47 @@ def verify_session(session: requests.Session) -> None:
         )
 
 
+LOGIN_SCRIPT = Path(__file__).with_name("hmdb_login.js")
+
+
+def refresh_auth(display: str | None = None, timeout_s: int = 180) -> None:
+    """Re-create the session cookie by signing in through a headed Chrome.
+
+    Runs ``hmdb_login.js`` (playwright-core + system Chrome, own profile) with
+    the credentials in ``~/.config/thc-toolkit/hmdb.env``. Needs an X display:
+    hmdb.org's Cloudflare challenge never clears for headless browsers, so
+    ``DISPLAY`` defaults to ``:1`` when unset. Raises SystemExit on failure
+    with the script's diagnostics; never echoes the password or cookie.
+    """
+    import shutil
+    import subprocess
+
+    node = shutil.which("node")
+    if node is None:
+        raise SystemExit("node not found on PATH; needed to run hmdb_login.js")
+    env = dict(os.environ)
+    env.setdefault("DISPLAY", display or ":1")
+    env["HEADED"] = "1"
+    print(f"[INFO] refreshing HMDB session via headed Chrome on DISPLAY={env['DISPLAY']}")
+    try:
+        proc = subprocess.run(
+            [node, str(LOGIN_SCRIPT)], env=env, capture_output=True, text=True,
+            timeout=timeout_s, check=False,
+        )
+    except subprocess.TimeoutExpired:
+        raise SystemExit(f"hmdb_login.js did not finish within {timeout_s}s")
+    for line in (proc.stdout + proc.stderr).splitlines():
+        # the script never prints secrets, but keep the cookie out of logs anyway
+        print("   [login] " + re.sub(r"SessionID=[^&\s]+", "SessionID=<redacted>", line))
+    if proc.returncode != 0:
+        raise SystemExit(
+            "HMDB re-login failed (see [login] lines above). Common causes: no X "
+            "display, missing ~/.config/thc-toolkit/hmdb.env, Cloudflare challenge "
+            "not clearing. Fallback: sign in by hand in any browser and copy the "
+            f"HistoricalMarkerDB cookie into {DEFAULT_COOKIE_PATH}."
+        )
+
+
 def fetch_state_listing(
     session: requests.Session, state: str = "Texas"
 ) -> tuple[str, str, str]:
@@ -157,10 +200,32 @@ def download_csv(
     return path
 
 
-def run_fetch(args) -> None:
+def _authenticated_session(args) -> requests.Session:
+    """Session with a cookie that verifies; re-login once if it does not."""
+    auto = not getattr(args, "no_auto_refresh", False)
+    forced = getattr(args, "refresh_auth", False)
+    cookie_path = Path(args.cookie or DEFAULT_COOKIE_PATH).expanduser()
+    if forced or (auto and not cookie_path.exists()):
+        refresh_auth()
     session = make_session(cookie_path=args.cookie)
-    print(f"[INFO] verifying cookie")
-    verify_session(session)
+    print("[INFO] verifying cookie")
+    try:
+        verify_session(session)
+    except AuthExpired:
+        if not auto or forced:
+            raise
+        print("[WARN] cookie expired; re-logging in")
+        refresh_auth()
+        session = make_session(cookie_path=args.cookie)
+        verify_session(session)
+    return session
+
+
+def run_fetch(args) -> None:
+    session = _authenticated_session(args)
+    if getattr(args, "check_auth", False):
+        print("[OK] cookie authenticates; --check-auth set, not downloading")
+        return
     print(f"[INFO] cookie OK; fetching state listing for {args.state}")
     markers, count, title = fetch_state_listing(session, state=args.state)
     print(f"[INFO] state listing returned {count} marker IDs "
@@ -176,6 +241,24 @@ def run_fetch(args) -> None:
     )
     size_kb = path.stat().st_size / 1024
     print(f"[OK] wrote {path} ({size_kb:.1f} KB)")
+
+
+def add_auth_flags(ap: argparse.ArgumentParser) -> None:
+    """--refresh-auth / --no-auto-refresh / --check-auth, shared with cli.py."""
+    ap.add_argument(
+        "--refresh-auth", action="store_true",
+        help="Sign in again through a headed Chrome before fetching, even if "
+        "the cached cookie still works",
+    )
+    ap.add_argument(
+        "--no-auto-refresh", action="store_true",
+        help="Fail on an expired cookie instead of re-logging in automatically",
+    )
+    ap.add_argument(
+        "--check-auth", action="store_true",
+        help="Verify (and if needed refresh) the cookie, then exit without "
+        "downloading anything",
+    )
 
 
 def main() -> None:
@@ -203,6 +286,7 @@ def main() -> None:
         default=None,
         help=f"Session cookie file (default: {DEFAULT_COOKIE_PATH})",
     )
+    add_auth_flags(ap)
     args = ap.parse_args()
     run_fetch(args)
 
