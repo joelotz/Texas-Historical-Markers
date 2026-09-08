@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Grayson County — Unmapped Historical Markers</name>
-  <description>THC markers in Grayson County without an HMDB id (isMissing excluded). 20 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Grayson County without an HMDB id (isMissing excluded). 16 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -25,12 +25,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[9 mi. north of Whitesboron on US 377, then 1 mi. west on Allison Rd. to Rich Rd.<br/><br/><b>Address:</b> Whitesboro<br/><br/><b>Marker Text:</b> Believed to date from the mid-1800s, Allison Cemetery occupies three acres of land. The oldest dated marker is that of a 53-year-old man who was buried in 1865, though some headstones have been moved or were destroyed over time, and older graves may be noted only by roughly shaped rocks. Most of those interred on this site are descendants of H. Dennis, Sr., and other area families. Notable graves include a family of influenza victims believed to have been buried in 1858 and several war veterans. Managed and maintained by descendants, the cemetery is still in use. (1997)]]></description>
     <Point><coordinates>-96.889482148449,33.7878179581605,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Bennett-Richardson House</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[125 Center St. at North St.<br/><br/><b>Address:</b> 125 Center St., Whitesboro<br/><br/><b>Marker Text:</b> This residence was built in 1902 for the family of local business leader Bland Bennett and Grace (Dunlap) Bennett. Exhibiting Victorian and classical revival detailing, its prominent features include a 1-story wraparound porch with a pedimented primary entrance, a hipped roof, and corbelled chimneys. Its transitional floor plan is reminiscent of both center passage and American foursquare plans. The H. S. Richardson family purchased the house in 1942. Recorded Texas Historic Landmark - 1991]]></description>
-    <Point><coordinates>-96.905566459232,33.6573659468495,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Carr-Taliaferro House</name>
@@ -69,12 +63,6 @@
     <Point><coordinates>-96.4384032705342,33.5232650880364,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Mary Florence Cowell</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[500 Charter St., Whitesboro<br/><br/><b>Address:</b> 500 Charter St., Whitesboro<br/><br/><b>Marker Text:</b> (November 10, 1860 - July 13, 1940) Mary Florence (Tinsman) Cowell and her husband S. B. Cowell came to Texas from Missouri in 1900. Mrs. Cowell was a member of the P.E.O. Sisterhood, a philanthropic educational organization founded in 1869 at Wesleyan College in Iowa and dedicated to educational opportunities for women. Her friend Dora Hallock, P.E.O. supreme chapter organizer, visited Whitesboro in 1902. Together they organized Chapter A, the first P. E. O. chapter in Texas, in the Cowell home on this site. Mary Florence Cowell was elected president of Chapter A and was instrumental in the organization of the Texas State Chapter of the P.E.O. in Whitesboro in 1928. Elected the first Texas state president of the organization, she eventually became known as "the mother of P. E. O. in Texas."]]></description>
-    <Point><coordinates>-96.9021729920334,33.6544899076206,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Mt. Tabor Cemetery</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[North of Whitesboro, Texas approximately six (6) miles, turn right off Texas Hwy 377, it is approximately one and one half (1.5) miles east of Sandusky off of Sandusky Road.<br/><br/><b>Address:</b> Sandusky Rd., Whitesboro<br/><br/><b>Marker Text:</b> Burrel Scarbrough (1817-1878) and his wife, Harriett (Melton) (1826-1890), both from Alabama, moved to Texas prior to the Civil War. In 1866, the Scarbroughs purchased land north of Whitesboro from the State of Texas for their farm, adding an adjoining 160 acres in 1878. Burrel identified a large hill on the property as a good site for a community cemetery. On March 13, 1878, Burrel formally deeded 8.5 acres of land to cemetery trustees Overton Hodges, C.C. Walker and Robert Wilson. Tradition holds that the cemetery was given the name Mt. Tabor for the site in Israel believed to be the site of the Biblical transfiguration of Jesus Christ. There are references to several early graves being marked with stones which were later removed. The cemetery's first burial with a dated gravestone is that of I.E. Lindsey in 1868. Burrel Scarbrough died eight months after deeding the property in 1878 and is buried here along with Harriet and much of their family. Other burials include veterans from WWI, WWII, the Korean War and the Vietnam War. Notable features include curbed plots, ornate fencing, and an oval-shaped rock road that surrounds the oldest portion of Mt. Tabor Cemetery. Grave markers are mostly made of granite, limestone and marble. The entrance was constructed from the nearby Munger School House after the building burned in the early 1900s. Mt. Tabor Cemetery has been enlarged through the years by donations of land and money. It has been cared for by the Sandusky community, primarily guided by the Scarbrough family, and has served its community and surrounding areas for more than 140 years.]]></description>
@@ -93,12 +81,6 @@
     <Point><coordinates>-96.5868297518232,33.7302397456105,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>R. N. Younger Home</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 200 Center St., Whitesboro<br/><br/><b>Marker Text:</b> Victorian home built 1889 by Dr. R. N. Younger, church, banking and school leader. Southern exposure in 10 of 12 rooms and halls. Fine beveled mirrors in 3 of 6 hand-carved mantels. Bought 1923 by Sullivans, noted teachers, heirs of first owner of the site. Recorded Texas Historic Landmark, 1965]]></description>
-    <Point><coordinates>-96.9040841633837,33.6578705785323,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Roberts House</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[915 S. Crockett St. at Spring St.<br/><br/><b>Address:</b> 915 S. Crockett St., Sherman<br/><br/><b>Marker Text:</b> Connecticut native Charles Nathan Roberts (1836-1920) moved to Arkansas prior to the Civil War. He served as a captain in the Confederate Army, and after the war he married Emma Royston. By 1876 they had moved to Sherman, where Roberts established a retail hardware business, purchased this property, and built a small cottage for his family. As Roberts' business prospered and expanded into the wholesale market, he became active in civic affairs, serving on the local school board and the Austin College board of trustees. Both he and Emma were active lay leaders in Sherman's first Presbyterian church. In 1896 they hired the architectural firm of Moad and Elliott to design a new home to replace their cottage on this site. Completed in 1897 for less than $9,000, the house is a fine example of a Queen Anne-Eastlake style residence. It exhibits hallmark features of the style, including asymmetrical massing, liberal use of milled wood details, shingled gable ends, roof cresting and finials, and varied colors and contrasting finishes. Following Emma Roberts' death in 1937, the house was inherited by the couple's son, Charles Stanly Roberts (1878-1972). It remained in his family until 1987. Recorded Texas Historic Landmark - 1993]]></description>
@@ -109,12 +91,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[318 W. Walnut St.<br/><br/><b>Address:</b> 318 W. Walnut St., Whitewright<br/><br/><b>Marker Text:</b> Samuel E. and Mary C. Marshall House Civil War veteran Sam Marshall (1838-1911), his wife, Mary (1840-1924), and their family came from Kentucky to Grayson County in the late 1860s and moved to the new railroad town of Whitewright by 1880. After achieving success with their land investments and commercial businesses, the Marshalls built this Queen Anne Free Classic house in 1899-1900. The gabled roof, decorative woodwork, classical columns, porch and balcony are all notable elements of this style. After Mary Marshall's death in 1924, the house subsequently was owned and occupied by the Carter, Sanders and Stuteville families. Recorded Texas Historic Landmark - 2001]]></description>
     <Point><coordinates>-96.3970256059822,33.5140199520864,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tioga Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> Tioga]]></description>
-    <Point><coordinates>-96.9269891553487,33.4818576961301,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Tom Bean</name>

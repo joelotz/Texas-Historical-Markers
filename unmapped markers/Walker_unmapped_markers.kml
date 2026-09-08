@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Walker County — Unmapped Historical Markers</name>
-  <description>THC markers in Walker County without an HMDB id (isMissing excluded). 26 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Walker County without an HMDB id (isMissing excluded). 25 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -157,12 +157,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[N side of Walker County courthouse square; Huntsville.<br/><br/><b>Address:</b> Huntsville<br/><br/><b>Marker Text:</b> Created, 1846, from Montgomery County. First named for Robert J. Walker, U.S. Senator; in Civil War, Samuel H. Walker, Texas Ranger and Mexican War hero, was made honoree. Huntsville, county seat, was once an Indian trading post. First courthouse was built, 1848. A second one burned, January, 1888, and the present one was built in August, 1888. Walker County today contains much of Sam Houston National Forest. Headquarters for Texas Department of Corrections and Sam Houston State College, the oldest state-supported college in Texas, are in Huntsville.]]></description>
     <Point><coordinates>-95.5506631850837,30.723338514571,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Waverly Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From New Waverly take SH 150 E approx. 8 miles to Old Waverly Rd.; then N on Old Waverly Rd. approx. .3 miles to Browder Loop Road, then NW on Browder Loop approx. .5 miles to (T) in the road; then W at the T approx. 1 mile to cemetery.<br/><br/><b>Marker Text:</b> This cemetery is situated on the land originally purchased in 1853 by Mary M. Lewis, James E. Scott, Laura A. Scott, and Milly D. Scott. The first recorded burial was that of John Andrew Jackson (1822-1855), a pioneer settler of Waverly. Three gravestones dated 1852 indicate reinterments rather than earlier burials. Hamlin F. Lewis, John Elliot Scott, and Robert Lindsey Scott left Alabama for Texas but fell victim to cholera in 1852 and were buried along the way. Relatives of the men had their remains placed in this site in 1859. In 1857 Waverly Institute purchased 200 acres of land which included the burial ground. Through the efforts of Henry M. Elmore (1816-1879), President of Waverly Institute Board of Trustees, twelve acres were officially set aside for cemetery use in 1873. The town of Waverly was a cultural, educational, and religious center before the Civil War. When New Waverly was founded on the railroad in the 1880s, Waverly declined, but its cemetery remains in use. The burial ground has always been associated with the pioneer settlers of Waverly. In 1965 descendants of the settlers formed a cemetery association to maintain the site.]]></description>
-    <Point><coordinates>-95.360639,30.532083,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>William Luther Dean</name>

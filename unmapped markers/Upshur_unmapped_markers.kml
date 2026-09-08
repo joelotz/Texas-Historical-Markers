@@ -69,12 +69,6 @@
     <Point><coordinates>-94.87087,32.702058,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>John O'Byrne Home</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> FM 1844, 0.7 mi E of US 271<br/><br/><b>Marker Text:</b> Social, cultural, political center. built 1888 in the O'Byrne's Mill settlement that included sawmill, planner, grist mill, cotton gin. O'Byrne, Irish emigrant, father of 13, built first Catholic church in Upshur and also started first school in community. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-94.910064,32.582464,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Kelsey Mormon Colony</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[FM 1795 about 5 mi. west of Gilmer<br/><br/><b>Address:</b> Kelsey<br/><br/><b>Marker Text:</b> Received church endorsement after Mormon brothers John and Jim Edgar bought a large tract of timber land here in 1898. By end of 1901, Sunday School and church were organized. In Nov. 1902, townsite was laid out by church officials. Post office was located in J. S. Ault store. One-room building served as school and church until 1909, when first church was built (1/10 mi. W). Kelsey Branch was sponsor of Latter Day Saints churches in Enoch, Dallas, Gilmer, Tyler, Longview, Pittsburg, Texarkana, Hooks and Marshall; joined with Enoch, Gilmer churches, in 1958.]]></description>
@@ -157,6 +151,12 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[10 mi. NW of Gilmer on FM 556<br/><br/><b>Address:</b> Gilmer<br/><br/><b>Marker Text:</b> The Rev. Joshua Soule (1781-1867), original bishop of the Methodist Episcopal Church, South, visited East Texas in 1846. Worshiping in a log cabin across the road from this site as early as the 1850s, settlers gave his name to their church. The cemetery here was in use by 1856. L. E. Harkey and M. T. L. Williams on Dec. 21, 1871, deeded to Soules Chapel trustees James Bryce, Oran Hinson, Peter Hogan and Nathan H. Morris about six acres of land at this site. The present sanctuary was built after a destructive fire in 1977.]]></description>
     <Point><coordinates>-95.0734181483105,32.829761517698,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The John O'Byrne Home</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> FM 1844, 0.7 mi E of US 271<br/><br/><b>Marker Text:</b> Social, cultural, political center. built 1888 in the O'Byrne's Mill settlement that included sawmill, planner, grist mill, cotton gin. O'Byrne, Irish emigrant, father of 13, built first Catholic church in Upshur and also started first school in community. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.910064,32.582464,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Unknown Soldier</name>

@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Travis County — Unmapped Historical Markers</name>
-  <description>THC markers in Travis County without an HMDB id (isMissing excluded). 67 with THC coords; 0 geocoded from address; 14 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Travis County without an HMDB id (isMissing excluded). 67 with THC coords; 0 geocoded from address; 12 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>

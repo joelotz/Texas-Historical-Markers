@@ -15,16 +15,16 @@
     </IconStyle>
   </Style>
   <Placemark>
-    <name>[PENDING] St. John's Community</name>
-    <styleUrl>#pending</styleUrl>
-    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> FM 455, Pilot Point]]></description>
-    <Point><coordinates>-96.95038,33.39027,0</coordinates></Point>
+    <name>Ritter Cemetery</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> Lewisville<br/><br/><b>Marker Text:</b> Established ca. 1860. Historic Texas Cemetery - 2001]]></description>
+    <Point><coordinates>-96.9543444439792,33.0650845681763,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>St. Thomas Aquinas Catholic Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 925 North Charcut Street, Pilot Point<br/><br/><b>Marker Text:</b> St. Thomas Aquinas Catholic Church has provided for the spiritual needs of residents in this region since the late nineteenth century. Before that time, Catholics in the town of Pilot Point, organized in 1854, had no nearby place of worship. Early area Catholics, many of whom were of German origin, had to travel two days to attend services in Gainesville or Sherman. By the 1890s, the firm of Flusche Brothers and Sullivan recruited a number of German settlers to the town, increasing the need for a Catholic Church. Sixty-three residents and visitors gathered in 1891 for the first Mass given in the town. By 1892, parishioners raised funds to build a structure, and the Diocese of Dallas consecrated St. Thomas Aquinas Church on March 7, the feast day of St. Thomas. The following year, the church opened a school and secured land for a cemetery. In 1904, members built a larger sanctuary. The parish prospered until the economic depression of the 1930s. In 1936, however, the church once again began to grow under the leadership of Father Paul Charcut (1908-1968), who was actively involved in both church and civic affairs in Pilot Point. In the following years, St. Thomas Aquinas Church established significant programs to assist the less fortunate in the area through charitable contributions. Congregation members have also served as civic leaders, while others have entered into religious vocations or participated in the U.S. military during wartime. Today, the church continues in its historic role as a spiritual and community leader for the surrounding area. (2007)]]></description>
-    <Point><coordinates>-96.9545630172637,33.4051282390772,0</coordinates></Point>
+    <name>[PENDING] St. John's Community</name>
+    <styleUrl>#pending</styleUrl>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>I drove past several times looking and was unable to spot the marker, indicating it hasn’t been installed yet.<br/><br/><b>Address:</b> FM 455, Pilot Point]]></description>
+    <Point><coordinates>-96.95038,33.39027,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

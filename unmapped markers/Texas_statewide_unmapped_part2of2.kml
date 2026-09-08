@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>Texas — Unmapped Historical Markers (eastern half, part 2 of 2)</name>
-  <description>THC markers without an HMDB id (eastern half of the state, counties kept whole, cut west to east on county mean longitude). 1614 placemarks across 69 counties. Orange pins (41) are isPending=True — the marker may not be installed yet. Excludes isMissing, isPrivate, isActive=False and coordinate-less rows (see Texas_statewide_no_coords.txt).</description>
+  <name>Texas — Unmapped Historical Markers 2/2</name>
+  <description>Part 2 of 2, cut west to east with counties kept whole. Every THC marker in Texas without an HMDB id, excluding isMissing, isPrivate and isActive=False rows. 1583 placemarks across 69 counties (435 on field-verified coords, the rest on THC estimated coords); statewide, 830 further markers are omitted for having no coordinate at all. Orange pins (41) are isPending=True — the marker may not be installed yet. Split into 1 folders because Google My Maps caps a layer at 2,000 features.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -15,7 +15,7 @@
     </IconStyle>
   </Style>
   <Folder>
-    <name>Anderson–Wood (1614 markers)</name>
+    <name>Anderson–Wood (1583 markers)</name>
     <description>69 counties: Anderson, Angelina, Austin, Bowie, Brazoria, Brazos, Burleson, Calhoun, Camp, Cass, Chambers, Cherokee, Collin, Colorado, Delta, Fannin, Fort Bend, Franklin, Freestone, Galveston, Grayson, Gregg, Grimes, Hardin, Harris, Harrison, Henderson, Hopkins, Houston, Hunt, Jackson, Jasper, Jefferson, Kaufman, Lamar, Leon, Liberty, Limestone, Madison, Marion, Matagorda, Montgomery, Morris, Nacogdoches, Navarro, Newton, Orange, Panola, Polk, Rains, Red River, Robertson, Rockwall, Rusk, Sabine, San Augustine, San Jacinto, Shelby, Smith, Titus, Trinity, Tyler, Upshur, Van Zandt, Walker, Waller, Washington, Wharton, Wood</description>
   <Placemark>
     <name>Anderson Campground</name>
@@ -1898,12 +1898,6 @@ of CR 2754.<br/><br/><b>Address:</b> Forest<br/><br/><b>County:</b> Cherokee<br/
     <Point><coordinates>-96.618500,33.191132,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Collinsworth Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Mid 3000 block Vermillion Drive South of Parker Road in Preston Lakes Subdivision<br/><br/><b>Address:</b> Plano<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> COLLINSWORTH CEMETERY ESTABLISHED 1895 HISTORIC TEXAS CEMETERY – 2002]]></description>
-    <Point><coordinates>-96.7871327650756,33.0398163078861,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Cottage Hill Methodist Church and Cemetery</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[4 mi East of Celina on FM 455. then South about 2 miles on 2478 to cemetery on E. Side of Rd (church and marker are behind cemetery)<br/><br/><b>Address:</b> Celina<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> According to local tradition this Methodist Church traces its origin to pioneer religious gatherings organized by the Rev. John Culwell and held in the home of his brother, Andrew J. Culwell, about 1846, and to the establishment of Methodist campground meetings held at nearby Honey Creek about 1848. The first documentary mention of Cottage Hill Methodist Church is contained in the minutes of the Trinity Conference held in Plano in 1874. A church structure was built on land donated by F.F. Morrill at this site in 1881; H.H. Sullivan served as pastor. The sizable number of early headstones bearing the name Culwell and the many unmarked graves surrounding the gravesite of Martha Culwell (d.1870), the cemetery's earliest recorded interment, suggests that the Cottage Hill Cemetery began as a family cemetery. Although located adjacent to each other and believed to have been connected as part of land deeded to the Cottage Hill Church during the 1880s and 1890s, the church and cemetery have not been formally associated since the establishment of the Cottage Hill Cemetery Association in 1890. The church structure, renovated in 1946, continues to serve the Cottage Hill Methodist Church.]]></description>
@@ -1914,12 +1908,6 @@ of CR 2754.<br/><br/><b>Address:</b> Forest<br/><br/><b>County:</b> Cherokee<br/
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Museum of the American Railroad. Moved from Fair Park, Dallas, in 2012.<br/><br/><b>Address:</b> 8004 N. Dallas Pkwy #400, Frisco<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> In July 1872 the Houston &amp; Texas Central became the first railroad to reach Dallas. This frame depot was constructed for the H. &amp; T.C. and the Texas &amp; New Orleans in 1903, when both lines were part of the Southern Pacific system. Originally located on Eakin Street (1.25 mi. W), this structure served as a passenger station until 1918 and as yardmasters office until 1963. Threatened with demolition, it was then moved to this site. Recorded Texas Historic Landmark - 1979]]></description>
     <Point><coordinates>-96.8340062108618,33.1436370824061,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>[PENDING] First Baptist Church of Lavon</name>
-    <styleUrl>#pending</styleUrl>
-    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 205 S. Main Street, Lavon<br/><br/><b>County:</b> Collin]]></description>
-    <Point><coordinates>-96.4347504650734,33.0250414824938,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>First Baptist Church of Plano</name>
@@ -1940,24 +1928,10 @@ of CR 2754.<br/><br/><b>Address:</b> Forest<br/><br/><b>County:</b> Cherokee<br/
     <Point><coordinates>-96.699997,33.019722,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Frognot Community</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[FM 981 in the Frognot Community about 1/4 mile west of the intersection of Collin County Road 671<br/><br/><b>Address:</b> FM 981 (East), Blue Ridge<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> Situated near creeks and branches in a valley east of Blue Ridge, the Frognot community (also known as Frog Not, Frog Nod, Frogknot) has a number of theories as to the origins of its name. Most of these theories involve frogs that appear in the nearby Indian Creek following a rain. Several theories are associated with the nearby Dixon consolidated school, which served as the foundation for the establishment of the community in the early 1900s. The school was founded in 1913 on land from Stephen Arnold Douglas Box. The school had a strict schoolmaster, Mr. Homer Parkins, who would not allow kids to bring frogs they captured in the creek to school. This policy evolved into several stories as to the origin of the community name. Another theory is that soon after the community was founded, the people attempted to eradicate the overabundant frog population. Within a short time, they virtually wiped out the frog populace, giving the community the name Frognot. Some believe that the community began as Frog Nod because the frogs were extremely loud while nodding off to sleep, and eventually became Frognot. Another theory is that the residents did not want a noisy railroad switch, which is also known as a railroad frog, and thus the community was named Frog Not. In the late 1930s, John and Ollie McGuffey opened the first general store. A second store was opened in the 1950s by Otis and Hazel Dixon. The Dixon Store served as the social center of the community and was the location of the foundation of the Frognot Water Supply Corporation. The concrete storm cellar from the Dixon School is all that remains of this rural community.]]></description>
-    <Point><coordinates>-96.3547218763437,33.3034312504473,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Granville Lively</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 500 Throckmorton St, McKinney<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> marker pending]]></description>
+    <name>[PENDING] Granville Lively</name>
+    <styleUrl>#pending</styleUrl>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>marker pending<br/><br/><b>Address:</b> 500 Throckmorton St, McKinney<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-96.608406,33.201806,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Gussie Nell Davis</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[132 McKinney St.<br/><br/><b>Address:</b> 132 McKinney St., Farmersville<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> Educator Gussie Nell Davis was a role model to many young girls and women through her creation of the first girls’ drill team in America. Born to Robert Augustus Davis and Mattie Lavinia (Callaway) Davis on November 4, 1906, she and her family settled in Farmersville. After graduating high school in 1923, Davis earned a bachelor’s degree in physical education from the College of Industrial Arts in Denton and participated in various groups. After graduation in 1927, she moved to Los Angeles to attend the University of Southern California. However, her sister Vera convinced Gussie to apply for a physical education job at Greenville (Hunt County). She agreed and moved back to Texas and began teaching at Greenville High School in the fall of 1928.
-  During a football game, Gussie had the idea to start the first all-girl pep squad. They performed using head, hand and marching drills with the local community band during halftime. Drums, bugles, marching and precision dancing were incorporated and the pep squad became the Greenville High School Drum and Bugle Corps. Baton twirling was added and in 1932, the use of sparklers, firecrackers and roman candles were used in their performances, leading tothe group being renamed the “Flaming Flashes.” They performed at the 1936 Texas Centennial Exposition in Dallas and their performance was seen as a huge success. In 1938, Davis received her master’s degree from the University of Southern California.
-  In 1940, Davis started working at Kilgore Junior College and built a precision dance and drill team, called the Kilgore College Rangerettes. It was the first all-girl dance-drill team in the U.S. to perform during halftime at a college football game. Davis retired in June 1979 and passed away on December 21, 1993. The Rangerettes achieved worldwide recognition; Davis remains a hero to many and her pioneering legacy lives on in drill teams across the country. (2023)]]></description>
-    <Point><coordinates>-96.360396,33.163411,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>John Elias and Ida May Herrington House</name>
@@ -1978,12 +1952,6 @@ of CR 2754.<br/><br/><b>Address:</b> Forest<br/><br/><b>County:</b> Cherokee<br/
     <Point><coordinates>-96.7034783989557,33.0152146911559,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Old Collin County Courthouse</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[on Courthouse grounds, 100 Blk of N. Tennessee Ave, between Virginia and Louisiana Sts., McKinney<br/><br/><b>Address:</b> McKinney<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> Collin County was created from Fannin County in 1846. It was named for pioneer area settler Collin McKinney (1766-1861), a signer of the Texas Declaration of Independence. The first county seat was established at Buckner (2 mi. NW). In 1848 William and Margaret Davis conveyed 120 acres of land at this site for a more central seat of government, which became the community of McKinney. The first two courthouse in the new town were built of wood. In 1874 county commissioners approved plans for a more substantial courthouse on this site. Sherman architect Charles Wheeler designed the building and O.J. King served as general contractor. Constructed of stone from a local quarry (3.5 mi.ne), it was completed in 1876. A grand ball was held in the courthouse to celebrate the event. By the 1920s the courthouse was inadequate to meet the needs of a growing county. Extensive changes, including the addition of a basement and a third floor, were made in 1926-27 under the direction of architect W.A. Peters of Paris, Texas. The site of many political speeches and events, the building was used as a courthouse until 1979. It now serves as a historic reminder of the county's early development.** (1982)***]]></description>
-    <Point><coordinates>-96.614815,33.197235,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Old Settlers Cemetery at Wilson Creek</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> McKinney<br/><br/><b>County:</b> Collin]]></description>
@@ -1994,14 +1962,6 @@ of CR 2754.<br/><br/><b>Address:</b> Forest<br/><br/><b>County:</b> Cherokee<br/
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> Corner of Texas and W. FM 455, J.K. Rice Survery, Abst., 767, Tract 36, Celina<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> Established 1877 Historic Texas Cemetery – 2016]]></description>
     <Point><coordinates>-96.7795419644435,33.3234621382245,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Price House</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[801 W. Louisiana St.<br/><br/><b>Address:</b> 801 W. Louisiana St., McKinney<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> After marrying Kate Page (1877-1956) in 1901, Walter T. Price (1875-1956) became a successful McKinney pharmacist and real estate agent before transitioning into a drug sales representative. Kate participated in numerous clubs and civic activities. In 1907, the couple contracted with architect John M. Martin to design and build a one-story home on West Louisiana Street. In 1922, Price directed a significant expansion, including adding a second story, rear additions to the first story, and new windows. Walter and Kate lived in the home until their deaths. The asymmetrical prairie-style home features a hipped roof and doric porch columns.
-				
-RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
-    <Point><coordinates>-96.623569,33.197201,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Site of Collin McKinney Homestead</name>
@@ -2026,18 +1986,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[marker pending<br/><br/><b>Address:</b> 504 W. Main St., Celina<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-96.789031,33.323356,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Young Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[on 3rd hole of Ridgeview Ranch Golf Course, Ridgeview Ranch Golf Clubhouse is at 2701 Ridgeview Drive     Plano<br/><br/><b>Address:</b> Plano<br/><br/><b>County:</b> Collin<br/><br/><b>Marker Text:</b> Sam Young (1814-1891) and Patience Cornell Young (1814-1847) came to Collin county from Illinois in 1842. More Illinois settlers came to the area in 1845. Young bought land from the Baccus Land survey and founded a school on his property. He established this cemetery when Patience died in 1847. Eleven pioneer families are represented in the 51 known graves: Abbott, Baccus, Bankston, Crenshaw, Dennard, Finley, Jackson, McConnell, McQuerry, Teel and Young. Veterans buried here are Thomas Finley, who served in the War of 1812, and Jacob P. Houts and Jacob Baccus, Jr., who fought in the Civil War. (1996) Historic Texas Cemetery - 2004]]></description>
-    <Point><coordinates>-96.7440744415139,33.1176111835006,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Young Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[South of S.H. 121 between Independence and Custer Roads, ensconced  north of #3 green of Ridgeview Ranch Golf Course<br/><br/><b>Address:</b> Plano<br/><br/><b>County:</b> Collin]]></description>
-    <Point><coordinates>-96.7440744415139,33.1176111835006,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Cicero Howard</name>
@@ -2285,12 +2233,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 220 W. 6th, Bonham<br/><br/><b>County:</b> Fannin<br/><br/><b>Marker Text:</b> Built 1872 with lumber hauled from Jefferson. Second story was added later. Bought 1946 by Alex Longmire. RTHL - 1968]]></description>
     <Point><coordinates>-96.1811445426292,33.5793169528671,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Portland</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[from Bailey take SH 78N .5 miles to FM 1552;then east on FM 1552 1.5 miles to R.O.W.<br/><br/><b>Address:</b> Portland<br/><br/><b>County:</b> Fannin<br/><br/><b>Marker Text:</b> The earliest known settler in the Portland community was Jesse Green London (1843-1875). A native of Missouri and a Confederate veteran who brought his family here in 1873. Other early settlers included members of the Tefteller, Cline, Bell, Henderson, Goin, and Biggerstaff families. The small farming community boasted several business establishments, including a blacksmith shop and a wood shop by the late 1880s.The six-grade Portland School opened in 1879 and met in a one-room log building until the school district was consolidated with two other area schools in 1898. The grocery store served as a residence and post office as well. Founded at the end of the 19th century, the Portland Congregational Methodist Church worshiped in the old log schoolhouse until 1909 when a sanctuary was built at this site. The opportunity for Portland to grow and prosper was denied when the rail line was laid south of the settlement. Although a few homes and this church building are all that remain of the community, the settlers left a rich heritage for their descendants, many of whom still live in the area.]]></description>
-    <Point><coordinates>-96.1468368882289,33.4453757556787,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rehobeth Cemetery Chapel</name>
@@ -4056,12 +3998,6 @@ HISTORIC TEXAS CEMETERY – 2009]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[just south of SH 198 and FM 316, 4.5 mi. SW of Eustace<br/><br/><b>Address:</b> Eustace<br/><br/><b>County:</b> Henderson<br/><br/><b>Marker Text:</b> For over a century, this church and cemetery have served the community of Payne Springs, originally known as Mallard Prairie. By 1880 the church already had a large membership and met in a log structure. The church building served as a gathering place for elections and political rallies. Summer revivals were held under a brush arbor on the church grounds. The revivals often lasted two weeks and were social as well as religious events. Local tradition indicates the cemetery was started when a child from a family traveling west was buried by a small cedar tree in the churchyard. The first marked grave was that of a mother and daughter who were buried on the other side of the cedar. Elenor Reynolds (1812-1880) and her daughter, Mary Ann Davis (1829-1880), died within a day of each other. The Mallard Prairie School once stood near the church and cemetery. It later moved across the road, and the growth of the cemetery took in land where the school and early church buildings stood. The burial ground now contains over 1,000 graves. An annual July 4th workday evolved into a fund raising event for the cemetery's upkeep.]]></description>
     <Point><coordinates>-96.070350,32.277650,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Providence Baptist Church of Tool</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> Tool<br/><br/><b>County:</b> Henderson]]></description>
-    <Point><coordinates>-96.1787294881703,32.2723892271794,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Red Hill Cemetery</name>
@@ -6336,12 +6272,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-95.5651003822106,30.3502255634073,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>West Fork of The San Jacinto River</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[SH 105, 7 mi. west of Conroe near Conroe Dam and Coast Guard Auxiliary<br/><br/><b>Address:</b> Conroe<br/><br/><b>County:</b> Montgomery<br/><br/><b>Marker Text:</b> Patiri and other Indians lived here in Archaic and Neo-American periods. When Spanish incursions began in the 1700s, the river was named either for hyacinths or for the saint on whose day it was discovered. Pioneers from the United States settled on the San Jacinto before Stephen F. Austin founded his colony to the west in 1821. Upon their wish to join him, he took this area into his colony in 1824. The San Jacinto won wold fame when beside its lower channel Mexican Dictator Santa Anna with 1700 troops was defeated on April 21, 1836, by General Sam Houston and Texas volunteers fighting for freedom. Riverside farms became plantations, often shipping cotton by keelboat down the San Jacinto, in 1845-61. Until woodlands vanished during the years 1880-1930, sandhill cranes and bear abounded. Reforestation, begun in 1936, brought back timber industries and small game. The lake now makes this a residential and recreational paradise, but covers such landmarks as Grandma Ed'Ards fishing hole, Indian Camp Creek, and the White Sugar Sand Crossing. Downriver, after this fork and the East Fork unite, the San Jacinto forms part of the Houston Ship Channel, the link between Port of Houston, the Gulf, and the high seas.]]></description>
-    <Point><coordinates>-95.579269,30.353632,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>William Womack Home</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[4 mi. south of Montgomery on SH 149<br/><br/><b>Address:</b> Montgomery<br/><br/><b>County:</b> Montgomery<br/><br/><b>Marker Text:</b> --]]></description>
@@ -6577,18 +6507,6 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-96.395933,32.027267,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>American Well &amp; Prospecting Company</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[211 N. 7th Street<br/><br/><b>Address:</b> 211 N 7th Street, Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Organized in Kansas in 1890 by Horace Greeley Johnston (1851-1930) of Ohio and Pennsylvania native Charles Rittersbacher (1857-1919). This company began as a water well drilling business. In 1891 the partners moved to Texas and began drilling in Corsicana. In 1894, while drilling on S. 12th street, they struck crude oil, which led to the discovery of the Corsicana oil field. The firm began making and distributing rotary drilling equipment in 1900. Converted to a munitions plant in World War II, the business was sold to Bethlehem Steel and operated at this site until 1959. (1982)]]></description>
-    <Point><coordinates>-96.461583,32.097400,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Bazette Baptist Church and Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[from Kerens, take FM 636 about 5 miles NW to CR NE 3140, go E about 0.4 miles to CR NE 3090, go S to church and cemetery on E side of road<br/><br/><b>Address:</b> 11009 NE CR 3090, Bazette<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> The early farming settlement of Bazette, named for a Baptist preacher, developed before the Civil War. In 1881, postmaster and store owner William Ellison (1840-1906) deeded land at this site for the community's Baptist church. First known as Liberty Missionary Baptist Church, the congregation may have formed as early as the 1860s. In 1890, the deacons purchased adjoining land from J. L. Jennings for the establishment of a cemetery. The oldest marked grave is that of Jhonnie Hiett (1881-1891). The church and cemetery serve as reminders of the area's early history. Texas Sesquicentennial 1836-1986]]></description>
-    <Point><coordinates>-96.262627,32.180347,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Bethel AME Church</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[marker pending<br/><br/><b>Address:</b> 101 North 4th St., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> marker pending]]></description>
@@ -6625,22 +6543,10 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <Point><coordinates>-96.412567,32.250549,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Corsicana State Home</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 3500 block of W. 2nd Avenue, Admin. Bldg., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Created by the 20th Legislature in 1887, the State Orphan Asylum originally provided care for orphans under age 14. State officials located the institution in Corsicana after local citizens donated over 200 acres at this site. The first students arrived in 1889, and by 1890 enrollment totaled 54. Classes met in the chapel before a school building was erected in 1889. By 1897 the institution had an independent school district. Renamed State Orphan Home before 1899, the facility housed about 400 students in 1900. Here they received academic and vocational instruction. The campus once had extensive farmlands to supply food and provide agricultural training for students. Physical facilities were enlarged as enrollment increased. During the Depression of the 1930s, residents numbered over 800. The campus school was phased out at the end of the 1955-56 academic year, and students transferred to Corsicana public schools. In 1957 the home was placed under jurisdiction of the Texas Youth Council and was renamed Corsicana State Home. Thousands of children have benefited from the care and schooling provided by the home. Prominent former students include Robert W. Calvert, Texas Supreme Court Associate Justice, 1950-61, and Chief Justice, 1961-72.]]></description>
-    <Point><coordinates>-96.507517,32.075117,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Dr. George Washington Hill</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Spring Hill Cemetery, FM 709<br/><br/><b>Address:</b> Dawson<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Came to Texas in 1837. Indian agent, 1840-41. Member of the Congress of Texas, 1839-1842. Secretary of war under Presidents Houston and Jones. Hill County was named in his honor. Dr. Hill was a graduate of Transylvania University. Born in Tennessee, April 29, 1814; died in Navarro County, Texas, May 29, 1860. His wife Katherine M. Hill, born September 23, 1812; died April 24, 1871.]]></description>
     <Point><coordinates>-96.6995536234193,31.92920876894,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Dr. Will Coleman, Sr.</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[northwest corner of South Third and East Eighth Streets,  Corsicana<br/><br/><b>Address:</b> S. Third St. &amp; E. Eigth St., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> A native Texan, Will Coleman (1882-1953) grew up caring for livestock on the Robert Witherspoon Ranch in Chatfield (12 miles northeast). His family moved to Corsicana in 1899; in 1911, Coleman graduated from the McGills University School of Veterinary Science in Montreal, Canada, and received his license to practice in Texas nine years later. By 1925, he had established his own veterinary clinic in Corsicana. One of the first black veterinarians in the area, Dr. Will Coleman lived at this site with his wife, Mattie, and their 12 children. Texas Sesquicentennial 1836-1986]]></description>
-    <Point><coordinates>-96.455133,32.094783,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Dunn-Johnston Cemetery</name>
@@ -6667,24 +6573,6 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <Point><coordinates>-96.2957248203017,32.0127353627179,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>First Independent Baptist Church of Corsicana</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 701 E. 5th, Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> A group of former slaves, led by Simon Perry, organized the second African Baptist Church in 1868. Following an 1886 storm that destroyed the sanctuary on Fourth Avenue, the members purchased this property and constructed a new building. In 1918 they completed the present structure. The church name was changed in 1929 to reflect the congregation's independence from other religious groups. Three area Baptist congregations, Wilgo, Harmony, and Sixth Avenue, were started by members of the fellowship.]]></description>
-    <Point><coordinates>-96.458850,32.097017,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Fred Douglass - G. W. Jackson School</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 1000 block of E. 5th at N. 2nd Ave., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> (former site of) Corsicana built its first public school for blacks on this site in 1881. The early formal name, commemorating ethnic leader Frederick Douglass (1817-95), was changed in 1925 to honor the first principal, G. W. Jackson (1854-1940). A Booker T. Washington disciple, Jackson introduced industrial education and other progressive ideas. The school became famous for its music department and football championships, and had intensely loyal alumni. In 1970, integration ended its career. Its buildings were razed in 1974 and this park was created in 1976.]]></description>
-    <Point><coordinates>-96.455950,32.098733,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>G.W. Jackson</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 708 E. MLK Blvd., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.457223,32.0947,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>George Taylor Jester</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 609 W. 7th St., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> (1846-1922) Lieutenant governor of Texas (1894-1898), also father of Beauford Jester, a later Texas governor. As a boy, came from Illinois to Corsicana in a two-horse wagon. Worked on courthouse, first brick building in area, for 50 cents a day. At 18, joined Confederate army but Lee surrendered same year. Married twice, had 5 children. "Clerked" for dry-goods store and traded in cotton before helping form Jester Brothers Bank in 1881. Served as representative (1890-1892) and senator (1892-1894) from Ninth District in Texas Legislature. Was one of the founders of Southern Methodist University. Recorded Texas Historic Landmark - 1967]]></description>
@@ -6703,24 +6591,6 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <Point><coordinates>-96.395483,31.981617,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Hamilton-Beeman Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[from intersection of SH 31 and FM 2555, go south on FM  2555 (45th St.) 3 mi. to cemetery<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> William Harvey Beeman (1817-1860) received a Mercer colony grant of 640 acres in Navarro County and brought his family here in the 1840s. He and pioneer Samuel Hamilton (1820-1900), who owned adjacent property, each gave one acre to establish this cemetery in the 1850s. The first burial was that of Hamilton's infant son in 1859. Both Hamilton and Beeman, a freighter and local justice of the peace, are buried here. Gifts and purchases of additional land have enlarged the cemetery to over 47 acres.]]></description>
-    <Point><coordinates>-96.480300,32.044700,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hamilton-Bragg Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Corsicana, go 4 miles east on FM 3041. Turn left on NE CR 1040 and go approximately 1000 feet. Cemetery is on the left about 50 feet off the road surrounded by a barb wire fence.<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> The James Hamilton,Jr. family left Tennessee for Texas ca. 1841. Upon James' death in Arkansas, his wife Elizabeth and their children continuned the journey, arriving in Navarro County ca. 1846. Elizabeth Hamilton died on August 7, 1857, and is buried in Hamilton-Bragg Cemetery. The Hamilton's daughter, Julia (Hamilton) Bragg (d. 1900) is also buried at the site, along with her husband, Joseph O. Bragg (d. 1873) and four of their children. The earliest known burial in the cemetery is that of Joseph and Julia Bragg's son, James, who died on January 18, 1855. Today, Hamilton-Bragg Cemetery remains as a symbol of a pioneering Navarro County family. Historic Texas Cemetery -2005]]></description>
-    <Point><coordinates>-96.425890,32.151930,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Holman Home</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 212 N. 30th St., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> William Lee Holman (1863-1932) moved to Corsicana in 1908 to become the manager of the Southland Cotton Oil Mill. He built this home in 1914,and it remained in his family for eighteen years. The classical revival style house also exhibits late Victorian and Prairie School elements. Occupied in later years by other Corsicana residents, the home's association with the Holman family reflects the city's early growth as a cotton center. Recorded Texas Historic Landmark - 1983]]></description>
-    <Point><coordinates>-96.487251,32.084785,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Hopewell Cemetery</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Eureka take FM 3243 about 4 mi. west to CR SE 2120, go south to cemetery<br/><br/><b>Address:</b> Eureka<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Burials at this site on the 1846 Wilson Reed survey date from the 1860s. Hopewell Baptist Church, founded in 1866, erected a church building on adjoining property two years later. The earliest marked grave is that of an infant, John W. Pritchard, who died in 1870. Another gravestone bearing the date 1870 is that of William C. Fouty (1866-1870), is also interred here. In 1875 Joshua Parmer Cox (1824-1881) purchased from J. H. Manning property which included the cemetery site. Cox, whose grave is located here, donated the land beside the church for use as a public burial ground. When the railroad extended south from Corsicana, the town of Navarro (1 mi. N) was laid out and Hopewell Baptist Church moved there in 1907. Navarro became a thriving community, dependent on cattle and farming until the oil boom of the 1920s. The Hopewell Cemetery Association was organized in 1919. Before that time, families traditionally brought picnic lunches and gathered to tend the graveyard on annual workdays. In 1940 the cemetery was enlarged when two adjacent acres were purchased from Hugh and Irene Wilson. The 500 marked graves include those eof veterans of several wars.]]></description>
@@ -6731,12 +6601,6 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Pioneer Village, Jester Park, NE corner W. Park Ave. and N. 19th St. See also marker near Dawson, Near Site of Trading Post of Dr. George Washington Hill.<br/><br/><b>Address:</b> 912 W. Park Ave., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
     <Point><coordinates>-96.475494,32.094948,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>James L. Collins</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Collins Catholic School, 3000 block of W. Hwy. 22<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Born in Weston, West Virginia, James Lawrence Collins (1883-1953) began his career in the petroleum industry at age fourteen. New oil discoveries in Texas brought him to the Corsicana area about 1923. He soon formed a partnership with two brothers, John and Robert Wheelock, and founded the Wheelock &amp; Collins Oil Co. Collins' business was instrumental in the development of the Corsicana field, the East Texas field, and other oil fields around the country. His success and expertise were widely recognized throughout the industry and led him into positions of leadership in several national petroleum associations. Never married, Collins provided upon his death that his $13 million estate be divided among four organizations. These included Dallas' Scottish Rite Hospital for Crippled Children and St. Joseph's Orphanage. Part of the estate went to his local Roman Catholic parish, which used the money to build and operate the school at this site. The remainder of his estate went to create scholarships for graduates of Corsicana High School. Collins' contributions as a businessman and civic leader played an important role in the development and history of the Corsicana area.]]></description>
-    <Point><coordinates>-96.500595,32.087280,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Josiah Martin Daniel</name>
@@ -6761,12 +6625,6 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro]]></description>
     <Point><coordinates>-96.414114,32.240868,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Last Review of the Confederacy</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[1 mi. S of Chatfield at 4511 FM 1603<br/><br/><b>Address:</b> 4511 FM 1603, Chatfield<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Last Review of the Confederacy General Joseph Orville "Jo" Shelby (1830-1897) led a cavalry force of Missourians known as the Iron Brigade and later, the Iron Division. From 1861-64, his troops rode with generals Thomas C. Hindman, John S. Marmaduke and Sterling Price in Missouri and Arkansas. During this time, Shelby earned praise for his command. Shelby and his men wintered in Texas in 1864-65. In the spring, when word of Confederate surrenders in the east reached him, he was ordered to lead his men to Shreveport, Louisiana, to surrender. Instead, they planned an attack on the city to prevent collapse of the Trans-Mississippi Confederacy. Waylaid by severe weather, they decided to go to Mexico. Shelby's soldiers stopped along the banks of Chambers Creek, south of Chatfield. Near here, they made their last bivouac as a Confederate unit. The next morning, June 2, 1865, the troops lined up for assembly and held what has been called "the last review of the Confederacy." By that time, they were the last organized unit in any Confederate state. Following the review of his troops, Shelby delivered his farewell, then asked his men to accompany him to Mexico. Hundreds reportedly answered his call. The next week, while his men gathered supplies from nearby Corsicana, Shelby visited the Hodge Oaks Plantation of Capt. Robert Hodge at Chatfield. Once prepared, the troops left for Mexico, where their offer of military service to Emperor Maximilian was diplomatically rejected. The men were offered land, though, and many, including Shelby, stayed. In 1867, Shelby returned to Missouri, where he farmed and served as U.S. Marshal. His dedication is celebrated there, as well as in Texas. (2002)]]></description>
-    <Point><coordinates>-96.416931,32.225117,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Lawrence Family Cemetery</name>
@@ -6799,22 +6657,10 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <Point><coordinates>-96.721359,31.951487,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Oak Valley School</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[1 mi. south of SH 31 / 45th St. (FM 2555)<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Oak Valley was one of thirty school districts created in Navarro County in 1867 by County Judge John L. Miller and a committee composed of E. G. Melton, John M. Bright, L. H. Dunham, J. C. Wells, J. M. Quinlan, and G. W. Foster. Classes were not held, however, until the 1870s after a new constitutional provision allowed for the levying of taxes for public education. During the late 1870s a one-room schoolhouse was constructed to serve the surrounding rural area. In 1894 an acre of land formally was deeded for free public school purposes by the Garner family. The Garners sold an additional acre of land to the school in 1905. By 1919 enrollment had reached nearly 100 students, and a new, two-room schoolhouse was built to accommodate the growth. Thirty years later, the school was annexed by the Corsicana Independent School District. For more than seventy years, Oak Valley School provided free public education for the children of this area. Many of the students went on to Corsicana for further schooling. Oak Valley produced a number of schoolteachers and military servicemen. The history of Oak Valley School provides a significant link to the beginnings of a public school system in Texas.]]></description>
-    <Point><coordinates>-96.498528,32.061764,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Oil City Iron Works</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[S. 12th St., E side between W. 12th and W. 16th avenues, restricted access/private property.<br/><br/><b>Address:</b> 814 S. 12th St., Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> This modern plant grew from the small machine shop and foundry started on this site in 1866 by John Winship (1826-86) to make parts for his cotton gin. He sold the operation in 1886 to businessmen Joseph Huey (1827-1904), James Garitty (1842-1925), and J. E. Whiteselle (1851-1915), who named it the Corsicana Manufacturing Company. In 1898, the factory was leased to William Clarkson (1858-1941), a South Carolina native who came to Texas after the Civil War. He renamed it the Oil City Iron Works, because this area was then in the midst of an oil boom. He bought the company in 1908 and became president after it was incorporated in 1921. In addition to parts for cotton gins, the plant began making castings for the oil and building industries. It was converted to defense production during World War II (1941-45). When the importance of cotton declined here after the war, Oil City Iron Works diversified its operation to provide castings for the oil field, road building, farm machinery, and other industries. In 1960 it pioneered in certain uses of ductile iron and today supplies major companies around the United States. With a workforce of 325, the plant now ranks among the three largest employers in Navarro County and in the top ten per cent of the nation's foundries. (1970)]]></description>
     <Point><coordinates>-96.461151,32.081749,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Petty's Chapel</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[NE of Corsicana at 1300 FM 3041<br/><br/><b>Address:</b> 1300 FM 3041, Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Travelers across this area traversed nearby creeks at hardbottom crossings, including one north of here on Chambers Creek. They crossed Briar Creek on the way into Corsicana, established in 1848. The first road utilizing these two crossings was known as the Military Road. This part of the county was initially divided into four abstracts beginning with that of Jehu (John) Peoples in 1835. The remaining three were patented by 1851 to Wyley Powell, Thomas Morrow and Lewis Powell. The first settlers believed to have established homes in the immediate vicinity were Elizabeth Hamilton and her seven children, and the Joseph Bragg family. Brought together by the marriage of Julia Hamilton and Joseph Bragg in 1849, the families lived on the north side of Chambers Creek near the hardbottom crossing that came to be known as Hamilton Crossing. Others soon came to the area, farming and settling on the preferred sandy land instead of the black clay soils found in the flood-prone plains along Chambers and Briar creeks. In 1871, George Valentine Petty, for whom the community was named, conveyed land to the Houston &amp; Texas Central Railway. In May 1893, local Baptists constructed the Petty's Chapel Baptist Church building. Although altered over the years, it continues in use for Sunday services over a century later. Two events greatly altered Petty's Chapel. Discovery of the Corsicana oilfield and other deposits throughout the area in the late 19th century brought new residents and economic improvements. In 1890, the county located the county poor farm in the community, creating more jobs. The facility closed in 1944, but its cemetery across the road from the community burial ground remains as evidence of its brief existence. (2006)]]></description>
-    <Point><coordinates>-96.436267,32.123133,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Pisgah Ridge</name>
@@ -6823,34 +6669,10 @@ His wife was Mabel Buchanan; they had 3 children. (1968)]]></description>
     <Point><coordinates>-96.493637,31.850697,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Pleasant Grove United Methodist Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[1 mi. S of intersection of SH 31 and 45th St (FM 2555) on E side of Rd<br/><br/><b>Address:</b> 1437 S. 45th Street, Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Established before the Civil War by pioneer area settlers, this congregation first met in a schoolhouse on the property of William Harvey Beeman (1817-1860), a member of the Mercer Colony. Early services were conducted by Methodist circuit riders, including the Rev. J. E. Ferguson, the father of Texas Governor James E. Ferguson. In 1870 the congregation purchased a building site (2 mi. SW) in conjuction with a local Cumberland Presbyterian church. Known as Goshen, the eighteen-acre tract was also used for camp meetings. Usually held after the harvesting of crops, the religious meetings often lasted several weeks. Church trustees acquired property at this site in 1877 from the estate of Jubilee Lafayette McKinney (1810-1872). A grove of oak trees here was the possible inspiration for the congregational name. Services were first conducted in a brush arbor and later in a frame sanctuary, which was replaced by a newer structure in 1905. Membership of Pleasant Grove United Methodist Church has included many pioneer area families and leaders of the surrounding area. (1981)]]></description>
-    <Point><coordinates>-96.4979714459904,32.0619586972058,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Prairie Point Church and Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Kerens, take FM 636 about 5 mi NW to CR NE 3140, go E about 1 mi. to CR NE 3130, go N. to cemetery<br/><br/><b>Address:</b> Kerens<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Pioneer area settlers met in 1855 to organize a Methodist Episcopal Church, South. Five years later, the congregation built a sanctuary at this site on land donated by charter member Zachariah Westbrook (1809-1878) and his wife, Mary (Agnew) (1813-1896). The Westbrooks' donation also included the original tract of the adjacent cemetery. The earliest marked grave there is for A. J. Morgan, who died in 1871. Prairie Point Methodist Church disbanded in 1910, but the building continues in use as a community center for the surrounding rural area. Texas Sesquicentennial 1836 - 1986]]></description>
-    <Point><coordinates>-96.265490,32.196700,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Raleigh Cemetery</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[From Blooming Grove, go S. on FM 55 about 5 mi., go W. on FM 744 about 2 1/2 miles to NW 3020, go SE about 4/10 mile to gate on E. side of Rd, follow dirt Rd 2/10 mi. to cemetery (on private prop)<br/><br/><b>Address:</b> Frost<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Raleigh Cemetery was named for the community of Raleigh, an early settlement in Navarro County. Raleigh's post office was established in 1900, and for a time the town maintained a church, grist mill, blacksmith shop and school. Although the first marked grave is that of Lauretty Frost (1852-54), Raleigh Cemetery was not mentioned in the Navarro County deed books until 1885, when A. Barry and his wife, M. E. Barry, set aside 1.5 acres of land for a burial ground. The cemetery, which is still in use, contains approximately 170 graves.]]></description>
     <Point><coordinates>-96.698600,32.008900,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Rex Ingram</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[1000 block of E. 5th at N. 2nd Ave. in park area<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> Dean of American black actors. A Corsicana native, Rex (Clifford) Ingram was the son of Mack and Mamie Ingram. He graduated from Northwestern University before launching his brilliant acting career, which spanned 50 years. Ingram made his screen debut during the era of silent movies in a 1918 "Tarzan" film. He won widespread acclaim for his famous portrayal of "De Lawd" in the 1936 film "Green Pastures." Ingram also appeared on the Broadway stage and in several television productions, bringing his skill and dignity to every performance. He died and was buried in California.]]></description>
-    <Point><coordinates>-96.455887,32.098560,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Roane Baptist Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[8 mi E of Corsicana on FM 3041<br/><br/><b>Address:</b> Corsicana<br/><br/><b>County:</b> Navarro<br/><br/><b>Marker Text:</b> This church was organized in 1897 by 26 charter members. The Reverend E. T. Jones served as the first pastor, conducting monthly worship services in the Roane School building. A church building was erected in 1901 on land donated by Sam Brooks and Zeb Burke. The congregation, which employed its first full-time pastor in 1948, supports community outreach programs and traditional activities for its members. Improvements to the church property were made over time to accommodate a growing membership. The church remains an integral part of the community. (1997)]]></description>
-    <Point><coordinates>-96.379433,32.174333,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rural Shade</name>
@@ -7578,13 +7400,6 @@ HISTORIC TEXAS CEMETERY – 2022]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[marker pending<br/><br/><b>Address:</b> 208 Woodpark Ln, Rockwall<br/><br/><b>County:</b> Rockwall<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-96.462643,32.918003,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>New Hope Baptist Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[801 Old Greenville Road<br/><br/><b>Address:</b> 801 Old Greenville Rd., Royse City<br/><br/><b>County:</b> Rockwall<br/><br/><b>Marker Text:</b> Before the founding of both the town and county in which it is located, this predominately African American congregation has worshipped together. In 1859, settlers from around Texas and Oklahoma organized the church, naming it “First Colored Missionary Baptist Church”. Such an early date means the church is among the oldest continuously operating churches in the State of Texas. At the church’s formation, the membership likely included enslaved persons. Descendants of these founding members continued for many generations to call New Hope home. The church received property at 801 Greenville Road on November 3, 1868, and has worshipped at the site ever since. Early Juneteenth celebrations were also held here. The church held services on the property prior to issuance of the deed and the first church building was a worker’s shack. Under the leadership of Pastor Louis Rice, a permanent structure was built in 1914. Significant remodels or new buildings occurred in 1953, 1974 and 1994.
-  The name was changed to New Hope Baptist Church in 1906. New Hope was a centerpiece of the Royse City community. The church building served as a gathering space when representation was not allowed elsewhere. The church’s daily duties included not only religious, but family and educational support to local families. The church has numerous times advocated for education, evident by the fact that Royse City ISD named an educational building after longtime New Hope member and former trailblazing City Councilman Ernest Epps (1926-2008). The church has continuously adapted and grown with the community’s needs. New Hope Baptist Church is a fellowship of significant historical and cultural importance. (2022)]]></description>
-    <Point><coordinates>-96.323553,32.971042,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Anadarko Rosenwald School</name>
@@ -8672,12 +8487,6 @@ HISTORIC TEXAS CEMETERY – 2023]]></description>
     <Point><coordinates>-94.87087,32.702058,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>John O'Byrne Home</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> FM 1844, 0.7 mi E of US 271<br/><br/><b>County:</b> Upshur<br/><br/><b>Marker Text:</b> Social, cultural, political center. built 1888 in the O'Byrne's Mill settlement that included sawmill, planner, grist mill, cotton gin. O'Byrne, Irish emigrant, father of 13, built first Catholic church in Upshur and also started first school in community. Recorded Texas Historic Landmark - 1964]]></description>
-    <Point><coordinates>-94.910064,32.582464,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Kelsey Mormon Colony</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[FM 1795 about 5 mi. west of Gilmer<br/><br/><b>Address:</b> Kelsey<br/><br/><b>County:</b> Upshur<br/><br/><b>Marker Text:</b> Received church endorsement after Mormon brothers John and Jim Edgar bought a large tract of timber land here in 1898. By end of 1901, Sunday School and church were organized. In Nov. 1902, townsite was laid out by church officials. Post office was located in J. S. Ault store. One-room building served as school and church until 1909, when first church was built (1/10 mi. W). Kelsey Branch was sponsor of Latter Day Saints churches in Enoch, Dallas, Gilmer, Tyler, Longview, Pittsburg, Texarkana, Hooks and Marshall; joined with Enoch, Gilmer churches, in 1958.]]></description>
@@ -8760,6 +8569,12 @@ HISTORIC TEXAS CEMETERY – 2023]]></description>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[10 mi. NW of Gilmer on FM 556<br/><br/><b>Address:</b> Gilmer<br/><br/><b>County:</b> Upshur<br/><br/><b>Marker Text:</b> The Rev. Joshua Soule (1781-1867), original bishop of the Methodist Episcopal Church, South, visited East Texas in 1846. Worshiping in a log cabin across the road from this site as early as the 1850s, settlers gave his name to their church. The cemetery here was in use by 1856. L. E. Harkey and M. T. L. Williams on Dec. 21, 1871, deeded to Soules Chapel trustees James Bryce, Oran Hinson, Peter Hogan and Nathan H. Morris about six acres of land at this site. The present sanctuary was built after a destructive fire in 1977.]]></description>
     <Point><coordinates>-95.0734181483105,32.829761517698,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>The John O'Byrne Home</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[<b>Address:</b> FM 1844, 0.7 mi E of US 271<br/><br/><b>County:</b> Upshur<br/><br/><b>Marker Text:</b> Social, cultural, political center. built 1888 in the O'Byrne's Mill settlement that included sawmill, planner, grist mill, cotton gin. O'Byrne, Irish emigrant, father of 13, built first Catholic church in Upshur and also started first school in community. Recorded Texas Historic Landmark - 1964]]></description>
+    <Point><coordinates>-94.910064,32.582464,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Unknown Soldier</name>
@@ -9055,12 +8870,6 @@ Baptist Church, 1.3 miles off hwy 19<br/><br/><b>Address:</b> Cool Springs Cemet
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[N side of Walker County courthouse square; Huntsville.<br/><br/><b>Address:</b> Huntsville<br/><br/><b>County:</b> Walker<br/><br/><b>Marker Text:</b> Created, 1846, from Montgomery County. First named for Robert J. Walker, U.S. Senator; in Civil War, Samuel H. Walker, Texas Ranger and Mexican War hero, was made honoree. Huntsville, county seat, was once an Indian trading post. First courthouse was built, 1848. A second one burned, January, 1888, and the present one was built in August, 1888. Walker County today contains much of Sam Houston National Forest. Headquarters for Texas Department of Corrections and Sam Houston State College, the oldest state-supported college in Texas, are in Huntsville.]]></description>
     <Point><coordinates>-95.5506631850837,30.723338514571,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Waverly Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From New Waverly take SH 150 E approx. 8 miles to Old Waverly Rd.; then N on Old Waverly Rd. approx. .3 miles to Browder Loop Road, then NW on Browder Loop approx. .5 miles to (T) in the road; then W at the T approx. 1 mile to cemetery.<br/><br/><b>County:</b> Walker<br/><br/><b>Marker Text:</b> This cemetery is situated on the land originally purchased in 1853 by Mary M. Lewis, James E. Scott, Laura A. Scott, and Milly D. Scott. The first recorded burial was that of John Andrew Jackson (1822-1855), a pioneer settler of Waverly. Three gravestones dated 1852 indicate reinterments rather than earlier burials. Hamlin F. Lewis, John Elliot Scott, and Robert Lindsey Scott left Alabama for Texas but fell victim to cholera in 1852 and were buried along the way. Relatives of the men had their remains placed in this site in 1859. In 1857 Waverly Institute purchased 200 acres of land which included the burial ground. Through the efforts of Henry M. Elmore (1816-1879), President of Waverly Institute Board of Trustees, twelve acres were officially set aside for cemetery use in 1873. The town of Waverly was a cultural, educational, and religious center before the Civil War. When New Waverly was founded on the railroad in the 1880s, Waverly declined, but its cemetery remains in use. The burial ground has always been associated with the pioneer settlers of Waverly. In 1965 descendants of the settlers formed a cemetery association to maintain the site.]]></description>
-    <Point><coordinates>-95.363457,30.533068,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>William Luther Dean</name>

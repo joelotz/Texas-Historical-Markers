@@ -1,5 +1,0 @@
-Reagan unmapped markers with NO usable address (1):
-
-  THC 2284: Grierson Spring
-    https://atlas.thc.texas.gov/Details/5383002284
-

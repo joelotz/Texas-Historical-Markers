@@ -1,6 +1,0 @@
-Hood unmapped markers with NO usable address (1):
-
-  THC 12379: Martin Cemetery
-    addr: Lipan vicinity
-    https://atlas.thc.texas.gov/Details/5221012379
-

@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Van Zandt County — Unmapped Historical Markers</name>
-  <description>THC markers in Van Zandt County without an HMDB id (isMissing excluded). 24 with THC coords; 0 geocoded from address; 11 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Van Zandt County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 9 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -19,18 +19,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[8 mi. S of Wills Point on SH 64, 2 mi. W on Broadmore Road, then 0.5 mi. off co. rd. in Turner community<br/><br/><b>Address:</b> Wills Point<br/><br/><b>Marker Text:</b> This burial ground first served pioneer settlers of the Turner community. The earliest marked grave is that of Hiram White (b.1811), who died in 1867. The site was originally named for the White family members interred here, but became known as Allen Cemetery after William J. Allen formally deeded the property to trustees in 1909. Allen and his wife Elizabeth Jane, both buried here, migrated to this area in 1850. Others interred here include military veterans, European Immigrants, and descendants of pioneer families. (1988)]]></description>
     <Point><coordinates>-96.0108023893539,32.6510965182491,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Carter Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Canton 4.1 mi. E on SH 64, then 3.2 mi. S on CR 4106 then 1.1 mi. W on CR 4112<br/><br/><b>Address:</b> CR 4112, Canton<br/><br/><b>Marker Text:</b> Martha and John Pate Carter brought their family to Van Zandt County about 1851 and were among the first settlers in this area. Although local oral tradition holds that the first person buried in the cemetery was a nine-year-old son of the Carters, the oldest documented grave is that of H. H. Meeks (d. 1859). The Carter family later donated the land for a public cemetery, and the burial ground has served residents of a number of small communities in this area. A cemetery association formed in the 1960s maintains the historic graveyard. (1991)]]></description>
-    <Point><coordinates>-95.8111322240496,32.4766150646255,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Colfax Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[At intersection with SH 16 and CR 4414 in Colfax community<br/><br/><b>Address:</b> Colfax<br/><br/><b>Marker Text:</b> In 1883, A. L. Kellam donated five acres of land that helped establish this cemetery. The first burial, which took place in 1884, was that of Elisha Tunnell, founder of Tunnell's Chapel, the rural community which later became known as Colfax. Land included with the burial ground has been occupied by three school buildings and two local churches, and was often the site of revivals and summer camp meetings. Colfax Cemetery which contains about 1,000 graves is the resting place of many of the area's pioneers and their descendants. (1983)]]></description>
-    <Point><coordinates>-95.733147,32.509851,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Cool Springs (Tundra)</name>
@@ -86,12 +74,6 @@ Baptist Church, 1.3 miles off hwy 19<br/><br/><b>Address:</b> Cool Springs Cemet
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Martins Mill, 301 FM 1861<br/><br/><b>Address:</b> 301 FM 1861, Martins Mill<br/><br/><b>Marker Text:</b> Educator and noted poet, Lexie Dean Robertson, was the first native born Texan to be named Poet Laureate of Texas (1939-41). Born in Lindale (Smith co.) to educators Alexander Green and Lena (Ansley) Dean, Lexie and her family moved to Martin’s Mill shortly after her birth. Her father opened a school here, naming it Lexie Academy after his eldest daughter. Lexie spent much of her formative years in Martin’s Mill, before living in Grand Saline and various other communities. She graduated from Canton High School at the age of 15 and began attending North Texas State Normal College (now the University of North Texas), where she met her future husband, James Franklin Robertson. The couple taught in Texas and Oklahoma, before settling in Rising Star (Eastland Co.), where Lexie worked as a school principal. By the mid-1920s, Robertson left the education field to focus on her writing career. Known for her homespun poetry, Robertson was published in various publications nationwide and released her first volume of poetry, Red Heels, in 1928. She followed the popular anthology by releasing I Keep a Rainbow (1932), Acorns on the Roof (1939), and Answer in the Night (1948). In 1939, a special Texas State Legislative Committee named Robertson Texas Poet Laureate. She also participated in literary clubs and in 1944, was named Poet Laureate of the Texas Federation of Women’s Clubs. Lexie Dean Robertson died unexpectedly in Abilene (Taylor Co.) in 1954. She left behind a legacy of literature through the poems read by Texas schoolchildren of all ages and by readers throughout the nation and world. (2010)]]></description>
     <Point><coordinates>-95.7902597535872,32.4150624278231,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Little Hope Baptist Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Canton 4.1 mi. E on SH 64, then 3.2 mi. S. on CR 4106 to intersection with CR 4112<br/><br/><b>Address:</b> Canton<br/><br/><b>Marker Text:</b> This church was organized in 1893. The congregation met at the Farmers Alliance Hall before building their first sanctuary in 1894. Louis Manuel Parsons deeded over two acres, which included the newly constructed building, to the church in 1896. A second sanctuary was built in 1916 and replaced by a third church building in 1954. A new facility containing an auditorium and baptistry was dedicated here in 1981. This congregation continues its long tradition of helping community members in need and supports various missionary and outreach activities. (1993)]]></description>
-    <Point><coordinates>-95.7965649580459,32.482043485251,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Mars Community</name>

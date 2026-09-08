@@ -1,6 +1,0 @@
-Upton unmapped markers with NO usable address (1):
-
-  THC 5024: Square Top Mountain
-    addr: Rankin
-    https://atlas.thc.texas.gov/Details/5461005024
-

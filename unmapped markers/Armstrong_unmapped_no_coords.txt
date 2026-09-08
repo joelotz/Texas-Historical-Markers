@@ -1,6 +1,0 @@
-Armstrong unmapped markers with NO usable address (1):
-
-  THC 3749: Old Home Ranch
-    addr: Claude
-    https://atlas.thc.texas.gov/Details/5011003749
-

@@ -1,6 +1,0 @@
-San Patricio unmapped markers with NO usable address (1):
-
-  THC 15060: Bethel Baptist Church of Christ
-    addr: Odem
-    https://atlas.thc.texas.gov/Details/5507015060
-

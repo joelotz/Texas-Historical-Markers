@@ -1,6 +1,0 @@
-Somervell unmapped markers with NO usable address (1):
-
-  THC 15571: Marks-English Hospital
-    addr: Glen Rose
-    https://atlas.thc.texas.gov/Details/5507015571
-

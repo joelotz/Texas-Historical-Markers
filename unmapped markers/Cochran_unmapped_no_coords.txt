@@ -1,6 +1,0 @@
-Cochran unmapped markers with NO usable address (1):
-
-  THC 5522: Town of Bledsoe
-    addr: Bledsoe
-    https://atlas.thc.texas.gov/Details/5079005522
-

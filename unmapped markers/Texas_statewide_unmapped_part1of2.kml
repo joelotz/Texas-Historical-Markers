@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>Texas — Unmapped Historical Markers (western half, part 1 of 2)</name>
-  <description>THC markers without an HMDB id (western half of the state, counties kept whole, cut west to east on county mean longitude). 1652 placemarks across 149 counties. Orange pins (89) are isPending=True — the marker may not be installed yet. Excludes isMissing, isPrivate, isActive=False and coordinate-less rows (see Texas_statewide_no_coords.txt).</description>
+  <name>Texas — Unmapped Historical Markers 1/2</name>
+  <description>Part 1 of 2, cut west to east with counties kept whole. Every THC marker in Texas without an HMDB id, excluding isMissing, isPrivate and isActive=False rows. 1644 placemarks across 149 counties (645 on field-verified coords, the rest on THC estimated coords); statewide, 830 further markers are omitted for having no coordinate at all. Orange pins (90) are isPending=True — the marker may not be installed yet. Split into 1 folders because Google My Maps caps a layer at 2,000 features.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -15,7 +15,7 @@
     </IconStyle>
   </Style>
   <Folder>
-    <name>Archer–Zavala (1652 markers)</name>
+    <name>Archer–Zavala (1644 markers)</name>
     <description>149 counties: Archer, Armstrong, Atascosa, Bandera, Bastrop, Baylor, Bee, Bell, Bexar, Blanco, Bosque, Brewster, Brown, Burnet, Caldwell, Callahan, Cameron, Carson, Childress, Clay, Cochran, Coleman, Comal, Comanche, Concho, Cooke, Coryell, Cottle, Crane, Crockett, Crosby, Culberson, Dallas, DeWitt, Deaf Smith, Denton, Dickens, Dimmit, Duval, Eastland, Ector, Edwards, El Paso, Ellis, Erath, Falls, Fayette, Fisher, Frio, Gaines, Garza, Gillespie, Goliad, Gonzales, Gray, Guadalupe, Hale, Hall, Hamilton, Hardeman, Haskell, Hays, Hidalgo, Hill, Hood, Howard, Hudspeth, Irion, Jack, Jeff Davis, Jim Hogg, Jim Wells, Johnson, Jones, Kendall, Kerr, Kimble, King, Kinney, Kleberg, La Salle, Lamb, Lampasas, Lavaca, Lee, Lipscomb, Live Oak, Llano, Lubbock, Mason, Maverick, McCulloch, McLennan, McMullen, Medina, Menard, Midland, Milam, Mills, Mitchell, Montague, Nolan, Nueces, Ochiltree, Oldham, Palo Pinto, Parker, Pecos, Potter, Presidio, Randall, Reagan, Real, Reeves, Refugio, Runnels, San Patricio, San Saba, Schleicher, Scurry, Shackelford, Somervell, Starr, Stephens, Sterling, Stonewall, Sutton, Swisher, Tarrant, Taylor, Throckmorton, Tom Green, Travis, Upton, Uvalde, Val Verde, Victoria, Ward, Webb, Wheeler, Wichita, Wilbarger, Willacy, Williamson, Wilson, Wise, Young, Zapata, Zavala</description>
   <Placemark>
     <name>Alex Albright</name>
@@ -240,7 +240,7 @@
     <Point><coordinates>-97.3164090906502,30.1089714770194,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>[PENDING] Leah Moncure, P.E. 2250</name>
+    <name>[PENDING] Leah Moncure, P.E.</name>
     <styleUrl>#pending</styleUrl>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1601 Main St., Bastrop<br/><br/><b>County:</b> Bastrop]]></description>
     <Point><coordinates>-97.320068,30.116888,0</coordinates></Point>
@@ -2711,9 +2711,9 @@ RECORDED TEXAS HISTORIC LANDMARK – 2023]]></description>
     <Point><coordinates>-96.77258,32.78204,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Henry Keller</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[5700 Celestial Rd<br/><br/><b>Address:</b> 5700 Celestial Rd, Dallas<br/><br/><b>County:</b> Dallas<br/><br/><b>Marker Text:</b> Born into slavery in Greenville, Tennessee, Henry Keller became a prosperous Dallas-area landowner and civic leader in the years following the Civil War. After emancipation, Keller married Mary Jane “Jennie” Reed (1845-1898), who had been raised on the same plantation. The couple had ten children: Alice, Minnie, Florence, Laura, John, Henry Jr., Thomas, George and Charles. The Keller family moved to Collin County around 1878 to engage in sharecropping. Despite difficulties African Americans faced with purchasing land of their own during this time, the Kellers saved money for several years and purchased a farm with a natural spring in the new community of Addison, now known as Far North Dallas. The spring provided the family with clean water, which they generously shared with their neighbors at no cost. Later, the road bordering their farm was named Keller Springs Road.
+    <name>[PENDING] Henry Keller</name>
+    <styleUrl>#pending</styleUrl>
+    <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/>Supposed to stand next to the White Rock Chapel marker (5555 Celestial Rd); visited twice (as of 2026-09) and no Henry Keller marker is present -- marker is dated 2022 and has likely not been mounted yet.<br/><br/><b>Address:</b> 5700 Celestial Rd, Dallas<br/><br/><b>County:</b> Dallas<br/><br/><b>Marker Text:</b> Born into slavery in Greenville, Tennessee, Henry Keller became a prosperous Dallas-area landowner and civic leader in the years following the Civil War. After emancipation, Keller married Mary Jane “Jennie” Reed (1845-1898), who had been raised on the same plantation. The couple had ten children: Alice, Minnie, Florence, Laura, John, Henry Jr., Thomas, George and Charles. The Keller family moved to Collin County around 1878 to engage in sharecropping. Despite difficulties African Americans faced with purchasing land of their own during this time, the Kellers saved money for several years and purchased a farm with a natural spring in the new community of Addison, now known as Far North Dallas. The spring provided the family with clean water, which they generously shared with their neighbors at no cost. Later, the road bordering their farm was named Keller Springs Road.
   Keller purchased additional land in the Upper White Rock area, eventually totaling more than 650 acres, making him one of the largest African American landowners and farmers in Dallas County at the time. He used his resources to uplift the Upper White Rock community. In 1886, Keller helped found Christian Chapel CME Church, which was located on Celestial Road until 1954, when it relocated to Montfort Drive. Three years later, Keller, Giles Armstrong and George Coit purchased land later designated as a cemetery for their community.
   That cemetery, now known as White Rock Cemetery Garden of Memories, is the final resting place of his wife after her passing in 1898, Keller himself, who died in 1911 at the age of 94, and several of their children. Henry Keller’s legacy of hard work, determination and generosity continues to inspire the community. (2022)]]></description>
     <Point><coordinates>-96.8108578686971,32.9468157636361,0</coordinates></Point>
@@ -3566,12 +3566,6 @@ Davis Family Cemetery; from Cuero, take FM 766 north about 13.3 miles<br/><br/><
     <Point><coordinates>-96.7925415523609,32.3889194875413,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Elm Branch Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[2 mi. S. of Bardwell on FM 984<br/><br/><b>Address:</b> Bardwell<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> The rural community of Elm Branch served as a social, economic and religious center for the scattered farming families who lived in the area. The settlement contained a school, a Methodist church founded in 1886, and a cemetery. The church relocated to Bardwell in 1909, approximately two miles north of Elm Branch. The earliest documented burial in Elm Branch Cemetery is that of Martha R. Tidwell, who died on November 28, 1877. Veterans dating from the Civil War to the Vietnam War are interred at the site, which has also been known as Bardwell Cemetery and Matlock Cemetery. Today, the cemetery remains active and continues as a reminder of the early settlers of the area. Historic Texas Cemetery - 2007]]></description>
-    <Point><coordinates>-96.687701,32.246201,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>First Baptist Church of Ovilla</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[803 E Main<br/><br/><b>Address:</b> 803 E Main, Ovilla<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> Area residents organized a Baptist church in September 1903. The next year, the community built a wooden tabernacle on Red Oak Creek for use by local churches, including the Baptist congregation, which participated in regular services and revivals. In 1922, the Rev. Bob Burleson became the first full-time pastor for the Baptists. Records are unclear about other early meeting spaces, but in 1936 the congregation built a sanctuary at this site, adding other facilities over time. More than 100 years after its initial organization, First Baptist still serves the community through worship, support and outreach. (2005)]]></description>
@@ -3594,12 +3588,6 @@ Davis Family Cemetery; from Cuero, take FM 766 north about 13.3 miles<br/><br/><
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Off Mike Rd. on private property<br/><br/><b>Address:</b> Mike Rd., Milford<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
     <Point><coordinates>-96.920296,32.113338,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Harkey - Payne House</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[216 W. Jefferson St., Palmer<br/><br/><b>Address:</b> 216 W. Jefferson St., Palmer<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> Originally a four-room house with south and east porches, this home was built about 1870 by carpenter and blacksmith D. H. Harkey. Dr. J. M. Johnson bought the property in 1896 and added the second story and the colonial revival style columns. In 1897 the house was sold to Confederate veteran John Payne, who ran a successful mercantile business in Palmer. Built of cypress, the home remained in the Payne family until 1906.]]></description>
-    <Point><coordinates>-96.672455,32.431053,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Jay Justin Clarke</name>
@@ -3632,14 +3620,6 @@ Davis Family Cemetery; from Cuero, take FM 766 north about 13.3 miles<br/><br/><
     <Point><coordinates>-96.763168,32.469524,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Sand Lake</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[7000 Hwy 34<br/><br/><b>Address:</b> 7000 Hwy 34, Ennis<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> For Daniel Buckley’s sacrifice in the 1836 Battle of Goliad, the Republic of Texas granted his heirs some 2,200 acres on the west bank of the Trinity River, in what became Ellis County. In 1871, his widow sold Alsdorf Faulkner (1838-1901) some of her land. In 1882, Faulkner deeded a 150-foot strip of land for the construction of the Texas Midland Railroad. The railroad added a stop at Sand Lake, and it soon became a popular destination for camping, fishing and hunting. Subsequent owners sold land to the U.S. Government next to the Trinity River and to the Ellis County Levee District. Landowner Homer Newton Chapman (1891-1931) installed a water system for the growing town of Sand Lake in the early twentieth century. 
-  The town had a blacksmith’s shop, grocery store and post office, icehouse, some forty houses and a cemetery. The town’s two schools, one for white students and one for black students, also held occasional church services. The community remained rural in nature. By 1938, Miles Durham Glaspy (1871-1955) and his son J. Roy (1900-1980) had acquired Sand Lake Farm plus additional land amassing 3,300 acres. The land produced cotton, wheat and maize crops, but was home to a large cattle operation as well. By 1940, the community had over 200 residents. 
-  The community suffered levee breaches in 1942 and 1946, the latter of which washed out the railroad tracks. The community of Sand Lake did not recover, and most of the population moved to other areas. Later uses of the land have included extensive sand and gravel mining. (2023)]]></description>
-    <Point><coordinates>-96.731949,32.247517,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Sardis School</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Business 287 (Sardis Rd.), in Sardis Community, 6 mi. NW of Waxahachie<br/><br/><b>Address:</b> Sardis<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> Children of the Sardis Community attended school in the Methodist church building from the early 1870s until a small two-room schoolhouse was constructed near this site in 1897. By 1915 the school population had grown such that a larger facility was needed. Over the years, the Sardis School system served as a source of leadership for the community. As the population dwindled and school bus service became available, consolidation with the Waxahachie school district began in 1937 and was completed in 1952. The c. 1915 schoolhouse remains in use as a community center.]]></description>
@@ -3658,46 +3638,10 @@ Davis Family Cemetery; from Cuero, take FM 766 north about 13.3 miles<br/><br/><
     <Point><coordinates>-96.8901107141393,32.5173816633434,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Site of Grady School</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[On FM 813 about 4 mi. N. of Palmer<br/><br/><b>Address:</b> Palmer<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> Originally established in 1895 to serve children on the pioneer Farrar family, Grady school eventually grew into a community rural school. The first school building, located on a hill overlooking the north bank of Red Oak Creek, was replaced in 1919 by a second building on the south side of the creek. Mrs. Simon Bowden Farrar named the school for Henry W. Grady, editor of the Atlanta Constitution newspaper. The Grady School continued to serve students in this area until the late 1920s. After it closed the students transferred to school in nearby communities.]]></description>
-    <Point><coordinates>-96.725800,32.448174,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Site of Old Hawkins Springs</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[On FM 1387, one mile east of Midlothian<br/><br/><b>Address:</b> Midlothian<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> William Alden Hawkins (1800-67) and wife Anna Eddy (1800-95), from La Porte, IN., arrived with family at this site in May 1848, becoming first settlers in area. The family included Marcellus Tolbert (1824-96); Mary Melissa (1824-84), with her husband Harrison F. Hinkley and child Annie Lucretia; Benjamin Franklin (1828-91) and wife Mary; James Emerson (1829-1912); William Alden (1831-89); Elizabeth Ann (1838-1903); David Peter (1838-63); John Wesley (1841-76); and George Washington (1842-1931). As a member of Peters Colony, Wm. A Hawkins and adult children claimed about 2500 acres of land. In a critical period of 28 days prior to July 1, 1848, logs were cut and hauled from Dallas County cedar brakes to build five houses, to sustain the claims. Hawkins Spring, about 100 feet from the Wm. A Hawkins' home supplied water for all households and often for passers-by. Upon the organization of Ellis County in 1850, William A. Hawkins (1800-67) was appointed first Chief Justice (County Judge). Currently situated on Hawkins' family lands are part of Midlothian business district east of Santa Fe Railroad, on the Wm. A Hawkins' survey; Northridge Shopping Center, on Harrison Hinkley survey; First United Methodist Church, on B.F. Hawkins' survey.]]></description>
     <Point><coordinates>-96.9810706160137,32.4880130487545,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Smith Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Smith Cemetery Road, off FM 813 and Farrar Road<br/><br/><b>Address:</b> Palmer<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> (Established in 1852) Burial place of pioneers and generations of descendants; on a knoll that was in wilderness when cemetery opened, but now overlooks nine urban areas. Founded by Nancy Owen Smith for her family and neighbors. First burial was for her husband Hans Smith (1799-1852), lawmaker in Missouri (1830-32, 1834-36) and Arkansas (1844-46), who moved here in 1846. He opened area's first cotton gin, helped organize Ellis County (1850), and was robbed and murdered while buying goods in Houston for his store. The Smith Cemetery Association, organized in 1953, was chartered in 1955. (1973)]]></description>
-    <Point><coordinates>-96.739051,32.441764,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sokol Karel Havlicek Borovsky</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 2622 E. State Hwy 34, Ennis<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.599687,32.34743,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sweatt Family Legacy</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 400 Blk E. Dr. MLK, Waxahachie<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-96.843968,32.384104,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Telico Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Ennis go E on SH 34 about 6 mi. then S on FM 1181 to Telico Cemetery Rd.<br/><br/><b>Address:</b> Ennis<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> The first burial in this cemetery was that of the Rev. William J. Kirkpatrick, a local Cumberland Presbyterian Minister, who died on May 1, 1867. Shortly after his death, a congregation organized by the Rev. W.G.L. Quaite was named in Kirkpatrick's honor, and a place of worship was constructed later near the gravesite. Land surrounding Kirkpatrick's grave was part of the plantation of Confederate veteran Major Henry Pannill. Pannill's son Joseph died in October 1867 and was buried near Kirkpatrick's gravesite. The following year Pannill deeded some of his land around the burial sites to trustees of the Kirkpatrick Cumberland Presbyterian Church. Within the next decade the community of Telico grew up around the church building and cemetery. After the turn of the century, however, people began abandoning the village for the conveniences of the railroad town of Ennis (6 mi. W), and the cemetery fell into a period of neglect. Telico Cemetery serves as a reminder of the hardships faced by area pioneers. Of the more than 300 known graves, 45 date before 1882 and almost half are of children under the age of ten. Since 1937 the Telico Cemetery Association has cared for the grounds.]]></description>
-    <Point><coordinates>-96.509880,32.367283,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>The Telico Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[From Ennis go E on SH 34 about 6 mi. then S on FM 1181 to Telico Cemetery Rd.<br/><br/><b>Address:</b> Ennis<br/><br/><b>County:</b> Ellis<br/><br/><b>Marker Text:</b> Built in 1867 for the Kirkpatrick Presbyterian Church, this sanctuary later served other denominations. It was a Baptist church from 1909 to 1961. Designed in the Greek Revival style with high Victorian Italianate details, it features shoulder architraves, paired brackets in the cornice, and six-over-six windows. The building was stabilized after a 1960 tornado tore it from its foundation. A 1986 restoration project returned the church to its historic appearance.]]></description>
-    <Point><coordinates>-96.509880,32.367283,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Trippet-Shive House</name>
@@ -6080,6 +6024,12 @@ from Rio Vista, take FM 916 .5 mile east<br/><br/><b>Address:</b> Rio Vista<br/>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[on 1st Street, between Main &amp; Commerce-Sudan<br/><br/><b>Address:</b> First Street, Sudan<br/><br/><b>County:</b> Lamb<br/><br/><b>Marker Text:</b> --]]></description>
     <Point><coordinates>-102.523106,34.065787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Atherton School</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[from Lometa, take FM 581 NE about 11 miles<br/><br/><b>Address:</b> Lometa<br/><br/><b>County:</b> Lampasas<br/><br/><b>Marker Text:</b> The first educational facility in this area, a boarding school for boys, opened in the 1880s. It was housed in a two-story structure built on land owned by F. M. Farley. A local schoolteacher, Abbie Atherton, applied to the U.S. Government for a post office for the community in 1892. The post office was named Atherton, and Abbie Atherton served as first postmistress. Eventually, the community and the school also became known as Atherton. In addition to educational facilities, the school provided a meeting place for local church congregations and community activities. W. T. Nelson donated an acre of land at this site for the school in 1904. The school building was enlarged over the years as student attendance increased, and another acre of land was deeded to the school in 1918 by W. T. Nelson. Atherton school served families in a large rural area, with some students traveling as many as five miles to school each day. Atherton School continued to serve residents of this area until 1942, when it was consolidated with the Lometa School System. The school building was later moved to Lometa in 1956.]]></description>
+    <Point><coordinates>-98.270941,31.314187,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>C.C. Abney House</name>

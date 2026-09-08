@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Lampasas County — Unmapped Historical Markers</name>
-  <description>THC markers in Lampasas County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Lampasas County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -14,6 +14,12 @@
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
     </IconStyle>
   </Style>
+  <Placemark>
+    <name>Atherton School</name>
+    <styleUrl>#normal</styleUrl>
+    <description><![CDATA[from Lometa, take FM 581 NE about 11 miles<br/><br/><b>Address:</b> Lometa<br/><br/><b>Marker Text:</b> The first educational facility in this area, a boarding school for boys, opened in the 1880s. It was housed in a two-story structure built on land owned by F. M. Farley. A local schoolteacher, Abbie Atherton, applied to the U.S. Government for a post office for the community in 1892. The post office was named Atherton, and Abbie Atherton served as first postmistress. Eventually, the community and the school also became known as Atherton. In addition to educational facilities, the school provided a meeting place for local church congregations and community activities. W. T. Nelson donated an acre of land at this site for the school in 1904. The school building was enlarged over the years as student attendance increased, and another acre of land was deeded to the school in 1918 by W. T. Nelson. Atherton school served families in a large rural area, with some students traveling as many as five miles to school each day. Atherton School continued to serve residents of this area until 1942, when it was consolidated with the Lometa School System. The school building was later moved to Lometa in 1956.]]></description>
+    <Point><coordinates>-98.270941,31.314187,0</coordinates></Point>
+  </Placemark>
   <Placemark>
     <name>C.C. Abney House</name>
     <styleUrl>#normal</styleUrl>

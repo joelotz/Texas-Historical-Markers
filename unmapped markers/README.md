@@ -17,9 +17,7 @@ hand — a rebuild will overwrite your changes.
 | `Texas_statewide_unmapped_part1of2.kml` | Western half of the state, one file ready for Google My Maps |
 | `Texas_statewide_unmapped_part2of2.kml` | Eastern half of the state, same idea |
 | `Texas_statewide_unmapped.kml` | The whole state in a single file (fine for Google Earth or QGIS; also imports into My Maps) |
-| `Texas_statewide_no_coords.txt` | Markers that can't be pinned at all — no coordinate and no usable address. Locating these takes detective work |
 | `<County>_unmapped_markers.kml` | One county's unmapped markers — handy when you're planning a trip to a specific area |
-| `<County>_unmapped_no_coords.txt` | That county's un-pinnable markers |
 
 The two `part` files split the state west/east with counties kept whole, so
 each covers a coherent region.
@@ -69,6 +67,9 @@ You won't find these in any file here:
 - Markers on **private property** — nothing to visit.
 - Superseded/duplicate THC records — the physical marker is documented under
   another record.
+- Markers with **no coordinate and no usable address** — they can't be pinned.
+  They remain in `atlas_db.csv` (empty `estimated:Latitude`) for anyone who
+  enjoys detective work.
 
 ## Found one?
 

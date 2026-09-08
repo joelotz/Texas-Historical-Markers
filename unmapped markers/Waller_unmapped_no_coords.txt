@@ -1,8 +1,0 @@
-Waller unmapped markers with NO usable address (2):
-
-  THC 16113: John Frelan Winters
-    https://atlas.thc.texas.gov/Details/5507016113
-
-  THC 24419: Mary E.V. Edwards Hunter (Undertold)
-    https://atlas.thc.texas.gov/Details/5000024419
-

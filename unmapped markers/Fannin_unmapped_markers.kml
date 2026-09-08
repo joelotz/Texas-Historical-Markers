@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Fannin County — Unmapped Historical Markers</name>
-  <description>THC markers in Fannin County without an HMDB id (isMissing excluded). 25 with THC coords; 0 geocoded from address; 6 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Fannin County without an HMDB id (isMissing excluded). 23 with THC coords; 0 geocoded from address; 4 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -57,12 +57,6 @@
     <Point><coordinates>-95.9557410908601,33.5718630513216,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Haden House</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Richard &amp; Bonham Sts.<br/><br/><b>Address:</b> 603 W. Bonham St., Ladonia<br/><br/><b>Marker Text:</b> Built 1894 by craftsmen Martin and Krause for local merchant, J. B. Haden, and wife Elizabeth. Remained in Haden family until 1963. Cypress construction with ornate gingerbread trim. Interior has fine woodwork. Late Victorian architecture. RTHL - 1966]]></description>
-    <Point><coordinates>-95.9526879804938,33.4261817373977,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Home of T. H. Sears</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[from Whitewright, FM 151 S one mi. to site<br/><br/><b>Address:</b> 6694 FM 151, Whitewright<br/><br/><b>Marker Text:</b> Colonial style home built by T. H. Sears, son of Christopher C. Sears, pioneer. Situated on part of original land grant. Show place since 1909. Recorded Texas Historic Landmark - 1967]]></description>
@@ -109,12 +103,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 220 W. 6th, Bonham<br/><br/><b>Marker Text:</b> Built 1872 with lumber hauled from Jefferson. Second story was added later. Bought 1946 by Alex Longmire. RTHL - 1968]]></description>
     <Point><coordinates>-96.1811445426292,33.5793169528671,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Portland</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[from Bailey take SH 78N .5 miles to FM 1552;then east on FM 1552 1.5 miles to R.O.W.<br/><br/><b>Address:</b> Portland<br/><br/><b>Marker Text:</b> The earliest known settler in the Portland community was Jesse Green London (1843-1875). A native of Missouri and a Confederate veteran who brought his family here in 1873. Other early settlers included members of the Tefteller, Cline, Bell, Henderson, Goin, and Biggerstaff families. The small farming community boasted several business establishments, including a blacksmith shop and a wood shop by the late 1880s.The six-grade Portland School opened in 1879 and met in a one-room log building until the school district was consolidated with two other area schools in 1898. The grocery store served as a residence and post office as well. Founded at the end of the 19th century, the Portland Congregational Methodist Church worshiped in the old log schoolhouse until 1909 when a sanctuary was built at this site. The opportunity for Portland to grow and prosper was denied when the rail line was laid south of the settlement. Although a few homes and this church building are all that remain of the community, the settlers left a rich heritage for their descendants, many of whom still live in the area.]]></description>
-    <Point><coordinates>-96.1468368882289,33.4453757556787,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Rehobeth Cemetery Chapel</name>

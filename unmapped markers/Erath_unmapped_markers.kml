@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Erath County — Unmapped Historical Markers</name>
-  <description>THC markers in Erath County without an HMDB id (isMissing excluded). 38 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Erath County without an HMDB id (isMissing excluded). 37 with THC coords; 0 geocoded from address; 3 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -121,12 +121,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[3 mi. NE of Morgan Mill on FM 1189<br/><br/><b>Address:</b> Morgan Mill<br/><br/><b>Marker Text:</b> John Bryan McPheres Hightower was born in December 1822 in Georgia. By 1846, he lived in Red River, Texas with his father and brother. Three years later, he wed Mary E. Morris in Cherokee County, and the couple moved to Erath County with three children by the time of the 1860 census. The family had earlier settled on a large ranch in this area. In 1870, the Hightowers formally set aside almost two acres here for a cemetery. Before that time, they had buried three children at the site, and some of the unmarked graves may date to earlier than 1870. At the cemetery that year, the community buried the first person outside the Hightower family, Reuben Phillips. A search party had found his body near the ranch after he had been attacked by Indians. John B. Hightower died in 1878, and Henry Killian bought the ranch. In 1895, he officially deeded the burial ground to a cemetery association, which has continued to maintain the historic site. Today, the site is the final resting place of military veterans, members of fraternal organizations and generations of area residents. Historic Texas Cemetery - 2003]]></description>
     <Point><coordinates>-98.1324169990775,32.4239073635452,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Historic Brick Streets of Stephenville</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> 984 Vanderbilt St., Stephenville<br/><br/><b>Marker Text:</b> Seeking to improve the town's dirt streets, the Stephenville City Council in 1929 authorized paving by the Thurber Construction Co. High-quality bricks from Thurber (26 mi. NW), popular with builders around the state, were laid over a Macadam base and bonded with a tar-like substance. Individual property owners bore most of the cost, despite the economic hardships of the Depression, and viewed the brick thoroughfares with pride. Although some of the streets have since been covered with asphalt, the brick pavement remains handsome and durable. (1978)]]></description>
-    <Point><coordinates>-98.2122353976592,32.2200500905027,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Holt House</name>

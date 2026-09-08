@@ -1,6 +1,0 @@
-Edwards unmapped markers with NO usable address (1):
-
-  THC 12414: Clinton LaFayette Smith
-    addr: Rocksprings
-    https://atlas.thc.texas.gov/Details/5137012414
-

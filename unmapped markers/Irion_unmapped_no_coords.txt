@@ -1,6 +1,0 @@
-Irion unmapped markers with NO usable address (1):
-
-  THC 19960: Arden Cemetery (HTC)
-    addr: CR 420, Mertzon
-    https://atlas.thc.texas.gov/Details/5000019960
-

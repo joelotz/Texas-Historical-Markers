@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Montgomery County — Unmapped Historical Markers</name>
-  <description>THC markers in Montgomery County without an HMDB id (isMissing excluded). 19 with THC coords; 0 geocoded from address; 6 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Montgomery County without an HMDB id (isMissing excluded). 18 with THC coords; 0 geocoded from address; 5 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -115,12 +115,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> 355 Linwood, Conroe<br/><br/><b>Marker Text:</b> County's first prefabricated house. Built 1887-88 by R.A. Corry. Parts were shipped from St. Louis. Hand-carved wainscot, staircase, mantels. Wood is cypress. Original doors and hardware are still in use. In family of C.H. Davison since 1889. Recorded Texas Historic Landmark - 1966]]></description>
     <Point><coordinates>-95.5651003822106,30.3502255634073,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>West Fork of The San Jacinto River</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[SH 105, 7 mi. west of Conroe near Conroe Dam and Coast Guard Auxiliary<br/><br/><b>Address:</b> Conroe<br/><br/><b>Marker Text:</b> Patiri and other Indians lived here in Archaic and Neo-American periods. When Spanish incursions began in the 1700s, the river was named either for hyacinths or for the saint on whose day it was discovered. Pioneers from the United States settled on the San Jacinto before Stephen F. Austin founded his colony to the west in 1821. Upon their wish to join him, he took this area into his colony in 1824. The San Jacinto won wold fame when beside its lower channel Mexican Dictator Santa Anna with 1700 troops was defeated on April 21, 1836, by General Sam Houston and Texas volunteers fighting for freedom. Riverside farms became plantations, often shipping cotton by keelboat down the San Jacinto, in 1845-61. Until woodlands vanished during the years 1880-1930, sandhill cranes and bear abounded. Reforestation, begun in 1936, brought back timber industries and small game. The lake now makes this a residential and recreational paradise, but covers such landmarks as Grandma Ed'Ards fishing hole, Indian Camp Creek, and the White Sugar Sand Crossing. Downriver, after this fork and the East Fork unite, the San Jacinto forms part of the Houston Ship Channel, the link between Port of Houston, the Gulf, and the high seas.]]></description>
-    <Point><coordinates>-95.5792494438063,30.3535111904155,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>William Womack Home</name>

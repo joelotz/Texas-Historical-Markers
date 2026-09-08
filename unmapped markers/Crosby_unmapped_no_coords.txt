@@ -1,6 +1,0 @@
-Crosby unmapped markers with NO usable address (1):
-
-  THC 46: A. B. Robertson Ranch
-    addr: Lorenzo vicinity
-    https://atlas.thc.texas.gov/Details/5107000046
-

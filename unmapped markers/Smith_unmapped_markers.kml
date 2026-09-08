@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Smith County — Unmapped Historical Markers</name>
-  <description>THC markers in Smith County without an HMDB id (isMissing excluded). 22 with THC coords; 0 geocoded from address; 7 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Smith County without an HMDB id (isMissing excluded). 21 with THC coords; 0 geocoded from address; 7 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -73,12 +73,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[<b>Address:</b> Tyler<br/><br/><b>Marker Text:</b> Frank and Sarah (Swann) Bell, descendants of 1850s East Texas pioneers, built this classical revival house in Tyler in 1900. Bell owned and operated a store and a farm. The couple had eight children. One son, Frank M. Bell, served 1942-66 as postmaster of Tyler. Banker-civic leader Henry Marsh Bell, another son, inherited the house. It remained in his family until 1960. Threatened with destruction, it was moved here in 1974 and restored. Recorded Texas Historic Landmark - 1978 Incise on base: Restored by the R. Randall Cape Family]]></description>
     <Point><coordinates>-95.3322273887863,32.2242614153627,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Garden Valley</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> intersection of FM16 and FM1253, Garden Valley]]></description>
-    <Point><coordinates>-95.5418191506625,32.52609790009,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Hawthorne Cemetery</name>

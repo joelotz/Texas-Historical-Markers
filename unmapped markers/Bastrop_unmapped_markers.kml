@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Bastrop County — Unmapped Historical Markers</name>
-  <description>THC markers in Bastrop County without an HMDB id (isMissing excluded). 42 with THC coords; 0 geocoded from address; 7 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Bastrop County without an HMDB id (isMissing excluded). 41 with THC coords; 0 geocoded from address; 7 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -117,7 +117,7 @@
     <Point><coordinates>-97.3164090906502,30.1089714770194,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>[PENDING] Leah Moncure, P.E. 2250</name>
+    <name>[PENDING] Leah Moncure, P.E.</name>
     <styleUrl>#pending</styleUrl>
     <description><![CDATA[<b>⚠ PENDING — marker may not yet be installed at this location.</b><br/><br/><b>Address:</b> 1601 Main St., Bastrop]]></description>
     <Point><coordinates>-97.320068,30.116888,0</coordinates></Point>
@@ -230,12 +230,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[NE corner Pecan and Walnut streets<br/><br/><b>Address:</b> 801 Pecan St., Bastrop<br/><br/><b>Marker Text:</b> RTHL medallion only]]></description>
     <Point><coordinates>-97.3172647123167,30.1086525664469,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>St. Mary's Colony Cemetery</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[marker pending<br/><br/><b>Address:</b> 281 St. Mary's Road, Dale<br/><br/><b>Marker Text:</b> marker pending]]></description>
-    <Point><coordinates>-97.624629,30.066577,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Thomas Osborn</name>

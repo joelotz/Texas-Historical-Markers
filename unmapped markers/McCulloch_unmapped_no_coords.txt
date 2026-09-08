@@ -1,6 +1,0 @@
-McCulloch unmapped markers with NO usable address (1):
-
-  THC 3679: Ogden Home
-    addr: Brady vicinity
-    https://atlas.thc.texas.gov/Details/5307003679
-

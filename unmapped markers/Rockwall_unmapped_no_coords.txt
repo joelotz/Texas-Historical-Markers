@@ -1,6 +1,0 @@
-Rockwall unmapped markers with NO usable address (1):
-
-  THC 24113: Nathan Butler Cemetery
-    addr: Shores Blvd., Rockwall
-    https://atlas.thc.texas.gov/Details/5000024113
-

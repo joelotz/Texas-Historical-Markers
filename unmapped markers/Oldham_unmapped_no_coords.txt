@@ -1,6 +1,0 @@
-Oldham unmapped markers with NO usable address (1):
-
-  THC 14482: L. S. Ranch
-    addr: Boy's Ranch
-    https://atlas.thc.texas.gov/Details/5507014482
-

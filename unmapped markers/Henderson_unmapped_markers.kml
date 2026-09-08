@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Henderson County — Unmapped Historical Markers</name>
-  <description>THC markers in Henderson County without an HMDB id (isMissing excluded). 50 with THC coords; 0 geocoded from address; 8 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Henderson County without an HMDB id (isMissing excluded). 47 with THC coords; 0 geocoded from address; 8 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -91,12 +91,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[CR 4511, S side, 0.8 mi. W of CR 4513<br/><br/><b>Address:</b> CR 4511, Larue<br/><br/><b>Marker Text:</b> This burial ground, named for the pioneering Davis family, has served this rural section of Henderson County since the mid-1800s. It was established in the early 1870s on property deeded by J.J. Deupree in 1883. The Baxter community, officially established by 1901 when it became a station for the Texas and New Orleans Railroad, is particularly represented here. Shortly after its founding, the community had a post office, stores, churches, cotton gins and a school. John L. Davis (d. 1873) came to Texas with his wife, Dorcas (Holland) (d. 1874), and their family by 1850. They settled in Henderson County before the Civil War. One of their sons, Archibald Mallard Davis, served as Henderson County sheriff. Others buried here include school trustee and community leader Willie E. Johnson (d. 1960); constable Morton G. Jepson (d. 1941); and Henderson County chief justice Samuel Tyne Owen (d. 1856), who has the earliest marked grave in the cemetery. Owen was reinterred here from another graveyard. The earliest interment in Davis Cemetery is of an infant, Ezra Davis (d. 1872). Also buried here are community leaders and veterans of conflicts dating to the Civil War. Additional property was added to the burial ground in 1952, 1989 and 1994. Cemetery features include vertical stones, curbing, unmarked graves and Woodmen of the World markers. In 1991, the Davis Cemetery Association incorporated to care for the burial ground and establish a trust fund. Today, Davis Cemetery endures as a record of the pioneering families that settled and lived in this portion of Henderson County. Historic Texas Cemetery – 2006]]></description>
     <Point><coordinates>-95.772937,32.142303,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Durham Avant</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Tool Cemetery, chruch Rd. (CR 2436) off SH 274<br/><br/><b>Address:</b> Tool<br/><br/><b>Marker Text:</b> (1798-1862) A native of North Carolina, Durham Avant came to Texas in 1834 with his wife, Susan (Winsett), and after a time they settled in present day Henderson County. Avant served as a Texas Ranger and in 1850 helped survey and determine a central location for the Henderson County Seat. He later opened a hotel in the new county seat of Athens. His death came shortly after he enlisted in the Confederate army with his son William.]]></description>
-    <Point><coordinates>-96.1783219088248,32.2730466828381,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Echols Cemetery on Jennings Mountain</name>
@@ -213,12 +207,6 @@
     <Point><coordinates>-96.0698212374619,32.2788433793037,0</coordinates></Point>
   </Placemark>
   <Placemark>
-    <name>Providence Baptist Church of Tool</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[<b>Address:</b> Tool]]></description>
-    <Point><coordinates>-96.1787294881703,32.2723892271794,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
     <name>Red Hill Cemetery</name>
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[4 mi. west  of Brownsboro on SH 31, then .4 miles south on CR 3621<br/><br/><b>Address:</b> Brownsboro<br/><br/><b>Marker Text:</b> Settlement in this area began in the 1840s. By 1849 the Red Hill Methodist Church had been established about three miles northwest of here. Sometime prior to 1877 the Red Hill Methodist congregation began to hold camp meetings at this site. In 1877 Smith County resident H. E. Calehan donated more than seven acres here to the Red Hill Methodist Episcopal Church, South. Though a church building was never built at the site, Methodist congregations from the Red Hill and Blackjack communities attended summer revivals here. The religious gatherings, which included brush arbor meetings, became traditional annual events. According to local tradition burials took place here prior to the first recorded interment, that of Joel and Mary Morton's daughter Lucinda in 1877. The site became a community graveyard serving the area's rural community and the towns of Brownsboro, Blackjack, and Murchison. Red Hill Cemetery contains more than 450 marked grave sites. Among the people buried here are many of the pioneer settlers of the area and their descendants and veterans of wars ranging from the Civil War to the Vietnam conflict. The cemetery is maintained by the Red Hill Cemetery Association. Sesquicentennial of Texas Statehood 1845 - 1995]]></description>
@@ -295,12 +283,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[Athens, SH 31 W to FM 753, left to CR 1500, then left to Walnut Creek Cemetery<br/><br/><b>Address:</b> FM 753 at CR 1500, Athens<br/><br/><b>Marker Text:</b> Walnut Creek Community As early as 1850, farm families inhabited this area along Walnut Creek. Growing grains, cotton and sugar cane for cash crops, residents also raised livestock and planted family gardens in what became known as the Walnut Creek community. For shipping local products, the closest rail stop to the settlement's center was west, at Daufin. In 1859, residents began worshiping in a brush arbor on a hill above the creek. Nearly 30 years later, in 1884, Mrs. C.T. Scott sold two acres here to trustees of a local Methodist congregation for a sanctuary site. A cemetery developed on land adjoining the church building, used by local Methodists and Baptists, and the first marked grave is that of Sallie E. Weir (d. 1889). In 1899, Henderson County purchased from J.W. Williams an acre adjacent to the church property for Walnut Creek School, which served area children from October through March each year, allowing students to work family lands during the growing season. In 1921, the school district built a brick schoolhouse here; students attended classes in it until consolidation with Athens schools in 1941. As Athens grew and the local economy changed, the Walnut Creek settlement declined in population, but use of the cemetery, which eventually comprised most of the original community center, continued. After a fire in 1939, church members transferred furnishings from the 1914 sanctuary to a congregation that became Crescent Heights Methodist Church. A cemetery board, organized in 1945, maintains and protects the grounds of the graveyard, designated a Historic Texas Cemetery in 2001. In use today, it serves as a reminder of the early agricultural community, a link to the area's history and settlers. (2003) Incising on bottom rim: Researched by John A. &amp; Iona Pinckard Miller]]></description>
     <Point><coordinates>-95.9225594575707,32.17928945658,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>William P. Avant</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[Tool Cemetery (CR 2436)<br/><br/><b>Address:</b> Tool<br/><br/><b>Marker Text:</b> (1826-1863) Alabama born William Avant grew up in what is now Henderson County after coming to Texas with his parents in 1834. At the age of 14, he served with his father, Durham, as a Texas Ranger. In 1849 he was issued a land grant in the Mercer colony (NE of present-day Athens) and settled there with his wife, Rutha, and their children. Involved in the building of the road from Athens to Palestine, Avant later enlisted in the Confederate Army and died after one year of service.]]></description>
-    <Point><coordinates>-96.17833263786,32.273077865803,0</coordinates></Point>
   </Placemark>
   <Placemark>
     <name>Willow Springs Cemetery</name>

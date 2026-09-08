@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Rockwall County — Unmapped Historical Markers</name>
-  <description>THC markers in Rockwall County without an HMDB id (isMissing excluded). 3 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
+  <description>THC markers in Rockwall County without an HMDB id (isMissing excluded). 2 with THC coords; 0 geocoded from address; 1 omitted (no usable address). Orange pins are isPending=True — the marker may not be installed yet.</description>
   <Style id="normal">
     <IconStyle>
       <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
@@ -25,13 +25,6 @@
     <styleUrl>#normal</styleUrl>
     <description><![CDATA[marker pending<br/><br/><b>Address:</b> 208 Woodpark Ln, Rockwall<br/><br/><b>Marker Text:</b> marker pending]]></description>
     <Point><coordinates>-96.462643,32.918003,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>New Hope Baptist Church</name>
-    <styleUrl>#normal</styleUrl>
-    <description><![CDATA[801 Old Greenville Road<br/><br/><b>Address:</b> 801 Old Greenville Rd., Royse City<br/><br/><b>Marker Text:</b> Before the founding of both the town and county in which it is located, this predominately African American congregation has worshipped together. In 1859, settlers from around Texas and Oklahoma organized the church, naming it “First Colored Missionary Baptist Church”. Such an early date means the church is among the oldest continuously operating churches in the State of Texas. At the church’s formation, the membership likely included enslaved persons. Descendants of these founding members continued for many generations to call New Hope home. The church received property at 801 Greenville Road on November 3, 1868, and has worshipped at the site ever since. Early Juneteenth celebrations were also held here. The church held services on the property prior to issuance of the deed and the first church building was a worker’s shack. Under the leadership of Pastor Louis Rice, a permanent structure was built in 1914. Significant remodels or new buildings occurred in 1953, 1974 and 1994.
-  The name was changed to New Hope Baptist Church in 1906. New Hope was a centerpiece of the Royse City community. The church building served as a gathering space when representation was not allowed elsewhere. The church’s daily duties included not only religious, but family and educational support to local families. The church has numerous times advocated for education, evident by the fact that Royse City ISD named an educational building after longtime New Hope member and former trailblazing City Councilman Ernest Epps (1926-2008). The church has continuously adapted and grown with the community’s needs. New Hope Baptist Church is a fellowship of significant historical and cultural importance. (2022)]]></description>
-    <Point><coordinates>-96.323553,32.971042,0</coordinates></Point>
   </Placemark>
 </Document>
 </kml>

@@ -1,6 +1,0 @@
-Hale unmapped markers with NO usable address (1):
-
-  THC 24349: Seth Ward Cemetery
-    addr: 2320 County Road 65, Plainview
-    https://atlas.thc.texas.gov/Details/5000024349
-

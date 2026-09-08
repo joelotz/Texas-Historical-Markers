@@ -1,6 +1,0 @@
-Cooke unmapped markers with NO usable address (1):
-
-  THC 12484: Nelson Log House
-    addr: Gainesville vicinity
-    https://atlas.thc.texas.gov/Details/5097012484
-
