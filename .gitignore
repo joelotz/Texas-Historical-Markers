@@ -29,3 +29,8 @@ HANDOFF.md
 # /builds/ == Ignore the 'builds' folder in the root directory
 # logs/ == Ignore any folder named 'logs' anywhere in the repository
 TODO.md
+
+# personal working notes (kept locally, not published)
+hmdb.md
+hmdb_ignore.csv
+/brainstorms/

@@ -2,7 +2,7 @@
 
 Two-phase workflow for syncing hmdb.org marker exports into the canonical
 atlas_db.csv. See ``.agents/skills/hmdb-sync`` for the user-facing skill and
-``hmdb.md`` at the project root for the strategy.
+``hmdb.md`` at the project root (local notes, not tracked) for the strategy.
 
 Phase 1 — ``thc hmdb reconcile`` (identification + auto-apply for exact matches):
     Filter the source CSV to official THC markers (fuzzy on ``Erected By``),

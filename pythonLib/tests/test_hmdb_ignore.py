@@ -120,7 +120,7 @@ def test_ignore_is_keyed_on_marker_id_not_marker_no(tmp_path):
 
 
 def test_real_ignore_file_is_well_formed():
-    """The tracked hmdb_ignore.csv must parse and hold unique MarkerIDs."""
+    """The local hmdb_ignore.csv (gitignored) must parse and hold unique MarkerIDs."""
     from pathlib import Path
 
     path = Path(__file__).resolve().parents[2] / hmdb_sync.IGNORE_FILE_NAME
