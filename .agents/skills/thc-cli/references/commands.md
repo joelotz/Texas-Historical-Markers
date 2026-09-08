@@ -37,8 +37,8 @@ thc docs counties
 
 ```bash
 cd pythonLib
-thc counties --input ../atlas_db.csv --output ../scripts/UnmappedMarkersPerCounty --stats
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --radius 5 --csv
+thc counties --input ../atlas_db.csv --output ../generated/UnmappedMarkersPerCounty --stats
+thc route --track path/to/route.kml --data ../atlas_db.csv --radius 5 --csv
 thc map --data ../atlas_db.csv --county Travis --unmapped --csv
 ```
 

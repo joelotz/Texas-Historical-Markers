@@ -102,16 +102,17 @@ What it does:
 ## Worked example (Tarrant)
 
 ```bash
-# Phase 1
-thc hmdb reconcile scripts/tarrant.csv \
+# Phase 1  (the export lives under the gitignored data_files/; review files go to
+#           scripts/tmp/, not /tmp/, so LibreOffice can open them)
+thc hmdb reconcile data_files/HMdb-Entries-Tarrant.csv \
     --atlas atlas_db.csv \
-    --out-dir /tmp/hmdb_review_tarrant
+    --out-dir scripts/tmp/hmdb_review_tarrant
 
 # Human opens the three CSVs in a spreadsheet, sets approve = YES / NO
 
 # Phase 2
-thc hmdb apply --hmdb scripts/tarrant.csv \
-    --review-dir /tmp/hmdb_review_tarrant \
+thc hmdb apply --hmdb data_files/HMdb-Entries-Tarrant.csv \
+    --review-dir scripts/tmp/hmdb_review_tarrant \
     --atlas atlas_db.csv
 ```
 

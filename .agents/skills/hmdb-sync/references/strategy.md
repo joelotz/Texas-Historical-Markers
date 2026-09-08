@@ -11,7 +11,7 @@ until the identification logic is debugged and the user gives the go.
 
 ## Inputs
 
-- **Source CSV** (e.g. `scripts/tarrant.csv`): rows exported from
+- **Source CSV** (e.g. `data_files/HMdb-Entries-Tarrant.csv`; `data_files/` is gitignored): rows exported from
   hmdb.org. Relevant columns: `MarkerID`, `Marker No.`, `Title`,
   `Erected By`, `Latitude (minus=S)`, `Longitude (minus=W)`,
   `Street Address`, `City or Town`, `Location`, `Missing`, `Link`.
@@ -133,7 +133,7 @@ during Phase 1; everything else waits on human approval in Phase 2.
 
 ## Tarrant baseline (pre-implementation snapshot)
 
-Running Step 1 alone on `scripts/tarrant.csv`: 502 rows in, ~324 pass
+Running Step 1 alone on the Tarrant County export (502 rows in): ~324 pass
 the THC fuzzy filter. Of those, ~315 also pass Step 2 (Marker No.
 present in atlas). Of those, ~24 currently have an empty `ref:hmdb`
 in atlas — those are the rows that will hit Step 4 for the title

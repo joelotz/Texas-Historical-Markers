@@ -44,8 +44,14 @@ Module CLIs for direct development/debugging are also valid:
 
 Project-specific skills live under `.agents/skills/`. Each skill is a self-contained
 folder with a `SKILL.md` (purpose + workflow), optional `references/` (deep context),
-and optional `scripts/` (helpers). They are written in agent-neutral language so any
+and optional `scripts/` (helpers). Paths inside a `SKILL.md` such as `scripts/preflight.sh`
+are relative to that skill's folder. They are written in agent-neutral language so any
 AI coding assistant can use them.
+
+The repo-root `scripts/` directory is different: it is gitignored except for
+`scripts/hooks/` (the tracked pre-commit hook). `scripts/tmp/` is the scratch area the
+skills and the `thc` CLI write reports, backups and review files to; create it if it is
+missing. Derived map files go to `generated/`, also gitignored.
 
 | Skill | When to use |
 |-------|-------------|
@@ -128,8 +134,8 @@ If `ruff` is not installed, document that lint was not run.
 ```bash
 cd pythonLib
 thc --help
-thc counties --input ../atlas_db.csv --output ../scripts/UnmappedMarkersPerCounty --stats
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --radius 5 --csv
+thc counties --input ../atlas_db.csv --output ../generated/UnmappedMarkersPerCounty --stats
+thc route --track path/to/route.kml --data ../atlas_db.csv --radius 5 --csv
 thc map --data ../atlas_db.csv --county Travis --unmapped --csv
 python -m thc_toolkit.osm_cli --help
 ```

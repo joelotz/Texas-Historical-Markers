@@ -8,7 +8,7 @@ description: The whole "hmdb data update" cycle for atlas_db.csv and OSM in one 
 One request ("update from hmdb", "pull the latest hmdb data and show me
 what's new") → this runbook. Two gates: Joe sees the **plan table** before
 any write, and every OSM script dry-runs before `--apply`. Scripts live in
-`.claude/skills/hmdb-update/scripts/`; lower-level mechanics are documented
+`.agents/skills/hmdb-update/scripts/`; lower-level mechanics are documented
 in `hmdb-fetch` (download) and `hmdb-sync` (reconcile/apply rules).
 
 Read [references/decisions.md](references/decisions.md) first — it holds
@@ -19,7 +19,7 @@ of the plan needs no questions.
 
 ```bash
 thc hmdb fetch                                   # data_files/HMdb-Entries-Texas-YYYYMMDD.csv, auto re-auth
-python .claude/skills/hmdb-update/scripts/hmdb_update_report.py \
+python .agents/skills/hmdb-update/scripts/hmdb_update_report.py \
     data_files/HMdb-Entries-Texas-YYYYMMDD.csv   # --prev picks the newest older export by itself
 ```
 
@@ -78,14 +78,14 @@ dated pattern, all writing with `newline=''` + `lineterminator='\n'`.
 
 ```bash
 # existing nodes: re-catalogued ids and newly linked rows that already have a node
-python .claude/skills/hmdb-update/scripts/retag_nodes.py \
+python .agents/skills/hmdb-update/scripts/retag_nodes.py \
     --swap THC:OLD:NEW ... --link THC ...            # dry run, then --apply
 
 # new nodes for every isHMDB & !isOSM & active & !missing & !pending row
-.claude/skills/hmdb-update/scripts/fetch_plaque_extract.sh scripts/tmp/overpass_tx_plaques_YYYYMMDD.json
-python .claude/skills/hmdb-update/scripts/push_new_nodes.py \
+.agents/skills/hmdb-update/scripts/fetch_plaque_extract.sh scripts/tmp/overpass_tx_plaques_YYYYMMDD.json
+python .agents/skills/hmdb-update/scripts/push_new_nodes.py \
     --extract scripts/tmp/overpass_tx_plaques_YYYYMMDD.json [--adopt THC=NODE] --dry-run
-python .claude/skills/hmdb-update/scripts/push_new_nodes.py --extract ... [--adopt ...]
+python .agents/skills/hmdb-update/scripts/push_new_nodes.py --extract ... [--adopt ...]
 ```
 
 `push_new_nodes.py` aborts on any offline dedup hit; read the hit. A

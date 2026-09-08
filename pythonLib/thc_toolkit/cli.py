@@ -14,7 +14,7 @@ Examples:
     thc counties --input ../atlas_db.csv --stats
     thc counties --simple --merge all.csv
     thc counties --county Denton --simple
-    thc route --track ../scripts/test.kml --data ../atlas_db.csv --unmapped --openmap
+    thc route --track path/to/route.kml --data ../atlas_db.csv --unmapped --openmap
     thc sqlite build --csv ../atlas_db.csv --sqlite atlas_db.sqlite
     thc sqlite browse --sqlite atlas_db.sqlite
 """

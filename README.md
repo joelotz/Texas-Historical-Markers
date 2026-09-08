@@ -152,8 +152,8 @@ layout and how to use them.
 
 Two licenses apply, one for the code and one for the data. Both require credit.
 
-- **Code** — everything under `pythonLib/` and `scripts/` — is released under the
-  [MIT License](./LICENSE). Keep the copyright notice and you may use it however you like.
+- **Code** — `pythonLib/`, the git hooks under `scripts/hooks/`, and the skill helpers
+  under `.agents/skills/` — is released under the [MIT License](./LICENSE). Keep the copyright notice and you may use it however you like.
 - **Data** — `atlas_db.csv`, `atlas_db.sqlite`, and everything under `generated/` — is released
   under [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE-DATA).
   Use it, adapt it, build on it, but say where it came from.

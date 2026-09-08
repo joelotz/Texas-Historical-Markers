@@ -135,21 +135,21 @@ Defaults:
 Generate an interactive map of markers near a KML route:
 
 ```sh
-thc route --track ../scripts/test.kml --data ../atlas_db.csv
+thc route --track path/to/route.kml --data ../atlas_db.csv
 ```
 
 Only unmapped:
 
 ```sh
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --unmapped
+thc route --track path/to/route.kml --data ../atlas_db.csv --unmapped
 ```
 
 Export variants:
 
 ```sh
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --csv
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --geojson --kml
-thc route --track ../scripts/test.kml --data ../atlas_db.csv --openmap   # auto-launch browser
+thc route --track path/to/route.kml --data ../atlas_db.csv --csv
+thc route --track path/to/route.kml --data ../atlas_db.csv --geojson --kml
+thc route --track path/to/route.kml --data ../atlas_db.csv --openmap   # auto-launch browser
 ```
 
 Output files include:
