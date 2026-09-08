@@ -9,7 +9,7 @@ AND `isActive` is not False.
 
 Differences from build_kml.py (which is county-scoped):
   * No geocoding. A statewide pass would be thousands of Nominatim requests;
-    coord-less rows go to the sidecar instead. Pre-geocode per county with
+    coord-less rows are omitted (counted in the description; --sidecar lists them). Pre-geocode per county with
     build_kml.py / audit_coords.py if you want them on the map.
   * `verified:Latitude/Longitude` is preferred over `estimated:*` when both
     exist, and is used alone when it is the only coord on the row.
@@ -21,6 +21,7 @@ Differences from build_kml.py (which is county-scoped):
 Usage:
   python3 build_statewide_kml.py
   python3 build_statewide_kml.py --out "unmapped markers/Texas_statewide_unmapped.kml"
+  python3 build_statewide_kml.py --split 2     # the tracked west/east pair
 """
 import argparse
 import csv
@@ -93,43 +94,39 @@ def folders(by_county: dict, cap: int):
     return out
 
 
-def main():
-    p = argparse.ArgumentParser(description=__doc__,
-                                formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--atlas", default="atlas_db.csv")
-    p.add_argument("--out", default="unmapped markers/Texas_statewide_unmapped.kml")
-    p.add_argument("--sidecar", default="unmapped markers/Texas_statewide_no_coords.txt")
-    p.add_argument("--max-per-folder", type=int, default=MAX_PER_FOLDER,
-                   help="Max placemarks per <Folder>; My Maps truncates a layer past 2000")
-    args = p.parse_args()
+def split_east_west(by_county: dict, parts: int) -> list[list[str]]:
+    """Cut the counties into `parts` groups of roughly equal marker count, packed
+    west to east by mean longitude; counties are never split across parts."""
+    def lon(c):
+        vals = [float(x[2]) for x in by_county[c]]
+        return sum(vals) / len(vals)
+    ordered = sorted(by_county, key=lon)
+    total = sum(len(by_county[c]) for c in ordered)
+    groups, cur, n = [], [], 0
+    for i, county in enumerate(ordered):
+        cur.append(county)
+        n += len(by_county[county])
+        remaining = parts - len(groups)
+        if remaining > 1 and n >= total / parts and len(ordered) - i - 1 >= remaining - 1:
+            groups.append(cur)
+            cur, n = [], 0
+    if cur:
+        groups.append(cur)
+    return groups
 
-    atlas = Path(args.atlas).resolve()
-    out_path = Path(args.out).resolve()
-    side_path = Path(args.sidecar).resolve()
-    out_path.parent.mkdir(parents=True, exist_ok=True)
 
-    rows = eligible(atlas)
-    by_county = defaultdict(list)
-    no_coords = []
-    n_verified = n_pending = 0
-    for r in rows:
-        c = coords(r)
-        if not c:
-            no_coords.append(r)
-            continue
-        lat, lon, src = c
-        n_verified += src == "verified"
-        n_pending += build_kml.is_pending(r)
-        by_county[r["addr:county"].strip() or "(no county)"].append((r, lat, lon))
-
-    total = sum(len(v) for v in by_county.values())
-    groups = folders(by_county, args.max_per_folder)
-
+def build_doc(counties, by_county, max_per_folder: int, title: str, note: str, n_no_coords: int):
+    """One KML document over `counties`, folder-split for the My Maps layer cap."""
+    sub = {c: by_county[c] for c in counties}
+    groups = folders(sub, max_per_folder)
+    total = sum(len(v) for v in sub.values())
+    n_verified = sum(1 for v in sub.values() for x in v if x[3] == "verified")
+    n_pending = sum(1 for v in sub.values() for x in v if build_kml.is_pending(x[0]))
     chunks = []
     for g in groups:
         marks = []
         for county in g:
-            for r, lat, lon in sorted(by_county[county], key=lambda x: x[0]["name"].lower()):
+            for r, lat, lon, _src in sorted(sub[county], key=lambda x: x[0]["name"].lower()):
                 marks.append(placemark(r, lat, lon))
         label = g[0] if len(g) == 1 else f"{g[0]}–{g[-1]}"
         chunks.append(
@@ -139,16 +136,15 @@ def main():
             + "\n".join(marks)
             + "\n  </Folder>"
         )
-
     kml = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
         "<Document>\n"
-        "  <name>Texas — Unmapped Historical Markers (statewide)</name>\n"
-        f"  <description>Every THC marker in Texas without an HMDB id, excluding "
+        f"  <name>{escape(title)}</name>\n"
+        f"  <description>{escape(note)}Every THC marker in Texas without an HMDB id, excluding "
         f"isMissing, isPrivate and isActive=False rows. {total} placemarks across "
-        f"{len(by_county)} counties ({n_verified} on field-verified coords, the rest "
-        f"on THC estimated coords); {len(no_coords)} further markers are omitted for "
+        f"{len(sub)} counties ({n_verified} on field-verified coords, the rest "
+        f"on THC estimated coords); statewide, {n_no_coords} further markers are omitted for "
         f"having no coordinate at all. Orange pins ({n_pending}) are isPending=True — "
         f"the marker may not be installed yet. Split into {len(groups)} folders because "
         f"Google My Maps caps a layer at 2,000 features.</description>\n"
@@ -156,24 +152,69 @@ def main():
         + "\n".join(chunks)
         + "\n</Document>\n</kml>\n"
     )
-    out_path.write_text(kml, encoding="utf-8")
+    return kml, total, groups, chunks
 
-    with side_path.open("w", encoding="utf-8") as f:
-        f.write(f"Texas unmapped markers with NO coordinate ({len(no_coords)}):\n\n")
-        for r in sorted(no_coords, key=lambda x: (x["addr:county"], x["name"].lower())):
-            addr = ", ".join(b for b in [r["addr:full"].strip(), r["addr:city"].strip()] if b)
-            f.write(f'  THC {r["ref:US-TX:thc"]} [{r["addr:county"]}]: {r["name"]}\n')
-            if addr:
-                f.write(f"    addr: {addr}\n")
-            f.write(f'    {r["website"]}\n\n')
 
-    print(f"KML: {out_path}")
-    print(f"  {total} placemarks / {len(by_county)} counties / {len(groups)} folders "
-          f"/ {out_path.stat().st_size / 1_048_576:.2f} MB")
-    for g, chunk in zip(groups, chunks):
-        print(f"    {g[0]}–{g[-1]}: {chunk.count('<Placemark>')} markers, {len(g)} counties")
-    print(f"Sidecar: {side_path}  ({len(no_coords)} markers with no coordinate)")
+def main():
+    p = argparse.ArgumentParser(description=__doc__,
+                                formatter_class=argparse.RawDescriptionHelpFormatter)
+    p.add_argument("--atlas", default="atlas_db.csv")
+    p.add_argument("--out", default="unmapped markers/Texas_statewide_unmapped.kml")
+    p.add_argument("--sidecar", default=None,
+                   help="Optional: also write the no-coordinate list to this text file (off by default)")
+    p.add_argument("--split", type=int, default=1,
+                   help="Write N files <stem>_partIofN.kml, cut west to east with counties kept whole")
+    p.add_argument("--max-per-folder", type=int, default=MAX_PER_FOLDER,
+                   help="Max placemarks per <Folder>; My Maps truncates a layer past 2000")
+    args = p.parse_args()
+
+    atlas = Path(args.atlas).resolve()
+    out_path = Path(args.out).resolve()
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    rows = eligible(atlas)
+    by_county = defaultdict(list)
+    no_coords = []
+    for r in rows:
+        c = coords(r)
+        if not c:
+            no_coords.append(r)
+            continue
+        lat, lon, src = c
+        by_county[r["addr:county"].strip() or "(no county)"].append((r, lat, lon, src))
+
+    groups = split_east_west(by_county, args.split) if args.split > 1 else [list(by_county)]
+    for i, counties in enumerate(groups, 1):
+        if len(groups) > 1:
+            title = f"Texas — Unmapped Historical Markers {i}/{len(groups)}"
+            note = f"Part {i} of {len(groups)}, cut west to east with counties kept whole. "
+            dest = out_path.with_name(f"{out_path.stem}_part{i}of{len(groups)}.kml")
+        else:
+            title = "Texas — Unmapped Historical Markers (statewide)"
+            note = ""
+            dest = out_path
+        kml, total, folders_, chunks = build_doc(counties, by_county, args.max_per_folder, title, note, len(no_coords))
+        dest.write_text(kml, encoding="utf-8")
+        mb = dest.stat().st_size / 1_048_576
+        flag = "" if mb < 5 else "   <-- OVER the My Maps 5 MB cap"
+        print(f"KML: {dest}")
+        print(f"  {total} placemarks / {len(counties)} counties / {len(folders_)} folders / {mb:.2f} MB{flag}")
+        for g, chunk in zip(folders_, chunks):
+            print(f"    {g[0]}–{g[-1]}: {chunk.count('<Placemark>')} markers, {len(g)} counties")
+
+    print(f"Omitted statewide for having no coordinate: {len(no_coords)} markers")
+    if args.sidecar:
+        side_path = Path(args.sidecar).resolve()
+        with side_path.open("w", encoding="utf-8") as f:
+            f.write(f"Texas unmapped markers with NO coordinate ({len(no_coords)}):\n\n")
+            for r in sorted(no_coords, key=lambda x: (x["addr:county"], x["name"].lower())):
+                addr = ", ".join(b for b in [r["addr:full"].strip(), r["addr:city"].strip()] if b)
+                f.write(f'  THC {r["ref:US-TX:thc"]} [{r["addr:county"]}]: {r["name"]}\n')
+                if addr:
+                    f.write(f"    addr: {addr}\n")
+                f.write(f'    {r["website"]}\n\n')
+        print(f"Sidecar: {side_path}")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()

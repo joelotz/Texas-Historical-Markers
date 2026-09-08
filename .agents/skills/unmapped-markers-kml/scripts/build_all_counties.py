@@ -5,7 +5,7 @@ Wraps the single-county build_kml.py and only rebuilds counties whose
 KML-eligible rows have changed since the last run. A per-county content
 hash is persisted in a state file; unchanged counties are skipped, new/
 changed counties are rebuilt, and counties that no longer have any
-eligible rows have their stale KML + sidecar pruned.
+eligible rows have their stale KML pruned.
 
 Nominatim geocoding is DISABLED by default (the workflow pre-geocodes via
 the US Census batch, then builds). Pass --geocode to re-enable it.
@@ -121,7 +121,7 @@ def main() -> int:
         repo / "scripts" / "tmp" / "kml_build_state.json"
 
     if not args.geocode:
-        # Neutralize Nominatim: coord-less rows fall through to the sidecar.
+        # Neutralize Nominatim: coord-less rows are simply omitted (listed on stdout).
         build_kml.geocode = lambda *a, **k: None
 
     by_county = eligible_rows_by_county(atlas)
@@ -157,9 +157,8 @@ def main() -> int:
             county = kml.name[: -len("_unmapped_markers.kml")]
             if county not in eligible:
                 kml.unlink(missing_ok=True)
-                (out_dir / f"{county}_unmapped_no_coords.txt").unlink(missing_ok=True)
                 pruned.append(county)
-                print(f"[prune] {county}: removed stale KML + sidecar")
+                print(f"[prune] {county}: removed stale KML")
 
     # Persist new state (only when we did a complete pass, i.e. no --county subset).
     if not only:

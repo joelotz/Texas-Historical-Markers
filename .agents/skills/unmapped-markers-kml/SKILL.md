@@ -88,15 +88,17 @@ Options:
 - `--state <path>` — default `<repo>/scripts/tmp/kml_build_state.json` (gitignored)
 
 Behavior: new/changed counties are rebuilt; unchanged counties are
-skipped; counties that drop to zero eligible rows have their stale KML +
-`_no_coords.txt` sidecar pruned. On the first run (no state file) every
+skipped; counties that drop to zero eligible rows have their stale KML
+pruned. On the first run (no state file) every
 county is built and the state is seeded.
 
 ### Build mode — one statewide KML
 
 When the ask is "all of Texas in a single file" rather than a county at a
-time, use `build_statewide_kml.py`. It emits one KML plus a no-coord
-sidecar and never touches `atlas_db.csv`.
+time, use `build_statewide_kml.py`. It emits one KML (or, with `--split N`, N west-to-east parts) and never
+touches `atlas_db.csv`. Rows with no coordinate are only counted in the
+document description; the `_no_coords.txt` sidecars were retired on
+2026-09-07 (`--sidecar <path>` still writes one on request).
 
 ```bash
 python3 .agents/skills/unmapped-markers-kml/scripts/build_statewide_kml.py
@@ -105,12 +107,13 @@ python3 .agents/skills/unmapped-markers-kml/scripts/build_statewide_kml.py
 Options:
 - `--atlas <path>` — default `atlas_db.csv`
 - `--out <path>` — default `unmapped markers/Texas_statewide_unmapped.kml`
-- `--sidecar <path>` — default `unmapped markers/Texas_statewide_no_coords.txt`
+- `--sidecar <path>` — optional; write the no-coordinate list to this file (off by default)
+- `--split N` — write `<stem>_partIofN.kml` files cut west to east, counties kept whole; the tracked pair is `--split 2`
 - `--max-per-folder <int>` — default 2000, the My Maps per-layer cap
 
 Three deliberate differences from the county build:
 - **No geocoding.** A statewide pass would be thousands of Nominatim
-  requests. Coord-less rows go to the sidecar; pre-geocode per county
+  requests. Coord-less rows are omitted; pre-geocode per county
   with `build_kml.py` if you want them on the map.
 - **`verified:*` beats `estimated:*`.** A field-measured coord is used
   when present, which puts a handful of rows on the map that the
@@ -262,8 +265,8 @@ Options:
    somebody standing at a roadside and must stay out of the popup. If
    data-management text ever turns up inside `Marker Notes`, move it to
    `DATA_NOTE` rather than filtering it here.
-7. **Sidecar**: rows with no coords AND no usable address are dumped to
-   `<county>_unmapped_no_coords.txt` so the user can locate them manually.
+7. **No sidecar**: rows with no coords AND no usable address are listed on
+   stdout only (the `_no_coords.txt` sidecars were retired 2026-09-07).
 
 ## What audit_coords.py does
 
@@ -291,10 +294,8 @@ shows up as a real diff, so review it like any other change:
 | file                                       | meaning                                                                  |
 |--------------------------------------------|--------------------------------------------------------------------------|
 | `<county>_unmapped_markers.kml`            | build mode — import into Google My Maps                                  |
-| `<county>_unmapped_no_coords.txt`          | build mode — city-only markers needing manual location work              |
 | `<county>_coord_audit_review.csv`          | audit mode — rows whose stored coord disagrees with the geocoded address |
 | `Texas_statewide_unmapped.kml`             | statewide build — every unmapped marker in Texas, one file              |
-| `Texas_statewide_no_coords.txt`            | statewide build — markers with no coordinate at all                      |
 | `generated/Texas_mapped_markers.kml`       | mapped build — every marker with a field-verified coord (gitignored)     |
 | `generated/Texas_mapped_markers_slim.kmz`  | mapped build — same pins, no Marker Text, zipped (~0.7 MB, gitignored)   |
 | `generated/..._slim_part{1,2}of2.kml`      | mapped build — the My Maps-importable split, ~3 MB each (gitignored)     |

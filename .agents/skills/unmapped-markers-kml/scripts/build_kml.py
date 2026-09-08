@@ -14,8 +14,8 @@ Behavior:
      runs skip the lookup. Use --no-write-coords to disable.
   5. Markers with `isPending=True` are flagged in the KML title with
      `[PENDING]` and a warning note in the description.
-  6. Markers with no coords AND no usable street address are written to a
-     sidecar text file so the user can locate them manually later.
+  6. Markers with no coords AND no usable street address are omitted from the
+     KML and listed on stdout (the _no_coords.txt sidecars were retired 2026-09-07).
 
 Usage:
   python3 build_kml.py --county Tarrant
@@ -160,7 +160,6 @@ def main():
 
     county = args.county
     kml_path = out_dir / f'{county}_unmapped_markers.kml'
-    txt_path = out_dir / f'{county}_unmapped_no_coords.txt'
 
     # isActive=False marks a superseded or duplicate THC atlas record -- the same
     # physical marker is documented under another thc#, which usually already
@@ -232,19 +231,13 @@ def main():
     )
     kml_path.write_text(kml, encoding='utf-8')
 
-    with txt_path.open('w', encoding='utf-8') as f:
-        f.write(f'{county} unmapped markers with NO usable address ({len(still_unmapped)}):\n\n')
-        for r in sorted(still_unmapped, key=lambda x: x['name'].lower()):
-            addr = ', '.join(b for b in [r['addr:full'].strip(), r['addr:city'].strip()] if b)
-            f.write(f'  THC {r["ref:US-TX:thc"]}: {r["name"]}\n')
-            if addr:
-                f.write(f'    addr: {addr}\n')
-            f.write(f'    {r["website"]}\n\n')
-
     print()
     print(f'KML: {kml_path}  ({len(mapped) + len(geocoded)} placemarks: '
           f'{len(mapped)} THC + {len(geocoded)} geocoded)')
-    print(f'No-coord list: {txt_path}  ({len(still_unmapped)} markers)')
+    if still_unmapped:
+        print(f'  omitted (no coordinate and no usable address): {len(still_unmapped)}')
+        for r in sorted(still_unmapped, key=lambda x: x['name'].lower()):
+            print(f'    THC {r["ref:US-TX:thc"]}: {r["name"]}')
 
     if geocoded_updates and not args.no_write_coords:
         n = write_geocoded_to_atlas(atlas, geocoded_updates)
