@@ -42,6 +42,11 @@ ENDPOINTS = ("https://overpass-api.de/api/interpreter", "https://lz4.overpass-ap
 LINK_COLS = ("addr:full", "addr:city", "addr:county", "start_date", "website")
 
 
+def fold_addr(s: str) -> str:
+    """Compare addresses ignoring punctuation, case and spacing (feedback_no_cosmetic_churn_to_osm)."""
+    return " ".join("".join(ch for ch in s.lower() if ch.isalnum() or ch.isspace()).split())
+
+
 def overpass(q: str) -> dict:
     last = None
     for _ in range(2):
@@ -121,8 +126,8 @@ def main() -> None:
                 val = r[col].strip()
                 if col == "addr:county" and val.endswith(" County"):
                     val = val[: -len(" County")]
-                if val and t.get(col) != val:
-                    t[col] = val
+                if val and t.get(col) != val and not (col.startswith("addr:") and fold_addr(t.get(col, "")) == fold_addr(val)):
+                    t[col] = val                       # addr flips that only change punctuation/case are cosmetic churn: skip
             t.setdefault("operator", "Texas Historical Commission")
             t.setdefault("operator:wikidata", "Q2397965")
         changed = {k: (before.get(k), t[k]) for k in t if before.get(k) != t[k]}

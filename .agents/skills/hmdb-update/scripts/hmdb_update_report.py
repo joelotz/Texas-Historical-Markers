@@ -184,7 +184,8 @@ def main() -> None:
         raise SystemExit("no previous snapshot found; pass --prev")
     prev_p = prev_p.resolve()
     tag = re.search(r"(\d{8})", new_p.name)
-    out_dir = a.out_dir or ROOT / "scripts/tmp" / f"hmdb_review_{tag.group(1) if tag else date.today():%Y%m%d}"
+    stamp = tag.group(1) if tag else f"{date.today():%Y%m%d}"
+    out_dir = a.out_dir or ROOT / "scripts/tmp" / f"hmdb_review_{stamp}"
     out_dir.mkdir(parents=True, exist_ok=True)
     atlas_p = a.atlas.resolve()
 

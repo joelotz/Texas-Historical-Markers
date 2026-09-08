@@ -33,6 +33,8 @@ ask only for the cases marked *ask*.
 | re-catalogued id on a row with an OSM node | `retag_nodes.py --swap THC:OLD:NEW` — refs only |
 | newly linked row that already has an OSM node | `retag_nodes.py --link THC` — refs, addr, start_date, operator; never name/inscription/material; leave geometry when the hmdb coord is within ~10 m |
 | newly linked rows without a node | `push_new_nodes.py` after the atlas write; Joe's default is "push the new additions into OSM" (2026-09-06) |
+| `--link` address differs from the node only by punctuation/case ("St." vs "St") | not pushed; `retag_nodes.py` folds both sides before comparing (2026-09-07, Burkett House). A change that adds information (a street suffix) is still pushed |
+| re-catalogued page moves the marker (Sparks Brown 2026-09-07, 334 m) | refs swapped at once; the geometry move is a separate decision for Joe |
 | dedup hit: plaque node with the atlas Details URL in `website` and no `ref:US-TX:thc` | it is ours — `--adopt THC=NODE` (Rex Ingram n9525057348, 2026-09-06; Laredo 2026-08-22) |
 | dedup hit: node already holds the ref | not a create; investigate which node is right (feedback_validate_the_post_state) |
 | node for a row Joe linked to a *not yet published* hmdb page | create it; `memorial:website` will resolve once hmdb publishes (Gober Cemetery 2026-09-06) |
