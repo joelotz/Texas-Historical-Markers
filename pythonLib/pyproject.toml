@@ -8,13 +8,13 @@ version = "0.2.3"
 description = " Texas Historical Marker mapping toolkit"
 authors = [{ name="Joe Lotz" }]
 readme = "README.md"
-license = { text = "CC0-1.0" }
+license = { text = "MIT" }
 requires-python = ">=3.10"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
     "Intended Audience :: Science/Research",
-    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",

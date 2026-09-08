@@ -147,3 +147,34 @@ codify the established workflows (HMDB reconciliation, OSM sync, data-quality au
 CLI usage). They're written to be agent-agnostic — Claude Code, Codex, Cursor, Aider,
 and similar tools can all consume them. See [AGENTS.md](./AGENTS.md#skills) for the
 layout and how to use them.
+
+## License
+
+Two licenses apply, one for the code and one for the data. Both require credit.
+
+- **Code** — everything under `pythonLib/` and `scripts/` — is released under the
+  [MIT License](./LICENSE). Keep the copyright notice and you may use it however you like.
+- **Data** — `atlas_db.csv`, `atlas_db.sqlite`, and everything under `generated/` — is released
+  under [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE-DATA).
+  Use it, adapt it, build on it, but say where it came from.
+
+**How to credit the data.** Any of these is fine:
+
+> Texas Historical Markers atlas by Joe Lotz, https://github.com/joelotz/Texas-Historical-Markers, CC BY 4.0
+
+or in short form: `Data: Joe Lotz / Texas Historical Markers (CC BY 4.0)`.
+
+**What the data license covers.** CC BY 4.0 applies to my compilation, corrections, and
+enrichment. The underlying Texas Historical Commission marker records are public records of
+the State of Texas. Coordinates and field observations drawn from [hmdb.org](https://www.hmdb.org)
+are facts contributed by that community; please credit hmdb.org too when you rely on them.
+Third-party source snapshots kept under `data_files/` remain under their owners' terms.
+
+**OpenStreetMap.** As the rights holder of this dataset I grant permission for it to be used in
+[OpenStreetMap](https://www.openstreetmap.org/) and waive the CC BY 4.0 attribution requirement
+for that use; attribution through the OpenStreetMap Contributors page and changeset `source`
+tags is sufficient. Data already in OpenStreetMap is © OpenStreetMap contributors and available
+under the [ODbL](https://www.openstreetmap.org/copyright).
+
+Earlier versions of this repository were published under CC0 1.0; that dedication remains in
+effect for those versions.
